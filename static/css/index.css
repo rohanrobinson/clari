@@ -1,0 +1,14 @@
+h1 { 
+    color: green;
+}
+
+.container {
+    text-align: center;
+}
+
+#lecture-text {
+    height: 300px;
+    width: 300px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
