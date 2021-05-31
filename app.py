@@ -133,7 +133,7 @@ def nike():
     # getting textarea info with name = lecture-text in HTML form
         if is_pasted == "select":
             chosen_lecture = request.form.get("selected-lecture")
-            lecture_file = "texts/" + chosen_lecture + ".txt"
+            lecture_file = "static/texts/" + chosen_lecture + ".txt"
             lecture_text = load_text(lecture_file)
         else:
             lecture_text = request.form.get("lecture-text")

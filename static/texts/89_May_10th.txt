@@ -1,0 +1,588 @@
+ 
+ Good morning, afternoon,  evening.
+ 
+ Good day. 
+ 
+ It is time to kick off the  project.
+ First, we start with a  Dilbert.
+ And if you haven't thought  about it by now,
+ clearly IBM and Google and  everyone recommends
+ that in medicine, 
+ or in lots of other  applications,
+ you do not want a cognitive  system
+ to complete diagnosis, 
+ you want it to 
+ combine forces with the  physician
+ or loan officer or whatever 
+ to get the best of both. 
+ Anytime Dilbert mentions  Watson,
+... 
+ OK, 
+ what are we going to do with  the project?
+ The name of the project is  what if Watson was used in...
+ And the rest is up to you. 
+ Identify some real-world  challenge to solve, it can be 
+serious or perhaps less so. 
+ We will see some examples of  both.
+ And then work as a team to  make that challenge.
+ You can use anything on 
+ the cloud thing that you want 
+. 
+ If it is more of a data  science thing,
+ we did not talk about that  much
+ but if that is what you are  into then go for it.
+ The only thing that is out  there --
+ that is not out there anymore 
+ is the visual recognition,  which is really too bad 
+because it was fun. 
+ But things changed and off  it went.
+ So you can use machine  learning, conversation, 
+discovery, anything like that. 
+ If you have had 
+ deep AI classes before 
+ and you really, really prefer 
+ to use may be an Assistant  combined with
+ a (unknown term) machine  learning model,
+ fine. 
+ One group used a machine  learning model
+ to generate rap lyrics. 
+ Not the music 
+ but the lyrics. 
+ Then of course in their  video,
+ which is what you used to  present your final work,
+ they performed the wrap. 
+ Everybody in the room clapped 
+ (Laughs) 
+ Some of the words were a  little bizarre but that is 
+OK, it wrapped. 
+ Design and build a prototype 
+ and not only that, 
+ think about the business  plan.
+ And this is really a big  part of this.
+ We have spent a term using  this fantastic textbook
+ to think about the economics 
+ of cognitive systems. 
+ The systems themselves are  cool and they do cool stuff
+ but what is the point? 
+ Why would anybody invest 
+ in your project to bring  into reality?
+ In the past, 
+ I think since 2016 or 
+ 2015, 
+ two different projects have  actually gone forward.
+ Past the end of the term and  sought funding.
+ I think both of them got it  but it didn't last very long,
+ two years or three years.  But it is certainly a 
+possibility.  And don't just think of what 
+the Watson technology erectly  does,.
+ -- Directly does. 
+ It would not be sufficient  to just build a chat bot,
+ do more than that.  More than we have done 
+already.  And you are going to be in 
+teams of up to four people 
+ so you should be able to do  amazing things.
+ We will see some examples in  a few minutes.
+ of some of the amazing  things that have been done in 
+the past.  So what makes a good? 
+Original?  Every term somebody comes up
+ with a (unknown term) bot, 
+ I guess you want this time. 
+ Some sort of food oriented  bot,
+ look at what has gone before  you
+ and try to come up with  something different,
+ if that is what you really  want to do.
+ People have used sentiment  analysis
+ to look at Twitter feeds, 
+ just try to do something  different.
+ Anything, 
+. 
+ I told you before but the  team who took the orc
+ and mashed it with much  pain, I might add,
+ into discovery 
+ and ended up at something  very interesting and useful.
+ Others have finished their  project
+ and offered it to the  registrar
+ or to different parts of  Dartmouth,
+ and I really don't know  where it went,
+ but maybe it went forward. 
+ I don't know past the end of  the term.
+ It might even be a project  about services
+ that people need or may not  even know they need.
+ I will show you in a moment, 
+ the very first competition 
+ before I started teaching  this course
+ was a competition across the  country
+ that was not widely  advertised,
+ it seems like it was kind of  focused
+ on colleges where 
+ senior management 
+ happened to have attended  school.
+ I'm sure that wasn't the  only reason but anyway, all 
+of the schools competed and  they were given all of the 
+tools and mentoring because  everybody knew this was cool 
+but no one had ever seen it  before. And they built some 
+amazing things.  They had business people on 
+the team as well as geeks and  nerds like me
+ and they did some really  cool stuff, we will see that.
+ Something that changes in  outcome for the better
+ or access to a practitioner 
+ or limited resource person. 
+ I saw a demo this morning,  in fact, I put it in slack.
+ With all of the challenges  we have in the workplace
+ with diversity discussions,  all of the different ones
+ from age, gender preference, 
+ religion, 
+ race, all of these things. 
+ These are hard discussions. 
+ Not everybody has been  trained by the HR 
+professionals in the  organization.
+ So this one company has a bot 
+, a chat bot, it is not so  much chat
+ as it monitors the  conversation
+ between you 
+ and a demo personality. 
+ Someone coming into  complained that
+ (unknown term) is really out  of date and the need to 
+retire, how do you interact  with this person? It is all 
+virtual.  And then it gives you a grade.
+ In gives you some examples  of the things that you should 
+have said, where at that what  you are saying was not really 
+helping. 
+ So that was a really  interesting application.
+ So get into your teams 
+ and we will try to think of  something cool.
+ Speech to text,  text-to-speech, that is 
+always fun. 
+ If you want to deploy it on  a (unknown term) device, I 
+would encourage that.  It is more fun, it is more 
+real,.  And your final video
+ is your delivery. 
+ Polished. 
+ Music. 
+ Dancing people, I don't know, 
+ but it needs to look like  you are in a business school.
+ It needs to look like you  are trying to present this
+ to VC, venture capitalists,  to get this thing funding.
+ OK? 
+ Some of the motivation, why  are you doing this,
+ what problem are you solving, 
+ what is the value to  society, whatever your point 
+is.  That is when you make it.
+ I had trouble showing videos 
+ in 2020, 
+ but I am hoping that it is  going to work this time.
+ Let me see if I can get it  all set up.
+ I've got to do something  with the sound, as I recall.
+ Tell me if you can hear it. 
+ Can you hear? 
+ (Video plays) 
+ 
+ 49% of the US population 
+ relies on some social  service.
+ That is a lot of people 
+ do have a lot of questions. 
+ Until now, 
+ the people who rely on the  services
+ have had to call the 211  hotline to get answers.
+ At call scout, 
+ we created a better way to  answer these questions.
+ We partnered with the 211  call centre in Austin, Texas
+ to create an app that uses  Watson technology to help 
+people navigate the comebacks  world of social services. 
+From healthcare to food  pantries,
+ the 211 app provides answers  to the questions that matter 
+most. 
+ The 211 app also allows  people to do things
+ that they previously  couldn't over the phone.
+ Such as rating service  providers and providing 
+updates for the services that  you use the most.
+ At the 211 call centre, 
+ operators and management can  manage the app
+ and visualize user data. 
+ They also have the ability 
+ to provide feedback on  Watson answers
+ and sharing that quality 
+ will never be sacrificed for  efficiency.
+ The 211 app 
+ has been approved for a pilot 
+ by the state of Texas 
+ and we are on track to make  information more accessible
+ to its 27 million residents. 
+ But the 211 Texas app is  just the start.
+ We want to bring the same  paradigm to all information 
+referral call centres.  The process is simple \'96
+ once a call centre is on  board,
+ they give us any documents a  normal call centre employee 
+would have access to. 
+ Then we format their data 
+ and train Watson. 
+ After customizing one of our  app templates,
+ the users can now ask  questions about their services
+ without ever having to dial  a number.
+ They can even get extra  features
+ they would not have over the  phone.
+ In call centre management 
+ will still have the ability  to manage the app
+ and provide expert training  for Watson,
+ so that quality is never  sacrifice.
+ Whether it is a bank, an  insurance provider,
+ or the 211 hotline, 
+ at call scout, our goal is  to use the best technology
+ to provide the best customer  service.
+ 
+ Not bad. 
+ Not bad at all. 
+ These folks one I think it  was $100,000
+ in startup aid. 
+ And of course I cannot offer  that
+ But it went on 
+ and I think it might even  still be in use.
+ OK, 
+ so maybe a couple more  examples,
+ not the full movie 
+ that we will get back to  that.
+ This video is not like your  lap
+ reviews.  I am not asking you to show
+ the (unknown term) stuff, we  assume you know how to do 
+these things by now.  The video is really a sales 
+pitch. 
+ It needs to show us why you  are doing it and why it helps.
+ Certainly IBM doesn't take  these and run off with them
+ and use them in commercials,  don't worry about that.
+ Maybe somebody else would 
+ but IBM wouldn't. 
+ But anyway, 
+ there were 10 contestants in  that first year
+ and as soon as I could get  it together after that,
+ we started teaching in your  Dartmouth.
+ Similar courses exist in a  few places around the globe
+ but not many. 
+ We are lucky to have access  we have here.
+ If I look at some of the  final projects
+ from years past, I am not  going to play all the videos
+ I am just way to show you  some example. And you can 
+look at some of these are  cell. -- Your self
+ in our resources page. 
+ Public sentiment analysis, 
+ you can probably guess what  that is.
+ (unknown term), this is what  I want to show you.
+ This was a team that  actually went to talk
+ with one of the waste  management companies
+ in the upper Valley. 
+ (Video plays) 
+ 
+ What does Dartmouth do with  all of the trash and 
+recycling? 
+ As you are probably aware, 
+ but students are usually  very bad at correctly 
+identifying 
+ what is recycling and what  is trash
+ and putting... 
+ 
+ If it is not going to work,  it is not going to work.
+ They went through and talked  at Casella
+ , I don't know what made  them think this was an 
+interesting topic because it  just never occurred to me.
+ But their bottom line is, 
+ when you do the zero sort  stuff with your recyclables,
+ eventually they have to be  sorted and so they talk to
+ Casella to ask how they do it 
+ and they said that they hire  a bunch of people.
+ They stand there and throw  things in different 
+directions.  So OK, they be we could do 
+this better.  So there idea
+, and they used visual  recognition,
+ to look at the trash 
+ on a conveyor belt 
+ and try to identify the  different things
+ and then tell people, 
+ set an alarm or something 
+ saying tin can, 
+ metal can, whatever, 
+ and they try to come up with  something there.
+ It really was pretty useful. 
+ Several of them had to do  with food
+ like nutrition, eating  snacks all the time.
+ If you have a roommate who  eats poorly,
+ you might use something like  Watson nutrition
+ to give them 
+ an idea of whether it was  good or not so good.
+ Another one here 
+ (unknown term), 
+ I think that was the one  where you basically tell the 
+system what you have in your  refrigerator
+ and it goes off to various  free, online recipe sources
+ and comes back with a couple  of recommendations for menus.
+ Or recipes that you might  try, given what you have on 
+ There is the orc chat bot, 
+. 
+ The neurological systems  checker, this was an 
+interesting project. 
+ This team had a colleague 
+, a professor friend, in med  school
+ and he was the guy 
+ for a particular  neurological condition.
+ And he had been trying to  publish his textbook, or his 
+notes, because he was about  to retire.
+ So the original idea was to  work with this team
+ to transfer at least some of  the initial parts of his
+ so that it might be able to 
+ do the diagnosis 
+ or at least estimate a  diagnosis
+ and be widely distribute it. 
+ The project was not able to  continue
+ all of the way to that goal 
+ because 
+ I had to ask IBM, 
+ if somebody puts  copyrightable information 
+into Watson 
+ then who owns the copyright? 
+ And at the time, 
+ the attorneys kind of  scratch their head
+ and said that was a tough  one.
+ So we just decided that we  would not go there
+ and they were not able to  release it to the general 
+public but they still used  the information.
+ Others have worked with  other professors
+ in their favourite areas,  cognitive science,
+ the med school again 
+ like the radiological  Assistant, that sort of thing.
+ Let's look at a couple of  more.
+ Let's say, 2018, 
+ this is the year we had two  sections.
+ So there was a huge  collection.
+ This is the one I want to  show you.
+ (Video plays) 
+Cigarette 
+ 
+ Breathalyzers already exist 
+ they are not as readily  available.
+ Electric 
+ 
+ You get the idea, 
+ this was fun. 
+ They recorded with permission 
+ unnamed individuals 
+ in varying degrees of 
+ hammered 
+ (Laughs) 
+ And tried to train the  system to tell the difference.
+ And it worked pretty well. 
+ Again, there sample size was  limited to the number of 
+friends that they knew who  were willing to be a part of 
+it.  They did it very informally,
+ we did not have to go get 
+ human experimentation  permission and that sort of 
+thing, it was just their  friends.
+ And probably themselves as  well.
+ So that was fun. 
+ Cryptocurrency was a big  deal in 2018
+ and so we have three  different project looking at 
+that. 
+ Here's a good one that  became mobile.
+ It was a mobile tour of  Dartmouth.
+ Take a picture of a  building, uploaded,
+ and we will tell you what  building it is, very helpful.
+ Travel advisor, that was  also popular then.
+ And so on, you can take a  look here.
+ This one started off as well, 
+ there was a game online  called HQ, some of you may 
+remember that.  They tried to get Watson going
+ since discovery comes out of  the
+ box trained on current news, 
+ they tried to compete using  Watson discovery
+ and it wasn't quite fast  enough.
+ People were faster at that  time.
+ If they didn't have to use  the three-tier, I'm sure they 
+would have kicked HQ quite  well.
+ This is another one that was  video.
+ Find your 
+ Dragon back animal, that was  hilarious.
+ Last year was particularly  troubling
+ because we all were tossed  into
+ COVID problems. 
+ So we had to do the projects  remotely, as you will,
+ and it worked anyway. 
+ As much trouble as we  thought we were going to have,
+ it worked out very well.  So market research,
+ song identification, 
+ coming up with the perfect  playlist,
+ dealing with your calendar, 
+ even poetry generation. 
+ Which was rough 
+ but they actually made some  interesting
+ progress. 
+ Mood tracking, 
+ all kinds of things. 
+ I have graduate videos as  well.
+ You can go have a look at  some of those
+ and see if they generate any  kind of ideas for you.
+ Clearly, you will need to  check out your teams.
+ Now the teams are randomly  assigned.
+ Most of you, I think there  is one person
+ who is in Hawaii 
+, lucky person, 
+ and I believe there is one  person in China,
+ and we will work it out if  the time zones turn out to be 
+a problem.  If you are aware of a problem 
+when you see your group, talk  to the group or me.
+ We do most of our work  anyway through slack so it 
+shouldn't matter too much.  But we do want everyone to be 
+able to participate.  So the teams are assembled,
+ we can define slack  channels, I guess you can do.
+ When you start having ideas, 
+ you can bounce them off 
+ the TA 
+ or myself. 
+ You could put them into the  (unknown term) channel
+ and see what other people  think.
+ Don't worry that Summit is  going to steal your idea
+ because that would be  against the honour code.
+ They might do something  similar where there is a 
+different spin but that is OK. 
+ This coming Monday, 
+ I know that is quick, 
+ you need to have met with  your group
+ and at least to narrow down 
+ if not completely identified  what you're going to do.
+ And you need to submit NAI  canvas.
+ Just the one side, AI canvas, 
+ and we will go through them  in class on Monday
+ very quickly, just to give  you feedback.
+ So with four people per  team, we have 11 teams,
+ I think we can get through  all those rather quickly.
+ Three-minute proposals 
+ on the 17th. 
+ Final presentations 
+ not so much in person but  live,
+ it is going to be tricky  with Zoom
+ we didn't last year so we  can do it again.
+ If you want to try to  demonstrate your stuff live,
+ that is fine.  I would recommend instead
+ that you talk about it, show  parts of the video,
+ talk a bit more about  problems and how you solve 
+them and so on.  But going live is just a 
+scary (Laughs) That's why we  use videos. I would suggest 
+that you (unknown term) the  live video
+ and those of the last two  days of class.
+ So 10% of the grade 
+ is a proposal, 
+ the whole idea. 
+ You can go through this, I  don't need to read it to you. 
+But we will have team  assessments at the end, 
+anonymous.  So again, thank
+ you can entrepreneur, think  out-of-the-box.
+ Some people think of the  idea and then go hunt for 
+Watson tools to accomplish it  stop others go the other 
+direction, whatever you want. 
+ Knowledge sources, I keep  talking about the orc project.
+ That one was hard 
+ because the format that the  orc was in
+ made it difficult to feed  into Watson, into discovery.
+ So they had to go through 
+ and mark up a lot of the  stuff
+ using Watson knowledge studio 
+ to train Watson 
+ so that I can actually  understand what it is reading.
+ So out-of-the-box, a kind of  knows how to read the news
+ but it doesn't know that  much about
+ prerequisites, 
+ and apartments and things  like that.
+ So they had to teach it. 
+ If there is any  intellectual-property concern 
+or copyright concerns with  your data, talk to me.
+ We will figure it out. 
+ And make sure that it is 0K  for you to use it.
+ We don't have to worry about  the video stuff but students 
+in the past downloaded a  bunch of copyrighted pictures
+ and we had to redirect that  project
+ because it was not  acceptable, even for 
+educational use., because of  where they got them.
+ An online catalogue. 
+ A report, 
+ you can see what it should  have.
+ Knowledge sources, what is  the motivation, all of these 
+things.  And in the final video. 
+Submit to canvas, 
+ the report telling us all of  these things,
+. 
+ In the video, and needs to  start off with the title
+ and team number and team  name,
+ you can always give yourself  a name
+ but for us to keep things  straight
+ in canvas, we do need your  team number in there as well.
+ And some naming  recommendations at the top.
+ OK, that's a lot of stuff. 
+ but we are a lot of people,  so I thick we can pull this 
+off.  Questions, comments?
+ Nothing? 
+ 
+ I've actually got a question. 
+ Where can we find, you said  our groups are assigned \'96
+
+ Perfect timing.  You go to canvas,
+ you click on people, 
+ and then project groups. 
+ There are 12 groups. 
+ So Group 1, 
+ you can go through and find  yourself.
+ Group 12 has only got three  people in it
+ but they are three ninjas,  so I am not worried.
+ They will pull it off. 
+ There they all are, good. 
+ Any other questions? 
+ Well, 
+ today is a short day because  you probably want to reach out
+ and if you don't know your  partners,
+ introduce yourselves.  There is usually a question
+ of people not wanting to be  paired randomly but I have a 
+very simple answer for that \'96  assuming you're graduating 
+this term or maybe next year, 
+ and then assuming that you  actually choose to go to a 
+ you get to pick the company  but you do not get to pick 
+the team that you will be  working with. Even if it is a 
+startup, you have to work  with people you don't know. 
+And one of the things that  Dartmouth computer science 
+likes to encourage is working  with people that you do not 
+know.  There are all kinds of 
+reasons for that from you  have no idea what capability 
+someone else might have two  diversity issues, as well. 
+Now this is random, I had no  hand in it,
+ so if you feel like I am  picking on you by putting you 
+in a group with him her or  them, no. Canvas did it 
+(Laughs) So there we are.  If there are serious problems,
+ there is only been one time  in five years of this course 
+that there has been a serious  problem, come to me directly 
+and we will figure it out.  And so with that, I will let 
+you go.  Between now and Wednesday, 
+maybe you should think about  it because Wednesday is Q&A 
+discussion about projects. 
+ Last comment 
+ and I will leave you to it, 
+ be realistic. 
+ You are not going to do  'Jeopardy!'
+ in the amount of time that  you have left,
+.  Look at some of the videos
+ and you will see that they  did cool things,
+ many of them did really cool  things,
+ but they were very closely  scoped.
+ You know how to use these  tools
+ so you probably realize that  this takes time.
+ If you bite off too much, 
+ I will try to give you  feedback on Monday saying
+ that that is going to hurt  (Laughs)
+ And maybe you will make  modifications.
+ But that is the reason why  we have Wednesday to talk 
+about it.  Friday is our last reading 
+discussion and then Monday,  three-minute quickies.
+ Just with the one slide 
+ and once you have submitted  them,
+ I will display the slides  for you.
+ Any other questions? 
+ OK, 
+ then I will see you on  Wednesday.
+ Meet your teammates 
+ and start thinking. 
+ See you then, 
+ bye. 
+ Live Captioning by Ai-Media 

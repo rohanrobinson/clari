@@ -1,0 +1,508 @@
+ So folks.
+ We are delighted to have the one of the authors of our text, which is, as I mentioned one it's the only text i've ever used in all my years of teaching for students compliment in it and said they would never sell it, so I don't think it's due to the color of the cover.
+ Avi is the rotman chair and Ai and healthcare and a professor of marketing at the rotman school of management University of Toronto.
+ he's also chief data scientist for the creative destruction lab discussed in the book.
+ and senior editor of marketing science and a research associate at the national bureau of economic research.
+ His research as well, you can probably guess focused on the opportunities and challenges of the digital economy so Avi welcome have a quick question for you do you want questions at the end or intermixed.
+ And let's do questions intermix um I will and i'll try to keep an eye on the chat and participant list, and if I don't see you then feel free to just unmute and jump in.
+ Okay, very cool well sharing is enabled and it's all yours.
+ Okay excellent and get.
+ You guys.
+ In a place, so I can see you.
+ So thanks for thanks for inviting me this is always fun to talk to a different class than my own class.
+ and
+ What, what are we talking about today, obviously, is production machines and giving you an overview of.
+ The ideas in the book and then we'll touch a little bit.
+ On the implications for policy.
+ normally get to that as a relevant piece so.
+ Opening up all the various screens that I need so that I can see what's going on with you guys okay so.
+ As you know, i'm a goldfarb and we wrote this book production machines How did the book come about.
+ i'm a professor at the University of Toronto long my co authors, we sit in business school and in our computer science departments about 30 years ago, maybe even a little more they hired a couple of people working on technology called deep learning.
+ And it was a bat.
+ Because the technology really seemed to work that well back then.
+ And that was that.
+ yeah a very short 20 years later around 2012 it became clear that deep learning was a really useful technology commercially useful.
+ came clear in the context of the image that competition and a few other things, that this is technology, this form of deep learning this aspect of computational statistics turned out to be.
+ exciting enough that people were started to call it artificial intelligence.
+ And so, people who had come through Toronto between 2000 and 2012 or now suddenly leading the Ai teams, the Ai research teams at Facebook and apple an open API and elsewhere.
+ Now you guys are any university, you may have some sense of how a university works I sit in the Business School.
+ And normally all I would know about those exciting things that happened in our computer science department would be.
+ i'd open the school newspaper and more likely read the newsletter email that says oh wow there's great things happening here computer science department.
+ Look Jeff hit one the turing award is sort of the Nobel Prize computer science isn't that wonderful I know close the paper or shut down the email and move on to my standard research and standard management teaching.
+ what's different about me and my co authors on this book is we run this organization called the creative destruction lab with creative destruction lab is a program for helping science based startup scale.
+ In our very first cohort about 10 years ago there was this company called Adam was that said was an Ai company for drug discovery.
+ was run by a PhD student at hinton's lab and it was using using prediction using Ai to figure out which drugs which molecules bind which proteins.
+ For the next year in our program we had three more Ai companies one again and drug discovery another one and insurance and other one in banking.
+ And the next year, we had this flood of companies that were calling themselves Ai companies coming into our lab because you know fortuitously we happen to be in a place that by luck happened to bet on a technology that 20 something years later turned out to be a big deal.
+ What the prior to thinking about the all these Ai startups coming through our lab ajay joshua and I are my co authors and I were focused on the economics technology, in particular, our careers were focused on trying to understand the impact of the Internet on the economy.
+ And at some point to 2015 when we saw this flood of companies coming through we said, you know what there's something new happening and we're well positioned to try to understand the economic impact of it.
+ And so what that led to is our book, which is the combination of our you know 20 years of studying economic impact of the Internet Plus what's now hundreds of Ai startups that have come through our lap.
+ And the book is putting an economist lens on the computer science of this underlying technology and so when we see in the business press, there is a lot of hype.
+ And the hype continues adoption is expected to surge we think great things are going to happen.
+ And with great things happening, we might worry about ourselves right, so if this is really Ai as Ai advances, what are humans really for.
+ what's left for us if the machine is doing the thinking we've accepted that machines are are stronger than us, we accepted that a few hundred years ago, but we might not be willing to accept it machines are smarter than us machines are smarter than us what's left for us.
+ Underlying the excitement and confusion.
+ in exile, should I should say underlying the excitement the endings it is some confusion about we're really talking about here.
+ What is a you read the press there's an optimistic version of Ai, which is the jetsons or the droids from Star Wars or the droids from Star Wars, they are machines that can do some things better than human rights see through Bo can translate between languages, better than human.
+ But those machines do something else, better than human, which makes it an optimistic world of artificial intelligence those machines generally listen to humans.
+ And Star Wars, the university not be that exciting generally you know, is an optimistic universe, but the machines, there are optimistic because they listened to humans and the rest of science fiction is filled with these machines that can do everything we can do.
+ But they don't listen to us, and that makes it, you know, a pessimistic view of artificial intelligence.
+ Now I don't think this idea of a truly intelligent machine a truly artificial general intelligence is crazy I used to think was crazy, but I.
+ witnessed a discussion slash debate between Daniel kahneman the psychologist and young the Kuhn, the computer scientist.
+ And that debate where they both ended up landing on the it's not impossible ultimately convince me it's really not impossible to have an agi but it's important to recognize that is not the technology we're talking about today.
+ and truly artificial general intelligence.
+ has been 20 to 50 years away, since the very first Ai conference which was at Dartmouth college in 1956 and it continues to be 20 to 50 years away.
+ What we're talking about today has almost nothing to do with an artificial general intelligence.
+ It is computational statistics it's prediction technology it's prediction technology that's gotten much better using information you have to generate information you don't have.
+ prediction is still a big deal in order to get your head around why predictions still a big deal it's worth jumping back a technology generation and thinking about 1995.
+ By the look of it, Charles is the only person i'm speaking to who remember 1995 it was a very exciting year in technology, a little bit of ancient history, it was.
+ It was the year that the last aspects of the public Internet the nsf net were privatized.
+ It was the year that Bill Gates wrote his Internet tidal wave email and said, you know what Microsoft we missed this this technology, the Internet is going to be the future of the software industry and from now on Microsoft is going to be dedicated to make to making the Internet, a thing.
+ And it was the year that Netscape had their ipo and they are evaluated over a billion dollars, that a nickel and profit, and so the hype kept building 9697 98 people stop talking about the Internet as if it was a new technology they started to call it a new economy now.
+ Those people said we don't need our own economics textbooks, we can throw those away it's a whole new world now, of course, there was one group of people.
+ Who said, we need to keep our economics textbooks and who was that that was the people who wrote the economics textbooks, that was the economist, that was not.
+ In fact, the leading proponent of the economic view of how to understand the Internet how varian who became chief economist at Google.
+ Was the dominant economics textbook writer, in the 1980s and 1990s he had a vested interest in making sure we understood this was not a new economy.
+ But it turned out, he was right, once you understand what gets cheaper once you understand that search is cheap that communication is cheap and they're copying this cheap, you can map out all the consequences of the Internet.
+ And so, for example, what is cheap copying mean it means that file sharing or piracy, depending on what that debate side of that debate you're on is going to be a bigger deal people are going to be sending files to each other without accepting copyright.
+ The other thing that means is that privacy is going to be bigger deal once anything you say to anyone is now instantly broadcast to everyone and we're everywhere around the world for free privacy is going to be something you care about.
+ Once you understand what's cheap, you can map out the consequences let's jump back another generation and think about the computer think about.
+ A semiconductor what does your computer really do feels like your computer does all sorts of things, but it doesn't your computer to really just one thing, it does one thing really, really well.
+ As economists when something when technology makes something better.
+ We often think of it as price adjusted so better, faster cheaper, we can think about it as making something much, much, much cheaper relative to where it was before.
+ And the context of computers in the context of semiconductors well it feels like computers doing all sorts of things it's really just doing one thing right it's doing arithmetic.
+ And so the first applications machine computing we're good old fashioned written tech problems we didn't have much imagination to think through what else we could do with arithmetic.
+ In fact, we had a bunch of hard arithmetic problems that we wanted to solve machines, and so the big first application was to figure out trajectories.
+ So artillery tables ultimately in World War Two and shortly after we had cannons and they shot something like cannibals.
+ And it's a really difficult arithmetic problem to figure out where those cannonballs acknowledge, and so we have teams of humans, whose job was called computer Joseph i'll call you in a second.
+ Who role was to figure out where these cannibals we're going to land the movie hidden figures, for example, was about these teams of humans his job was called computer who tried to figure out where the trajectory of rockets.
+ Then machine computing came along machine arithmetic it was better, faster cheaper than the humans and now it's not really a human role to figure out trajectories that's overwhelmingly done with machinery with computers jobs.
+ yeah so about the the artillery tables it actually started during World War one and they actually invented something called sound raging where they were able to tell from like the booms of the guns and they can triangulate exactly where the artillery was for a counter strike.
+ Which which is, and so they had specific like kings of mathematicians trying to figure out exactly where, like all these guns are depending on you know the flashes and also like the sounds so they would like.
+ You know, have several centers at different distances trying to like figure it out like you know, usually you know trigger trigonometry interesting.
+ I didn't know that I knew I heard stories about that in the Napoleonic wars.
+ But not none of the context of World War one and triangulation cool Thank you.
+ and your point, yes, nuclear fusion remains 20 years away, and it has for a long time.
+ Well, well articulated.
+ So, then, we got get to the 1960s and 70s and early 80s and machinery projects getting better, faster cheaper and it comes for businesses.
+ And, in particular, do you ask an accountant who was trained in the 40s 50s and 60s.
+ What they spent their time doing they spent their time adding adding up columns of numbers literally.
+ A homework problem that at least used to exist in the Toronto accounting department way back in the 50s and 60s was to open up the phone book The white pages.
+ And you speak books, with all the phone numbers in the city and there'd be a page with 50 or 100 numbers on it seven digit numbers and the homework that my colleagues used to assign their students was okay go to page 962 and add up the numbers.
+ And why, why would professors assign their students to added a whole bunch of numbers and accounting well, partly because.
+ As you know, professors are a little bit like that and we assign those kinds of homework problems but it's partly because.
+ You have the students would put up with it, and why would the students put up with it the students put up with it, because that they knew that they would be spending the rest of their lives, do it.
+ They would be spending their lives, adding up columns of numbers, but then machine arithmetic came along the spreadsheet came along and accountants don't really add up columns of numbers by hand anymore.
+ But it turns out there's plenty of accountants left why they're plenty of accounts left, because the people who were really good at doing the written tick also turned out to be well positioned for leveraging rip tech for company strategy and tax policy.
+ And so, part of the opportunity part of the help actually showed up in the movie hidden figures to was the people who are good at arithmetic are also good at leveraging arithmetic to help an organization achieve its goals.
+ Now.
+ So machine comes along and it replaces the humans doing arithmetic.
+ But then it got even cheaper and we started to realize a whole bunch of things that we never realized were written tech problems could be reframed as arithmetic problems.
+ It turns out that games are with metallic males arithmetic use X arithmetic pictures arithmetic we used to think of pictures as a chemical problem.
+ Kodak was a chemical company that we saw pictures with chemical engineering, but then machine rick deckard cheap enough and we started to solve arithmetic and we started to solve pictures with.
+ So that gets us today's technology, this is a representation of a constitutional that this is one of the technologies underlying the current excitement and Ai.
+ How should we think about it, same graph different access it's a drop in the cost of prediction prediction it's gotten better, faster and cheaper.
+ So Who cares that predictions gotten better, faster cheaper same idea as with arithmetic the first applications are going to be good old fashioned prediction problems you walk into a bank, you want alone.
+ 80 years ago the loan officer would have looked you up and down, maybe asked for some collateral and decided whether they trusted you enough, based on their gut to give you allow.
+ Over time, that became a little bit more statistical with credit scoring and now increasingly they're using machine learning tools they're using Ai they're using prediction machines to figure out whether an individual is likely to pay back their low.
+ The inventory industry is filled with prediction problems on, you know how much consumers are going to demand.
+ And so we've seen it warehousing and the insurance industry is in the business of prediction, and since the insurance industry is in the business of prediction they're doing more and more machine prediction more more machine learning Ai to help with their prediction.
+ But what's also starting to happen is we're recognizing a number of problems that we didn't use to think of his prediction problems are in fact production problems, it turns out image recognition is prediction.
+ How do you recognize a familiar face your eyes, taking light signals and fill in the missing information of a label in the context that's prediction.
+ and medical diagnosis is prediction where's your doctor do when they provide a diagnosis, they take in data about your symptoms, they fill in the missing information, the cause of those symptoms that's prediction.
+ So what we're seeing.
+ Just curious who here has taken an ECON one on one class what fraction of you.
+Okay.
+ there's something like half okay.
+ So here's here's what you learn in the first day of ECON little one For those of you haven't taken it demand curve slope downward it's a what does that mean it's a brilliant insight but it's pretty obvious, which is that when something is less expensive we buy more of it.
+ that's all i've said so far, today, the ECON point so far simple ECON the reason it's called the simple economics of artificial intelligence when.
+ prediction gets cheap we're going to do more prediction, and when prediction gets way cheaper we're going to do way more prediction that's day one of you come on one.
+ On day two of the condiment one you learn something else you learn that when something gets cheap yeah we buy more of it.
+ But you don't want to be in a competing business when coffee gets cheap we're going to buy more coffee and we're going to buy less tea.
+ If coffees gotten cheaper you don't want to be in the TV business, the price your product is gone down okay So what does that mean for prediction well as machine predictions getting cheap.
+ You don't want to focus the or the focus of your job to be about human prediction, because the machines are going to be doing that, instead of you, and so machine prediction and human prediction are substitutes.
+ And we're going to see more machine prediction less human prediction.
+ Okay that's kind of pressing so where's the opportunity, the opportunity is in confidence when coffee gets cheap yeah we buy less T, but we buy more cream and sugar.
+ And so the opportunity lies and understanding what are the cream and sugar a prediction what gets more valuable as machine prediction gets cheaper.
+ To get your head around that you need to realize that predictions are useless predictions are only valuable if they help you make better decisions, a prediction in and of itself.
+ doesn't have value the prediction is useful because it helps to make better decisions and decision making is a big deal.
+ What job should I take what school should I go to your big decisions and you small decisions should I write that down I scratch my face all of these decisions have predictions as part of them.
+ And so the essence of understanding the opportunity and prediction is to think through what are the other aspects of decision making, that are not prediction.
+ And so, in the book we emphasize this framework which is rooted in you know 50 years of decision theory 50 plus years of decision theory.
+ We prediction the Center because it's called prediction machines of trying to understand the other aspects of decisions, and so we have.
+ You know, as prediction gets cheap data becomes more valuable different kinds of data, the ability to take an action becomes more important and.
+ What we call judgment judgment is knowing what to do with the prediction once you have it, and then implicitly knowing which predictions to make.
+ My my favorite example of judgment comes from the movie irobot know if you guys have seen this movie so it's it's a fun movie it's not it's not the best science fiction movie ever.
+ But it does have this fantastic see so here's irobot will Smith, is the protagonist irobot and he hates robots Okay, you can kind of see where the movies and ago was consequence.
+ Now.
+ Is a flashback scene about why he hates robots and here's how it goes will Smith and this little girl are driving and they get to a car accident.
+ And they start sinking into a river and it's pretty clear that both will Smith and this girl are about to drown and then a robot comes along and saves will Smith and not the girl and that's why he hates robots.
+ what's interesting is because it was a machine he can automate it and figure out why the robot saved him, not the girl.
+ What he finds that the robot predicted the heat of 45% chance of survival and the girl the girl only had an 11% chance to survive.
+ And that's why the robot's a team, and not the girl Wilson says that wasn't the right decision 11% was more than enough and human being would have known that.
+ that's judgment that's saying something very specific about the relative value of his life relative to the girls.
+ he's saying that girl's life is worth more than four times his life, he had a 45% chance of survival she had an 11% chance if the right decision was to save to try to save her.
+ Then that's saying that her life was worth at least more at least four times his I don't know if we all agree on that I don't know if a human being would have known that.
+ But that's judgment and that remains inherently human somebody coded that machine or at least implicitly in the movie somebody coded that machine to say.
+ The relative value of his life relative to hers you know, compared to hers was not you know.
+ was at least a quarter right and without that then the machine couldn't have made a decision that's judgment judgments through reward to an action in a particular environment.
+ Is no matter what, when you hear about automation the machines aren't making decisions there's always a human who coded the machine with with the decision making process that says here's what we value here's the payoffs here's the reward function in order to help you make that decision.
+ walking through this a little bit more.
+ And a little bit more protests in a little bit more pedestrian way think about it with umbrellas so I imagine.
+ Many of you, when you go out.
+ On I don't know, maybe, maybe today I don't know what the weather's like in Hanover.
+ Might.
+ Some of you guys that are in Hanover might take an umbrella for a walk okay might be a 30% chance of rain 20% chance of rain and some of you might not.
+ If it's pouring outside.
+ Most of you, but not all of you will take an umbrella with you.
+Right.
+ Some of you, no matter what the weather bring a number of.
+ Those decisions and the variance in those decisions reflect your judgment about two things, how much you hate getting wet and how much you hate carry an umbrella.
+ And in order to automate that process to say okay given 25% chance of rain what should I do you need to actually specify the payoffs.
+ implicitly you are all doing that already implicitly when you're making the decision about whether to take an umbrella today or not.
+ Given the 25% chance of rain you're having some value about you know how much you like being dry how much you hate being wet and how much well, even though you're dry, you have to carry an umbrella.
+ Those values allow you to make a decision on whether to take the umbrella or not and book we sort of walk through the the numbers, this was the one equation, we got through our editors or editors book editors don't like equations say for every equation you.
+ You have your audience.
+ And so we got one here, and this was the one decision trees now if you could predict perfectly whether to take an umbrella or not, then.
+ Then, ultimately, the prediction the the judgment.
+ Is a little less important.
+ But generally you don't predict perfectly you have some probability, you know 25% range or something like that, and so you need to specify the payoffs and as the payoffs change the decision could change.
+ People who you know, have a dry plus umbrella six, which means they dislike carrying the umbrella more than people who had the dry plus umbrella of eight they only a little bit, just like guarantee umbrella.
+ end up making different decisions with 25% right.
+ So.
+ When you hear people talk about Ai today, you should think prediction it's computational stats.
+ computational stats may not sound exciting it turns out it's really exciting because it helps us make better decisions okay.
+ And that can transform organizations and society in various ways That said, the vast majority of the time when we see organizations use Ai it as a tool for a task.
+ The vast majority of the time, what we see happening is organizations map out their workflow and figure out which tasks are prediction tasks and they drop in an Ai and take out the human.
+ And that sounds really scary because when big organizations embrace automation it seems like they're replacing workers, and so we all have this this fear.
+ That it's the end of jobs right oh wait, I do prediction as part of my job is a machine going to start taking that you know my job away and replace me.
+ there's going to be a little bit of that, let me be clear, but there's also going to be new opportunities, even within organizations, we think about Goldman.
+ At the Hydra equity trading floor they apparently had 600 traders and by 2017 they only had two that sounds really bad for people working a goal.
+ But don't worry people working at Goldman Sachs are doing fine.
+ Okay, and, in fact, as far as we can tell, there were more people working at Goldman today than there were way back at the height of their equity trading floor in 2000 why.
+ because their whole workflow their whole process got better other they started to have different people doing different things, but the organization as a whole thrived and.
+ For the most part, people who are working there before found new things to do in other aspects of the workflow some things got automated but that men increase demand for other things just.
+ yeah I mean I don't know if I completely agree with that, because you can have a company that just grows, because it grows right it doesn't mean that those jobs have anything to do with like the jobs that were replaced.
+ Right.
+ I don't know why you're saying right so you're going to explain.
+ yeah so so basically you know they they replaced they eliminated the trader jobs.
+ Right, but they could have added more jobs, just because they expanded to new countries, not because, like they actually have anything new.
+ Okay, so.
+ Potentially those humans who are traders are no longer working at Goldman and other people are now working at Goldman and it's possible that one has nothing to do with the other I didn't mean to say that.
+ But what we see when we map out a workflow is that certain parts of the organization, you know certain tasks get replaced and then you.
+ need more humans and other tasks so you're going to need more humans and data and data organization you're going to need more computer scientists are going to be more people and data analysis and.
+ The only place where I really disagree with the statement that you said is often if the organization is getting more productive, it means the entire throughput is going to grow.
+ So if you ignore automation it's unlikely in the long run you're going to have more employees likely in the long run you're going to have a competitor who's going to take your business.
+ And you're going to have fewer employees and so some organizations are gonna have more people, some are going to have less at the micro level for sure.
+ But automating a process is not necessarily a statement about less humans in the organization and that's the idea i'm trying to get across.
+ yeah Thank you and.
+ When we think about it at the macro level, it becomes even more challenging to get your head around whether this really is the end of jobs, so.
+ about the same time we wrote the book we hosted a conference, where we invited a bunch of leading economists from around the world to come to Toronto to speculate on what they thought the impact of Ai was going to be okay, and one of the core themes was around jobs and wealth and.
+ there's this pessimistic view pessimistic view number one is that Ai is going to replace jobs, leaving little for humans to do, and I think this is a little bit of what you're just talking about Joseph right here and become more productive.
+ there's not much left for humans do because the machines they're doing everything.
+ There is a another.
+ strand of literature and another set of voices led by Bob Gordon and northwestern.
+ and say you know, Ai is all well and good, but it's not antibiotics and it's not the flush toilet.
+ And these this technology might be very exciting, but it is not as important as the technologies that diffuse between 1870 and 97 it's going to be incremental.
+ Joel cures and economic historian who's focused on the.
+ Economics technology.
+ And what he says is it's impossible for both of these pessimistic predictions to be right.
+ It can't and you know, plus let's just say we understand that it can't be massively improving productivity and not making us much better off and then he goes on to say, the even better news is that they can both be wrong.
+ and
+ Broadly, he thinks they're both wrong, why does he think they're both wrong.
+ Because the end of jobs is really the wrong question.
+ What do you mean by that.
+ The movie the matrix is a movie about robots taking over the world okay if you've seen it, it is not an optimistic scenario which is not an optimistic future for humanity.
+ Nevertheless, every human every human in that movie except for like people who escaped the matrix has a job every single human is a battery from the day they're born to the day they die.
+ they're not good jobs they're not necessarily happy jobs, but they are jobs, the goal of society, ultimately, is not to have jobs for humans.
+ And in fact if we think about the major victories in the economic side of the 20th century it's the there about the opposite.
+ there that we used to have to work from the time we were children to the tanya to a few months before we died, but now we get to go to school, believe that's a good thing.
+ We get to retire we work 40 hours a week, typically most people we have weekends, we have evenings off that's those are good things not bad things, leisure, is a good thing, so if.
+ machines are giving us more leisure time and doing more work for us that's ultimately good.
+ it's, not to say it's necessarily good, because that depends on something different well i'll get you in one second that depends on how the wealth is distributed.
+ Okay, so machines might be making us much, much wealthier, but who is what the US we're really talking about here.
+ Is that everybody, or is it only a handful of people, so the goal we think about the challenges of machines that are making you know, increasing productivity and replacing jobs, the worry shouldn't be.
+ What what can we find jobs for people, the worry should be who's getting the benefit of this wealth.
+ And, and that is a big worry, because we can have a trade off potentially between the increased well for machines and inequality if we don't think our governments are structured well to.
+ diffuse.
+ The wealth that comes from machines will was your question.
+ I was actually about to ask about just this you know, like you know it's increasing the total amount of of productivity and wealth, but is it increasing it for everybody, or is it increasing it for Jeff basis and.
+ yeah, and so the big policy questions so this.
+ Is this was a theme that came up.
+ Over and over again in the conference, which is big policy question number one is is this going to increase any quality or not.
+ And there are very good reasons to think that productivity, enhancing machines are going to increase any quality.
+ Reason number one being every previous generation information technology has done that at least since the 1950s, because it's what we call skill biased.
+ Does that mean it means that people typically with education's undergrad and Grad degrees tend to be better able to turn technology into income.
+ increases their productivity, more than others, and so reason number one is around skill bias reason number two is their machines and machines are gonna be owned by somebody in.
+ This is sort of a classic capitalist story which is that who owns the capital at tends to be richer people, and so the owners of capital to become wealthier so ultimately the policy question isn't about jobs, the policy question is about.
+ If this does make us much wealthier, how do we.
+ Ensure that any quality doesn't rise there's also a short term worry that the long run, can be a long time.
+ And so we could still have any ideas for session if suddenly 30% of financial services jobs can be clearly automated that's going to be very bad for New York City for a few years.
+ While, in the long run, those jobs will be reallocated and there's really good reasons to think they will be.
+ The long run, can be a long time as me and i'll trachtenberg mental tractors economist to study general purpose technologies and the 1990s going to become a police station.
+ And what he said is well if the revolution comes in the short run there's not going to be a long run, and so his point was very much.
+ That this balance between wealth and inequality when kind of the same in the long run, we don't have to worry about jobs, there is a short run worry and if the recession and severe enough, there can be ultimately revolution, or something like it, that means the long run, ever happens just.
+ yeah so sort of like doesn't like it, this sort of like oppose the idea that productivity is necessarily good right because the idea is that if it increases inequality.
+ Right, then it sort of could lead us down the wrong path, and I mean there's, I think, like other examples to like let's say my job as a companies to steal your data right if i'm now efficient right, I still more of your data well that's not really good for you right.
+ Okay i'm.
+ Okay i'm not going to talk about it there's I could go on a long sort of the next slide about your data and what it really means but i'm.
+ Productivity is not yeah there's there's cost of productivity improvement it, it makes society wealthier, it increases the tax base ultimately that's GDP is a measure of the tax base that's what it is.
+ And so it increases the tax base that can be good.
+ But, but if but productivity doesn't measure other things it doesn't measure happiness it doesn't matter any quality doesn't measure, the environment, necessarily.
+ And so I don't think there is a I don't think.
+ We need economists anywhere in the world would say that productivity is always inherently good.
+ Sorry, I guess that's a long along, I agree with you, except for when thinking about data okay.
+ So.
+ It is very clear that data is useful for building production machines.
+ It is very hard to build good a eyes and the absence of data.
+ In theory, if privacy is loose enough, you know people really don't care about privacy or sorry firms, a totally ignore privacy and countries totally ignore privacy rules.
+ Then customers will be hesitant to provide data to those companies, and we can have so little privacy that it's hard to do data driven innovation.
+ In practice we haven't seen that happen and practice empirically whenever we've made privacy real stricter we see less data driven innovation, and so there is a trade off.
+ it's not a win, win it's a trade off between privacy and innovation, and that is a real policy challenge that I could do a another two hour lecture on but I won't say it's a policy challenge okay.
+ you're interested, you can see me talking about that in other contexts and happy to send a link.
+ OK, and not policy back to strategy, so this is prediction technology and.
+ For the most part it's tools for tests for the most part, companies have the workflows you're identifying where the prediction tasks are and you're taking a human and putting the machine.
+ Sometimes when technology gets better, faster cheaper can transform the way industry operates.
+ it's hard for you guys to imagine but.
+ Before the Internet in 1990 if you ask your parents.
+ And they wanted to look something up.
+ What would they have done what did you do when you wanted to look something up.
+ might have looked in a book it's a book.
+ Before Wikipedia there was a book called an.
+ encyclopedia you may have had an encyclopedia in your home and looked it up there, and if the answer wasn't at the encyclopedia you went to a building that might have looked like this one Okay, this is a library.
+ In the Center of many cities, this is the library, the main library university Toronto campus and university campuses we have these enormous buildings almost like the drills called libraries how, when the last time you guys stepped into a library was but.
+ You know, when I was a kid we spent a lot of time you're a researcher looking stuff up in libraries.
+ Now, if you went into that library.
+ In 1990 and walked up to the library and said, what do you think the most exciting industry in the world, most profitable companies in the world is going to be we jumped forward 30 years.
+ I bet you there isn't a single librarian who would have said, you know what the future industry is library science.
+ But one search got cheap enough.
+ library science went from something that we subsidized massive subsidies into library science to something that was extraordinarily profitable.
+ Because once looking stuff up is cheap enough there's all sorts of commercial opportunities and helping people look stuff up besides, you know things that might help them with a PhD thesis.
+ So cheap search led to an entirely new industry that the people who are the best at it right, the library, the Librarians would never have imagined.
+ Google is a library science company in lots of ways right it helps you look stuff up their mission has been to organize the world's information and the original pagerank algorithm was explicitly about leveraging ideas from library science on citations to.
+ to predict what somebody wanted to see great it's a library science company once library science when search got cheap library science turned out to be an industry.
+ And how's it going to play out in Ai I don't know why don't I know because it hasn't happened yet it's much easier to look backwards and to look forward.
+ So here's the thought experiment, we like to do, which is, and this is in Chapter one so imagine you guys have read it already at least you're supposed to read it already right.
+ Is imagine turning up the dial and right now the predictions fine and you're gonna make that dial better and better and better and better until the predictions excellent.
+ here's an example here is amazon's predictions about what they expected IRA last summer to buy Okay, and it turns out amazon's predictions are pretty good what I mean by that.
+ For every 20 items they recommend they get something like one of them right okay I haven't got that number verified, but when I gave that talk and Amazon, nobody objected to me saying one in 20.
+ But when I hinted it was more like one and 200 or one and two people didn't seem to object okay.
+ So something like 120 right there right something like 5% of the time that's extraordinary right they have hundreds of millions of things in their catalog they get it right 5% of the time.
+ it's an incredible prediction.
+ But doesn't transform the business model they're in the same business, they were in way back in 1995 when they started.
+ And in fact they're in the same business the sears catalog was in well over 100 years ago their catalog company.
+ Right you go there online catalog you choose what you want, they send that information to the warehouse and they ship it to your door through a really good catalog company they know what they're doing for their catalog.
+ Now, imagine that prediction gets better instead of 5% it's 1020 3060 at some point, those predictions are going to be good enough that there's no.
+ reason to wait for you to or they don't have to be 100% right.
+ They just have to be good enough that the extra revenue they're going to get from shipping things directly to you is worth the cost of building an infrastructure for dealing with returns.
+ To be clear, I do not know if they're going to do this we've been talking about it for a while, but they've been thinking about it.
+ For a long time here's a patent from 2013 on anticipatory package shipping, this is something that they are thinking about once their predictions once that dial turns up high enough.
+ Whatever industry you guys end up in it's worth thinking through this thought experiment in medicine, what does it mean for prediction to get better, faster cheaper.
+ One possible.
+ hypothesis is that the machines are gonna get better at diagnosis.
+ Right, the diagnosis, instead of being machine not diagnosed as being accurate half the time it's going to be better than the typical primary care doctor, maybe even way better than the typical primary care doctor.
+ When that happens it's a real question about whether the primary care doctor should remain the Center of the healthcare industry.
+ that's, not to say that lots of things that primary care doctors do wants to be necessarily.
+ it's more question of whether the training that they get medical schools can be appropriate for that.
+ And if instead we should have something like a social worker at the Center of the medical industry, helping you navigate the process, combined with the machine that helps provide the diagnosis.
+ You get the same exercise in the finance industry, you know there's some anxiety, the machines are already taking over Wall Street but there's still humans vic telling them sheens what to predict what to do.
+ That industry could transform with time.
+ warehousing shipping, we can see the same thing if the machines are doing better, faster cheaper prediction better inventory management.
+ Why do we even need humans doing the picking and sorting in the in the warehouses, or can warehouses become almost entirely automate.
+ Some of you might think hey i'm an HR or i'm planning to be in human resources, human resources as human well, maybe, but the main thing that human resource people do is hire.
+ what's hiring all about it's predicting who's going to do well in your organization and we are already seeing machines.
+ Do the task of predicting who's gonna be doing the organization, but we could actually see an entirely new reorganize of how HR happens.
+ Right now HR happens when a part of the organization identifies that they need to hire somebody.
+ Well, with the better prediction machine, you can get that process started way earlier because you could have you know what there's a 30% chance that that part of the organization is going to need somebody in three months, and you could start.
+ The hiring process predictively.
+ sarcastically ultimately.
+ To deal with that and say when that job posting actually happens when that part of the organization not equates to custody, but predictively.
+ When that part of the organization realizes they need somebody we may already have somebody in place ready to be hired and so don't need to wait for the whole month of the hiring process hiring process is awful painful can be transformed.
+ This.
+ relates to something in the book, where we talked about the airport lunch okay so some of you may remember flying back way back when we are flying again us, I understand you know airports are opening up again.
+ Well, airport lounges are.
+ Viewed as the ultimate in customer experience in the airline industry okay so.
+ Most of us when we fly, we have to stay in this area with lots and lots of people and it's crowded and it's messy and it's kind of smelling this.
+ And we have to wait for our flights, but the airlines best customers they don't have to wait with crowds they get this room where there's a little more space and there's free food and free drinks, it seems kind of wonderful.
+ But it's not it's actually a massive customer service failure right what's the ultimate experience in the airline industry.
+ The other experience in the airline industry is, you know how long it's gonna take to get to the airport, you know how long it's going to take to get through security and you just arrived at the airport walk in your place and it takes off.
+ Airport lounges exists because of bad prediction if we had good predictions about how long it would take we wouldn't need to have an airport lunch.
+ The reason we have this is a clutch it's a fixed because of bad prediction, and there are all sorts of things we do in society and in your organizations that are exist because of bad prediction we're good predictions, we just wouldn't need to have these.
+ Solutions these blunt solutions to big problems and so Ontario where I live, just went into its third lockdown yesterday.
+ kids are home from school or way back lockdown.
+ Why, because we have bad prediction if we knew who was infectious and who was immune, we would resolve the information problem with respect to the epidemic.
+ Then we would not need to be staying home good information better prediction would allow us to most of us to go out of our about our business as we were before and the people who are infectious to stay home.
+ And the absence of good prediction.
+ We all you have to stay home whatever industry you're in whatever organization you're part of you can run this thought experiment thinking through what does it mean it's prediction gets better, faster and cheaper.
+ And that's my talk, thank you.
+ We have time for a few questions, I think.
+ We first me first.
+ wow Thank you abby of my question goes back a few slides to the.
+ Equality or lack thereof, one of the point you're making the book.
+ has to do with any quality and and or monopolistic practices at a at a nation level or a nation state level, and maybe you could say a few things about that concern because lots of my customers in DC are losing their mind over that.
+ yeah um so that's.
+ I wrote a paper a couple years ago on Ai and trade okay so there's two there's two.
+ I don't know organize my thoughts on this.
+ So there's two pieces to this to think about there's a national security, peace and there's an economic power piece I don't have expertise in the national security, peace, so i'm not going to talk to that there may be national security reasons to invest in Ai.
+ And to expect dominance not my expertise okay.
+ But on the economic power piece is it useful for countries to invest in a particular technology and bet on it in order to create some national advantage and wealth.
+ And it can be, but under very particular circumstances Okay, so if you work through the ultimately the math what you'll see is.
+ What has to be true, is there have to be what economists call rents, which means excess profits from the technology so that means it can't be easy for competitors to enter.
+ And those rents have to accrue have to occur, where those r&d investments happen, have to be localized.
+ And so, in the context of of Ai this current generation of Ai machine on this reasons to think there might be rents, and so the companies that collect the most data and have the best computer scientists and the best machines are likely to earn profits okay.
+ Not necessarily because there's economies of scale and data it's another point, but more, because by competing with each other.
+ They are getting really good and it makes it very hard for any new entrant to compete, and so a small number of companies are likely to earn huge profits from machinery.
+ That said, those don't seem to be localized, as I pointed out at the beginning of my talk a lot of these early investments and the early lead was in Canada.
+ Okay, as much as I love, Canada and I love the Ai community in Canada, that is not where the profits are growing, they are not localized.
+ It turns out that these technologies are pretty easy to diffuse and imitate various ways, at least at the basic level, and so the profits are accruing in parts of China.
+ And in you know in south of the border, particularly in northern California south of our border within your borders in northern California and to a lesser extent in Boston and New York and not in can't so they don't seem to be localized.
+ that's Point number one Point number two is.
+ I do think, though, that these.
+ issues around strategic advantage are creating tension and trade agreements.
+ So we in trade agreements, we already have these rules around like Labor and environment right, so we don't want to race to the bottom and Labor rules and we don't a race to the bottom, environmental rules.
+ Europe, in particular, is trying to do the same thing with privacy, they don't want to race to the bottom and privacy rules and they're trying to make European values, or at least European rules around privacy global.
+ And it is a major point of tension between the US and Europe, it is also a major point of tension between Europe and the US and China, and we do not know how it's going to play out.
+ But it Europe is almost surely.
+ We have good evidence to say they are reducing the.
+ ability of their companies to innovate with data, so the the Ad supported Internet in Europe is worse and there aren't major European companies in that dimension because.
+ At least the best information we have, so far, you have to be a little careful i'm saying, because in science, seemingly because.
+ of their privacy regulations.
+ In the US has hesitant to go along that route and seed.
+ Good economic power to China.
+ IRB thanks for your presentation, I really like i'm kind of looking at like things in society as a result of you know, bad predictions like how you talked with the airport lounges.
+ i'm kind of curious on like policy geopolitics, like ethics, aside from like a pure just like start perspective, what have you seen as like.
+ The best like what the startups actually succeed in your district in your career destructive lab.
+ yeah they have like access to better proprietary data like do they just have a better insight into like a place where prediction would be useful that like incumbents don't have right because.
+ You made a good point right it's not the algorithm that's going to be like your competitive advantage it's like.
+ The data or like the use case and then, or is it like that they get to market first so they get like a network effect which then leads for an inclusion like put a lot of money to them.
+ that's a great segue, what do you see as a competitive advantage of Ai startups.
+ and economics it's going to depend on the startup ultimately so I know it's a cheap answer.
+ But, for example, we had a company that had access to data on every dental scan in Russia over a year Okay, that was the data advantage, no one else had it and they built an excellent Ai, for you know for dental scans for dental X rays.
+ Based on the Russian data that gave them a lead that they could then use for American and Canadian European data, then they continue so data they have an excellent data and that's their core advantage.
+ Other companies it's we had a company that didn't really have great data, but they knew the railway industry really well.
+ And they're using Ai for predicting rail schedules, but what they had their unique advantage was they were techies who understood the railway industry.
+ And the railway industry is not filled with techies like it filled with engineers in a literal sense but not people who you know deeply deeply understand the math and computer science and so it really depends.
+ The only and there's people who have some kind of special sauce algorithm and they can do a particular kind of Ai well, particularly this year we've seen some of that around reducing bias or dealing with sort of differential privacy issues.
+ there's a little bit of that too.
+ So we think you.
+ got time for one more times.
+ yeah.
+ Thank you for your talk coffee.
+ What I was curious about was looking more on the smaller scale of the inequality problem so.
+ What one thing that we saw fairly recently was, for example, the energy trends in the economy, led to coal miners in America essentially saying this is what i've done my whole life and i'm not ready to transition to a new field and being offered very little support on how to do so.
+ So I would support to see a lot of those similar Similar trends happening with Ai.
+ So what would you see as the way forward, or what policies do you foresee it's just something i'm interested in.
+ that's a great question I don't I don't think I have a.
+ panacea answer.
+ it's.
+ So the the standard answer is educate Okay, but that's partly because we're all you know the people coming up with standard educated answer our educators.
+ But that doesn't help the people who don't want to read, who don't want to learn a new skill and so it's a really it's one of these really hard problems that overall in society.
+ This is likely to make us wealthier increase productivity wealthier isn't just about money, wealthier is also about health right and all sorts of other things that we do care about and we.
+ We live in a society, at least in Canada been following us quite closely where we've shut down and everything's you know people are getting fed.
+ People still have clothes there aren't riots in the streets and we're wealthy enough that we can shut down for a month that's extraordinary and that has a lot to do with technology.
+ So.
+ Now, how do we compensate the people who don't benefit.
+ One version of it is you pay them off and you just accept that some people are never going to work again and you try to pay them enough so that they still have.
+ ways to find meaning in life that's what the essence of universal basic income is.
+ You another is educate and other is you, you know find ultimately what are make work jobs.
+ that's a version of universal basic income that creates a meaning through volunteerism or something like that there's other solutions, none of them are perfect, it is one of these it's a hard problem and lots of smart people are thinking about it.
+ But I don't think they've come up with the answer yet.
+ Great Thank you.
+ personally thank you so much.
+ it's difficult to express our applause all over zoom.
+ But we can try.
+ This has been just just fantastic Thank you so much Avi and if you have other reading that you would suggest or.
+Things like.
+ well.
+ You made 40 something sales here school.
+ Excellent.
+ I generally give a copy to my guest speakers, but I don't think i'll do it this time it's.
+ got a few copies and feel free to connect on linkedin or Twitter or something like that i'm happy to keep in touch.
+ That way.
+ Take care Thank you so much Avi and thank you, everybody i'll see you on Friday to discuss chapters three through five.
+ Right good day.
+ Thank you.
+ Thank you.
+ That was fun.
+ Good questions Joseph Thank you.
+ Yes, I have for you know, being a.
+ Never apologize.
+ I have a lot of like you know I work in healthcare.
+ And i'm getting my mph master public health.
+ So I sort of know the field and i've been working with a lot of healthcare entrepreneurs and one of the big issues in healthcare is that a lot of files are stored paper because of privacy issues.
+ Right and the idea is that you can only learn, if you have data right if the data is all locked away it's not going to change until that changes.
+ and privacy in laws, make it really hard right and then there's also the fact that productivity is not necessarily in everybody's interest.
+ And what i'm talking about here in healthcare, there are several companies that do very little but get enormous rents through basically obstructing the process.
+ You know right and it's in their interest that nothing gets revolutionized because then they would lose money and that's not good.
+ The one that drives me crazy, I have an autistic son, and while he's on the high end of.
+ functionality, we still have lots of issues and the ICT codes.
+ The diagnosis diagnosis codes.
+ I didn't realize that that was something you couldn't or weren't supposed to be able to go to the Internet and look up.
+ Because it's copyrighted.
+ And they update it and they change the numbers, does the little ever so often and you have to be a physician or health care provider of some sort to get them.
+ And I don't know if this is the insurance industry trying to keep us from picking the right number or if it's, just as you say, a business, I know.
+ The other thing about medical records, though.
+i'm.
+ A lot of organizations, I would imagine would face.
+ On an affordable affordable expenses to change them and then there's also the low tech is easier to protect.
+ For, as you said, the privacy concerns.
+ Although it's also low tech is easier to burn.
+ or get wet and so on, so it's quite a mess, I certainly hope you go forth and fix health care in the US.
+ i'm going to try.
+ it's getting is getting slightly easier, for example, this year the Center for medicare and medicaid is basically forcing hospitals to finally publish what they're charging.
+ Right so in the near future, you might actually be able to find out how much your operation is going to cost before you get it instead of getting a surprise built three months afterwards.
+ The model right now is that no one knows how much it costs because there's all kinds of secret agreements that basically don't get counted up until the final cost is due.
+ And what the issue is that because of the system, right now, people don't really sharp.
+ Right so they're sharp for certain things like lasik that's why you know it's really cheap.
+ But for a lot of people like there, there have been like startups that we're trying to do like.
+ Oh, this you know here a foot surgery will cost, you know, like 10,000 zero cost you like eight so will refund you like you know $1,000 if you switch from this hospital to the other hospital and if people weren't really biting.
+ So it seems.
+ astonishes me, as we have insurance through idea.
+ And then, when they get the explanation of benefits and the forms and reports, it shows what they charged and then what they settled for and it just really just brings home someone without insurance gets that personal.
+ And oh my God, I mean they don't have insurance we've got sick, so why would you charge them two or three times what you would charge.
+ I can actually explain that.
+ Yes.
+ Last you.
+ sort of see the short long story short, it can you still hear me.
+ yeah so the long story short, is that insurance companies United States are under a law that says that their profits can only be a certain percent of the revenue.
+ Right, so they do not make any money.
+ off of profits right it's like if they get more profitable, no one cares because they can't collect right if the revenue is still the same right, you know let's say you cut down costs by 50% you can still only collect you know collect and prophesied Salem out.
+ Right, so the only way for them to make more money every year to increase revenue which means increasing drug costs.
+ Right or the face value of drug costs, so what you can do is that basically everybody got together and they decided sort of like it's sort of like a scam.
+ Right so every year the drug costs go up by $50 and it'll just refund you that $50 is the insurance company right so to you, it doesn't make any difference right, but the on paper revenues keep going up.
+ Right, so they can collect more and more right, the problem is that if you aren't on the insurance right, then you have to pay the sticker price and the sticker price isn't even meant to be paid in the first place.
+ Right and it's sort of like everybody has their their hand in the cookie jar yeah I don't know if you've heard of something called a ppm, which is a pharmacy benefit manager.
+ So basically like quick story is that they're a broker that sits between the actual drug manufacturer, as well as like the pharmacy.
+ Right, so if you're a drug manufacturer you can't just go out and sell your drugs right you want to sell it through an insurance plan.
+ So insurance plans have to say, like yes i'll cover your drug that decision actually doesn't get made by the insurance companies because be made by these pdfs.
+ Right so basically the drug meant that it goes like this drug manufacturer basically social drug to the PBS the ppm is basically decide, you know which drugs to cover which then you know get insured by the health insurance companies and then sold through CBS.
+ Right and basically the pb ends get to.
+ it's in their interest to make the prices go up because they also collect 2% of the price right, so you know if you have a $50 drug and they take 10% $5 if you make a $50 you know $500 drug they like even more.
+ Right so it's in their interest to to you know get the most expensive drugs if you're a drug manufacturer well you want your truck to be covered.
+ Right and they're not going to cover your $5 drugs are going to cover your $50 drug for your $500 drug suddenly you want an expensive drug.
+ Right and then insurance companies, I mean they like expensive drugs right because I mean at the end of the day, they can just you know refund you part of it, but it looks good on the revenues sheets.
+ Right, so you have you know, at first, it will be like $100 drug and then the PBS will add $50 on it as their cut and then the insurance company will add another $50 and then refund you that $50.
+ Right, so at the end you're you pay 200 right, but the idea is that you know really 50 of it is just like a fake.
+ Like slap on and a slap off by the insurance right so you're happy because the insurance, you know refunded you $50 right but that's $50 was never, never real in the first place right.
+ But then, you know the people on the other end who are uninsured they get screwed because they have to pick you know pay, whatever the sticker prices right.
+ And so it just a statistic to drive this home.
+ 25% of the time in the US, the copay that you paid for a drug is higher than the actual price of the drug if you buy off of insurance.
+ Right, so what happens is you're paying to like all these companies more than the actual drug is worth and, if you think about it well it's a copay right insurance is supposed to cover part of the drugs so how's it the copay customer than the drug.
+ Right it's because the price of the drug is you know, the one that you actually end up paying is just not connected to the actual price of the drug it anyway.
+ it's connected to everything in the middle yeah.
+ Exactly wow.
+ So it's it's it's a crazy system.
+ You know what you're going to fix it, though.
+ it's hard it's hard because, for example, let's take CVs you probably know, as a, you know as a.
+ drugstore right, but what you probably may not know is that they actually ended up buying a pbn one of the pharmacy benefit managers and now they make more money off of the pharmacy benefit manager than they do off of their stores.
+ Right so it's not that they're a you know, a pharmaceutical bought a ppm now there are pbn who just fold some pharmacies.
+ Right.
+ So.
+ Basically they're everywhere.
+ Wolf is guarding the henhouse.
+ base already.
+ Well, thank you very much, this was fascinating I got to talk to him, one day, this is great.
+ yeah well, thank you very much for having.
+ me your Professor goldfarb over that was you know really fun talk I don't necessarily agree with everything, but it was extremely you know, stimulating she wasn't enough discussion and ideas, so thank you very much.
+ All right.
+ Good i'll see you on Friday see you on Friday.

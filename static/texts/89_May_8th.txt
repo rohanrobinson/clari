@@ -1,0 +1,785 @@
+ 
+ Good morning. 
+ You are back stuck with me  again.
+ I believe our schedule shows  we have a couple
+ more guests, I think one  more.
+ From the Department of Energy 
+ and before that was with the  NSA
+ and she touches on many  things
+ related to AI 
+ being leveraged 
+ to help defend and operate 
+ critical infrastructure. 
+ And then a few days after  that,
+ I believe it is my turn to  talk about
+ probably be 
+ a Deist topic of the class 
+ which is a Thomas weapons 
+ -- 
+ autonomous weapons. 
+ A couple of good  presentations there,
+ any thoughts or comments on  our recent guests?
+ Did (Name) light your fire? 
+ She usually does. 
+ So, 
+ today let's give some thought 
+ to how we actually go about  doing this stuff.
+ How do we actually begin 
+ to define what we want 
+ AI or a cognitive system to  do.
+ At the moment, 
+ we see a problem and we aim  AI audit
+ and we do it, simple as that. 
+ Very specialized, 
+ there is no Star Wars AI 
+ where you just asking  questions
+ or in 2001, 
+ it plays chess as well as  runs the ship.
+ This is the first time we  are really talking about
+ why artificial general  intelligence is hard.
+ Just from your own projects, 
+ just building a chat bot 
+ should have given you a  taste for \'96
+ this is an easy. 
+ It is easy to do for the  assignment
+ but to do it on a big scale, 
+ that might be tough. 
+ Like the Georgia Tech chat  bot
+ that did the intro to  programming
+ (unknown term) office hours. 
+ That was pretty tricky. 
+ Before we can really get  started on a particular 
+problem, we have to  understand what the problem 
+is.  How do you decide if you want 
+to pull a little AI or a  prediction machine to help?
+ Has anybody ever asked  someone else
+ how to solve a problem? 
+ Like a grandma's recipe for  biscuits?
+ I see a couple of nodding  heads.
+ Did grandma fully described 
+ everything that goes into  making those biscuits?
+ Some of my older relatives 
+ would say that it is a  handful,
+ what's that? 
+ The whole concept of fresh, 
+ fresh greens to one person 
+ might mean that they just  got home from the grocer
+ but to Granny, it is just 
+ that she brought them in  from outside.
+ Do you wash the greens that  you buy from the co-op?
+ You probably should 
+ but in the past, you  absolutely did because
+ they were covered with dirt  and bugs and everything.
+ There is another story 
+ about a gentleman asking 
+ his partner 
+ why, when preparing a pot  roast,
+ she always cut off both ends? 
+. 
+ Thinking maybe there was some 
+ preservative or some weird  thing.
+ And she didn't really know,  she said that that was how 
+she had been taught and they  trace that back to her 
+grandmother, who happened to  have a very short
+ (Indiscernible). 
+ She just decided to cut off  one end.
+ We need to understand why 
+ we have always done it this  way.
+ Projects at IBM, 
+ try to pull a little AI over  it
+, bring a cognitive system to  bear,
+ it is hard to get these  answers.
+ It is hard to find out \'96 
+ how do you do it? 
+ Now go to the extreme. 
+ Ask the oncologist, 
+ how did you decide to use  drug A instead of drug B?
+ This is tough. 
+ And they don't always want  to tell you, even if they 
+know.  So part of our challenge
+ in bringing AI to our company 
+ is to understand what  problems make sense and what 
+problems don't.  That is what these three 
+chapters are all about, is  how do you decide
+ where to do this and how do  you decide if it worked?
+ So Georgia Tech, 
+ how did they evaluate? 
+ At the end of the term, 
+ they ask all of the students  \'96
+ which TA's were most health  will?
+ There is no context, and  happened to be the AI.
+ Our TA 
+ is excellent. 
+ If you had had any  interactions with him,
+ and we are not criticizing  him because he is good,
+ could any of those have been  handled by
+ a nontrivial cognitive  system?
+ Hmm. 
+ What about a less clear  question?
+ Some of you probably have  academic advisors
+ helping you guide your  degree program.
+ Could that be a cognitive  system?
+ How do you measure success  there?
+ It is going to take a while,  right,
+. 
+ You have to wait until Tracy  has the senior management job 
+at Facebook 
+ before we know whether the  guidance she got from Prof X 
+work.  The book earlier talked about
+ predicting the  counterfactual.
+ Remember that? 
+ Suppose I don't take CS 89, 
+ will I be adversely impacted  when I get a job
+ at Twitter 
+ or maybe at Enron? 
+ Maybe. 
+ All of these things have to  go into a decision to deploy 
+something like this because  it is not trivial. You have 
+to not only find and  understand how a process
+ is being done today, you  also have to put
+ understand where we could do  it better.
+ You usually do pieces and  parts,
+ which brings its own  complications.
+ How is 
+ success or failure measured  in a process?
+ You took the quiz and you  got 100, boom, measure.
+ You wash the dishes, 
+ you take out a microscope 
+ with bacteria stains, 
+ you look to see if you left  anything on
+ and how do you measure this? 
+ If you can't, how could a I? 
+ Distilling how you make  these decisions,
+ what is the outcome that you  really want?
+ We talked about ways a lot  in the book.
+ What is 
+ (Name)'s goal? 
+ Directions 
+, avoiding traffic, 
+ warning you of previously  reported
+ issues on the road, 
+ including speed traps 
+ and stopped vehicles. 
+ The AI just reports the  things on the road
+ because 
+ many people reported 
+ if there is a deer on the  road trying to eat the grass,
+ or a pothole on the left,  that sort of thing.
+ Is the AI just making this  up?
+ Probably (Laughs) 
+ It depends. 
+ Does it build a history 
+ of reports from Charles? 
+ Yes, they do. 
+ They keep track of that  stuff.
+ You have little indicators 
+ that show your 
+ (unknown term) or something  like that.
+ That is cool, 
+ but it also gives them away 
+ to determine how much 
+ you can listen to this  particular person.
+ Is this person always about 
+ 1/2 a mile late and  reporting it because they 
+can't talk?  Or because they had to pull 
+over so that they could type  legally.
+ So we have to be able to  measure this stuff
+ and we have to know what we  are trying to do
+ before we consider trying to  measure something.
+ I just said hey 
+ followed by that word Siri, 
+ and my phone went on. 
+ Careful about that. 
+ Let's wake everybody up, 
+ what are the motivations 
+ \'96 
+ what sort of situation 
+ do you think you would  encounter
+ after you graduate and  you're working,
+ what kind of situation would  you encounter
+ that would make you want to  do AI?
+ 
+ I guess I kind of try to  predict more of your question
+ that I was able to buy 
+ I was going to give the  example of
+ a similar process to the  foreign example in the book
+.  Where there are
+ processes that involve lots  of people and sort of 
+sequential steps, and AI's  even if they don't necessarily
+ do work to 
+ done by people, 
+ they can improve the process  by optimizing the inputs
+ to different lines of people. 
+ So I process can get 
+ held up 
+ if 
+ -- 
+ the purchase order needs to  be validated,
+ so it is not necessarily  doing the job that human does
+ by making their job easier. 
+ 
+ Yes, that's right. 
+ 
+ In this day and time, 
+ they usually want data to  back up their reasoning when 
+someone asked for my opinion. 
+ So AI can help us with data  analysis and gathering lots 
+of data, and helping us  create those conclusions that 
+logical reasoning behind them. 
+ 
+ It is not always logical, 
+ think to the 
+ (unknown term) the baseball  team.
+ How about, 
+ have you ever heard anyone  say that they have always 
+done it that way?  (Laughs)
+ 
+ Not on the Dartmouth thing  that you mentioned
+ but 
+ I was just thinking of the  Project Debater
+. 
+ Where I forget the authors  name
+ but he was talking about how  their system
+ looks through 4 million  articles
+ for a certain topic 
+ and maybe 
+ if someone asked me for my  opinion
+ because I think having 
+ those key points that it has 
+ would let me know to what  extent my opinion is biased
+ because I come from a  certain place. Maybe the 
+system and bias so that way I  would know
+ whether for certain issues,  I feel more strongly than 
+others because I'm affected  in a certain way. So that 
+would be one interesting way  to find out
+ what points the AI think are  important and what points I 
+ What would you do 
+
+ I would maybe think about  where the AI was biased in 
+itself because as we read, 
+ there is also a significant  issue with AI itself.
+ But I would maybe take some  time to think about whether 
+or not my opinion is  inherently biased
+ or whether I have some 
+ game and this whole  situation,
+ which is what governs my  decision
+ as opposed to me being a  neutral third party.
+ Yes, and that is  tricky to
+o 
+ because these cognitive  systems are going to make 
+suggestions, 
+ whether it is for  investments, medical choices,
+ or should you adopt that  puppy.
+ Why should we build them if  no one is going to think
+ -- take their advice? 
+ That is driving the  expandability thing too.
+ Why should I take vitamin C  every day?
+ Kind of in that vein, 
+ I did some very basic 
+ looking into the open scale  tutorial
+. 
+ It brings up an interesting  question
+ where there is the ability  to think in more
+ basic and nonmarital methods, 
+ you can see how individual  factors
+ contribute in a machine  learning way to the outcome.
+ If you unbiased data or  model,
+ it requires prioritization 
+ of outcomes 
+ because you can actually get  better performance
+ if you include some of the  factors
+ like in the open scale  example
+ or the auto AI one. 
+ With sex and age 
+ because those are useful to  the model
+. 
+ In a certain way, you have  compliance considerations
+ but maybe if there is less 
+ black and white examples 
+ of ways you can sort of  settle
+ -- subtly discriminate, it  doesn't have to be people 
+against inputs, you actually  have to consider training of 
+performance for inputs 
+ into the model that aren't  necessarily desirable
+ or you think should not be  considered.
+ Well said. 
+ That is a big challenge 
+ and I believe we will be  talking about it some more 
+before the end of the term.  It is all about trade-offs.
+ The AI Assistant at Georgia  Tech,
+ it was a gamble 
+ but the trade-off was, 
+ that we are going to hope it  gives good answers
+ and we are going to monitor  it and see what happens.
+ We are trading off  performance and 24/7
+ in exchange for potential 
+ wrong answers 
+ or inconsistent answers. 
+ So you have to weigh that. 
+ You mentioned data, the more  data you have the more 
+accurate you are going to  get. Conceivably.
+ But then you have to worry  about bias, as you said.
+ Performance.  You want it to be fast,
+ if you have an app that  identifies Poison Ivy,
+ you do not wanted to take  five minutes. (Laughs)
+ If you're going to continue  your height, you need to know.
+ If you don't have the time 
+ and you really have to make  it fast,
+ then you have to decide 
+ what is your goal here or  what is your payoff?
+ Very conservative, missed a  few,
+ the very opposite of  conservative
+ and adventurous. 
+ It may be Poison Ivy 
+, that sort of thing, 
+ so what are we going to do. 
+ How would you convince  people?
+ We kind of touched on this 
+ but a good test question  would be \'96
+ you've got a long elevator  ride
+ to convince your CIO 
+ that AI should be used 
+ to improve the purchasing. 
+ process. 
+ I know at IBM, 
+ we often say that the  purchasing department
+ is there to prevent you from  buying anything.
+ Because it can be very 
+ onerous finding out 
+ who the approved supplier is 
+. 
+ Software is particular  dangerous
+. 
+ So how would you do that? 
+ How would you prepare for  that discussion?
+ When you are trying to say 
+ alright, what do I do to  commence this person
+ and she is very smart 
+ and she knows all of this  stuff,
+ how do I make the case? 
+ Where a cognitive 
+ system really could make a  difference.
+ Thoughts? 
+ It is quiet today. 
+ (Laughs) 
+ While that is why we are  here, right, we are trying to 
+learn this. 
+ 
+ I think one way you could  think about it
+ is 
+ it is not always accuracy  and efficiency we are after,
+. 
+ A lot of the times it is  nearly as accurate as a human
+ or needs of small  improvements that might not 
+be enough to convince  someone. But I think a lot of 
+the time these solutions are  valuable because they bring a 
+lot more accessibility or  scalability, or ease-of-use. 
+There is a lot more access  being able to apply maybe a 
+set of skills that previously  were very scarce to experts.
+ To a broader scale 
+ is aware a lot of the value  lies for these systems.
+ Absolutely. 
+ In fact, one of the  questions on the quiz
+ is suppose you have a set  series of questions.
+ Maybe you are a first-line  insurance helpdesk person.
+ There is a series of  questions you're going to ask.
+ The Assistant can make sure  that you get those questions 
+answered or the person hangs  up in frustration.
+ But you have a script, 
+ you have to get the answers 
+ so you know what to do with  the call.
+ Toyota and (unknown term),  you call their phone number
+ and you get the message 
+ phone tree. 
+ It's the same thing 
+ except we are the AI. 
+ We are helping it to 
+ decide where to go 
+ by actually selecting where  to go.
+ If you do not know, 
+ then you have to wait for AI  on the other end.
+ Interesting. 
+ Let's have a look at the  books idea
+ of how to go about  decomposing the stuff.
+ We have AI canvas, we call  it.
+ And I found it to be very  helpful.
+ I have use it at IBM, 
+ I have used it for a couple  of independent products that 
+I had. 
+ You already booked so I  don't have to read it to you
+ but it is an organized way  to go about deciding
+ what exact way are you doing. 
+ I can't tell you how many  times,
+ whether it is security 
+, programming, AI, 
+ where someone says something  like
+ let's just put a little AI  over it to make it more 
+secure, I actually had to say  that this morning. Anyway,
+ you need to organize the  thinking.
+ Because everybody and their  brother thinks AI is cool and 
+it will make us look smart,  but what are you really 
+trying to do?  And that is the first 
+question on canvas is what  are you examining?
+ What task are you trying to  figure out?
+ And then all of the other  steps as you go through it
+ help you refine that idea  and help you figure out
+ OK, 
+ I am really trying to predict 
+ which office I need to send  this call over to.
+ It sounds trivial but it is  not.
+ To do it right and to do it  well.
+ You are trying to decide 
+ which (Indiscernible), 
+ maybe that needs to be  broken down even more.
+ That is why when we talk  with the project next week,
+ the one thing I will say  over and over is you are not 
+going to do 'Jeopardy!' and  the time we have left.
+ You need to focus 
+ and you need to pick  specific problems that are 
+actually doable in the  timeframe you have, with the 
+team that you have.  So going through this canvas
+... 
+ What about the judgement? 
+ Judgement has always been  kind of a fuzzy thing in the 
+book.  Do any of you have any ideas 
+about what judgement really  means?
+ We have the cognitive system  making suggestions,
+ but what is this judgement  thing, in your words?
+ Don't read from the text.  Give me an example.
+ Come on, come on point 
+. 
+ We know what the AI does,  the cognitive system makes a 
+recommendation, except  addiction.
+. 
+ 
+ I guess just using  real-world experience that 
+the AI doesn't have, 
+ stuff that is more general  than the data it is presented.
+ The example in the book was  treatment options for patients
+ but the fact that the doctor  can actually talk to a 
+patient and understand their  mental state, that may be 
+hard to put into data that  you can feed it to AI but it 
+is valuable information.  Right now only humans can 
+ Very good.
+ It would be particularly  difficult to attract from the 
+
+ One would be 
+ radiology for example, 
+ where (Indiscernible) but  the human can go judge what 
+is correct.  It is a very high-stakes 
+situation.  Kind of in a different vein,
+ talking about how automation 
+ brings that judgement into  AI itself
+ for example like a self  driving car.
+ The car will itself  determine the path
+, 
+ and actually act on  requiring human judgement 
+
+ People have used the term  payoff
+ but it is really just the  goal.
+ Didn't work and that sort of  thing.
+ The judgement question thing 
+ is usually what gives the  approving managers pause.
+ Because they are wondering 
+ - 
+ we are not going to just  handle
+ over control 
+ so how are we going to judge  whether or not we want to do 
+ I don't have an 
+ but when I think about  judgement,
+ I also think about 
+ foresight. 
+ And kind of consequences. 
+ of making a certain decision 
+ and it kind of ties back into 
+ the guest lecture we had on  AI ethics.
+ Kind of 
+ thinking through the impact 
+ of the decision or the  prediction.
+ 
+ As you said, 
+ the ethics and the culture 
+ and even the way people feel  about this
+, 
+ even down to things like 
+ the culture of being in a 
+ line at the bank, 
+ in some cultures it is not  uncommon for the person 
+behind you to be right up  against you looking over your 
+shoulder.  In others,
+ that is just not OK, we  don't do that.
+ So is it moral 
+, 
+ it gets down to really  squishy stuff sometimes.
+ 
+ I was going to bring up from  the book
+ the example of the chess AI. 
+ Where it looked at the Grand  Master plays
+ and it found that  sacrificing the Queen
+ came right before the  victories usually, so it 
+would sacrifice the Queen  early on. But the main 
+defining feature of judgement  is reason and he that is 
+human reason.  So having the outside 
+knowledge that overrides 
+, obviously you don't want to  sacrifice the Queen early on,
+ is what is essential to  making the decision on the 
+
+ What is the real judgement  there?
+ That's a great example from  the book.
+ We have prediction 
+ \'96 
+ what is the key thing you're  trying to figure out and 
+predict?  Is there a car in front of 
+the truck that is in front of  me?
+ Or more generally, because  you don't want to be too 
+ if you go to specific then  you end up with too many efts.
+ if.s. 
+ We talked about the  judgement, the actions are 
+sort of obvious.  What are you recommending 
+that I do and the outcome is  what we just said \'96
+ how do you know if it was  any good? How do you measure? 
+The Tesla might say that it  did not hit anything, OK,
+ perhaps that is a nice  overall goal.
+ But there might be many other 
+, finer measures that you  will apply.
+ Training. 
+ When you make your proposal, 
+ you have to think about how  you're going to teach this
+?.  How are you going to show the 
+cognitive system 
+ examples of what a human  would do,
+ if that is what you're  trying to do?
+ You may be trying to build AI 
+ that simulates a great white  shark. OK,
+ sharks do what sharks do. 
+ But of course you don't  understand,
+ you cannot put yourself in  the head of the shark
+ so it is not clear that we  are going to get a very good 
+model of that.  But people are trying.
+ What do you use to make a  decision?
+ What input? 
+ This goes back to again,  from the book,
+ the baseball decision. 
+ Are you kidding me? 
+ You are deciding based on  the attractiveness of the 
+partner of a player?  Come on.
+ Maybe that played out  correctly in one or two cases
+ but it became part of the  general process.
+ And once you find out what  the rule of thumb is that 
+people are using, when you  finally nagged the expert 
+until she tells you 
+ why certain decisions are  made
+, 
+ you have no idea. 
+ You may not have any idea 
+ that grandma cut off the end  of the pot roast
+. 
+ And then feedback, 
+ you have to determine 
+ how you're going to measure  the outcome and then decide
+ if it works, how well did it  work?
+ Tesla didn't crash. 
+ Good. 
+ Could you tell me more? 
+ Could you use any other  additional information
+ to try to enlighten that? 
+ And then one of the problems 
+ that we cannot avoid 
+ \'96 jobs. 
+ What is it going to do 
+ to the overall workflow 
+ into which we are embedding  this cognitive system?
+ And of course the authors of  our text
+ spent a lot of time talking  about job impact and so on.
+ A friend of mine came up  with a system
+, and this is back in the 80s, 
+ but digitize a person. 
+ It was a short female, 
+ because the digitizer was  not very big,
+ she put on a leotard 
+ and digitized it. 
+ Two or three passes 
+ and he built the model. 
+ And when he had generated his 
+ breakthrough, 
+ he had patterns for clothing  manufacturers
+ in various sizes. 
+ They did it. 
+ One of the other guys on the  team
+ I think was very good with a  sewing machine, so he sewed 
+it.  Put it on her
+ and it kind of fit. 
+ It's not clear that she  would have worn it anywhere 
+outside of the lab 
+ because certain things were  right and certain things were 
+just awful.  So he worked on it and got 
+better and better.  The reason I am telling you 
+this is because when he went  to talk to the clothing 
+manufacturer organization,  they said thank you very much 
+but they are not interested.  Because if they get into a 
+fight with local government  or whoever,
+ they can just pick up their  sewing machine then leave.
+ If they had a bunch of  computers and digitizers,
+ where do you find 
+ 15 standard people 
+ They saw other problems with  it
+ so it was a cool technology  and it worked
+, mostly, 
+ but there were externalities. 
+ that really messed it up. 
+ That prevented it from  taking over
+ and being a pervasive, cool  technology.
+ So these externalities that  the book talks about
+, these are huge. 
+ What is it going to do to  the people around it?
+ Think of the previous, 
+ we have all been in one 
+ and you probably weren't  aware at first because you 
+cannot hear the thing. 
+ Seeing-eye dogs were stumped  for a long time.
+ That was an impact that I'm  not sure people thought about.
+ What is the impact 
+ on hearing-impaired people 
+, 
+ or rather blind people, 
+ they do not know what is  coming so
+ they cannot necessarily hear  it, whether they have hearing 
+or not.  How do you fix this problem?
+ AI 
+ working on another one that  I'm familiar with,
+ -- 
+ this is not at IBM 
+ but there is one trying to  optimize
+ supplier selection. 
+ Or manufacturing. 
+ Trying to figure out 
+ whose products have been the  best,
+ get here on time, there are  a bunch of parameters and 
+there is a cognitive system  involved.
+ The AI very quickly start in  choosing the same supplier 
+over and over again.  That is maybe the right thing 
+to do, as far as all of those  measurements go. But what 
+happens if that one supplier  goes out of business
+ or has a chip shortage? 
+ Again, the impact on the  workflow
+ is a disaster if the AI  naturally migrates
+ towards an optimization 
+ that does not have all of  the facts, like Tracy said.
+ What is it going to do two  jobs?
+ Is the past CEO of IBM right 
+ in declaring that we are not  going to have
+ -- 
+ we are not concerned about  job displacement,
+ we are instead focusing on 
+ new collar jobs. 
+ Implying retraining and so  on.
+ I am not sure how well that  is going to work.
+ but we will see. 
+ Another item mentioned 
+ somewhere in the reading 
+ is 
+ if you look at statistics, 
+ one of the top jobs 
+ is truck driving. 
+ Trucks, who knew? 
+ I didn't. 
+ There are a lot of trucks  out there,
+ not just the long-haul  things but
+ the trucks in town delivering 
+ two houses 
+. 
+ There is no reason why those  can be automated, right?
+ Autonomous trucks? 
+ Would make a lot more sense  than autonomous cars.
+ Much more constrained, 
+. 
+ Like I was exciting to my  son who wants to get a 
+drivers license, driving a  dirt bike is one thing
+ because of the constraints,  everyone goes in the same 
+direction.  There is no oncoming traffic,
+ speed is important 
+ because you can't goad 
+ to faster your heart  yourself.
+ Real traffic is not like  that.
+ So the impact on the  trucking industry
+ is going to be very  interesting.
+ I don't know how many of you  saw the AI boat
+.  Fascinating.
+ What is it going to do for  overseas travel?
+ What the 
+ Alaskan oil spill had  happened?
+ If we had an autonomous ship. 
+ Probably not the way that I  did happen
+. 
+ 
+ I would say yes 
+ and that is because 
+ from what I heard 
+ from (unknown term), it was  mostly about weather.
+ Which you cannot 
+ always of -- 
+ even if you can protect that  there is bad weather,
+ there isn't all that much  that you can do sometimes.
+ I think there is also other  economic decisions
+ that put you into the wrong  path.
+ If for example you decide to  put on
+ twice as much cargo as you  should,
+ AI would probably save you  after that.
+ So there are all kinds of  upstream decisions
+ that will probably still not  be able to be avoided
+ by AI. 
+ I definitely agree with the  trucking industry example
+ but generally, 
+ I think that transportation  in the US
+ is 13% of the economy 
+. 
+ So if we replace all of the  truckers
+ and all of the uber drivers, 
+ it is going to be like 40 or  50 million people out of work.
+ 
+ Or desperately trying to  learn something new.
+ I don't know what the  average age
+ of a truck driver or Uber  driver is
+ but it is probably not 22. 
+ OK, 
+ just checking my notes. 
+ Let's wander off into some  breakouts.
+ I have it on the slides what  you can look at them later,
+ they are not particularly  helpful.
+ That sort of thing, again, 
+ this is from the book and we  are going to go through an 
+example. 
+ I am going to do seven  groups this time because 
+there are not many of us. 
+ Here are the topics. 
+ Again, 
+ you got your book 
+ and you can see the 
+ little pattern thing that we  were just looking at.
+ AI canvas. 
+ I will put that up after we  start.
+ Group 1, 
+ talk about AI to help you  out with your
+ (unknown term) members of  Congress.
+ Choosing members of Congress 
+ would be effective 
+ for a particular situation. 
+ High-performance job  candidates.
+ We talked in the book about  high-performance MBA 
+candidates but once you have  hired the person,
+ how do you decide 
+ or guess 
+ how the potentials are? 
+ My favourite \'96 
+ the triage bought. 
+ How do you prioritize  incoming patients?
+ Ski way guest management. 
+ An predicting cable TV  viewers,
+ how would you sample them? 
+ So let's see if we can  imagine
+ working on 
+ a cognitive system 
+ to do these kinds of things. 
+ And the question really is \'96 
+ how do you fill in these  different areas,
+ what are you trying to  predict,

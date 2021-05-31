@@ -1,0 +1,1145 @@
+ That's hers. 
+ OK, 
+ what did you think about  the reading today?
+ Any comments or  thoughts there?
+ Anything give you pause? 
+ 
+ I mean, 
+ sometimes the examples  missed the mark a little bit.
+ I really liked the example 
+ with the whole flying, 
+ so if you have ever  missed a flight
+ then you're not  being efficient.
+ Which is a little unusual 
+ because that also means  that you have never
+ sat nine allowance between  connecting flights.
+ The ones that you can't  control, right?
+ There is also the fact that 
+ I think a lot of the  things are predictable
+ but there are many things  that are rather hard to 
+ like (unknown term) is great  at predicting how you get 
+there but then predicting  how many people are there,
+ that would take knowing all  of the flights that come out 
+of the airport.  
+This has been a challenge  because you think at 4 AM 
+they're not going to be  many people, but at 4 AM,
+ all of the cheap flights  are flying within Europe. 
+Which means 4 AM is probably  one of the busiest times of 
+the day so it really does  depend on what day it is. 
+I think a machine could  probably protect that pretty 
+accurately but I think that  you know, it needs a little 
+bit more work.  
+ What you're using  there is additional 
+information that the  machine didn't have. 
+Traffic conditions or take  the boy skiing and then find 
+out that there is an NCAA  downhill at that point
+ and you have to park at  Hanover to get there. 
+ I guess part of the reading 
+ that was most interest  in to me
+ was a discussion about the 
+ legal and ethical parts of it 
+ because I think to  a certain extent,
+ a lot of the discussion  before is more technical
+ whereas this is more  philosophical.
+ Kind of coming at it  from the point of view
+ of an economist 
+ talking about externalities 
+ and I guess I was a  little sceptical about
+, 
+ I guess that was  the only proposed
+ solution in those cases 
+ but I was a little sceptical 
+ of the ability to like 
+ quantify 
+ or empirically assess 
+ the value of different  actions.
+ Especially in the context  that is used a lot
+ like the teslas 
+ for driving cars, 
+ you have to distinguish  between choices that involve
+ human life. 
+ That was on the get  stuck out to me.
+ Let's wreck 
+ 
+ The only problem I have  with the entire book
+ is that they trot out  the trolley problem
+ and that is so beat  to death (Laughs)
+ But it raises the same  point that you said there
+ which is some of these  things are realistic
+ and some of them aren't. 
+ But they certainly help  make the point, I guess.
+ It is hard to decide 
+ what is more important,  this or that.
+ And of course, that is what  we are going to do today
+ but anyway.  
+ 
+ I briefly talked with  us in the first class
+ but when he talks about 
+ fully automated  decision-making,
+ I do feel like they  kind of forget
+ that a lot of disc 
+ -- decision-making 
+ is based off of  machine input.
+ For example, when they came  to the (unknown term)
+ in 2012, 
+ you had fully autonomous  drones making the Kell 
+decision. 
+ Even to some degree with  self driving cars,
+ even a human making a  judgement at the end of the 
+day and most of these  situations, 90%
+ is coming direct  from machines
+ so if the last step 
+ is just to pull the  trigger or not,
+ and if that is such a big  ethical conundrum for us,
+ it should also be an ethical  conundrum that everything we 
+are doing 
+ is being filtered through  some sort of machine analysis 
+or input.  
+So even if a human is  making a decision,
+ how much of the decision  is human? 
+An example of that would  be the (unknown term)
+ Northpoint problems  in the justice system,
+ which was basically 
+ the slab that developed  an algorithm
+ that predicts the  (unknown term)
+ for anyone appearing 
+ for trial 
+ and recidivism 
+ means 
+ somebody might commit  a crime again
+ so judges often judge  based on that score.
+ If you're not human, you can  completely ignore this if you 
+think, but we are all biased 
+ so the moment that they see  a high score, they are going 
+to increase the bail  or denied bail. 
+The problem is, I saw this  often happening with people 
+of colour, specifically  black people.
+ The whole thing 
+ is that they are saying  that it is not racist
+ but just the data is biased.  
+ To your  first example
+ or I guess one of the  examples was military,
+ shoot decisions  are being made,
+ artillery decisions  are being made
+ based on data.  
+Where does the data come from? 
+ It is not 
+ Sgt (unknown term) out there 
+, 
+ there is an assist in  providing the data.
+ and it is being transferred  to you.
+ So yes, 
+ you're absolutely right. 
+ We are 
+ already making huge  decisions based on data 
+provided by those machines. 
+ I was two minutes  late starting class
+ because my dad's  clock that I use
+ is to minutes slow.  
+ So even little  things like that
+ can set you up. 
+ 
+ Going back to the point  about the airplane
+ and waiting 
+ and how a lot of the  things in our lives
+ are based on compromising  and having imperfect
+ methods. 
+ I was kind of thinking  about this
+ and going beyond just  the airport lounge,
+ I would assume that  these authors
+ would say that really 
+ if prediction was  completely perfect,
+ then no one should  wait anywhere
+ and there should be no 
+ sort of waiting  rooms of any type.
+ And your life should be plan  to the minute, which is kind 
+of a crazy idea.  
+I think if you took these  examples to the extreme,
+ you would know exactly how  long it takes to do every 
+single thing in your life  and so your whole life,
+ if you used these prediction  machines, you wouldn't ever 
+have to think about  timing again. 
+ That's perfect.  
+You have really hit something 
+ that I wanted to  get into today
+ and I wasn't sure  how to get there.
+ As prediction improves, 
+ what do we miss out on? 
+ If you don't have to  go wait at the airport,
+ example \'96 
+ if I didn't have to sit  around and wait at the 
+airport, I never would  have met this fellow
+ who turned out to be  one of my dear friends.
+ I never see him, we just  happened to me at the airport.
+ If I was always on time or  if my 'Prediction Machines' 
+to wait 
+, I may not have  encountered him.
+ What else could we miss 
+ and how else with the  human experience change?
+ if we did have  such prediction?
+ 
+ One of the things I was told 
+ as I was doing a remote  internship this summer, one 
+of the CEOs was giving an  address and he said that one 
+of the things he is said we  will miss the summer even 
+though the internship will be  almost exact in the same as 
+the conversations that you  hear in the hallway, or you 
+run into someone that you  didn't happen to see in the 
+office and they ask if you  want to shadow them for a 
+meeting.  
+Often times, that is how we  pick up information that is 
+not taught through boot camp  training or whatever. 
+That is often how we  sometimes get our big breaks, 
+like I shadowed meetings and  I happened to catch my 
+coworker at the right time  and it allowed me to do so 
+many other cool projects.  
+So there are chance moments  and chance encounters. 
+They don't happen quite often  so maybe we wouldn't miss out 
+that much but we  would miss out. 
+ Serendipity is...  
+Science would be very  much impacted by that. 
+One of the reasons is,  someone in the class asked me
+ to forgive their forwardness 
+ but why did I stay  at IBM research
+ or 35 years?  
+I'm still there. 
+ It is exactly what  Katerina just said.
+ I can wander the halls there 
+ and run into somebody 
+ from a completely  different discipline
+, country, culture, 
+ anything. 
+, 
+ and get to know them. 
+ Many research institutions  have
+ major hallways 
+ with a little alcove, 
+ Google 
+ and Microsoft both do this, 
+ it is just a little alcove 
+ with a (unknown term). 
+ I cannot tell you how  many patent discussions
+ I happened upon just by  walking past one of those
+ and then jumping in 
+ to contribute to  that conversation.
+ So if the predictions  are better,
+ maybe we will miss out  on some stuff like that.
+ You are right, absolutely. 
+ And what about scientific  discoveries?
+ Penicillin. 
+ That was an accident. 
+ Post-it notes, 
+ another accident. 
+ If we had better prediction, 
+ would we have missed that? 
+ 
+ I was thinking about the  perfect planning aspect,
+ there is the issue that 
+ our example, 
+ I have several disabled  family members
+ so it takes them a lot  longer to get from a gate
+ or a two gate B  at the airport. 
+So the question is, do you  make everyone wait for that 
+person?  
+If you have a plan to the  minute, then you cannot 
+accommodate those people.  
+If you can accommodate them  then you have to make 
+everyone else wait so the  question is, what prediction 
+is the machine going to do?  
+ Yes, and do you  dynamically adjust based on 
+the passengers?  
+Now small airlines and small  planes, like a jump Jets
+ the ones that do short  hauls, I used to travel
+ with a Vice President 
+ who was really large. 
+ In pretty much any dimension  you want to name.
+ Brilliant guy, 
+ but more than once when  travelling with him on a 
+short hop, the pilots would  come back and say that this 
+is a small plane so we  have to even of the load
+ so sir, could you move  to the other side?
+ He got it all of the time  and he was fine with it but 
+even those were just the  last minute, based on the 
+environment, based on the  situation, judgements that 
+had to be made.  
+ 
+ One more thing we lose with  the rise of electronics
+ and always on communication, 
+ downtime has gone down. 
+ It is supposed to  increase leisure
+ but overall, 
+ it just increases the amount  of work we can do.
+ Because now everything in  your life is partly planned
+ so you don't have those  moments of downtime,
+ you are just losing  these moments
+ of peace in your life.  
+ Yes, exactly. 
+ I just lost the window 
+ there it is. 
+ So did anybody see  the movie O poss
+ ' 
+, I can't remember 
+, 
+ but it was an animated show 
+ and it was in the far future 
+ and it may have been a robot. 
+ All of the humans were  in these huge spaceships
+ going through space, 
+ completely happy. 
+ They had long since lost  their way in the stars
+ and eventually realized 
+ that they can do this stuff,  they can do something else.
+ Long story, bad example. 
+ OK. 
+ 
+ I think the matter of  kind of losing things
+ as a result of not  having downtime
+ is to some degree 
+ an issue of framing,  not completely.
+ For example, 
+ the example that you  mentioned about meeting a 
+dear friend while at  the airport waiting
+ \'96 certainly there could have  been a situation where
+ if you had gone to your  destination earlier, there 
+would have been someone you  met but by the time you got 
+there, they were gone.  
+So it is kind of hard to  predict how that will result 
+in certain serendipitous  encounters. 
+ 
+ Very good point.  
+Are we exchange in one group  of serendipitous encounters 
+for another?  
+And thank you (Name),  the movie was
+ walled Wl 
+l 
+W 
+E . 
+ 
+ I think there is an  argument to be made
+ but if you reduce downtime 
+ or we live in a society  where we are thinking about 
+optimizing all of the time, 
+ even if theoretically 
+ you might not have to  wait at the airport
+ but on the other side  you might meet someone,
+ your mindset changes and  you are in a frame of mind
+ where you are not  used to having
+...  
+Sartre, 
+ -- sorry, 
+ you are not used to  having any free time
+ so you don't have 
+ do necessarily wait on the  other side of the airplane.
+ You get on the plane and  your car is already there
+ and it is sort of like the  way of life it entirely 
+ In the movie, 
+ the idea was that systems  give you all of this leisure 
+time.  
+What are you going  to do with it?
+ If all predictions are gone. 
+ 
+ I guess for me, 
+ the one main concern  I have is the fact that
+ if we had a near 
+ perfect 'Prediction Machines' 
+ it would only really  espouse one
+ perspective. 
+ It would make many people 
+ basically adhere to  potentially only a limited 
+scope of ideas  and perspectives
+ and the concern with  that is we saw
+ in the movie, 
+ maybe the prediction is wrong 
+ or maybe there is something  else to do.
+ I did not like  how the book said
+ that humans in the future, 
+ even though missing, 
+ would be better at this,  we can input or data.
+ I thought that was  a weird relationship,
+ I still feel like people  should be building
+ and creating things that the  AI could, even if it is 
+better and more (unknown  term) because there may be 
+things that the AI does  not know how to do. 
+ Exacting, that  silly trolley problem comes 
+up. 
+ Or realistically, the Tesla.  
+If you read the fine print  on today's Tesla,
+ it says to keep their hands  on the wheel at all times 
+even if you are not driving.  
+Who is going to do that?  
+ On the things that  we could potentially miss out 
+on, I was kind of thinking  even beyond that, what if 
+there is a point where 
+ the machines have learned  from human experience, like 
+what type of experiences  are valuable to people. 
+And be able to predict  that this airport
+ is where a lot of people  who travel alone go,
+ or are looking to talk to  other people, maybe we should 
+factor this in to how  we plan this persons
+ -- predict what this  person's day is going to look 
+like or predict where certain  spontaneous things can happen
+ like in a lab and  make room for that.
+ I like that. 
+ The system, if you have a  system that plans or travel,
+ it might listen to things  like that and also just some 
+of your preferences.  
+Not just airlines but  I don't like crowds
+ or there needs to  be a good bar there,
+ all sorts of other 
+ subtle and not-so-subtle  biases.
+ The systems don't allow  it, it just is.
+ Like a voice recognition  system
+ that I use a lot, 
+ when I was training 
+, 
+ if I didn't use a good test 
+ or didn't do it enough, 
+ it was just as bad as  doing this with Watson.
+ It came back and made  predictions that were just 
+Was it my bad microphone,  was at the cold,
+ who knows?  
+But they learn and it is  the paperclip problem
+, remember? 
+ 
+ I just wanted to say 
+ that I think that (Name)  makes an excellent point
+ and this is kind of related  to (Name)'s point as well,
+ there is kind of that  inherent problem with the 
+optimization that it is 
+ going to definitely be  taking certain things away.
+ And it is not going  to serve everybody. 
+This optimization is  something that is useful to 
+specific people with  specific goals,
+ usually the people with  the goal of making money.
+ That is not necessarily  a bad goal
+ but there are certainly  people who are willing to use 
+that goal as something that 
+ is to the extrusion  of others.
+ So the application 
+ of this optimization 
+ is something that needs  to be examined.
+ 
+ And what about competing  productions?
+ Are we just going to  sit back and watch
+ a battle of the titans  here when paired
+ -- competing productions 
+ (unknown term). 
+ How do we resolve this? 
+ 
+ Kind of veering off 
+ it in a similar vein, 
+ we kind of touched on this, 
+ I can see it going both ways 
+ that this kind of automation  would help people
+ who are not like the norm. 
+ Like if you are disabled 
+ or if you are on the  autism spectrum,
+ there are tools to help you  integrate into society better
+ but I feel like overall,  these prediction machines
+ will probably work to  exclude those people more
+ because they are  not the norm.
+ So in the case of a Tesla, 
+ and we have to code  these preferences in
+ so it depends on who is  coding their judgement.
+ But in the case of a Tesla, 
+ if you have to run over -- 
+ if the Tesla has to crash 
+ and it is going to choose to  kill a disabled person in a 
+wheelchair or an able-bodied  person who was walking,
+ how are we going to make  those decisions and how are 
+we going to decide whose  life is more important?
+ And I don't even know  if we can all --
+ we keep talking about  human judgement
+ as if there is something  that we all agree on
+ but this is going to vary  immensely across cultures
+ and around the world, so  that is another issue. 
+ You folks are reading  between all the lines and 
+picking up everything.  
+The book even makes the point 
+ that the prediction might not 
+ be optimal 
+ but only optimal, subject to  the constraints of the system 
+was given. 
+ So if the constraint is to  make sure that the person 
+driving the car does not  get hurt then, alright.
+ But what else does that mean? 
+ What are the externalities? 
+ Hey, there's a word! 
+ 
+ I guess until now, 
+ (unknown term) considers  these production machines
+ independent things, 
+ but we need to remember the  fact that someone is making 
+them and profiting  off of them. 
+Before big tech, I was  here at (unknown term)
+ and more (unknown term) than  most places in the world.
+ So I was in this future  of AI talk yesterday
+ and I guess 
+ someone asked me about the  fact that at this point,
+ it is often tech companies  regulating governments
+ the charge on privacy. 
+ Instead of the  other way around.
+ So the question is, 
+ if prediction machines 
+ get to a point where they  can start running our lives,
+ is it even a decision that  we can collectively make?
+ Is it possible to regulate  them if they get to that 
+scale. 
+ So if we allow them to get  to that scale without having 
+a copperheads a plan, but it  is kind of the chicken and 
+the egg problem. 
+ 
+ You have really touched  on something
+ that if I had 
+ to specify a goal  for this course,
+ so when you leave 
+, when you finish this or  escape this, however you 
+think about it, wherever you  go to work or whatever you do,
+ there is going to be  an interest/pressure
+ may be already underway 
+ of (unknown term)  for systems.
+ And a lot of people out  there are blind to the 
+This is cool, look  what we can do. 
+In this class, 
+ we spent part of our time  playing with the technology
+ and the rest of the  time thinking about
+ how we should play with the  technology and where we 
+should go without.  
+And that's exactly  what I want.
+ I want you to come out  of the end of this class
+ understanding more about  cognitive systems and a 
+little bit of a sceptic.  
+Do we need a I hear and what  are the side effects?
+ And that is a pretty good  walk into our first breakout.
+ Shared screen, 
+ and I am going to go ahead  and let everybody share.
+ When we break up, 
+ somebody always asks  to shared screen.
+ There we go. 
+ At least in the moment, 
+ the human judgement is still  needed in lots of cases.
+ where cognitive systems 
+ are or may be 
+ diploid. 
+ye 
+d. 
+ Human judgement is still  required, at least we hope so,
+ what are some of the  judgement needs in these 
+other areas?  
+And don't just think small, 
+ try to think of the whole 
+ environment. 
+ Think of the externalities 
+ as the book says. 
+ In this case in particular, 
+ think about the judgement \'96 
+ how fast is a judgement  have to be here?
+ If it is the Tesla barreling  down the road,
+ it has to be pretty quick. 
+ If it is vaccine allocation,  fast is good
+ accurate is better. 
+ Architectural projects, 
+ all of these have a variety 
+ of judgement needs 
+ and externalities. 
+ So let's take 10 
+ to wander through this 
+ and I am really anxious  to see what you think.
+ I will put these choices 
+ and slack 
+ A little bit of snooping I  did, it certainly sounded 
+interesting.  
+What about the trucking  industry?
+ Comments and thoughts  on that?
+ Did anybody think about  trucking industry
+, 
+ I believe (Name) was  in the first group.
+ Go ahead. 
+ 
+ For example with the  trucking industry,
+ there are some (unknown term) 
+ that the cognitive system 
+ can do. 
+ and there are some things  that it cannot do.
+ For example, 
+ for the delivery industry 
+, 
+ it takes some food items  that wants to be delivered
+ but there are some 
+ real events that can occur, 
+ like the package  might be damaged
+ or there are some items 
+ that are not properly  wrapped.
+ At the same time, 
+ the item may not 
+ have some value 
+ in there, 
+ it may be something  (unknown term)
+ that even if the  package is damage,
+ the item might be good. 
+ So in that case, 
+ it might be that there  is some type of judgement
+ that the system could take 
+. 
+ If there is a human, 
+ then he or she can  inspect the package
+ and decide whether it is 0K 
+. 
+ But a cognitive system 
+ might not handle those things 
+ as good as 
+ a human can. 
+ 
+ I see your point 
+, let me pull on  that a little bit.
+ My experience may be limited 
+ with freight delivery 
+ folks 
+, they tend to want  nothing to do
+ with complaints or whatever. 
+ They are just  the deliveryman,
+ if you have a problem, 
+ you have to call  the big boss.
+ Would that help? 
+ Would a cognitive system  be able to help
+ in situations like that 
+ where 
+ don't ask me, ask the boss. 
+ 
+ I think at a certain  level it could work.
+ If it is trained in some way 
+ that if the item is  completely damaged
+ or it is not working, then  you can just return it back
+ and give some decision 
+ or reimburse the cost for it. 
+ But if there is  something like
+ the item inside might be good 
+ but the package  could be damage,
+ so in such cases, 
+ it has to make a  critical decision
+ how it wants to 
+ 
+ Interesting, 
+ any other concerns with  the trucking industry can
+ I admit, 
+? 
+ I admit, 
+ I was thinking of situations  where drivers can make a 
+decision based on feedback on  the data that they have got.
+ Routes that they might take. 
+, 
+ monitoring 
+ that they might be aware of. 
+ Lots of stories there that  we don't have time for.
+ OK, 
+ some of the judgement would  have to be real-time in 
+trucking because  stuff happens.
+ Some of it may be 
+ after-the-fact as well 
+ so we will move on. 
+ Mass transit design. 
+ What are some of  the judgement calls
+ that have to be made there? 
+ We have the data 
+ where the people are, 
+ yes? 
+ 
+ We kind of covered a couple  different points.
+ One of the first  ones we talk about,
+ which I think has been  a problem in the past,
+ is designing a fair  and efficient system
+ that doesn't have biases 
+ towards different 
+, 
+ like being left 
+s 
+ intrusive on a wealthier  neighbourhood
+. 
+ Running it through  less wealthy areas
+ and putting railroads 
+ right through a city 
+ or town. 
+ We were talking about  how a cognitive system,
+ you could design one that 
+ doesn't have data points 
+ on the wealth or  makeup of areas,
+ it is just looking  geographically
+ and tries to equally  distribute
+ stations 
+ where there is a  goal of efficiency,
+ in terms of concentration  of individuals.
+ And being as 
+ limited and intrusive  as possible
+ on the area 
+ so that way, 
+ it would not be biased 
+ as I think a lot of designs  in the past have been.
+ So that was kind  of one topic.
+ Do you want to talk  about the other
+, (Name)?  
+ 
+ We also brought up the point  about buses in particular
+ we talked about how  buses take one route
+ so it is very  easy to automate
+, 
+ we are already implanting  self driving cars
+ so self driving buses 
+, especially when you're  taking one path
+ and it is repetitive. 
+ Obviously there are other  issues on the road
+ but that could be  easily automated.
+ And also already  a lot of subways
+ are kind of pushing towards  that direction, where maybe 
+they have a conductor there  in case of emergencies.
+ But we are already seeing  this push towards automation
+ and less human judgement. 
+ Very good. 
+ Particularly in subways 
+ because in any kind of rail, 
+ in subways you tend 
+ to not have stuff  on the rails.
+ In regular rail delivery, 
+ you have occasionally a car 
+ or a cow or something. 
+ But it seemed like  a good place to start
+ and some critics have said 
+ that they don't even  have that right yet,
+ how could we automate cars? 
+ It's interesting 
+. 
+ All of that judgement 
+ would not have  to be real time
+ because you are designing, 
+ you are planning. 
+ And to Jason's point, 
+ assuming that your  cognitive system
+ is not provided  with biased data,
+ suppose it is only  presented with
+ the demographics of  who might be using
+ or might need 
+ the mass transit, 
+ and nothing about income, 
+ price of land, 
+ because 
+ the imminent domain,  as you said,
+ Would it be better designed? 
+ I really wonder. 
+ With that sort of 
+ clinical machine  level evaluation
+ come up with something  better?
+ What sort of data  would be missing?
+ Would you have to  include in that data
+ where new office parks 
+ or office buildings  are being planned?
+ You can only guess where  it is going to be next.
+ That is a tough one.  
+Resource management, anyone  have comments on that?
+ We all believe in it 
+ but can we get some help 
+ because we are not  doing a good job. 
+(Laughs) Any thoughts?  
+ One of the examples  our group talked about
+ as I think similar to  the mass transit group,
+ who is really driving the 
+Who are we optimizing for?  
+So for example, 
+ if we are optimizing  water resource,
+ are we optimizing for Nestl\'e9  to maximize profits connect
+ are we optimizing for other  people who drink water?
+ It also applies to things  like forest in to a lesser 
+effect, how do we value the  prophet off of (unknown term)
+ if this is the secret  land or some people?
+ So some of those human  judgements or value judgements
+ are harder to code 
+ and include 
+ when a lot of the systems 
+ are built by the people 
+ who stand to profit. 
+ 
+ You raise a good one, 
+ I like your example about  forestry management
+ because when people 
+ say 
+ that we need to have  a controlled burn
+ in this area in California 
+ because all of the  models tell us
+ that is the right  thing to do,
+ that is controversial. 
+ Some people think 
+ that 
+ mother nature should do it, 
+ but mother nature is not  causing the problem here.
+ What if 
+ AI said you have  to go burn this
+ and it was smart, 
+ how would people  react to that?
+ Probably not too well. 
+ Waste management  and recycling,
+ does anyone have  any comments there?
+ When a cognitive system  help us there?
+ We talked about this a bit 
+ and we have to start  out with the fact that
+ recycling is fake 
+ and everything we have  been told is a lie.
+ So background for those  who don't know,
+ recycling was a scam  from the very beginning
+ and it only worked  for a while
+ because we were trying to  have high economic growth
+ so they push up the price  of plastic to high levels
+.  
+So it was actually worth it  to take plastic from recycling
+ and reform it and use it. 
+ The problem is as economic  growth in China has slowed 
+down, the price of (Laughs)  Has plunge, and it is no 
+So two or three years ago  China decided that they would 
+not be in parting plastic  anymore which also means
+ that recycling doesn't work  when no one wants to process 
+it.  
+So most of it ends  up in a landfill.
+ So we thought that if we  could improve the system of 
+sorting, sorting different  types of plastic to maybe 
+create a system that is  cheaper in terms of 
+processing, we would probably  be able to take up a bit more 
+plastic out of the system.  
+Plastic is cheap, recycled  plastic is extensive. 
+So there is only so many ways  that you can make the process 
+cheaper so at the end of the  day, if the plastic is not 
+going to be worth it, no one  is going to process it 
+No matter how cheap  we make the process. 
+The group members had some  thoughts on the subject. 
+ I had a bit of  a follow-up question \'96
+ I am not entirely sure how  this connects back to it 
+being a scam?  
+Certainly, it is not entirely  altruistically
+ intended.  
+That much is clear. 
+ But I am not sure if scam,  that seems to have a value 
+ That is  beyond the scope of
+ cognitive systems, perhaps  you can take this off-line?
+ (Laughs) Indeed, 
+ maybe the cognitive  system would tell us
+ where we should and  shouldn't use plastic
+ or where we could make  reductions and so on.
+ Vaccine allocation, 
+ I hope this was  not too exciting?
+ Did anyone talk about that? 
+ 
+ I was in the group for this 
+ and one of the persons  we spoke about
+ was basically just  re-mining the system
+ that we currently have. 
+ Identifying 
+ who needs a vaccine. 
+ Clearly the entire time, 
+ there has been a focus on 
+ trying to determine who  needs to get the vaccine first
+ and so on.  
+ to be able to make more  accurate predictions
+ is going to be incredibly  useful to that end
+ and further, it could  help correct some of the
+ inefficiencies in the system 
+ so that people don't  miss appointments
+ or get turned away when they  think they are about to get 
+ At the same time 
+, something else  we talked about
+ was how we would form 
+ phases or classes of people 
+ and whether or not 
+ that is something  a cognitive system
+ could make the  judgement calls.
+ And what it reminded  me of kind of
+ was how we have been talking  about more generally
+ like how you say people 
+ and how that is a common  problem when it comes to 
+cognitive systems, whether  or not the system would 
+privilege young people who,  with the vaccine, have a much 
+higher chance of living  versus privileging those were 
+at higher risk and  giving a priority. 
+ Yes, 
+ it is not clear that the  world is ready to hand out 
+that judgement call.  
+(Laughs) OK, good. 
+ Road and Highway design, 
+ where their thoughts there? 
+ 
+ We thought that AI is pretty  good with numbers,
+ it is going to be great  at numbers in physics,
+ planning or optimizing  routes,
+ so that is a no-brainer  for Highway design.
+ We got into a  discussion about
+ this article 
+ where scientists found  that certain amoebas
+, if you put them on a map 
+ where certain Metros are in  the city and watch them grow,
+ you end up with pretty  amazing routes
+ for how to plan highways  in cities.
+ So I guess one discussion  we ran into
+ was, are we -- 
+ in the next five years, 
+ are we going to start  looking to AI to solve all 
+problems or will there be 
+ simpler and easier  solutions around us?
+ 
+ We need judgement about  the judgement system
+ here last month 
+. 
+ Customers used to say could  you pour a little crypto on 
+this to make it more secure  and of course, that's crazy.
+ Now they are saying 
+ can you pour a little a  illness and improve my bottom 
+line.  
+ 
+ We were saying that human  positions could come in
+ when we were talking  about aesthetics
+ and different preferences  and looking at the design
+.  
+Already 
+ cognitive systems  could handle
+ streamlining the design, 
+ the more detail  we are getting
+ than the better 
+ it will be able to 
+ process 
+ the information 
+. 
+ Probably a lot better  than a human could.
+ 
+ Identifying the data that  the expert designers
+ and the city planners use 
+ is sometimes tough. 
+ It is not just numbers, 
+ it might be opinions, 
+ it may be any number  of external factors.
+ 
+ Exactly, that was part  of my point as well.
+ Obviously it is  good at numbers
+ but I think in this  kind of domain, AI
+ is only as effective as 
+ the experts can give it the  appropriate training data.
+ Especially because 
+ there are obviously other  considerations outside of 
+traffic flow, in terms  of optimizing a highway.
+ For exhibit, you wanted to  be accessible to a large 
+amount of people 
+ and you don't want to be  spreading across communities
+ or discuss 
+ -- disturbing resource flows. 
+ If they take in account 
+ a large variety of factors  and different populations,
+ then with the computing power 
+ and the abilities it  is certainly viable.
+ But you do need the baseline 
+ human attached thereto, to  really articulate that 
+ 
+ More of a bottling process 
+ tempered with social. 
+ Architecture, 
+ city design, 
+ that is also going to have  some of the people aesthetic 
+ Where there any discussion  points there?
+ 
+ I totally agree 
+ that it is a slamdunk 
+ where we still value  human judgement
+ for architectural projects 
+ because what we really see  or appreciate in these 
+projects is the architectural  eye.
+ But an addendum to that, 
+ we could use AI 
+ to try and make 
+ patterns that we see as  aesthetically pleasing
+ within architectural  projects.
+ For exhibit, 
+ in at arches and curves 
+ within something  that is appreciated
+ and trying to emulate those  and other projects.
+ What is most valued is human  in architectural project.
+ 
+ Like in Hawaii, 
+ if you ever fly into their, 
+ odds are that you will land  at the Honolulu airport
+ and it pretty much doesn't  have any walls.
+ It is kind of open, or at  least the last time I was 
+there. 
+ They don't need it. 
+ But then there  are other things
+ like, 
+ right there behind you 
+ is a lovely plant climbing  up the wall there.
+ If that is considered  a positive aesthetic,
+ then the cognitive  system might say
+ we are designing this  apartment block here
+ and so they all have  to have planters
+ because Tyler's example 
+ shows everybody needs plants. 
+ So you have to be careful  with your training data,
+ it all comes back to  the training data.
+ Last one and probably  the scariest one \'96
+ monitoring social media.  
+Can we bought that 
+ or do people have  to be about?
+ 
+ We discussed mainly  two things
+. 
+ The first thing was  the content of sarcasm
+ and certain figures of speech 
+ because you can say  the same phrase
+ into complete lead  different contexts.
+ One of them can be a joke 
+ and the other could be  something horribly offensive.
+ So having an automated  content monitor
+ could tag both or neither,  or even the wrong one.
+ We also discussed almost  a benefit of it
+ which would be with  the current system,
+ there are human moderators 
+ and there is a ton of mental  health consequences
+ for those moderators. 
+ I think it was last year,  Facebook settled a massive 
+lawsuit.  
+with their moderators 
+ so that could be a benefit  of a strong automated 
+moderator.  
+ Yes, I mean, 
+ solving a real human  shortcoming \'96
+ I don't want to say  shortcoming but limitation \'96
+ you can only deal  with this so much.
+ Some topics are easier  than others.
+ I encountered one fellow 
+ who, when we were doing  an ethical hack,
+ we found a large collection  of pictures
+, 
+ gigabytes of pictures 
+.  
+We were all going for lunch  and he said he was going to 
+stay behind so I asked why,  and he said he wanted to make 
+sure that they were all  pornographic pictures. 
+(Laughs) So he clicked  everyone of them to decide is 
+But it was next definition of  what is a naughty picture.
+ People have tried for years 
+ to identify on social media, 
+ when is this offensive? 
+ Tricky. 
+ I didn't raise  the art question
+ because I only wanted  eight groups
+ but that is a big one. 
+ And finally, we didn't get  to the second breakout
+ because you guys  think so well,
+ what about the externalities? 
+ In the trucking industry, 
+ externalities. 
+ When you 
+ cognitive eyes 
+ the trucking industry, 
+ one of the second and  third layer affects?
+ How would gas  stations change?
+ How would hi way use change? 
+ What would happen to diners 
+ and so on. 
+ Resource management, 
+ if all of a sudden we  started doing a better job,
+ what are the externalities  here? 
+Can we handle the water?  
+For example, solar and  renewables are great
+ but early systems found out 
+ that if the supply of  energy is not steady,
+ or at least predictable, 
+ the grid can handle it. 
+ If it surges up and down 
+ like solar can, 
+ it is more difficult 
+ to incorporate  into the jargon.
+rid 
+. 
+ Highway design and  externalities,
+ we talked about that. 
+ How does it impact  neighbourhoods,
+ what does it do with  resource flow?
+ What are you going  to do here?
+ And of course, monitoring  social media
+ is the big brother 
+ looking over your shoulder  on everything you type.
+ In sending you messages 
+ saying not to do that again. 
+ I don't know, 
+ but externalities are often 
+ not considered. 
+ Any other thoughts  on externalities
+ or example scheme act 
+s 
+? 
+ Somebody needs to say  something about externalities.
+ Tracy hasn't spoken. 
+ Rachel, 
+ anybody? 
+ We are losing people already. 
+ There's Tracy! 
+ I don't know  if it is an externality
+ but with the social  media monitoring,
+ I think it can definitely  bridge into 1984
+ like how do we decide  what is Katie say?
+ Freedom of speech  and all of that.
+ I think that is a hard thing  to draw a hard line on.
+ Very true, 
+ that goes to the (unknown  term) for judgement. 
+Somebody's judgement. 
+ What side effect  would there be,
+ what externality would it be 
+ if social media started 
+ getting 
+ big brother 
+e 
+d? 
+ Would people stop using it? 
+ 
+ I think you can definitely  change the way people think
+ and I don't know, 
+ it can converge  everyone's ideas
+ to what one certain path. 
+ At least everyone who uses  a certain platform may be,
+ it could alienate some views. 
+ Mind control. 
+ And Joseph has a comment. 
+ 
+ Just a quick thing, 
+ to everyone 
+ -- I would find everyone  who disagrees with me
+ and get myself elected  every time.
+ If election results come out  the way I don't like it,
+ who would know if  I control the media?
+ So it sounds pretty fun.  
+ Some countries are  trying to practice that 
+ Alright, I will let you out  about three minutes early.
+ This has been fascinating  as always.
+ A couple of things  coming up \'96
+ Monday we have (Name), 
+ he is an IBM 
+ and has been teaching Watson  longer than there has been 
+Watson. 
+ He will talk about  new cool tools
+ that various companies  in the industry
+ have a to help come up with 
+ the (unknown term). 
+ And then we have  (unknown term)
+ talking about  ethics and bias.
+ And then Friday  we have a quiz,
+ I will be posting guidelines  on the quiz.
+ A little bit further  in the future,
+ a week from Monday, 
+ we have project to debater. 
+ This is a bunch of IBM people 
+ in it (unknown term) 
+ who came up with  a bunch of people
+ -- a system that could  viably complete
+ with the world's Champion  debate participant.
+ Prior to that talk, 
+ you must read the article 
+. 
+ I posted it and I  will post it again
+ but he is going to assume  that you read that article
+ because like a typical  researcher, he doesn't want 
+to bother with the little  things in the details and 
+stuff, he wants to get  to the big thoughts.
+ So I promised him everybody  would have read the article, 
+so please plan on that.  
+a week from Monday.  
+With that, I have wasted  another three minutes of your 

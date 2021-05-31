@@ -1,0 +1,1202 @@
+ OK, 
+ it is 1145 
+ so welcome. 
+ Welcome back after a nice  weekend,
+ relatively nice weather out  there this weekend.
+ Some dirt biking in all  kinds of things going on,
+ now it is raining again so  there you go.
+ Today we are lucky to have 
+ one of my colleagues from  Israel.
+ talking to us 
+ about the Project Debater 
+ and this is one of the most  astonishing
+ systems I have seen 
+ built around the Watson 
+ family of products and  services.
+ As he will tell you, 
+ it has been an interesting  project
+ and now it is moving on 
+ to bigger and better things. 
+ It is also being opened up  for academic
+ access, to some degree. 
+ Yoav Katz 
+ is a senior technical staff  member
+ TSN, at the IBM 
+ research AI lab 
+ in 
+ (unknown term). 
+ As you might guess, he is  managing the debating 
+technologies team.  He gave a talk for our class 
+last year and it was very,  very well received.
+ Up there with (Name) and the  others.
+ So I'm looking forward to  see what has happened with 
+debaters and sun.  Folks, enjoy and Yoav, it is 
+
+ Thank you for having me, I  think it is actually the 
+third time.  So it is always a pleasure
+ and if you have heard about  Project Debater,
+ and you have a chance to  read the recent paper,
+ I hope this will allow us to  have a more interactive
+ session with questions. 
+ You are free to ask anything  you want, I will try to 
+address it the best I can. 
+ My agenda is first to start  with the story of debater,
+ which was not presented in  the paper.
+ And then we get to the part  about how it works,
+ I will review and let you  also ask questions
+ and go a bit deeper. 
+ And finally, 
+ I will talk about what has  happened
+ since the two years 
+ when the system was  introduced.
+ Including the early access  program for it.
+ So, 
+ we all know debating and we  all do it every day, it is a 
+very natural activity.  We have debate class and 
+universities for a long time  and this is a picture from 
+the 19th century from the  Cambridge Union debate club.
+ The oldest of a club in the  world.
+ I will go back to this in a  few slides,
+ throughout this presentation  I will reference it. So 
+Project Debater became the  first data system
+ to successfully engage in a  live debate, it was two years 
+ago and separate Cisco. 
+ -- San Francisco. 
+ (unknown term) 
+ is one of the world's  leading professional debaters
+ and it was broadcast  worldwide,
+ you can also view it right  now on the web
+ if you want to see the full  event. I will show you a 
+short clip of it and you will  get a feeling of what it is 
+like.  To put project debater into 
+context, 
+ we need the history of grand  challenges.
+ These are big, ambitious  projects and IBM research
+, so the one before it 
+ was the Watson system 
+ that beat the all-time  champions in 'Jeopardy!' in 
+2011.  Right after that,
+ there was a proposal for the  entire research community at 
+IBM and the proposals were  submitted.
+ One of them came from a lab  in Israel
+ by Dr Noam Slonim who  suggested to build a system
+ that could debate with  humans.
+ That seemed far-fetched  enough
+ but that is what makes it  interesting.
+ After a lot of review, 
+ approval was given. 
+ Initially 
+ we had a small set of  researchers.
+ Over the years 
+ from 2012 
+ to 2019, 
+ many people joined the team. 
+ We had about 30 people at  the end.
+ Most came from the end 
+ -- Lab in (Name), 
+ but also people from other  IBM labs
+ in Dublin, Ireland 
+, India, 
+ and China. 
+ After the development ended, 
+ it was introduced to the  public in 2019.
+ It was a competitive debate, 
+ and in competitive debate  there are two sides. There is 
+a topic selected and each side 
+ either will support 
+ or oppose the topic. 
+ The topic selected was 
+ we should subsidize preschool 
+, it was relevant at the time 
+ because in California, 
+ the government was proposing  that.
+ It was four minutes of  opening for each side,
+ then form in its rebuttal  and two minutes of summary.
+ Project Debater was designed  to support
+ subsidizing preschools, 
+ while high reach the  opponent,
+ was against it. 
+ I want to mention 
+, I want to show you the clip  right now,
+ the system 
+ was never trained on this  motion.
+ The only thing that was  scripted for this event
+ was the greeting that the  system introduces
+ to hurry. 
+ (Name). 
+ Let's say a few minutes from  the debate.
+ (Video plays) 
+ (Video ends) 
+ 
+ That was a segment from the  debate
+, 
+ you can see the full debate  online.
+ One of the things that was a  grand challenge, was to get 
+enough media exposure to let  people think about it and 
+talk about it.  We really reach a lot of 
+people through watching the  videos and hundreds of press 
+articles. 
+ A year later, 
+ a documentary called The  Debater was introduced at the 
+(unknown term) film Festival. 
+ This also has a version  online, a shortened version, 
+which you can view. 
+ If you really want to  understand more of the story 
+and the people behind it, and  this document tree is good. 
+Another interesting reference 
+ is a new book by Adam Grant  called Think Again
+ I'm a and overall, 
+ it is a good book 
+ about making people  reconsider their positions
+ and to give more attention 
+ to rethinking 
+.  And not only deciding but 
+rethinking and revising your  opinion.
+ It has a chapter that uses  debater as some sort of 
+analogy 
+ and it is interesting to  read it in retrospect, 
+because it identifies  different things that we have 
+done in the debater that in  hindsight we could have done 
+different to make people stay  more and make the system may 
+be more persuasive. 
+ A natural question if you  have not seen the debate,
+ is who won? 
+ It actually highlights a  very interesting point about 
+the whole politics of the  debate. Because unlike
+ previous challenges that  involved games like chess
+ or 'Jeopardy!', 
+ which had a very clear  answer for every question
+ and it is very clear who won. 
+ Debates are very subjective  so how do we determine who is 
+the winner? 
+ Going a second time to the  Cambridge debate club in the 
+beginning, 
+ they had the system set up 
+ since the 19th century 
+ where they had the debates 
+ and there are three 
+ doors to the hallway. 
+ Before debate start, 
+ the audience is given the  topic
+ and they enter by the door 
+ that 
+. 
+ If they are yes, they go  through the yes door,
+ if they are 
+ unknow then they go through  the no door, and if they are 
+undecided they go through the  middle. Then they exit 
+through the door that  represents their new position 
+at their mind was changed.  The organizers count how many 
+people entered and exited to  each door, so they know how 
+many people were swayed by  the different opponents. The 
+opponents at swayed more  votes to the other side, is 
+considered the winner.  So that is a pretty nice 
+approach.  This is also the approach and 
+intelligence for the  television show that cohosted 
+the event, 
+ when they performed their  debates.
+ (unknown term) also use this  approach, of course 
+electronically.  And here we see the results
+ of the poll before the survey 
+ and after the debate. 
+ Before the debate, 79% of  people were supporting
+ of subsidizing preschool, 
+ 8% were undecided and 30%  against.
+ After the debate, 
+ 62% of the people 
+ were supportive of  subsidizing,
+ eight were still undecided  and 30 were against.
+ So in that sense, Harish was  able to sway more votes
+ to his side and hence he was  the winner
+ in that metric.  We also ask another question
+ which is which (unknown term) 
+ your knowledge, and here we  saw at project debater
+ unequivocally one 
+ with 55% 
+ of the audience 
+ saying that it enrich their  knowledge more than Harish.
+ 23 the same and 22 
+, Harish. 
+ This is typical of what was  on other debates
+ with a lot of practice  events as well,
+ that humans are still often  more persuasive.
+ There were cases where the  system
+ beat the opponent 
+, in terms of 
+ tainting the stance. 
+ But consistently we saw that  the system enriches the 
+knowledge of humans. 
+ We really want to use this  to demonstrate the technology,
+ unless you see in the  moment, the goal of 
+technology is not to replace  people really to help them. I 
+think this is a nice story  and we can all stand behind 
+it. 
+ So the next question is how  it works,
+ and if you read the paper, 
+ it really goes into details  of how
+. 
+ Obviously the system was  architected.
+ I will coupler it virtually 
+ and then I will open up the  floor for questions.
+ In essence, 
+ the system is 
+ (Indiscernible). 
+ That is what is given before  the debate.
+ Given this, the system uses  two main sources of data to 
+create its beaches.  First is what we call 
+Argument Mining, and has a  (unknown term) of alert 4 
+million articles which we  licensed from a company 
+called (Name). 
+ It is like the Washington  Post or different journals,
+ and so forth. 
+ What the system does 
+ is ahead of time, 
+ we ingested that 
+ into a search engine 
+ dedicated for 
+ this task. 
+ And doing the event, 
+ the 15 minutes before the  event,
+ week wary 
+ this knowledge base 
+ and receive a set of  (unknown term) sentences
+ that talk about the topic. 
+ From this, we identify  whether they have a claim
+ towards the topic 
+ or potential evidence 
+ and whether they support our  sub-
+ position. 
+ This series of machine  learning components
+ is what identifies 
+ the relevant input to the  speech.
+ This is what we see on the  left-hand side.
+ On the right hand side, 
+ we have this argument  knowledge base.
+ This captures generic  knowledge about debating,
+ the same way that if you go  to a debate class,
+ you will have a teacher  telling you that you can use 
+this type of settings.  For example,
+ if you are talking about  bending something,
+ the principal argument you  can use as if you ban it will 
+cause a black market.  If you ban cigarettes, there 
+will be a black market for  cigarettes. This is of course 
+not true for everything.  If you ban flag burning, 
+there will not be a black  market for flag burning.
+ What it means is you have a  general knowledge of what you 
+can use in the debate but you  still have to see whether it 
+is applicable to the debate  that you have at hand.
+ Here we also use machine  learning to identify one, a 
+principled argument is  relevant to the topic.
+ So we have these arguments  that we mined from the corpus.
+ Specific and for the topic. 
+ Then we have general  arguments and we combine them 
+together in the debate  construction where we put 
+them all together, we  structure them into a 
+narrative which is  compelling. And then we 
+generate from the text and  speech
+ using 
+ organ back to present the  speech of the audience.
+ This is the part 
+ for how we generate speeches  at a high level
+ and I hope you have time to  read more about it.
+ The second part is the  rebuttal.
+ When we listen to the  opponent,
+ what we do is first to  transcribe the script
+, the speech to text, 
+ using IBM commercial speech  to text engine.
+ Within that text, 
+ we try to identify 
+ claims 
+ that the opponent is saying. 
+ How do we know what the  opponent is saying?
+ We do this by examining the  same two sources that we had 
+before.  When we mined argument for 
+the topic, we find arguments  that support our side but 
+also the opponent side. 
+ So maybe the opponent said  what he anticipated we would 
+say and also the knowledge,  maybe there is a principled
+ argument like the banning  example that I gave before
+. 
+ So we take all of these and  talk about whether the person 
+said that.  Of course, they are not 
+saying it 
+ the particular words that we  identified
+ so we have to find whether  they said it semantically
+, equivalent lately. 
+ When the opponent said  something or some claim,
+ now we need to rebut it. 
+ So we find some evidence or  principled argument
+ to counter what the opponent  is saying.
+ This we used to generate the  rebuttal speeches.
+ You can see the overall  architecture is taking this 
+huge problem that seems  (unknown term)
+ and breaking it up into  concrete boxes,
+ each of them doing  particular tasks. Most of 
+them using machine learning 
+ to train the system 
+ to be able to perform such  tasks,
+ such as identifying claims, 
+ understanding the claims  towards the topic
+ and identifying whether a  person said a particular claim
+ in a particular sentence. 
+ So this is the overview of  how it works.
+ I will stop here and 
+ give you an opportunity 
+ to ask questions. 
+ Open up the floor. 
+ 
+ Any questions or comments? 
+ 
+ I was wondering, how did you  do that training
+ with whether it was a good  claim or rebuttal,
+ it seems pretty subjective. 
+ So is it just like people  judging
+ that's objectively? 
+ 
+ Exact. 
+ We use the crowd, 
+ we use a crowdsourcing  platform
+ and we present different  claims and evidence
+ that the system generated. 
+ And then we get feedback  from the crowd.
+ So this feedback we used to  train the system and of 
+course, the topics were not  the topics
+ from which the events were  taken.
+ That was a separate test to  begin training.
+ But it was able to  generalize.
+ For exhibit, it was able to  understand
+ that if something, say, 
+ causes cancer then it is  probably something negative.
+ It doesn't matter what it is. 
+ So that's the type of  generalizations that he can 
+make.  Very effectively.
+ 
+ A follow-up to that \'96 
+ these people that you drafted 
+ to be the crowd, 
+ where they plain old folks  like us?
+ Or were they professional  debaters?
+ Stray IBM 
+ employees in the hallway. 
+ How did you select them? 
+ 
+ Initially, we had our own  in-house team. But then we 
+wanted to scale, we moved to  a (unknown term) platform
+ and had many people joining  this and they got paid for.
+ This opens up a whole new  challenge when you go into 
+that because when you start  paying people,
+ you have to make sure you  get quality. Some people are 
+doing their job in earnest 
+ and some will try to do it  as quickly as they can.
+ So how to identify people 
+ who say for example, the  stance is wrong.
+ They can just select the  wrong answer very quickly.
+ This was a whole problem  that we had to address
+ when we moved to the  (unknown term).
+ 
+ And that fits 
+ because the people who  choose which door to exit from
+ our those normal, average, 
+ nonspecific science people. 
+ 
+ I have a couple of questions. 
+ In these debate competitions, 
+ normally both parties 
+ have a similar amount of  time to prepare.
+ So in this case, 
+ was project debater having  the same amount of time
+ or far less time to go  through these 400 million 
+articles, what was the  timeframe before giving this 
+
+ We did not try to make it  very, very fast
+ because that was not 
+ the main (unknown term). 
+ Unlike 'Jeopardy!' where you  had to answer the questions 
+and three seconds.  Here we had both sides
+ and give them 15 minutes to  prepare.
+ Obviously there are  advantages to the machine
+ who was able to scan 400  million documents
+ and therefore was able to  present more relevant 
+information.  On the other hand,
+ we know that people have a  lot of advantages too.
+ They have lifelong  experience they can leverage
+ and so it is hard to set up 
+ a truly equal level. 
+ It was more for  demonstration.
+ 
+ I see. 
+ A second question I have is  on the argument that we 
+should subsidize preschools, 
+ I think you mentioned but I  may not have caught that,
+ it was very topical at the  time,
+ but how does it know that we  are talking about
+ the US and not Israel or  India?
+ If that was the exact  sentence it was given to 
+ It was not
+ and so it gave him general  arguments
+ for supporting preschool. 
+ It was not referring to the  particular
+ US or California 
+, 
+. 
+ It was interesting to the  audience
+ but as 
+ you say, it was not able to  understand the context
+ of the debate at large. 
+ 
+ Thank you! 
+ X 
+ 
+ Any other questions? 
+ 
+ One of the things that  caught my eye
+ was the use of the metric of 
+ how many people were  convinced as the judge of who 
+ I am wondering how it impacts 
+ but just the fact that  Project Debater was a machine
+ might've had on what people  thought.
+ I am wondering if people  would be more likely
+ to think that it is just a  computer and it got one thing 
+wrong, therefore it is all  terrible. Or if they would 
+think that it clearly knows  better because it is a 
+ It is a question 
+that comes up often and some  people you can say that maybe 
+we can hide the speeches and  let a human read both of 
+them, or a machine to read  both of them, and then they 
+will not know who wrote it.  It will be more objective. So 
+actually, maybe I will show  you in a minute where we did 
+something similar to that,  but as you mentioned, it goes 
+both ways.  It is hard to understand
+ what had a greater effect. 
+ We also wanted it to be very  entertaining,
+ so that is why we made sure 
+ that it was live 
+ and people saw both the  machine,
+ we did not try to hide that  it was a machine.
+ I also want another point to  make,
+ even if you look at the idea  itself
+ of who swayed more votes, 
+ it is a bit problematic. 
+ Because 95% of the people  support one position,
+ then the opponent has 
+ a lot more leeway 
+ to move people to their side, 
+ the one that started with 
+ 95% support. 
+ So it is a problematic metric 
+ but I think it is true in  general.
+ But I think it is one of the  most reasonable
+ (unknown term) and that is  why they used it, it is not 
+
+ You go into that also in the  paper too.
+
+ So obviously, 
+ one of the most difficult  parts of this
+ is going from mining the  stances
+ and mining the background  information
+ to producing a coherent 
+, 
+ a lot of debate is just  making things sound nice 
+rhetorically speaking.  So if you have multiple 
+topics, I guess I am  wondering to what degree \'96
+ first, here is a piece of  argument
+ -- evidence and then second, 
+ how much of the actual  statements
+ that the Watson debater makes 
+ our I guess hardcoded 
+ or pre-scripted 
+, 
+ and a filling in context  sense?
+ And how much of it is  genuinely coming up
+ with new ways of structuring  sentences.
+ 
+ OK, 
+ so first I will show this. 
+ This is the opening speech 
+ of the debate 
+ and what you can see, 
+ is the full text with colour  coding.
+ The colour coding here 
+ is you have claims in pain, 
+ink 
+ evidence in brown or red, 
+ and what it did 
+ is it extracted via mining. 
+ There is a lot of content  that is coming from mining, 
+as you can see. 
+ There are reef razors 
+ that take the original 
+ content and do some  rephrasing on it to make it 
+more clear.  For example,
+ if it says the name of some  person
+ and you are not familiar  with that,
+ then it goes to Wikipedia 
+ and says that that is the  prime Minister of India.
+ So it had some context but  in general,
+ it takes the original  content that it found, 
+re-phrases it, and adds  connecting text.
+ Besides that, 
+ there are principled  arguments that it uses.
+ For example, 
+ when it talks about  subsidies,
+ then it uses 
+ civil arguments around  subsidies
+ and these are then refined 
+ to a specific topic. 
+ If they are talking about  preschools, they will adapted 
+to preschools. 
+ This is similar to what  people do, right, they have 
+principled arguments and they  fulfil a template for a 
+particular (unknown term). 
+ The methodology was not to  generate old new arguments.
+ I can talk about this, 
+ we did do work after the  project on generating claims
+. 
+ But what you notice in all  of the machine learning 
+models of the new generation,  whether it is GTP two or GTP 
+three, 
+ they have this tendency to  hallucinate.
+ Meaning they are very  confident
+ about what they are  generating,
+ they are generating very  fluent speech
+, 
+ but it could be ranging from  absurd
+ to an factually 
+ incorrect. 
+ And we do not want that in  our system.
+ In one sense, 
+ it is taking different  pieces and combining them 
+ If you want to see what is  the percentages,
+ actually in the (unknown  term) paper I think there is 
+a chart there that shows how  much is mine,
+ how much is rebuttal, 
+ how much is templated, 
+ how many principled  arguments and so forth.
+ 
+ It's in there, page 383. 
+ Any other questions? 
+ OK, I get to ask my question. 
+ In the paper, 
+ when you are extending with  the AK BAs,
+ that's the argument  knowledgebase,
+ the text contain 
+ principal arguments and  commonplace examples, great.
+ These texts are authored  manually
+ or extracted automatically 
+ and manually added. 
+ What is the manual bit there? 
+ 
+ We have our own debate  tutors,
+ also still on the team 
+ we have a world leading  debater on our team.
+ We also had an author, 
+ and a sense of someone who is 
+ also in their regular life  writing books.
+ And writing this kind of 
+ knowledge and statements 
+ that could be used in the  speech.
+ So once we have a bank of  statements,
+ we have to select which ones  are appropriate
+ for the particular topic. 
+ This is what I gave an  exhibit of before, where even 
+if I say something about  banning, it is not always 
+appropriate in all cases.  So also if you make a joke, 
+it is not always appropriate  in all contacts. So you have 
+to make sure, 
+ being tactful was not one of  the strengths of the system.
+ It was able to make some  embarrassing mistakes
+ but that part was authored. 
+ It was not making up stories 
+ about Churchill who did  something,
+ these were things that were  either authored
+ or they were extracted by  mining
+ and then we thought they  were interesting so we put 
+ Yes,
+ just to add 
+ the human element, I guess. 
+ Any other questions before  we proceed?
+ 
+ OK, 
+ so in summary, 
+ these are the things that we  have to develop for our 
+ is how to create a  narrative, a compelling 
+narrative, 
+ from the principled arguments 
+ and from the (unknown term)  data.
+ The second thing is  listening on prehension.
+ We use (unknown term)  systems every day,
+ usually you give a single  sentence command
+ and they understand what you  want to do.
+ Here we have to listen to  four minutes and from this
+ continuous speech, identify  what
+ the just of the opponent was  saying.
+ So we didn't understand  every word what the opponent 
+said but we were able to  capture the key claims
+ and arguments that they were  making, so we can rebuttal 
+them.  And finally,
+ this relates to the whole  part of the argument
+ knowledgebase 
+ we have to go to debate  class to learn how to debate.
+ In the beginning, we only  mind the data and evidence
+ and that generates very  boring speeches.
+ If you notice at some point,  the system is asking the 
+opponent's question.  This is a technique to frame 
+the debate in a way that is  more comfortable to you.
+ So they would have to ingest  that into the system as well.
+ This I took from the  (unknown term) paper,
+ they are baselines where we  actually showed people
+ without them knowing 
+ where the speech came from. 
+ Speeches from Project Debater 
+ and speeches from human  experts
+ and all kinds of baselines. 
+ Some of them based on  generative models like 
+(unknown term) two. 
+ We saw significant results 
+ and again, humans are better 
+ than Project Debater. 
+ Whether it is significantly  better in all of the baselines
+, including ones that have  some human intervention in 
+them.  So these other ones that have 
+human, there was some  automatic part
+ and then some 
+ human modification or review. 
+ I guess that shows 
+ exactly where we are. 
+ I think the AI was much  better than anything --
+ actually, there was no  system that was able to rebut
+ but we still have a way here  to go to get to the human 
+
+ How about a question for me  again. I can't stand it,
+ I have to ask if you ever  had debater debate debater?
+ 
+ Project Debater can debate  both sides of an argument.
+ You just have to tell it  that you should subsidize 
+preschools or you should not.  I think often when people say 
+that, they actually mean that  it will debate itself and it 
+will improve.  The problem with that
+ is they do not have any way  to assess
+ whether they are doing well  or not.
+ It is not like chess, you  can play against yourself and 
+if you know the rules then  you see which side one. won
+.  So this leads to the next 
+slide I think or maybe the  one after that, about the 
+differences between this and  other AI and challenges.
+ As he saw, 
+ it was a very big effort 
+, taking almost 7 years. 
+ Or eight. 
+ Asking why is it worth it, 
+ so one part is 
+ academic work. 
+ We probably wrote 50 papers, 
+ we have a tutorial now in 
+ ACL which is the leading  (unknown term) conference.
+, 
+ we had also won in (unknown  term) last year.
+ What I will show next is  this opens the idea
+ for new, real-world  applications, as well.
+ When removed from the  comfort zone of games
+ to saying things that are  more realistic,
+ and some things that work  exceptionally well there
+ but reinforcement learning, 
+ we do not yet know how to  apply it in this context.
+ Where metrics of success 
+ cannot be articulated 
+ and the situation cannot be  assimilated.
+ Now I will jump to 
+, not only what is next but  what is after.
+ After we had the event in  2019,
+ we had the idea of taking it 
+ to another twist. 
+ Project Debater 
+ was able to take a large  corpus of 400 million
+ articles and given a topic, 
+ give us the pros and cons. 
+ Another way to make a  decision
+ as to base it on  stakeholders,
+ to ask people. 
+ Either they could be  customers or employees,
+ or they could be  constituents,
+ and so we built a system 
+ over these technologies  called
+ (Name) 
+ which allows people to  submit their opinions
+ on some topic. 
+ Then the system summarizes  their
+ opinion, as pro or con, 
+ and a narrative or summary 
+ presents their overall  stance.
+ You can see how this become  something
+ more closer to real business  use cases.
+ We demonstrated in a lot of  venues.
+ The Cambridge debate club, 
+ we had a debate 
+ with leading debaters 
+ about whether IA brings 
+ -- AI brings more harm than  good.
+ We demonstrated live 
+ at sink Summit, 
+ where people in the same  hour,
+ 1500 people gave their  opinion about legalizing
+ marijuana. 
+ Most in Israel were prone, 
+ legalization. 
+ Then we had the digital day  in Uganda
+ where we asked the 
+ citizens if they want to  (unknown term) vehicles.
+ We also had a debatable TV  show
+, where I will show ashore 
+ a short clip in a moment. 
+ There was a debate whether  Bailey eyelash
+ is the greatest 
+ icon or not. 
+ They generated speeches 
+ and results from that. 
+ I will show a short clip of 
+ That's Debate 
+ where they had different  things about whether the 
+wealth should be  redistributed,
+ whether the US and China  space race is good for 
+humanity, whether financial  debts
+ would be a concern. 
+ They had a ton of experts 
+ and they want to amend that  with the audience.
+ So what they do is they ask  the audience
+ to submit their arguments,  and then the system
+ summarize their results. 
+ So let's say a short clip 
+ of what it was like. 
+ (Video plays) 
+ 
+ What we're going to be doing  now
+ is bringing in our global  audience.
+ Over the past few weeks, 
+ thousands of people across  the world
+ alerted to this debate  submitted their point of view 
+by making an argument on the  topic. That we will use no 
+artificial intelligence to  help us understand what 
+matters most to this global  audience, what they that were 
+most import.  We did that by turning to IBM 
+Watson, which uses AI to  scale public opinion. Let's 
+
+ First, people around the  world cement their arguments 
+online.  Then the AI assesses the 
+quality of the arguments,  filtering out any irrelevant 
+submissions and sorting the  remaining arguments
+ into for and against. 
+ Next, the technology  identifies a recurring key 
+point, breaking them based on  their
+ quality and their frequency.  Finally,
+ the AI creates a coherent  narrative of this druggist 
+and most prevalent points for  both sides of the debate. 
+ And now we get to  hear a selection of the key 
+point in arguments that our  global audience thought were 
+most important on this topic.  Let's go to that.
+ Hello, 
+ I had of this debate, more  than 3500 arguments were
+ submitted on this debate  about redistributed the well.
+ We used AI models to develop  the critical key points made 
+by each side.  56% were for redistricting 
+wealth, with 23% of the  missions arguing that there is
+ currently too much wealth  and inequality in the world. 
+One argument was that an  equality has increased
+ radically over the past few  decades, causing increasing 
+suffering to large  populations. And that if 
+wealth is not redistribute,  more people will suffer.
+ Another key point was that  redistribution of wealth will 
+allow those with less  opportunity to achieve 
+success.  People also think you'd 
+wealth gaps into social  unrest and decreased security 
+for all.  The remaining 44% were 
+against the motion, 
+ with 15% of submissions  arguing that redistribute and 
+wealth would discourage some  people from working hard.
+ One argument in support of  this is that redistribute in 
+the wealth discourage  individual initiative, 
+entrepreneurship, and account  ability for choices. Please 
+visit the website to see the  full results. Good luck to 
+the human debaters.  (Video ends)
+ 
+ It was interested to hear  the global audience heading 
+on some of the same dividing  lines but there was one I 
+wanted to zero on.  - whether there would be a 
+behavioural impact on those  whose wealth would increase 
+as a result of  redistribution, that it would 
+discourage the desire to  work. Let's take that to you, 
+(Name), that there would be a  moral hazard to 
+redistribution.  What is your take on that 
+ (Video ends) 
+ 
+ One thing that was out in  the original debate system,
+ is right here we also saw  how prevalent its opinion is.
+ 53% of the people are  thinking
+, and I think this is  important
+ especially 
+ when you really want to  count how many people are 
+saying that versus finding  things in a (unknown term).
+ You want to get both 
+ the high quality 
+ insights and opinions 
+ and their prevalence. 
+ So this is what we have done 
+, actually excited the  technology
+ beyond the original debate  system.
+ The next thing I think 
+ is also that this was live, 
+ so the system identified  something from the crowd
+ that the expert debaters did  not mention before in the 
+show.  It really shows
+ that you can get insights  from other people,
+ these are experts, 
+ and it can drive the debate  forward.
+ I think it was also a nice 
+ thing that we did not  anticipate.
+ Obviously there are a lot of  businesses uses
+ that can be used. 
+ For exhibit, you can analyse  complaint logs.
+ This is from the financial  bureau
+ database for the US  government
+ about financial complaint  about tipping companies.
+ You can see, 
+ 14 people complained 
+ that the amounts on their  credit report was incorrect.
+ 7% said they were paid in  full.
+ The nice thing about this 
+ is it is fully automatic. 
+ You put in your tax and you  get back these kinds of 
+numbers.  I think you should ignore the 
+percentages, 
+ there is not actually this  type of accuracy
+ but you really get a feel of  what is more prevalent
+ and what is not. 
+ Use also what we have done, 
+ with (unknown term) this is  what you saw before,
+ but we also integrated  things into the Watson product
+ and some of the components  already.
+ We start to work with  clients on new business use 
+cases and what is interesting  to you also,
+ as I would package these API  as containers
+ and put them on IBM cloud. 
+ So they are accessible for  people
+ and for academic use, it is  free.
+ So if you go to the website, 
+ and all of the links will be  available at the end,
+ I can share with you also  the slides,
+ so you can login 
+ and you can run different  examples.
+ I see the different 
+ (unknown term) there. 
+ This is a screenshot, 
+ you see here all of the APIs. 
+ Claim detection, evidence  detection,
+ argument quality, 
+ all of the ones that we saw  on the chart originally are 
+now available here on the  web. And also, narrative 
+generation and also keyboard  analysis
+ from an older slide. 
+ Here are some links to where  you can learn more,
+ I think I mentioned them  during the show.
+ Or the paper you already  read.
+ You have the early access  program where you can access
+ new documentation and  examples.
+ And you can watch the event  itself
+ or the documentary, as well. 
+ So I will stop again. 
+ If there are any questions, 
+ or comments? 
+ 
+ Thoughts? 
+ Comments? 
+ OK, 
+ and you said it is available  on IBM cloud.
+ I am going to go look for it  right now
+
+ I can show it in just a  second
+, if I can switch to it. 
+ Do you see it now? 
+ I will send you the link 
+ and you can share it. 
+ You login as a guest first, 
+ you have to sign a legal  agreement,
+ don't put in confidential or  personal data,
+ and then you get to Watson. 
+ You see all of the services. 
+ For each service, let's go  to pro/con,
+ it says that social media  disproportionately
+ promotes fake news. 
+ So you run it and you get a  score.
+ So if it is close to one, 
+ it means that it supports  the topic.
+ If it is close to -1, it  means it is against.
+ You can play around, you can  play with this and see how it 
+works. 
+ It is hard for me to see  because of the screen sharing
+ but you also have here a  full example
+ of how to combine the  different services
+ to get like a narrative from  Wikipedia,
+ or finalize a survey. 
+ We are also creating a  tutorial right now.
+ So if people actually want  to use it,
+ there is a lot of resources  we can share.
+ Try it out and maybe you can  build something nice, or 
+
+ We are coming up on defining  our term projects in teams of 
+three, so we may be coming  back to you there.
+ 
+ My question is kind of on  the fringe
+ because I know we are  talking about how this can 
+help businesses instead of  actually arguing on stage.
+ But has there been any work  to improve
+ the text to speech 
+ to add inflection, 
+ or 
+ part of the reason why  humans are so convincing 
+during a speech is because  they add inflection or 
+emphasis to certain parts of  their argument.
+ Has there been any work to  improve that aspect of it,
+
+ If you compare 
+ the voice 
+ of the jeopardy system 
+ from 2011 
+ and the voice here, 
+ you can actually see the  improvement
+ that you are saying. 
+ But it is definitely not a  human level.
+ If you take the Watson text  to speech that you have right 
+now, if you go to the IBM  cloud, it will be better than 
+what we have here.  So it is continually improving
+ and I am sure in five years, 
+ it will be even smoother 
+ and less mechanical. 
+ Maybe it will be even harder 
+ to identify 
+ if it is a human or a  machine.
+ 
+ Other questions? 
+ How did you come up with the  joke about poverty?
+ Was that canned 
+ because usually AI systems  are very crummy Joe tellers.
+ 
+ This falls into, you have a  set of arguments
+ or generic content. 
+ We had a set of jokes and we  tried to choose the right one
+, at the right point.  And again, if you think about
+ it people are often doing  the same.
+ They tell the joke at the  appropriate time, hopefully.
+ It did not come up with the  joke though, it was authored.
+ 
+ I know what I am doing this  afternoon. (Laughs)
+ I will be fooling around  with this.
+ Any other questions or  comments
+ about the current or future  applications
+? 
+ The example you have up  there,
+ I guess that is Python, 
+ pretty straightforward 
+, it looks like. 
+ Would you say 
+ -- 
+ what is the hard part, then, 
+ of sticking this altogether 
+ into something you might  find interesting?
+ It is not the code, because  that is right there.
+ 
+ I think 
+ running the data, you can do  it very quickly
+ and I think also, what we  see right now
+ is that the most useful thing 
+ is for exhibit, analysing  surveys
+ or social media. 
+ But when you go into that, 
+ it's arts getting more  complex because many of these 
+models were trained on news  focus.
+ And then you work on social  media,
+ the language is different. 
+ So you get different results, 
+ you do not get as good a  result as you would expect.
+ So you have to customize it. 
+ I think the challenge 
+, and I think when people  come to us
+ they see this debate system  and they think
+ that machines can do  anything,.
+ The last thing I heard is 
+ can we have debater recommend 
+ and the dates were single  people
+, saying you should go with  this person or that person.
+ (Laughs) 
+ And when you read how it  works,
+ you understand that unless  there is a corpus of data
+ saying why 
+at 
+ are the positive things and  negative things about each 
+person with millions of data. 
+ So I think the key challenge  is really to find something
+ -- to have the domain 
+ and have it still work. 
+ Can I run it on Twitter? 
+ Right, 
+ maybe I need to do some  paraphrasing of the tweets
+ before I pass it to debater. 
+ So I do this extra work 
+ but then I can use debater  to extract the key parts.
+ So that would be an  interesting direction.
+ 
+ The first one that came to  mind for me
+ was assuming that 
+ elected officials actually  are concerned
+ with what their constituents  think,
+ why wouldn't a politician 
+ want to use a debater 
+ like system 
+ to say tell me what you think 
+ and have the debater chew on  all of that
+ to produce an overall  opinion?
+ Of the constituents. 
+ 
+ We are actually talking with  government
+ about trying it out. 
+ To understand, now in Europe  the whole issue of 
+vaccinations, there are many  people who are against it.
+ It is a way to understand  why people are against it and 
+how that changes over time,  so you could send a survey 
+one, two, three \'96 do you plan  to vaccinate, do you not,.
+ But then you have the why  and you get this text
+ and if people answer, what  do you do if you get 30,000 
+answers connect This is what  I think technology is like.
+ This is what technology can  do,
+ it can summarize 30,000  opinions.
+ We actually use it ourselves  on the IBM internal
+, we have over 300,000  employees.
+ So it was used to analyse  all of their assert
+ direct feedback in a survey  recently.
+ 
+ I am just kind of riffing  here
+ because I don't want to stop  talking about this.
+ Votes 
+ are either yes or no. 
+ And sometimes people have  trouble
+ making that decision, yes or  no.
+ I wonder if they were given  the opportunity
+ of yes, no or a statement. 
+ It would be interesting to  analyse the statement
+ and see what they really  think, or help them decide.
+ Of course, 
+ it brings up the idea of big  brother and everything else 
+like that.  Maybe that's crazy but, 
+anyway.  I'll be quiet.
+ Anybody else have questions  or comments?
+ 
+ One thing I notice 
+ in the chart on the paper 
+ about the different  quantities
+ - 
+ am I correct that the low  and the high,
+ so there is two bars in the  high bar is in the higher 
+ranked performances by the  debaters. Is that correct?
+ 
+ Are you referring to this  slide?
+ To the slide in the paper or  the slide that I showed here
+
+ In the paper there is a bar  chart
+ with the word count. 
+ And had different categories 
+, 
+ it talks about high and low  early in the paper.
+ So the ones that don't have  the stripe through them,
+ they are just generally  better performances, is that 
+
+ I don't recall that 
+ but I do remember that the  higher performances
+ are ones with less context 
+ and more with rich content 
+ that is from the mining. 
+ Is that what you're  referring to?
+ Yeah 
+ but it looks like 
+ the differences 
+- 
+ maybe it is self is  planetary but in the higher 
+ones, all of the categories  have more words
+.  Just the mind category is 
+three or four times bigger so  I guess is that just because 
+mind is repeating arguments  that other people have made?
+ So it is were fighting back  humans or is there another 
+
+ When you're given a topic 
+ and the system actually  always finds a lot of data
+ but it is not often  competent.
+ We want to make sure that  the system
+ does not accidentally  support the other side or say 
+irrelevant things, so there  is a threshold. If a 
+threshold is high but there  is little confidence in most 
+of the arguments, then you  are left with very few 
+arguments and that makes her  speech less convincing.
+ Or if you talk about  something where you have a 
+lot of arguments and you can  show different perspectives 
+and these are clustered into  different paragraphs that are 
+each self-contained, then  people read the speech
+ and they are a lot more  confident. So the longer the 
+speech, it indicates that we  were more confident in the 
+content.  Meaning that the content is 
+probably better and that is  why it is better results.
+ 
+ I was just wondering, 
+ do you think there is  anything that is stopping
+ debater from reaching 
+ the state of complex city  and nuanced
+ of humans to make, 
+ or theoretically with enough  training?
+ Do you think that is possible 
+ or do you think it is  already there?
+ 
+ There is a gap 
+ and competitive debate 
+ is also a very particular  format
+ of debate. 
+ There is no system in the  world
+ that can do what we are  doing right now.
+ Lessening at that level, 
+ responding to the question, 
+ so there is a huge gap for  AI in the world
+ between us and machines. 
+ So I don't think we are  close, it is true \'96
+ I think you see also in  other measures that if you 
+look at particular problems  and you invest enough 
+research, you can get close. 
+ But even in things that are, 
+ if you look at the common  (unknown term) benchmark
+ inference, 
+ you see that you can get  very good results
+ for logical inference 
+ but still, 
+ you can make 
+ examples that any human 
+ would clearly solve the  problem understand it.
+ While the machine will be  perplexed
+ and will give you the  opposite.
+ Just like adding an  unrelated word
+ something like that. 
+ So the problem with AI still 
+ is that it is (unknown term). 
+ It is very good if you focus  it on something but if you 
+want to expand it, it will  take a lot of
+
+ I couldn't agree more. 
+ As we'll see in our projects  and homework,
+ it is easy to confuse. 
+ Well, I didn't think you  could give a more interesting 
+talk than you did last time  but each time, you knock it 
+further out of the park.  Again, thank you for your 
+time.  I know it is a little bit 
+later there, it is time to go  home. (Laughs) Even 
+researchers eventually go  home. Again, thank you very 
+much.  In folks, if you have not read the paper then please do. 
+ It goes into as much detail 
+ as any of us can handle 
+ and there are lots of  references at the end.
+ With that, we will call it a  day.
+ See you back on Wednesday 
+ when we have James (Name)  from Watson health
+ telling us what is around  the corner

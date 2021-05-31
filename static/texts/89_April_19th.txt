@@ -1,0 +1,656 @@
+ Alright let's try a little Ai generated music.
+ From the same people that brought you.
+ gbt three, which is the open Ai project that has been used to generate.
+ very realistic text.
+ This is from actually project from them, two years ago where they took samples of regular music music by humans and use them as sort of a prompt.
+ similar to the one we talked about the first day of class.
+ and salt tried to figure out what it was going to come out with so here's one.
+ prompted it with some.
+ Some jazz.
+ sounds right little it's a little Chopin chopin's who's been one of their favorites.
+ let's do one more what people are gathering let's see those another rachmaninoff.
+ Chopin.
+ They actually held a concert.
+ In the.
+ there.
+ us now they called it came up with a bunch of music for an hour and a half concert and they had never heard the music before what cut Okay, do you go to the website.
+ That was prompted with a band called journey that your parents listened to.
+ And then, it just took off from there.
+ A little bit of a divergent version but still fun still fun so let's get back to our.
+ excitement today let's see stop sharing yes okay.
+ So today we're going to worry about language.
+ Have you ever been misunderstood.
+ Of course.
+ We all are.
+ And there's lots of ways that can happen.
+ Languages, do we have anyone here who was willing to share that English is not their first language.
+ yeah Joseph.
+ Polish yep so so did you find English to be.
+straightforward.
+ um I kind of didn't actually like no other roles I just picked it up from like everybody speaking around me.
+ I didn't know like how to put anything together, I just like felt all this feels right this doesn't feel right, and then I learned the rules and they were annoying, but let me tell you Polish rules are much worse.
+ Oh, they didn't have to learn those ever.
+ Oh well, that's good to hear.
+Danielle.
+ yeah I spoke Chinese at home until I went to the first day of kindergarten and didn't know how to say anything and kind of just picked up English at school.
+ And now I think my English is way better than my Chinese so.
+ don't easy.
+ we're trying very hard not to lose cajun French in Louisiana but.
+ it's it's a challenge yeah carolyn Catarina yes.
+ Spanish is my first language and like Danielle I didn't learn English until I went to preschool so I don't really remember learning English, but I do try to help my.
+ grandma learn English she goes to school, every day, even though she's 85 and the rules are just terrible like she's like, why do you say it this way and i'm like that doesn't make any sense I don't know what to tell you.
+ know just cuz we do.
+ And if you try to dig it out.
+ A lot of the motivations for these things are.
+ It just happened that way or it's based on like have you heard old people like me say what did you dial the number talking about calling someone.
+ Have you ever seen a phone that has actual spinning dial thing on it, you know.
+ play an album you may never have seen a 33 and a third or PM big flat piece of vinyl with music on it, so a lot of things change.
+ Then there's there's just outright goofy.
+ That.
+ it's it's really hard to put up with, but it is what it is, you know noses one but feet smell wait wait.
+ i'm in New York, you drive on a parkway but you parked in the driveway.
+ I can't imagine what it's like to learn this nutty language.
+ Well immersion is probably Okay, but you can understand how people get confused.
+ But how do we resolve this, how do we, you know when someone walks up to you, and calls you a wise man or a wise I guess wise man would work wise woman might not because of it goofy language it's trying.
+ But an alarm goes off.
+ How would you know.
+ What that means just experience.
+ I guess is there a difference between the House burning up a burning down.
+ How about this one, I heard over the weekend.
+ A fine.
+ Is a tax for doing something bad.
+ But a tax is a fine for doing something well.
+ These are hard enough for us to understand.
+ Can you imagine.
+ How hard is has been to get natural language understanding we do this, all day we do it increasingly by digital means I mean digital voice, I mean texting.
+ Now, do you have any examples of being misunderstood and the text.
+ what's missing text.
+ E motion, perhaps.
+ that's why we have the Multi cons right there's so many of them now I don't really know what they mean.
+ punctuation is sometimes a problem.
+ there's all sorts of examples of that some of them quite quite similar.
+ But when we use these we just use words.
+ it's it's risky.
+ it's a challenge.
+ And people are trying to get their Ai is to do language so that they can talk with people and be more efficient, be a better partner.
+ To the human.
+ Alright, so people have been thinking about this for a while and it's a primary distinguishing characteristic between humans and other animals.
+ We use words to communicate think remember stuff.
+ assign things to categories and label individuals.
+ keeping track of people keeping track of things.
+ and so on.
+ there's all kinds of studies which that have said, if you write it down you actually hear a lecture and you're actually right like I always see Catarina writing.
+ It helps you remember stuff.
+ You unless you're meaning you can't right.
+ that's the discussion okay so here's another example.
+ From Melanie Mitchell.
+ case you can't see a man goes into a restaurant or is a hamburger cooked rare renew drives it is burned to a crisp waitress stop by the man's tables as how's the murder.
+ He says oh it's just great he said pushing back his chair and storming out of the restaurant without paying and she yelled after him hey What about the bill, and he just didn't come back and didn't understand why he's so bent out of shape.
+ So just reading the text.
+ Unless I inflected it like I did.
+ You might not immediately realize that he's being sarcastic if you're not a standard English speaker, or at least experienced being around sarcastic Americans.
+ But a.
+ Computer natural language understanding system.
+ This is really hard, are there any q's any clues at all in this text.
+ That would lead the computer to understand.
+ The fella wasn't happy.
+ When he ordered it one way and it showed up another.
+ But just to say that use the word great and wander out that's.
+ that's really hard.
+ So clarity is a problem.
+ Well, sometimes we.
+ We text someone with text my wife to protect from the boys.
+ Often text the wrong boy it happens i'm sure none of you accidentally texting me to somebody else you didn't attend.
+ So there's there's the errant message than there is confusing messages, like the one generate about the man here.
+ What would a machine have to do to understand this better.
+ would have.
+ What does it What does all the background knowledge.
+ Because if you just go by the words you're not going to get it.
+ So what how many different things, what sort of things would the system have to understand.
+ To be able to.
+ understand this paragraph, this this scenario.
+ what's all part of the.
+ Part of the plan part of the process here.
+ give you again restaurants.
+ or places that sell food.
+ Okay, so man went into a restaurant okay man Okay, could be a person doesn't matter.
+ The waitress that's equivalent that has to know that that's someone who works there happens to be female and.
+ went had something to do with the burden of burgers food, by the way than it has to be cooked and rare as a kind burnt to a crisp is another time.
+ there's a huge amount of background.
+ And we read it was just yeah okay.
+ But.
+ Imagine, starting from a blank sheet.
+Okay.
+ And the bill.
+ And in.
+ In France it's the the ludus young the song.
+ Okay.
+ we're in different language and you're catching the viewer in a restaurant speaking Spanish.
+ What is the direct translation of the word for bill, what would that be in Spanish.
+ That when the account.
+ translate over okay.
+ yeah and we say the bill, and someone from another country might think, why are you talking about an animals mouth.
+ honker.
+ And yeah so so there's differences like that there's differences in culture in Louisiana.
+ When you go to the groceries you come back and you don't put the groceries away you save the groceries just like when you get the dishwasher you're saving the dishes.
+ And before you go to the grocery you tell your friend okay i'm going to go make groceries.
+ that's just local.
+ has to do with the French and Creole background, but that that's part of it.
+ So if we all spoke, the same fancy fancy standard Esperanto or whatever, this would be a lot easier, but that's no good, because we want Watson and all these other systems to read anything people have written.
+ And so they're going to be native speakers.
+ sloppy speakers.
+ People talking in a hurry.
+ People not thinking about the word their word choice people not realizing you don't have the context.
+ And it's not just written text there's spoken text and I started off today by asking is anybody ever been misunderstood does anybody do like me and mumble occasionally.
+ It didn't cause you any trouble did it.
+ Yes, officer I realize, I was speeding.
+ You never know.
+ And then you look around what's wrong with you do what I said I didn't hear you and, of course, teenagers have an amazing ability to misunderstand things.
+ My wife, has a theory that, as you have been together longer and longer the frequency response that corresponds to your spouse's voice, but tends to sort of wear out and I don't know if that's true or not, but.
+ She just says, I have selective hearing Okay, so our speech is not always understood, even when we talk.
+ it's not always clear.
+ Put that down what i'm holding two things.
+ Okay, we talked to the dogs like like they have a clue right, of course not.
+ you've all seen.
+ Bart Simpson.
+ was a bark let's see no, no, no, it was Charlie brown Charlie brown whenever the teacher would speak it was always mark mark mark mark mark.
+ doesn't really understand, so we run into a lot of them now, we have alexa we have somebody else somebody new to confuse.
+ So what are some when we use we assuming we actually.
+ Get the words into a system, what are some of the things that might confuse the word and we talked about some of those already with this slide here.
+ i'm.
+ noses run feet smell.
+ An old comedian a George carlin delighted these things, these little examples where you could say a word one way, but you couldn't say them the other because double meanings.
+ About poor word ships.
+ Not necessarily bad vocabulary just.
+ Perhaps not commonly used like save the dishes.
+ Okay they're not they're not about to.
+ be kidnapped they're they're not about the ground.
+ Putting them away.
+ Can you think of anything else that can confuse language or situations where languages, sometimes hard to figure out.
+ From your own experience.
+ don't you.
+ Like synonyms like if you're saying like right to right or like right like correct or other similar situations.
+ Yes, written that's not so bad.
+ verbal oh boy, you can really get into some trouble there and certain confuse natural language understanding or speech understanding system more are you sure.
+ yeah to just build off of donations example even like for words that have I forget the technical term but like wasn't have the same spelling but mean two different things like.
+ Even the context of like reading the word read as opposed to reading it as read, and if you're using a like Watson like to text to speech or something that then even Watson has to capture the context in which I want to hear it.
+ So that's also something interesting about the language itself.
+ Yes, the Red Book or the red.
+book.
+ Oh yes, then you know.
+ I feel like I see this pop up on like social media with people complaining about English sometimes.
+ But i'll be things like.
+ There was some phrase were like when you emphasize different parts of the sentence that like meant different things, and goes the sentence, it was like something like I never said she stole your money and like if you emphasize each of those words.
+ It like means something else, like don't say it mentor or like not your money someone else's money, etc.
+ And then yeah similar to Irish I also like the fact that things that like Ryan, when you don't expect them to because English borrows from so many other languages like.
+ Like a one that I saw that a day think is like the word tier.
+ can mean like you know, like tear from crying versus tear like you're tearing paper, but like can be pronounced slightly differently.
+ Like very subtly and speech to text.
+ what's this.
+ What am I, one of my buddies.
+ met the the person of his dreams and the person was from China.
+ And so, he just decided, he was going to learn Chinese.
+ little boy from the south.
+ And he did, but the thing that got him in trouble were the very, very subtle intonations that can I can't I don't have any examples.
+ But he was just saying how much trouble you could get into it's just a very slight difference in intonation which, as you know, Americans don't seem that don't seem to have.
+ Avi.
+ Sorry i'm you been kind of along those lines, I think it's even hard for you to spell because context to sometimes so, for example with TIM can mean like giving your server.
+ But could also be in something along the lines of like a pencil good, and I think Jim with some friends well into like a guest stuff be some clues and again the clue dear and we realize there's like four different meanings because everyone like pick their own item.
+ And that's hard for humans have like a computer at the COP contextual clues can be difficult.
+ yeah yeah.
+ Sometimes we have to get against.
+ And Joseph.
+ yeah I mean minus a little bit more traditional so I work a lot with like translated works, these are usually translated by like you know, a machine.
+ So then, you know the sentence comes out technically correct, but very mangled.
+ Right and you're like well like you know, we need to rewrite that in order to actually make it make sense right, but all the words are technically the correct translations right and.
+ example that i'll give you is that the song let it go in English when it gets translated to Polish it comes out as I got the power instead.
+ Which is not quite the same thing.
+ Yes, translations.
+ Often entertaining.
+ And we kind of you'd kind of touched on all of these things slang and cultural terms, what about those doctors notes.
+ I don't mean prescriptions, we know those are encrypted that's a different problem, but the the visit notes that your doctor takes when you visit.
+ If you ever look at them it's interesting they don't include a complete narrative they're not complete sentences necessarily and it's written in sort of a doctor code kind of thing they use abbreviations, and all kinds of stuff.
+ But if we're training the cognitive system to understand medical records then then you're going to have to learn that stuff, which is an example of job specific jargon.
+ We mentioned that earlier in the term when we're talking about training Watson.
+ Particular.
+ Sorry, my co authors there's forgetting when I teach.
+ Job specific Dr mcgee will go on from there um text messages we talked about that tweets.
+ The the the character limit on tweets often leads to confusion, I guess that's changing snapchat.
+ It can you even send pictures that confuse people.
+ Yes, if you can't parse the picture you can understand the message.
+ What about academic papers.
+ They have a particular style of writing.
+ Particular.
+ format, you know in La or I Tripoli, or whatever.
+ Those can be challenging without legal stuff it's a whole nother language.
+ The less he and the less or.
+ They the student and all of these terms.
+ That i'm not even sure most of us would understand right or maybe less the less or because you may have had an apartment but some of this stuff is really weird then there's treaties, of course, and it just goes on and on.
+ So there's all kinds of ways, even verbal speech.
+ can be a challenge.
+ And we got to try to do better than that.
+ And I guess, we already mentioned.
+ We don't always tell the whole story.
+ When i'm explaining a merit badge counter to counseling for boy scouts.
+ And I go rattling off explaining something about astronomy or chest, the two merit badges I do.
+ And you know there's a few basic concepts that I sometimes forget that.
+ My audience might not understand it might not be the full grasp of.
+ And so i'm running off and then the hands go up and it's.
+ Hot.
+ And it's I mean your folks you folks are a lot older than these scouts and you can kind of read between the lines, because of your experience but they don't have the experience, so I have to be a lot more specific.
+ Would.
+ When I read that earlier.
+ But we have a chat message from somebody.
+ Blue boy Oh yes, really, yes, the blue black versus white gold dress is a good example of those goofy confusing images yes status it's too bad that our.
+ visual recognitions thing has no longer working, because we have loved to have handed at the blue dress but but, but nevertheless.
+ Okay anyway um emotion.
+ Stressing certain words.
+ Can imply different things like in our example from Melanie Mitchell the the hamburger example well it's great.
+ For it's great it's it's different.
+ And we're trained our ears are trained our brains are trying to understand the subtleties sentiment.
+ know is a happy sad angry that sort of thing.
+ Another thing that's difficult to to pull out of text or conversation is relationships.
+ you're in two people talking.
+ Maybe it's a narrative in a novel.
+ or a record from a court if it's not labeled defendant yes your honor I did.
+ That sort of a thing if it's not labeled you might not it might be hard to figure out who's talking.
+ In America there, so the relationships are tough manager employee relations teacher student parent child dog.
+ dog veterinary he has every dog veterinarian that relationships pretty clear.
+ With least you hope man bites dog.
+ It doesn't make any sense dog bites man oh yeah sure.
+ craziness roles, you know the boss, and so on, so.
+ Understanding language, this is another comment from Melanie Mitchell.
+ Understanding language, including the part that's not verbalized it's not said.
+ This is fundamental.
+ can't read between the lines for understand.
+ The backstory whether its history or.
+ Other meanings for those words were in trouble the House burns on.
+ Ship by truck we're seeing cargo Bay ship.
+ Okay.
+ Very context or any.
+ Other forms of of text that we want our systems to be able to understand, written by humans so it's a natural language.
+ But it's sometimes hard to get at that might be a PDF.
+ If you've ever looked at a PDF just without a PDF reader oh it's a mess.
+ Microsoft word and pages files aren't so bad, you can kind of make out what's going on.
+ Video.
+ If their speech in the video might depend.
+ On what what's going on the video if you're going to be able to understand them, the hope there is that in the videographer made the movie.
+ They worried about sound, but notes.
+ Even our.
+ Official note taker or caption person is faced with this, because if I mumble.
+ mumble there's a problem there's a little gap i'm waiting to see what she says Oh, she put in laughs that's cheating she or he I don't actually know okay so.
+ it's sometimes the language is hard to search because of the form that it's in.
+ And of course the implied content, energy and discrete specific jargon and so on, the world of security is full of these things, full of examples of bad language use or the interaction of languages.
+ At the research lab.
+ There was a concern.
+ raised that people were printing out confidential paper confidential information on the Community printers in the hallway.
+ And someone who didn't quite understand the whole problem said oh Okay, and they implemented something to watch for.
+ Confidential the word IBM confidential, excuse me the two words together in anything that was headed to the printer and then they said that we won't print them.
+ Well then, people started taking pictures of their confidential information and printing that.
+ And they weren't able to parse the pictures sometimes our text is a screenshot or the picture.
+ Video Even so, it can be very, very, very busy.
+ And then, not everybody writes in the form that the.
+ Military does, which is called bluff.
+ bottom line up front bluff not everybody writes like that.
+ Sometimes you have to go through the entire document before you get to the point.
+ Where the point you're looking for so.
+ Do you read everything every sentence stop and ponder and then read the next one and ponder some more and make sure you understand it, or do you have to skim over things just just to stay away probably scanning if you're good at it, you don't miss any things you're not.
+ Think about Watson trying to make the movie the movie trailer.
+ it's sort of like building an executive summary only with video and a little bit of fine to stir up the emotions.
+ In fact that's a pretty good example of how Watson was able to understand being taught, excuse me, was taught to understand.
+ This is a tender moment, this is a tense moment.
+ Also, the language changes in the way people speak changed so lots of little hints for Joseph has something to say.
+ I mean, I guess, on a quick note i'm sure music would probably help with that, but I just want to say that, in terms of the printers that I had the architects designing one of the buildings here at Dartmouth accidentally print print to my printer before so.
+ yeah that that that has happened.
+ yeah, so I hope it wasn't a long document.
+ Thankfully, I think they realized like halfway and they click cancel, but I still got some of the Doc.
+ Yes.
+Okay.
+ And then there's another aspect of language, too, is once you read it, and you finally think you kind of sort of maybe understand it.
+ You try to remember.
+ Some things will help you remember some things won't but also if somebody asks you like.
+ That I don't know what the oral exam of some sort i'm gonna meet a dentist I mean like for a Masters or PhD.
+ Why do you think that's so questioning of fact you need to come back and say, well, I read it and.
+ holeman version two of their compiler book.
+ Something like that you have to be able to remember where you heard it.
+ Otherwise, people might not understand or they might not believe you.
+ manual searches is always painful we don't want to do that at all, so we want Watson to do it for us.
+ The first real push in Watson and for most cognitive systems is natural language.
+ partially because it's very helpful and because it's very hard, the book talks about that.
+ chisel application that eats legal information and helps you decide how much to disclose when you have to disclose.
+ information to the to the opponent.
+ US government military those guys and gals they have the same problem is this classify it or not.
+ it's even more complicated there because it can be subsets and.
+ That, if any piece of this set is confidential, then the whole thing is confidential so it's crazy.
+ But they started with Watson on something like jeopardy, they weren't already playing around with word understanding and English understanding the jeopardy was were really took it took place if you've ever seen the jeopardy game it's.
+ The the game board has a bunch of categories and each category has an answer, and you have to come up with the question.
+ So, if it was something like Washington DC the question might be the what is the capital of the United States okay usually they're much harder than that.
+ With puns.
+ Where a word is used.
+ In a strange way I can think of upon at the moment.
+ Maybe maybe i'll be can think of upon or Danielle I don't know but anyway.
+ upon his his wordplay and making making the joke.
+ A lot of indirection a lot of misdirection all kinds of challenges, and so, for Watson, to be able to understand the game, it had to have a very thorough understanding what just like any contestant.
+ That didn't know how language works.
+ It had to know understand how to pull that language apart and make sense of this is not a natural language processing class, this is not machine learning we're going to use it, but all this noise, for the first half hour here has been.
+ This is hard.
+ It took it was a 70 people for years to knock that out, and it was really sort of a.
+ sort of an Ai Manhattan project for us that we finally got it.
+ Okay, and they did okay.
+ And since then well lots of other things.
+ But language is actually central to pretty much all of the Watson capabilities now, with the exception of video but still have one of the primary users of the new video services.
+ Reading things and video.
+ So license plates.
+ Think think.
+ Enforcement trying to be the license plate of a car headed towards what was soon to be a bombing seen.
+ All kinds of stuff right so.
+ Why don't we give this a shot let's look at the kind of things we've got we're going to learn before we get started, so our.
+ Our concepts.
+ are just sometimes a good place to start concepts like life, human dog book basic stuff in entities important people President.
+ P that's actually tricky because it depends.
+ Either you're talking about the current president.
+ Any President.
+ The past President.
+ or the President of the lions club.
+ The President of your building whatever you've got.
+ Lots of challenges there the different organizations of course keywords.
+ keywords very with subject.
+ So for a doctor a keyword is.
+ Low.
+ temperature.
+ was also a key word for the weatherman.
+ weather forecasts okay.
+ And it's.
+ Important to the concrete contractor outside she's been out there, making sure that the right temperature is going on, because concrete doesn't like cold apparent.
+ categories.
+ Trying to.
+ Tell us your content trying to characterize your content into different groups will look at that.
+ sentiment is this a positive or negative statement is this person is this text.
+ and supportive something is it critical of something.
+ Happy sad that's the emotions.
+ You know if someone tells you something you can hear you can hear in their voice if they're happy or sad do you have my test results, yes, I do they're good you knew that before they said they're good, because you assume the culture that you're in.
+ They wouldn't be happy to tell you that you've got.
+ gangrene something terrible.
+ that's the sad and upset and the culture.
+ Relationships sometimes it's hard to figure out the relationships between entities when you're reading something.
+ You might have to flip a few pages back and figure that out the role of these things, and then there's data about the data that's all metadata yes, so if you're reading a book.
+ In the author is Arthur Clarke, it might be useful to know that the book was written by Arthur Clarke, or when it was published or along It is that sort of thing all those things really don't have anything to do with the content, but they might be useful later if a question comes in.
+ Have you read any books by Arthur C Clarke.
+ Well yeah.
+ Right.
+ Now any questions so far I guess we're good okay.
+ Okay, so let's take a look.
+ At the wonderful world.
+ Of.
+ The IBM cloud here.
+ And again, this is not an advertising for IBM that's the only one, I know so that's what we'll do so I logged into the cloud, let me share my share the right screen here Lou share.
+ see if it works, this time.
+ it's all good Okay, so I logged into the cloud and it brings me up to my dashboard.
+ And you've already seen this because most of you started, if not finished.
+ The lab one.
+ And it's pretty pretty straightforward some of this stuff is very weird but some of it is a lot of it is clear tutorials there's all kinds of tutorials for all the different.
+ bells and whistles that you can play with.
+ and always useful to just want to learn about natural language understanding go find a tutorial and.
+ Just walk you right through no grid discovery Watson assistant all the things around.
+ Okay, so i'm just going to go down to my.
+ resource list.
+ And i've got a few going on there.
+ And let's see the one I want to look at is natural language understanding already created the creation of these things is pretty straightforward and one thing you have to remember is when you create it to make sure we try to make sure that is let's see.
+ That it's the light plan, in other words you don't have to worry about a credit card.
+ Like that one okay.
+ And they tell you what the limits are which really only come into play for the term project but there you've got multiple people, so you can probably won't run out and if you do just create another ID with a different Dartmouth, the.
+ email and off you go.
+ I didn't say okay manage and see where is it.
+ Alright, so let's go back coming back like I was going to create a new.
+ Ad resource create resource.
+ Okay, you don't really know what you're looking for, but you know, one of the words you can search the catalog if you wanted to play with Cooper 90s.
+ there's plenty I mean this is this is everything, this is not just Watson is everything you can imagine, so if we want.
+ speech Oh well, there it is right there I could search for speech to text.
+ And there it is, I could click on it takes me to her um let's pick one I haven't used yet okay let's.
+ know that.
+ it's not one we're going to use but anyway.
+ So when you go to create one of these things.
+ Get the dancing screen for a moment and one of the things you want to make sure is try to always always always use Dallas South we try to keep all of our academic initiative folks down there.
+ Okay, I do already have one because it's yelling at me saying you've already got a light plan instance of this thing you can't have another sorry I won't create it.
+ And if you wanted to pay money, you can see down there it picks a funny name, because it the name needs to be unique a certain unique across Dallas so it's going to be kind of odd, but you can change it just try to pick something.
+ bizarre enough it won't have a duplicate and then yell at you, if you if you mess up.
+ Okay, but in general, you take all the defaults you know if you go and there's more information if you click on the about.
+ For all of these different tools.
+ You get to find out things like the API documents other documents key terms and so on.
+ Thank you click on documents.
+ Hello.
+ it's mapping.
+ Okay well we'll come back so you should be able to get to tutorials this way as well, but i've already got an ml instance, so I can't can't have another one.
+ So we'll just go back.
+ To my services to my.
+ Product, so you pick what you want, create it.
+ And then.
+ It shows up in your resource list.
+ Okay, so natural language understanding is one I already created.
+ Just just a hint on Sunday nights usually.
+ kind of challenging because a lot of maintenance and backups and stuff are done on Sunday night and the last night I built some things i'm about to show you tried to run them and it wouldn't go in and an hour later they work without me changing anything so.
+It.
+ sounds like Sunday night might not be a good time anyway, but once you create it you come in here and there's the tutorial you can read the getting started tutorial and so on.
+ Now all of these Watson tools are like legos we've all seen legos little bricks that have standardized little mobs and they fit nicely together, most of the time.
+ there's two things that tie.
+ The particular service to.
+ tie you or give you access to that particular service that when you create a natural language understanding service.
+ Like all the others gives you an API key.
+ looks.
+ And a URL.
+ So the API key is is essentially an identifier rather ugly identifier.
+ That is unique to your instance.
+ Okay, so if I if you see an example from me with an API key and odds are it's not going to work if you try to use the same API key you need to have your own.
+ it's not a security thing as much as it is an accounting firm right OK so.
+ The API key is important and the URL is assault is also because it's also unique to your instance, as you can see it's kind of a long ugly.
+ Numerical actually hexadecimal values these little icons here is just allow you to copy them Okay, and I believe you can see the API reference there too, but it's probably going to take too long to load so we'll just go back okay.
+ All right, and you can look at getting started and that's what we'll do right now.
+ Okay, so let's go.
+ i'll share my terminal now.
+ i'm actually go back to the.
+ slides.
+ Right okay so let's go down one more slide.
+ Okay.
+ yep that's showing good, so the template here we're going to start off using.
+ curl curl is a command line http interface if you've never used curl it's pretty easy instructions on how to install it or I think in the.
+ Other in this.
+ getting started thing, but basically it's command curl and you can send it a whole bunch of html stuff and that's the quick and dirty way to access these IBM these Watson applications with these wants and resources.
+ So the API key you replace that open curly brace API key close curly berries replace all of that, with your API key so you do a copy and paste.
+ There you go and then down here again URL and the closing braces you replaced with the URL and then everything it's in the middle, usually in the form of json is your request.
+ So what i'm going to try.
+ here's an example the one we're going to do.
+ notice what is $1 API key well i'm basically lazy you saw the API key it's a really long stupid number it's not like i'm going to remember this.
+ So the first thing I do is i'm going to be playing with.
+ These curl api's or this curl interface.
+ So I created a bash variable so let's go back to the terminal.
+ Okay, so.
+ ECHO or a few.
+ Earlier know dorn it's not there.
+ that's funny okay so we'll have to do with the heart and we'll go through the whole thing good it's a learning experience Okay, so what I want to do is, I want to say export.
+ Make sure i'm in the right directory here.
+ Okay now i've got my little Shell script that I want to use.
+ But it's assuming i've got this this Shell variable API key and nlu URL natural language understanding, you are now.
+ Okay, so I had hoped to have this already set up, but apparently like exited my show so i'm going to go over and copy.
+ When should show you me share that.
+ Rebecca can share two things at once.
+ Okay, so go back to mine.
+ manage there's the API case i'm going to copy that.
+ back to my terminal.
+ sure.
+ Joe.
+ And Joseph you got a question on one training tremble.
+ yeah, I just wanted to ask like I saw two screens is one of the one isn't the terminal what's the what's the other one one with the bin bash stuff.
+ That was this line.
+ Is you're just copying from there into the terminal.
+ Essentially yeah Okay, so, if you look at the in my screen now i'm saying export API key and that's that thing I copied okay so, then I want to say export.
+ all equal.
+ you're not on mute and Joseph i'm.
+ Go back.
+ To my screen there and i'll share that.
+This is difficult.
+ To you know copy that one.
+ Go back.
+ cher.
+ will suggest they had this capability bounce between the chairs.
+ Okay.
+ I like that okay.
+ So now i've got API key equals all that mess and then you know you URL it was on the rest, if we look at our shells again they'll see that the API keys didn't get stuck in there in the URL down at the bottom line 14 if you don't take the curly braces out.
+ you'll get a forum to error.
+ And if you do get an error when you're doing these kinds of things you.
+ know it gives you a link that you can follow to find out more go look there that's where you find out oh you love the current racism oh there's a common missing or so okay so let's let's try it.
+ What is it going to do well spell it right.
+ Okay.
+ So it's thinking it's thinking thinking that's a good sign.
+ And all of a sudden comes back with a whole bunch of stuff So what did we do.
+ Yes, yes there's a lot, I know I asked for everything for the DEMO Okay, so we we I gave it a URL right here.
+ have some comments from Prime Minister micro.
+ Was it was detected to be an English gay.
+ And it identified keywords.
+ These were things that appeared often or at least appeared and seemed to be important to be understanding system and it's an array this is json so keywords it's an array of Sub json documents.
+ terms of arms host.
+ President Biden Joe Biden Graham I don't know what happened there.
+ Is this stuff is not perfect, at least not quick and dirty when we did.
+ Sanctions open dialogue and so on this relevance is is given its understanding the system's understanding of the point of the document.
+ that's it's a measure of how relevant a particular keyword or key phrase is.
+ French President down there and crane here there's a few things when you give it a plane all.
+ URL sometimes it picks up other goofy things on extraneous things on the page like shaquille o'neal.
+ Believe Charles barkley is in there, so okay.
+ Too bad.
+ So there's a whole bunch of keywords.
+ On this capacity, very different entities now, these are the the sort of the major nouns so person McCrone is a person now again think about what we just did we gave it a URL.
+ And all the Ai was able to see was that.
+ President, I mean sorry Prime Minister my crown said.
+ No where did it say this is a person.
+ You understood that so there's enough background knowledge enough training already in the interview.
+ That it can figure out Oh, if some thing said.
+ Something then it's probably a verse.
+ Now dog start talking that's going to be a problem with that, for now it's okay.
+ And it's 95%.
+ sure that it's relevant to the document rushes in there.
+ I don't know what that is and then you'll do.
+ All the different versions of chrome.
+ and so on.
+ The volume isn't there, of course, France organization Okay, we start getting.
+ Interesting here.
+ While macro might not be a particular entry and they shall we say, the dictionary of the standard nlu service NATO.
+ Apparently, is.
+ Because it recognized it as a membership organization.
+ And it even has a database.
+ encyclopedia reference to learn more all of this is returned in this case to our screen, but if you use code it's returned to your code, we can do stuff right.
+ OK, so the person's location was interesting again, you can you can do this yourself it's not that it's not that deep concepts Vladimir Putin was a concept all right.
+ i'm sure he sees himself as that and more Okay, who crane MED div.
+ or us, and so on okay different categories, so it categorizes the document.
+ as best as I can it's talking about society and within society unrest and war.
+ Well, government politics and more or less short and somewhat less again law government politics politics elections and presidential elections Okay, so that.
+ Is the kind of information that the standard straightforward, you know you can give you from a donkey.
+ and
+ I have a question.
+ I noticed that the db pedia resource links, they are all http links right is looked up this website and does support https So is there a specific reason why, like.
+ it's not supporting https normally when that happens is because, maybe both sides don't support the https protocol so.
+ Like we're Watson is talking to is that not securing their communication or is it just looking at a different resource than what i'm finding online.
+ Well, it could be a lot of things.
+ This is a service that's available worldwide.
+ And https might not be.
+ Available worldwide that's one guess.
+ I think it's probably just the lowest common denominator http is is there because if you use http and https or renegotiate you'll get s.
+ So.
+ I don't know I mean it's not like this is all this just happened we just did this, so I don't know if there's any other reason, besides just just something like that.
+ cool Thank you.
+ Okay yep.
+ yeah I noticed that early would just didn't react okay so so that's an example of one service very quickly, because we don't have a lot of time i'd like to go back and look at.
+ different one.
+ Now I believe i've already got it going.
+ This is what node read looks like visual programming.
+ You pick up and drop these things, and then you connect the dots and.
+ You can make it look, however, you want.
+ it's very straightforward this particular one gets a web page.
+ and
+ runs it through natural language understanding.
+ And then either returns json or contact content analysis, this is an example straight from the getting started for know breads you can take a look at that and I believe.
+ That.
+ Once again, if you look up there, the very top it's hard to see.
+ I have this weird URL which is just a bunch of numbers that's the URL that was assigned and then slash analyze question mark URL equals and then whatever you want to analyze.
+ And it's actually going to know read the the application is is implemented and mildred and it's sitting there waiting for me to talk to it and here's what it sends back and it's basically this stuff we saw earlier but there's a little bit more my problem is usually talked about with.
+ somewhat negative it's.
+ Not very not very negative.
+ Well, a little bit negative sadness kind of you know, you can see how that works keywords and so on.
+ In the news your references when there's concepts to references and it also identifies relationships.
+ This is clear McCrone set.
+ agent of the relation between McCall and said said as early as related to my chrome.
+ affected by relation between Ukraine and invades Ukraine is infected by i'm sorry affected by invades and so on.
+ So, not only is it identifying what appears to be entities and so on it's trying to make sense of the various relationships and, as you can see, it has probably way more than you want a semantic roles and so on, so Russian.
+ President yeah okay anyway.
+ You can you can always go look at this yourself.
+ But if we go back real quick to know grab.
+ You look at the example this eight this get thing I just pulled it in from over here, just like that okay.
+ And inside each one of them, you have to do things like tell it with URL you want to use you take the URL you got.
+ At analyze on the end of it kind of a thing.
+ You would identify again go through the tutorial you'll see it what i'm trying to get to here, though, is when you start talking about these services here's that API key again.
+ kind of put it in there and then for this particular one I had to check all the boxes, the things I wanted to learn about.
+ hgtv here it's just spewing out whatever you gave it.
+ To respond back okay for fun.
+ Because, of course, this is all fun.
+ let's see if I can find.
+ This one I know there's a flow.
+ Okay, this is another tutorial DEMO yeah it's got an empty rj MIT I have no idea why.
+ The idea of areas.
+ We want to take input from a telegram.
+ So if you go to telegram.
+ we've got one running here, yes.
+ And you move you send a message to leave it's bad father.
+ Okay, so I sent a message about father.
+ And I said slash newborn.
+ Okay, I had to pick a name and I finally picked a name that wasn't used in a gave me back a URL.
+ And an API token.
+ similar to what we use with Watson.
+ Okay, so, then I go back once I have that I go back to my my flow.
+ And we can see.
+ here's telegram receiver inside there, I had to put all the stuff.
+ That I wanted to use like there's the URL right there when I created, it also had to put in that little magic API key.
+ And it just flows like you would expect, what it receives goes into a function called check message.
+ And it determines what language it's in and then it stores that language somewhere, and then we connect will appear.
+ And we go in here to prepare the text and then depending on what the language detected was that does a different translation, so we look at that function it's a bunch of javascript.
+ Okay, if the language is 00 do this if it's a what what is that OK.
+ OK, all these different things that are choosing to try to figure out the language.
+ Okay.
+ And then, when it comes out it goes to text to speech, and it also goes to message ID which gets sent over here and sends it back to telegram that's a long trip isn't it well.
+ But it does work let's go take a look at telegram.
+ Because I created that last night and.
+ install it so i'm going to go back up here to.
+ My chat.
+ In the chat they set up with judgment CCP, which is that URL that I was getting so i'm just going to type bolger.
+ And it goes to the application, which is no read realizes it's French in translates it to English and even speaks it actually Hello.
+ I have some examples.
+ That I should try to use.
+ whoops Where do they go darn.
+ All right, let's see.
+ I don't think I can remember my much Spanish.
+ yo in an easy.
+ More.
+ There we go data right.
+ it'll really give me a hamburger some of the examples that I have that apparently misplaced or in Japanese Arabic Spanish and so on, so if you want to try your hand at confusing the translator.
+ just send it to let's see if I can pull it up it's a.
+ permissions.
+ Well i'll get the URL and put it in the slack so you can try your for your luck hello, give me a hamburger okay great okay so.
+ I know we're out of time, but.
+ It was a very quick run through of some of the services that you can have and how you connect them all together, and some of the more complicated ones.
+ Like turn them on it takes natural language understanding serve as it takes text to speech service in a speech to text service.
+ All three of those so I had to create them all get all those stupid API keys and copy and paste them into the right node read know to get it to do what I wanted.
+ Okay.
+ that's it for today i've started office hours on Thursday are are amazing graduate ta has office hours on Tuesday.
+ Is I well it's on it's on campus just because they're all zoom and that'll help you out.
+ And let's see Wednesday we talked about discovery a little bit.
+ And then we start accelerating ports, the next assignment in the project so.
+ With that oh there's a question from Bobby.
+ Yes, I saw we have a quiz next week, I was wondering what this quiz format looks like with a scanner just be some class discussion time English preparing for.
+ Right OK.
+ I will release a.
+ sort of a i'll post something on slack but in general it's online canvas open book.
+ I would love for it to be multiple guests, as much as possible, because that gets graded magically.
+ We may not be able to do that, I may have to go to some discussion questions.
+ Nothing about api's or API keys or Watson services nothing like that, but it's all the concept stuff the discussions on Fridays, the book.
+ And, at least we haven't had a we've only have one guest speaker so far, but he was the book so.
+ For the the second quiz will have we will have had many guest speakers, by then, because, because the general format of the classes quick hurry up and learn how to use all this stuff and then we use it.
+ In the second half, so very good.
+ Okay cool.
+ Thank you very much i'll see you on Wednesday.

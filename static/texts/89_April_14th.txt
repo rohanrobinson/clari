@@ -1,0 +1,546 @@
+ Alright, good morning good afternoon I.
+ don't know if we have any good evenings but we'll go with it.
+ 31 have you made it this morning welcome.
+ As I was showing in that little share screen, this is what we want to avoid.
+ The chat Bot at at amp T one time said hey tell me anything you want to know i'm really smartly Ai.
+ So the person did it.
+ And it said no don't got that.
+ So this interchange this exchange with the dialogue or with the chat Bot just kind of started off on the wrong foot.
+ Expectations were set too high.
+ it's as though you the user.
+ didn't realize either didn't realize it was a chat Bot or didn't realize that it wasn't a general.
+ Ai artificial general intelligence.
+ But reducing it to Internet slow make fast that worked that got it.
+ So today we're finishing up the.
+ assistant or conversation manager product.
+ For Watson tool and there's others out there again, this is the one I know so it's the one I use.
+ And one of the things that goes along with.
+ Effective interactions with chat bots.
+ is well a few key ideas.
+ Gillian Armstrong.
+ Is is my guru here and.
+ Well, first off she says be helpful.
+ The example in the previous slide was not particularly helpful.
+ If people wander off into the bushes.
+ Try to build your dialogue, so that you can guide them back.
+ To the main topic, or at least two of the topic that the chat Bot can handle.
+ Try to keep your user from wandering off into places that.
+ The chat pod can't do.
+ and be truthful hey i'm a chatbot you know I can do what I can do.
+ kind of a thing if things go wrong, take the blame so i'm sorry i'm not smart enough to understand that or I made a mistake here, could you be more clear, could you try to be more clear with me or could you try to be word is a different way kind of so and and.
+ The understanding of course if if the person starts typing human or agent or go away.
+ acknowledge it so okay.
+ sounds like you want to talk to him and i'll see what I can do, and the assistant has functions built in.
+ To allow you to set up a way to connect with a with what were, as we call it, as opposed to software.
+ and be clear.
+ If you're going to be, you know, a buddy well keep it that way, if you're going to be a coach keep it that way, as well try not to be.
+ wordy try not to be.
+ obscure just.
+ Try to be treated to try to set it up set it up so that it's the way you would like to interact, so a couple of key things be very clear about the purpose, from the beginning, acknowledge that this is a chat.
+ Set up.
+ The expectation right there, and if they say something like what is a chat Bot, will, in the real world, you probably need to handle that intent.
+ What is the chat.
+ viewpoint.
+ If i'm teaching.
+ i'm teaching.
+ If i'm a salesperson or as we lovingly referred to them sales droids.
+ it's a different attitude it's a different approach same if i'm a coach.
+ i'm going to have a different approach from your advocate like in a court of law.
+ Ai attorney would not be interesting.
+ Again it's a different kind of viewpoint or perspective from the chat box point of view.
+ Try to keep it consistent.
+ anything we can do to not annoy or alienate the user is a great idea, so we got to keep doing these things and proactive typo typo versus reactive.
+ You can proactively engage and guide the user towards a goal lean forward, would you like to know more about that would you like to know how to do this.
+ Would you like me to send you this information, you know that sort of thing, whereas reactive is more like an oracle just sits there and says, what can I do for you today.
+ And you know if the user doesn't really know, then the conversation doesn't go very far, so there are some cases where reactive is best and other and most of the time proactive is a little better.
+ inconsistent.
+ don't change your viewpoint don't change the purpose.
+ don't change from a help desk chat pod to a programming.
+ Assistance chat but that's.
+ One very hard to do and makes the chat Bot huge you've all had see us 50 bigger means more errors order to maintain.
+ it's perfectly reasonable to have an army of chat bots.
+ That one in the front would talk to the user and then distribute.
+ as necessary.
+ Then another quote from glynis Thank goodness for all this advice she's pretty useful pretty helpful okay whoops ran out okay so that's guess what that's all the slides.
+ That should have ended that okay.
+ So a few more words about.
+ about the dialogue, the dialogue is what we're going to do today we've done the intense and the entities now we're going to try to string it all together into a coherent conversation, the dialogue we're going to be setting up sort of.
+ outlines the path the conversation can go.
+ and clearly you can't possibly map out every possible path that the crazy us i'm sorry that the dare user might follow.
+ And you learn a lot by putting it together unleashing it on people are my favorite choices students because they're always anxious to try something new and break it, or at least confuse it think Microsoft.
+ Microsoft spot that they put out, let us all train.
+ But the dialogue kind of lays it all out.
+ And the different phases you welcome the goodbye.
+ If you use some of the system as assistant i'm sorry the system, the assistant system generated intense things like.
+ Just pleasure or delight or.
+ Hello goodbye that sort of thing.
+ Those are all built in, and you can use some of those if you want.
+ So the way the thing flows, and I should have a picture here but we'll see it in a moment.
+ As you recall, at the beginning of the dialogue is a.
+ siri just shut up today now she says, I don't get that could you try again there's a chat Bot, for you.
+ I think series upset about the nuance acquisition but anyway nuances some of the smarts find siri and Microsoft just bought months for.
+ Many buildings interesting okay so let's take a look might as well crank up the older browser here.
+ So please share that.
+ Sure sure sure.
+ Okay.
+ So I cranked up my assistant again and let's just get it started.
+ And there's a whole bunch of assistance deleted cleaned House a little bit, and I think we were working on the bookstores let's have a look there.
+ Okay, so there's all of our intense, most of them came from.
+ The general content catalog selection and we have our store hours in store location, as you recall.
+ store hours might be something come on click on the right thing store hours might be, you know, are you weekends, what are the hours that elm street and so on, so you give it a bunch of examples.
+ In the intense to me that's the intense.
+ Entities the things that were interested in so far, all we have in their street.
+ Where it's elm street or maple street, so we have two stores, we have two separate locations for a bookstore.
+ And today we're going to try to build the dialogues let's see what the dialogue looks like so far.
+ gosh I should have deleted, some of us.
+ Okay, I thought I clean this up alrighty then let's go here and let's just make sure that we learn by doing and delete.
+ Okay.
+ and generally positive feedback, you can get a hint of where we're going and i'll leave it just for fun alright, so the general flow is welcome stuff and then anything else.
+ Okay.
+ Anything else is where you go when you have.
+ failed to match or understand what was just typed in.
+ So it's the gee I don't know, could you try that again face and, if we look at that dialogue, you have a choice of many different.
+ As many different ways of saying I don't know as you want, and they can be randomly chosen sequentially chosen I go with sequential because, if I put enough in their likely it's likely that the user will either give up.
+ or get it right before they start repeating so that's just me because random, we all know.
+ From CS 50 random is not necessarily different right it's the same one twice in a row that's random.
+Okay.
+ So we have to wake up and say hello, welcome to morning on whatever is appropriate.
+ And we have the goodbye, and I just left it in there general negative feedback I added that mode, because if the system recognizes the system identified negative feedback.
+ We want to do something intelligent, so I just threw this note in there.
+ To say sorry about that, how can I help.
+ Okay again because we're not doing full natural language understanding we're not going to really be able to address specifically what the person is upset about unless we have many more.
+ Situations like, for example, at the assistant recognizes negative feedback and some other conditions.
+So we could we could always do that.
+ Okay, so that's the general flow of the dialogue.
+ It wakes up it starts it begins with welcome all dialogues have at least a welcome and and anything else.
+ it's up to us to fill in everything in between.
+ As it's going it might wander into different dialogue nodes depending on what the user type and what was recognized.
+ In general, we have we're going to have two overarching intense.
+ We had store hours and store location.
+ So the general a general recommendation is to add a folder for every intent so let's call this.
+ store locations.
+ And capitalization doesn't really matter.
+ let's store locations.
+Okay.
+ And the condition with the.
+ intent for.
+ store location.
+ Okay.
+ There we go.
+ Now you want to add a note to it, you click on the three little dots add a note to the folder.
+ And then we can start adding other things so.
+ We have two locations elman maple street, so the person could say.
+ Where are your stores.
+ So we'd have to say on the make the streets.
+ They might say where where is the elm street store or take me to the maple street store or show me how to get to that sort of.
+ So we're going to have those three three choices here so let's first off if they just say where is your store, we probably want to say something like which location.
+ Okay, the dialogue flow it comes in the top.
+ And it goes does it comes into welcome, not the Tongue sorry I misspoke you can move these things around they'll produce them pretty much.
+ Wherever it feels like, but you can move them around to make it fit really more what's going on, so the welcome is there the store locations is a folder.
+ We we look in there we'll see you click on the little folder you get the bulk of the contents so which location store location so let's say what should we put there.
+ We should probably say something like well i'm.
+ gonna go let's say we have stores, that we have stores.
+On.
+ maple in the film streets.
+ Okay, so that's.
+ One, you can have another we're on.
+ Again, you could just.
+ Be as creative as you want, so this is a pretty simple when this is done each dialogue node has at the bottom what the assistant chicken.
+ Okay, so in this case we just want to say all right good enough.
+ Go back and wait for some of the pipe engine.
+ We need another note here.
+ For.
+ If they ask about elm street Okay, so now i'm location.
+ Okay, so this is where, and this is where we get a little bit different if, as we, as we described earlier entities elm street as an entity right, so if the recognizer.
+ sees.
+ on the street.
+Its.
+ location.
+ In.
+The.
+ yeah let's do it we've been doing a couple others this just change this here change that to introduce one screen street.
+ street is we've only got two possibilities declared here so straight is downstream, now that went by pretty quiet let's try that one more time.
+ Like a chosen entities, so you can recognize intense oriented.
+ it's a street okay so we're talking about the elm location, want to know what street of this, but if the user uses the word street we don't want to match industry, we only want to talk about the elm street.
+ So we have to select the operator is, and then the only choices that we've defined for the street interviews, so the recognizer i'm sorry the system recognizes long street that we want to say something like.
+ Our elm street.
+ store is the find.
+ The post office.
+ You know i'm just typing away and it's not working or on the screen.
+ Okay, and you could say a couple of ways, but we don't need.
+ Any one more for the maple street store, so we had a node we don't want to add a child node, because that will make another folder right or a panel.
+ So we want to just add another node below because we're just keeping everything related to store location intense inside this folder so now, this is going to be the maple store.
+ And condition against the entity street.
+ And is maple.
+ maple.
+ maple.
+ store is next starbucks.
+ Universal.
+ Okay.
+ So let's try it see what we get.
+ It automatically saves you don't have to do that stuff so i'm the bookstore bought me helping.
+ Where.
+ We have stores on maple announcements look at that now how did that happen.
+ Okay, if you hover over the I ensures you the competence that the assistant has in matching the different.
+ Intense so store location seems to be.
+ Most likely.
+ Okay, so if I say where is normal store.
+ Okay.
+ whew.
+ match the same place again.
+ So we got an issue here, real problem, what happened it's still matching location didn't go into our.
+ Lives didn't go into the right place.
+ let's go take a look.
+ store locations are here.
+ And just that sort of thing if there are three nodes on this this folder right so let's look here store location, Mr was hearing here is that what we want.
+ Maybe we have a sequence and.
+ Maybe we need to just move this down.
+ Is that folder just for organization like the store locations folder.
+ Yes, it's a journey generally a good practice.
+ To put all the.
+ While the dialogues and sub dialogues and doing, and so on for a particular intent and the folder it just keeps things clear it's a little easier.
+ Okay.
+ Thank you, so it be.
+ And the way the dialogue thing works is once it decides on the context.
+ mean what spot in the dialogue gamma it goes there, and the next thing it looks for is going to be in that.
+ In that tree if it doesn't match, something that tree, then it goes back out to the outer the enclosing context.
+ This is all in the notes so let's try it again there.
+ Were restores.
+ Okay.
+ There you go.
+ Okay, so once it recognize you're asking about store location, it came to this.
+ folder essentially and the next time it's sort of a context it's explaining it's understood Okay, he wants to talk about location right The next thing she types is going to try to match up inside this folder Brian current dialogue.
+ Okay, so we got store locations, we, I guess, we should test, maybe to where there's maples or.
+ All right, we got some cool.
+ Any questions so far, because.
+ it's not really.
+ it's more tricky to know where to click them does the actual.
+ Question yes.
+ The folder the order that you put it in does matter and it'll check it in that order so for having us where it's too similar you put the catch all at the end.
+ yep yep very, very good point well if the if it's if the dialogue as context here whoops that.
+ The second note in the picture here in the screen, then the next interactions going to start searching from there.
+ And the first time, he finds a match and stopped so you're very right, we should put which location last just like when you start a new dialogue, the anything else is.
+ So there is some some sequence matters but.
+ Not all.
+ Within a particular level, it seems to me.
+ Okay, so we did that one.
+ Well, do we have any other intense let's say we have location, we need hours.
+ that's tricky because.
+ I don't think we have ours, yet let's just see what we can do.
+ Right so.
+ store hours let's just add another folder.
+ And it'll put it in an inconvenient close.
+ To 10 for store hours.
+Right.
+ And i'll go ahead and move this just to.
+ make it a little cleaner.
+ Now let's go in there there's nothing in there yet something.
+ Okay.
+ So.
+ If it recognizes a question to store hours well our stores all open and close at the same time, so we don't really need to.
+ differentiate so we can just say for the store hours response.
+ And if the user has done something that makes us think she wants to know about store hours.
+ We just respond with their hours.
+ or stores.
+Can.
+ Just be simple minded five days.
+ And you can have many more.
+ So we try it again Claire.
+Look.
+ Okay, so that I need a book that turned into a recognized as store locations.
+ Okay, why did that.
+ Well let's go see the.
+ store location.
+ that's what we haven't.
+ We say I need a book that's an example that we gave the system.
+ i'm telling it I need to know where your stores, so we did.
+ Exactly what we.
+ If we want to change that.
+ We could go back into the dial on.
+ You could add another node.
+ and make this one.
+ called the second reading.
+ And we're going to build about the intent what's the greeting.
+ Something like that.
+ Okay mean savings.
+ Okay, something like that I can help you.
+ Okay, now we need to go back to our locations intent.
+ and take that take that one out.
+ So you check the box.
+ delete it.
+ And I think i'll take that one also because it's really more of an.
+ Initial thing and the ones that we have left really do the dress store location okay.
+ So we'll go back to our dialogue.
+ oops i'm sorry we need another.
+ General greetings we have that one good day, good evening.
+ Can we can add to this.
+ I need about.
+ me that's.
+ Okay, so just because you copied this from the catalog.
+ Available content doesn't mean you can't change it.
+ So we added something to go, so now we go back over here secondaries general Greens can help you today.
+let's.
+ Cross your fingers there Watson is training.
+ that's good.
+ Now we changed what Watson hit already.
+ understood from this.
+ I need a book.
+ or whatever we had so we had to go undo what we didn't have before and retrain the the understanding engine or the natural language engine to accept these new combinations of examples.
+ Okay, so now let's clear.
+ and try.
+ Yes, okay look.
+ let's just try book.
+ Yes, okay so, even though we didn't make book as an example.
+ The natural language process came back and said yeah that's probably the second reason.
+well.
+ Okay, we have male and off we go so just because we have second greeting in there.
+ It doesn't mean we're going to stop there, and just that's where the mode was now the second greetings sorry.
+ The second grading is not the folder, and so the context is going to stay right there, which is fine, because it's still early on, even if the next.
+ context was down here somewhere.
+ Because we're saying something like where's your store it's going to get back and try again so let's demonstrate this sort of being nasty.
+ you're ugly.
+ sorry about that pokemon go.
+ Okay, so we're still back to that where is.
+ All good so we added a couple of things and we added a secondary greeting, which is where the person wanders and it doesn't actually.
+ wanders off, excuse me, this is like in the kiosk in the street and it doesn't really make his or her intentions clear they're just going to say wrong grunt.
+ So you have a secondary greeting again trying to.
+ be proactive and a lot of them along we added folders for the store locations.
+ To explain the different locations and carrying out the order does matter, because just just because of identifies location doesn't mean.
+ That it's necessarily knows which one of these it's going to be since the last one just matches on any old location question.
+ Where the user didn't say elmo made them, it should be at the bottom because it's going to match kind of like the.
+ We added general negative feedback sorry about that you can go into all kinds of details about what's wrong.
+ May culpa ask for forgiveness, whatever is appropriate for your.
+ discretion in your in your tone and all of those things we talked about.
+ Okay, any questions on this lightning fast blast.
+ Through building the dialogue.
+ Pretty straightforward.
+ Okay let's go.
+ You know that was coming.
+ And not really not going to spend the time to go through it, because you just this is something we just need to play, we just need to get in there and it's not that hard it's just really more of a learning.
+ The nuances I wanted to show you a couple of more capabilities.
+ Well let's see.
+ let's add an order.
+ haven't done this in a while it's to see so.
+ let's let's add good are intense and we're going to add the E commerce.
+ intent to our skill.
+ what's E commerce it's things like.
+ A balance in Korean sona reporter a product cancel an order, make a payment that's the usual.
+ salesy business stuff.
+ Right, so I think I added.
+ To our intense yeah now.
+ Okay, most of them came from.
+ content.
+ Okay.
+ So we're going to use create product order to recognize the user wants to order a book.
+ Okay, so we may want to mess, with a little bit, but whatever.
+ Okay, now, when you go to order a book, you need several.
+ The title.
+ The ISP and how fast you wanted to share how you pay for it, that kind of stuff, so we need some new entities.
+ We still only have street as an entity so let's let's add a new book title.
+whoops.
+ Okay, and.
+ it's examples of the books you haven't stopped so.
+ del mondo.
+ Just again keeping is really, really short.
+ So those are some examples.
+ back, we need to add what did we say shipping speed, was it yeah okay.
+ With my.
+ Secondary.
+Okay.
+ And what else, are you gonna pay for this.
+ payment.
+ Lisa.
+ whoops yay.
+ alright.
+ So now let's go back to our dialogue we're not talking about place in order to.
+ create a folder because we're going to camp.
+ And all the setup is to show you something called slots.
+ Whether you're ordering a pizza.
+ And you have crust sauce toppings whatever anytime you have a collection of things that you have to know.
+ To answer or to take care of the customers request you can look at it, or set it up as a series of spots that are associated with the dialogue and it stays in the monologue it's all the slots.
+ Okay well there's lots of good hoops to do that.
+ So it's the intense.
+ We want to.
+ create a particular okay.
+That.
+ and
+ let's see where is it let's move it down just just to be convenient.
+ Know get.
+ Get order details.
+ Okay.
+So let's be.
+ E commerce product order all right now, it gets a little different.
+Okay.
+customers.
+customers.
+ Now we wanted this to use slots.
+ This is gathering information about needs to respond to a user with a single node so instead of multiple nodes in a row and going to make sure you get answers to all of them this one will gather all that stuff for you.
+ Now Another detail here is digressions.
+ If you're imagine you're in the bookstore and you're talking to the salesperson.
+ And you're describing the book that you want to order so what we're.
+ Doing by.
+ Further.
+ and
+ Look at that squirrel in your walk out the door.
+ that's a digression they wandered out in the middle of the dialogue.
+ Okay.
+ You have to decide if you want to support that kind of thing.
+ Or, if you want to just keep nagging.
+ So you set the digression to what you want it to be.
+ Okay, so you could always come back later on, so let's see let's make sure we we got to finish this this Okay, is that what we want to do yeah we don't want random digressions okay so.
+ You only want to allow digressions.
+That.
+ return to this so yes.
+ Alright, so just a little bit, but even like back to slots whoops.
+ When we selected slots in the customized remember we went over there, who sort of slots.
+ Now let me come back to this screen and we've got a whole different bunch of.
+ If he recognizes this then check for wow What is all this stuff.
+ So we want to check for.
+ We need these different interviews.
+ We need book title.
+ Am I going to save it as a variable.
+ This is a context variable.
+ context variables or additional memory for the dialogue with with the assistant they're primarily used.
+ bundle up information, the dialogue has gathered and ship it to some back end presuppose.
+ Like the ordering ordering actually do stuff.
+ To the assistant is just gathering information when you're ready you say already do it takes these context variables throws them into some json fades that back to the code that initiative, this system run.
+ You need the book title this when we get it will store it as a context variable title it made up the name for me, and this is not present, then we can we have to ask.
+ What is.
+ Okay, and it's not option so it's required.
+Okay.
+ Well then, we need.
+ Another slot.
+ Again we're looking for the the other two entities that we needed, which was book.
+ Get the payment.
+ it's going to wear and how.
+It says optional.
+ One more.
+ In the entity that shipping.
+ Was the variable y'all soon, do you.
+ need to know all of this stuff.
+Okay.
+ So, then, the response once you have all these things.
+ response is going to be wild okay.
+ We will ship you a.
+ copy of, and I think we can put this in quotes.
+ will try it just dollar book title.
+ Okay, see that's the.
+ context variable that we created a third.
+one.
+ Why are.
+ Shipping speed.
+ and
+Okay.
+ cool.
+ And if those.
+ have been tilled and they're all required required me.
+to write.
+ A good book.
+Why isn't it working.
+ We have so confused Okay, we did something wrong.
+ Okay, so what are examples here if he recognizes a create product orders.
+ Look at that intent.
+ Lisa.
+ look like a sin against that so.
+ Okay, so let's it didn't work so let's let's add an example.
+ Okay, see if that helps a little bit about to do a little retraining that may already know he's thinking about it.
+ So we'll give you a chance.
+ Professor be because we added, I want to order a book to the general greetings.
+ Very good thinking up ago we didn't.
+ Go back and look.
+General.
+ readings greetings.
+ Welcome
+To see.
+ I think we added.
+Your.
+No.
+ No.
+ I think you really got a good handle on this okay so.
+ walk me so we'll take that one up.
+ Reading a book very good.
+ let's pitch those do.
+ mean who knows i'll probably have to try and again.
+ there's lots of nope it's happy for it because the reading is easy Okay, no.
+ I want to order.
+ What are we doing wrong.
+ See that's why you have to make sure that you're doing right so.
+ back to our.
+ Intense it's make sure that the order was not order status order itself is.
+ To create product order.
+ The order.
+ Okay, we could practice very explosive.
+ yeah we're getting something but.
+ I think, also in the dialogue.
+ When we.
+ It says like cancel product order forget order details, instead of create product order.
+ Oh, look at that.
+ Oh, like.
+ Well done, I just clicked the wrong place.
+ Which.
+You.
+ want to order yes okay.
+ You folks are in trouble.
+ So.
+ hello, there should still yes, how can you.
+ want to order a book.
+ Bingo Thank you that was it okay so um.
+ Relevant.
+ Is the problem, why is that because.
+ Alright, so let's go to the order details.
+ check for me to the tablet to serve as the title.
+ and
+ User responsive interview is found.
+whoops.
+ Okay we're running out of time, so tell you what.
+ The other The last thing I wanted to mention.
+ Is.
+ All of this is just stored in Jason and Jason.
+ sure how you pronounce it.
+ If you click on skills you go back to the screen.
+ And the different systems, so we click on the three little dots over there.
+ download Okay, so you can download a skill, you can download the whole system, you can.
+ download.
+ And there it is.
+ Let me show you that.
+ So now i'm going to show that.
+ This is just a little json.
+ editor.
+ Okay there's all that stuff we tell.
+ it's kind of hard to see.
+ Your little bit bigger.
+So.
+ What i'll do is i'll post this in slack.
+ What do we got here, these are all the, these are the intense commerce balance inquiry, these are all the examples room lots of.
+ cancel product order let's go down here to.
+ create an order so book or that's think we typed in there just look so we just wander all the way down eventually we get out of the intense.
+ down to the dialogues.
+ Green and they're a little more complicated when you find the beginning you're going.
+ To get order details, we should be okay there's stuff we typed in so so again, you don't have to understand the json so much, but what you can do.
+ Is you can download it when I post it to.
+ slack we can download it and then you can create a new system skill and then you can import it.
+ So.
+sure.
+ So I should be able to.
+ create a skill.
+ skill.
+ And uploads go.
+ You should take them to McDonalds.
+ You know, because.
+ Okay, so now i've created another instance of a bookmarking from school okay exactly listen.
+ alrighty so.
+ Again, sorry I missed a trip over something is wants.
+example.
+ But i'll fix it before you upload it.
+ You should have enough.
+ tools for my account Level one.
+ As I said earlier, lab one is an individual lab because we want everyone to have.
+ their own personal experience with this cloud based stuff.
+ And then the second lab of the team and the third language of your project will also be a team most about the same team, so that you don't have to make new friends and so.
+ If you have not ever done labs zero to tell us what time zone you're in please do that, because that will guide us in choosing your larger teams of three students who were hoping for three.
+ Okay, any questions comments or galleys.
+like that.
+ Okay, Joseph doesn't question that's that's great.
+ Okay, nobody does from again I don't know what happened to zone but I appreciate the jason's.
+ lightning solution, thank you very much, willing to go talk to her tech person and ask them what the heck's going on as I certainly would never have even known that was there to turn it off so.
+ we'll be reading on Friday we'll have a discussion and i'm looking forward to it it's beginning to get more and more interesting as we go through the term so with that let you go i'll see you on Wednesday, thank you for your patience with zoom and happy happy assistance.

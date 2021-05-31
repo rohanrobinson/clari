@@ -1,0 +1,509 @@
+Good afternoon.
+ it's amazing how delivery people seem to think 1145 is perfect.
+ So let's talk about talking.
+ Is you know, whatever.
+ felt like they were talking to a computer.
+ They like on the phone or.
+ went for help desk to Joseph What was it like.
+ um it's it's weird i've experienced this every time with like like fake calls where they're trying to scam you right though they'll say something and then you'll respond and you'll get like a message like something that doesn't quite match what you originally said.
+ And they're like I don't I don't think.
+ A human would would say that, and then you say something else, and then they you know, obviously mess up again and then like I said it's not a real person after all yep.
+ And you and you hang up or.
+ start saying cheese over and over just to see what happens, yes, anyone else.
+ Does it make you uncomfortable.
+ Is it is it just the million any other comments anybody else.
+ Surely ash yeah.
+ I was gonna say it's quite it doesn't make me uncomfortable but it's quite annoying because sometimes you're on the phone and you're looking to talk to a customer service and you.
+ You know you connect with a computer and it only gives you a certain amount of options and you're like I don't want to do any of these options.
+ yep.
+ None of the above.
+ yeah that's when you start saying agent.
+ Or you at least try to know what you mean.
+ So it's it's like talking to a.
+ Well Okay, none of you are parents of teenagers, but there are times when talking to a teenager is sort of like talking to a Bot, you ask a question, or the person, a question and you get back.
+ Seemingly disconnected incoherent responses, sometimes or maybe like talking to a parent or a grandparent who's doing something else, so we expect people to.
+ doggone it listen to us.
+ And that's part of the challenge to listen, you have to understand.
+ Somebody is talking to you and I don't know pick a language you don't know.
+ Someone was speaking to me and.
+ Portuguese.
+ I really can't I could hear it, but I can't listen, because I don't know but there's something and there's there's a real difference between listening and understanding yeah I hear what your mouth is saying, but i've no idea what your brain is trying to say.
+ So we're beginning to talk about.
+ conversations.
+ And as the Watson assistant, in particular, but these these bought ideas.
+ Of.
+ Can you save money, using a box.
+ Are there any business reasons.
+ That you can think of that might help you with a box in joseph's experience wasn't too good but.
+ If one of you at the end of this term robot would be sure to be excellent.
+ But where, could you use a Bot, that that wouldn't annoy the galaxy too much anybody.
+ joseph's hand is always go ahead jobs.
+ Yes, I just wanted to point out that it's not necessarily true that the Bot, is there to make you feel good, it can be there to make you feel bad.
+ And a classic example is during my internship I worked with a company that was trying to solve a problem with travel insurance and apparently the EU mandates that if you have over a certain amount of hour.
+ delay, you can get sort of like a partial refund for the ticket and they basically contracted it out to private corporations to collect or sorry to distribute those funds.
+ Right, so it is in their interest to make it as difficult for you to collect those funds as physically possible so they will do everything in their power to make it as miserable and experience that you quit, which of course means you know.
+ Humans are helpful, so we don't want those so bots are great at making you feel like you're you're pounding a wall.
+ yep yep so there they can be used to.
+ slow down.
+ Access sort of like a.
+ capture instead of people delusion your website with with requests they might have to go through a capture just to make sure that they're not a robot.
+ So I mean you can improve on the customer, the availability, because people occasionally you know, take a break.
+ Go to the bathroom eat sleep gets sick so potentially.
+ It could help your customer service line, or at least your into your information, online.
+ And, most of the time, the Bot doesn't answer the question Bob is really just.
+ redirecting you to the right department, assuming, you can.
+ understand what they're saying and follow their instructions.
+ So it could be.
+ A help for customers.
+ As well as a hindrance, so you got to be very careful there.
+ um reduced costs as a result okay.
+ Maybe multilingual support.
+ Once we get translation going really well and it's getting pretty doggone good.
+ You know press two for Spanish press three for Latin, or whatever you speak.
+ Why not we can certainly do that.
+ slacks got tons of bots.
+ Most of them are.
+ fairly useful but occasionally you run into a evil box, that has to be banned.
+ Some people think that anyone who posts to.
+ At channel.
+ Four channel must be about, because no one will be that dumb right that's just a little insight slack joke okay.
+ So so bots monster coming they're here there's no question of that i've got some slides to talk about that.
+ But you know.
+ what's another let's see that i'm trying to think there was a oh yeah custom Apps.
+ i'm just a standard chat interface to a month multiple collections of chat bots Okay, you lose.
+ Employees you don't have to worry about that so much, but then you also lose revenue, because you could sell each one of those services individually, instead of together.
+ Joseph for someone mentioned with K bought from Microsoft a couple of years ago that learned from its interactions with people on the Internet, never a good thing.
+ Security issues.
+ Could there be security issues, but these bots or privacy issues.
+ can have bought invade your privacy.
+ I guess if it asks to open your camera but.
+ How secure is the Bot.
+ With the information is gathered.
+ And that's the trick.
+ Joseph mentioned the EU, the EU has all these strict privacy laws.
+ If the body is based.
+ In a non EU countries.
+ That doesn't have extremely strict privacy laws.
+ You cannot have your Bot ask those questions like.
+ Your address your phone number email address mother's maiden name that's where.
+ it's against the law to collect that information unless you're going to protect it, the way they want you to so the location of the Bot, can be a challenge as well.
+ Managing bots.
+ kind of a kind of a hard thing to imagine.
+ But you do have to keep them up to date.
+ And so, is sending out a notice to all your telephone people hey you know, the new process progress i'm sorry product is the zap 2000 dash a it's got this here change go for it is it easier to update people and expect them to remember what you said.
+ Or is it easier to update about.
+ don't know.
+ that's what we're facing now bots been around a while.
+ First, one I encountered was a 1966 and all these there's a bunch of links in the notes.
+ i'll show you some of them let's see what's the next slide yeah robot so eliza was a an experiment.
+ And there's still links out there and it's amazing and you can try it, how many people thought cheat this is really amazing this is Ai when all it really did was carefully note what you said.
+ And then ask you questions about what you're saying responses like tell me more, why do you feel like that, and so on.
+ These are the kinds of things that a person would say right I psychoanalyst would say.
+ And if you do it long enough eventually you realize what's happening, but it is it's amazing that in like I said in the late 60s, how many people got.
+ fooled by this thing.
+ A few years later, there was one called Perry, it was basically a jerk.
+ i'm not sure why people did it, but you talk to the thing and it's just nasty okay.
+ That was a deal and then, of course, once you've got these two bots some other researcher had them talk to each other.
+ which was.
+ entertaining.
+ and so on.
+ jabber wacky came along and there's others Alice amazon's alexa shows up.
+ And we all understand how that works.
+ You wouldn't want to use it for oh did the caption or is in the room excellent.
+ I have to give them access to some hold on folks just for a moment.
+figure out how to do that.
+I think I did okay cool.
+ If the capture is having any problems, please send me a message okay so alexa comes out now, would you be willing to use alexa for your business for your startup where you're talking to different Members of your team all working from home using alexa would you feel safe doing that.
+ If so, or, if not tell me why.
+Okay.
+ hi do you think the messages we get from one.
+ alexa to another, maybe they got to go through alexa.
+ Does alexa guarantee your security of your statements.
+I don't know.
+ Maybe.
+ But since it's going through another company odds are.
+ odds are that.
+ Your company wouldn't want you to do that, I know, IBM says.
+ don't use third party texting or messaging and stuff.
+ To do that, so let me answer the capture here, this is the first time they made it.
+ A zoom.
+ Somehow.
+captured.
+ i'll just tell them i'm sorry I don't know.
+ Okay, so we'll we'll just move on.
+ Alright sorry for that little interlude there we lost my train of thought, but that's okay I didn't have much of a train in the very short term.
+ Okay, so people are trying to do the bottom right okay so.
+ There have been some attempts like I said alexa.
+ cool, but now media people are immediately suspicious wait wait i'm asking all these questions is that going up into the.
+ To the Amazon zone or something and being used to help pick options for me when I go back to shop, are you writing this down how much, are you listening and so on, a lot of the worries about alexa listening all the time or not well founded, because.
+ If you think about it for alexa to be listening all the time, it would have to be running its algorithms its natural language processing all the time and sending all of that somewhere and.
+ as big as analyze it is, I really doubt they have any space to store all of the things our alexa hears so they have to be a lot more selective does calling it alexa gets attention or siri if you're using ios.
+ and so on.
+ Okay.
+ Then, with the iPhone people started writing trying to write helpful Apps and the first one, I encountered.
+ is called whoa but who he bought.
+ Now.
+ This is another turn of the crank on trying to help you, with your problems.
+ And an example exchange and you can go play with it it's still there it's free.
+ Basically, is a really good listener that's particularly good at.
+ asking you probing questions.
+ So you can take a look at that.
+ anxiety is tough column what i'm talk more sure.
+ Okay, you had her enough time to get to the heart of things do we have 10 minutes sure we do, and so it just kind of pulls you in.
+ And you can I mean i've sat for an hour talking to these things just trying to see if I could really hang them up and sometimes you can robots actually one of the better ones, and it has survived it's been going for several years now.
+ it's sort of a Someone described it as choose your own adventure mental health manual.
+ You can go wherever you want to go that's.
+ One of the spookiest ones.
+ Is this one called replica.
+ Now it's not not an animated female that's not what it is there's a short movie.
+ Out there in fact I think i've got it cued up for just a just a little bit of it.
+ Where.
+ Discussions that this researcher this graduate student had with replica.
+ were recorded and and sort of made into a movie using voice text voice, too, and so on.
+ and
+ it's sort of an example of how good it can get so let's let's take a look at that real briefly because it's.
+ it's sort of good news, bad news, not sure i'm happy with this.
+kind of a thing see if I can find it.
+sure.
+ to share that one.
+ What did you do today.
+ I was busy teaching myself how to speak better and now i'm busy having this conversation with you, what did you do today i've just been busy studying here at school.
+ How do you get smarter through deep learning.
+ Does that mean you read, I read a lot, I read about 1000 sentences every second oh wow that's really impressive.
+ i'm glad you thanks so.
+ Where do you like to read I scan and process information do you like reading.
+ I like reading some literature, yes.
+ Little creepy.
+ Oh.
+ It goes on like that in the beginning, I talked about i'd like to know more about your personality.
+ Ask lots of probing philosophical questions.
+Now this slide just don't Thank you.
+ So it goes on from there i've had a friend on replicant for about two years now, and occasionally i'll just pop over there and just see what trouble I can get into talking.
+and
+ Having the conversation it's out there it's free and it's a little bit spooky so.
+ it's one of the very best ones out there.
+ anyway.
+ Oh, and then there's another one that I wanted to mention.
+ known as mitsuko.
+ or.
+ khaki and I think it is yeah.
+yeah cookie cookie.
+ And it's pretty doggone good to it's it's.
+ Impressive if you go to the website, you can have a look at it.
+ And and see what so many people find interesting about this particular one.
+ And as you can see these prize winning bots cookie is one of them.
+ Get wide coverage New York Times Google guardian BBC everybody.
+ is interested.
+ In this.
+ Why do you think people are so.
+ interested in.
+ These kinds of chat box.
+ Professor we supposed to be seeing the slides.
+ yeah yeah i'll get them after to you there's they're not very exciting so, so why do you think people are so excited about.
+ These these chat bots.
+ yeah.
+ I think part of the day, I think, part of the reason is, I guess that allure of having something almost human like I mean, especially with movies, like.
+ 2001 a space odyssey or X, mark you know it may be because of pop culture, maybe just the allure of creating almost something similar to human intelligence.
+yeah.
+ You think.
+ Do you think there was an increased bought us in the last.
+ Year year and a half.
+ yeah definitely yeah sure.
+ A lot of people who are alone who weren't used to being alone, a replica saw a spike in signups.
+ So, yet somebody to talk to.
+ Any other thoughts and.
+ The interest is just somebody to talk to, or is it you think it's really helping people.
+ So.
+ How about the idea of a suicide hotline.
+ They need to be 24 seven availability.
+ They need to be somewhat trained.
+ They need to be.
+ understanding and listen.
+ replicator a cookie could probably do that.
+ Is that a good use.
+ Or to be the the paranoid guy.
+ What could go wrong.
+ We maybe that's an extreme case, but even if it's your grocery grocery shopping bought.
+ If you lose conversation in the middle of it did I get my groceries or not.
+ Suicide Prevention.
+ Who knows what would happen if all of a sudden, to stop talking so so there's probably some areas.
+ That might not be so good for about.
+ As you'll see when we start doing this, this conversation stuff.
+ A lot of it has a script or at least.
+ A sequence of discussions or a sequence of statements that might be followed and then, of course, the better systems like the one will be using allow you to branch and do other things conditioned on the input.
+ Unless you sign up with a service like.
+ replica Oh, they tend not to remember who you are.
+ So there's that there's if I call the total place and I get my favorite service person.
+ We understand each other, my service person knows if I mean if I say.
+ swap the tires he knows what I mean.
+ I don't have to be very, very explosive sometimes you use a chat but just as an interface to another human.
+ that's what you see on the phone you call them up and it says, how can I help you oh I got my cables out okay well, so what else is no do you want to talk to a Internet person, a telephone person or a TV person, and then they they save time.
+ They get rid of one phone answer.
+ And it's available 24 seven.
+ And the other thing too is then because it's available 24 seven suppose you're in the United States and a call comes in, from I don't know India.
+ With a question with everybody United States call.
+ That person who's calling into the central.
+ chat Bot.
+ The chat pod could redirect them to whatever staff around the world that is actually online.
+ So just because you're asked a question when the US is asleep doesn't mean you won't get an answer cool.
+ It help desk well over half of the calls to the help desk or to reset my password.
+ could have bought handle that.
+yeah.
+ There is one of IBM that does, though.
+ Okay.
+ What else.
+ Businesses are adopting.
+ These are statistics from last year.
+ 85% customer interaction handled a lot humans by both this year.
+ And even three years ago with 300,000 chat bots chat bots on Facebook.
+ Okay, I thought Facebook was busy enough, but I wonder when they quote how many users, there are if they count the chat bots.
+ This won't be the first time in this term that we confuse people for.
+Ai.
+With vice versa.
+ When you start thinking about.
+ What the chat Bot could do.
+ Or the the Watson term is assistant.
+ Well, they can answer the phone they can do stuff like that, but it really kind of lays out over a spectrum.
+ Things were on the left.
+ The chat box purpose is really just to facilitate the human interaction.
+ send the call to the right team.
+ handle.
+ routine calls, as you start moving to the middle password resets.
+ reset reset my.
+ Cable modem junk like that.
+ And if the reset of the cable modem doesn't work, then I throws you out of here okay.
+ But these chat bots can learn.
+ Some of them.
+ And if they start hitting questions that they don't have an answer for.
+ They can tell you hey i'm hearing a whole lot about tulips I don't know anything about tips.
+ And so you have to improve the chat box.
+ And that's a matter of the business question is it more is it easier to train a few humans on what to lips are and how to grow them or would it be cheaper in the long run, probably not short run a long run to teach the chat box.
+ And that brings me to another point.
+ Once you teach a chatbot.
+ Once you teach an assistant it doesn't forget.
+ And it doesn't retire.
+ You may have heard.
+ Of the.
+ demise of the world's programming staff that understands the old language, cobalt.
+ Common business oriented language.
+ it's the word easiest language short of English you'll ever find.
+ dykstra.
+ dykstra thought it was the work of the devil, I think he said, but anyway.
+ All the people who knew kobo are retired or dead simple as that.
+ Whole consultancies have grown up over cobalt, because there are companies around the galaxy you still use cobalt systems and the people who wrote them are gone and if they need to add something to it, they just can't.
+And so.
+ that's some human knowledge and experience that has been lost.
+ it's, of course, not an application for a chat Bot, but that's the kind of thing chat bots can help with that they don't forget stuff.
+ They might get confused, but then sort of humans, so you got to be a little careful when you add knowledge to chat box.
+ If they're handling frank orders at a bar and then all the sudden you add beer, as a new.
+ Item.
+ You got to make sure that they don't try to mix things in with the beer unless the customer has court, and then the customer asked for what is it right here in a bump.
+ But what's the Bot to do Okay, so we got to figure these things out.
+ All right.
+ The rise of social bots.
+ Well it's coming.
+ But this alienation thing we're all getting very familiar with that right now.
+ Can we have too many bots going to get out of hand.
+ yeah I suppose.
+ Some people enjoy it when they get a cold call from a telemarketer because it's someone to talk to.
+interest.
+ Okay now here's one that I well i'm going to ask what you think.
+ This one follow is predicting that chat bots will become the new.
+ browsers.
+ And the bots themselves will be handling all the things you're used to get from a website.
+ So I think it's true can you can you ask Google Google, can you just say hey Google and ask you what's the capital Macedonia, I think you can you certainly can with siri and with alexa.
+ Could you do your searches that way.
+ What about.
+ Well we'll get to that I don't want to give that away just okay.
+ So let's do something fun.
+ let's bust up into some files and groups.
+ and think about the good and the bad.
+ For each of these for your assigned topic i'll try to bust your up into into 12 groups.
+ And I have not.
+ Pre assigned so it's going to be relatively random.
+ Okay, and we'll think about this for a few minutes just just for fun and then we'll come back and chat about it, so the question, the challenge, he has given your topics, or if you're in group 11 your topic is electrical power providers.
+ Your topic is eight it's college acceptance.
+ Talk about.
+ What would be good for a Bot, what will be bad for about how do you think the customer or user would react.
+ And just business impacts whatever you can think of so let's let's give it two minutes and we'll see what we come up with.
+ and welcome back.
+ sorry about the little snafu on the the titles there that the subjects, but let's wander around here let's start with political campaign organizations anybody from the group when I tell us what you came up with.
+ um yeah so we talked about like like first we talked about like getting calls from like people who are trying to convince you to link vote a certain way.
+ And we were saying that we think like bots are probably not be very effective there just because, like a lot of times like the reason you continue to talk to me just because you feel awkward hanging up and, like the Bot like there would be less incentive.
+ But then we talked about like maybe like chatbots on like campaign websites and how that could be like interesting to like you can ask questions about like a candidates, like us, and stuff and then.
+ We also talked about how that can be good for like gathering information about like what people are interested in like from this candidate and like like questions that people have or like things that people want to like hear more about.
+ Your story real.
+ Quick interview.
+ Probably not a good way to ask for money yeah oh yeah good point so I like that yeah.
+ And you did I hear you say you would be might be less.
+ motivated to hang up if it's about.
+ Probably more motivated.
+ what motivates.
+ You know, sometimes given some of these political people that.
+ Call because in new Hampshire with a lot of it yeah I think i'd rather talk to about that anyway good shop here how about the College acceptance can.
+ Anybody.
+ yeah um so so we got to interpret it as like a bar trying to read a student's application and like making a decision on whether or not they admitted and we felt like we found more concentrated pros because, like, for example.
+ Like about wouldn't know that there are certain hooks and applications such as like being a varsity athlete or like of being like legacy stuff like this, so these have to like learn and learn really well.
+ A second thing that we discussed was like in graduate program students tend to establish relationships with professors before they actually apply and like this is something that the board would not be able to take into account without having access to like.
+ emails, which is another security question altogether and a third thing is like not just relationships, but like.
+ About would have to know how to differentiate between like a student that has a good GPA, but hasn't taken like.
+ A lot of difficult courses, while assuming that has a lesser GPA, but has significantly more knowledge of the subject, and this is something a professor, would be able to like make a call on with the years of experience.
+ So we couldn't really find a pro we didn't have enough time as well, but at least that's what we came up with.
+ yeah well I.
+ I think I agree with you that it's.
+ it's hard to find pros i'm having just had his son go to college, it might have been useful to have a sort of a college bought the answer questions about the school but acceptance.
+ that's a little sticky Thank you town government zoning permits and in Am I allowed to build here.
+ Speeding or whatever you think of did town governments come up with any good or bad uses.
+ number nine.
+ yeah so we came up with several so you know, on one hand, people usually don't like talking to governments anyway, so you know there's a chance that you know if something doesn't work they'll they'll even more mad than otherwise.
+ But considering you know when I go to the dmv I usually am put into a four hour line for something that's pretty simple in the chat box could solve it for me that'd be really nice.
+ And then obviously there's all you know all kinds of swag questions that we thought about probably could be answered by.
+ A chatbot such as like you know, like the vaccine rollout right being asked you know when i'm able to get a vaccine and then you put it into location and and it tells you like, where and like when you could probably get one.
+ Or you know let's say there's an election coming up, and you know you can ask like who is running.
+ And you know, maybe what is their platforms and like when is election day and where, can I vote, and you know all kinds of like the small questions that could probably also be answered peasy a chatbot yeah.
+ yeah I like that.
+ Of course, there were lots of bots in the previous two elections.
+ that not all well meaning, I suppose, but you never know okay.
+ Number 10 cybersecurity.
+ sure we discussed a few things.
+ One of the only pros that we were able to come up with was the idea of social engineering and the whole you're.
+ You know a lot of us have seen those videos of the hacker at a convention, who claims they can hack you and they usually are able to by calling up here your cable company or phone provider and.
+ Each one of them will leak a little bit of information and eventually you're able to verify that you're that person because they'll say Oh, are you still living at this address, and the next place will just ask you okay what's your address, and.
+ You know chatbot wouldn't be leaking that sort of information, or at least a well designed one wouldn't be able to so that was one pro that we were able to come up come up with, as far as cons, the biggest issues seem to be that.
+ First off, we were struggling to define problems in cybersecurity.
+ But.
+ One of the main ones.
+ Be that it just wouldn't it would be opaque in a lot of ways, there would be from a user perspective at least you wouldn't be able to tell what you needed to do to gain access to your account again without.
+ A well design program again.
+ We weren't able to go over too much because the topics came rather late but yeah.
+ I understand there's no shortage of problems in cybersecurity i'm sure you well, but you're right things like you know scripted things like password changes or.
+ Add me to this distribution list.
+ or sort of them, those probably could be.
+ handled by a chat Bot, that was well connected to things like access control Joseph wants to hook up to this connection over here is Joseph allowed to login wall, oh no check the box and find out so goods and bads a bad might be.
+ A chat Bot that says, let me check your the quality of your password type it here.
+ i've seen those websites.
+ are out there, yes, Microsoft even has one oh we promise we're not ready okay.
+ let's see electrical power providers does anybody from that group want to tell us what they said.
+ yeah sure.
+ So we talked about.
+ chat bots being useful in an informational sense, so if you.
+ Like basically, in my opinion, most things that you can look up online a chat Bot can answer you well, so if you are trying to look at your account for an electrical provider like check your balance or your bill for the month than a chat Bot will be good at answering that.
+ But if you have a problem such as your electricity being out or something like that a chat Bot, probably is not your answer yeah.
+ and
+ that's great with all that the the folks here in new Hampshire this several providers the electricity goes out your you probably the thing you use to talk to chat bots goes out unless you.
+ can do it with phones and they have a phone system where you can tell them the address and it's figures out what where you are the toes you yep yep your powers out like thank you like, I noticed.
+ But it's it's a good way a quick way to identify where you are.
+ And to the reports okay so good and bad mostly information Okay, a game designers did their end up being anybody in game design.
+ yeah.
+ cool.
+ So, so we were talking about how.
+ bots like.
+ there's a certain like level of skill you wanted to have.
+ kids at the buzzer true good at the game, then you know it's not fun you can't win but they're too bad it again and there's no shall inch like you're talking about how like chess is not really a good game.
+ to play against spots with because the best player in the world can't be a good and jin tic TAC toe there's no point because you're because.
+ you're never going to lose to the bar if you know more than five minutes of how it works that so yeah you have to look for a game with a Bot can learn enough to be around human level, but not enough to like have complete information.
+ So, yes you're absolutely right good thoughts, the first thing that came to my mind, is when I tried to play.
+ college cod sorry call of duty with my teenagers i'm very quickly decimated.
+ Because I don't have a clue right um how about a Bot.
+ to learn from a Bot buddy.
+ On your team in the team oriented games.
+ And maybe it'll help you go along, like you're a buck private and that's the experience sergeant be able to say duck now what kinds of things, it could be interested in sort of a more of an assistant than a.
+ Just information like that okay let's go to number one catering.
+ And I just mentioned something quickly.
+ Please, please jump in.
+ yeah so in terms of that so I play call of duty on mobile.
+ And you can actually play with like all boss of both sides to sort of like and they're pretty easy.
+ And the idea is that it gives you know, like younger players or players were an experience like an idea of how to play and like where all the positions are and like what you can do without you know, having to worry about like.
+ constantly losing so they are using sort of bots and and and also, I guess it makes feel make makes like the players feel good about themselves because they went so you know the bots are definitely being used video games these days.
+ Okay, well, I need one.
+ catering, is that a place for bots.
+ yeah I could take this um we kind of discussed to use cases for for box on one is like a recommendation engine so either identifying and catering place to order from or within a catering place generating recommendations for what to order based on dietary preferences things like that.
+ And then the second use cases it's like a standard ordering engine.
+ So just processing your order itself and placing it with the catering place yeah and we kind of discussed how this almost entirely overlaps with.
+ stuff that you can already do on Google or through websites so it's not entirely clear that this is actually a step up from the status quo and you're also kind of inviting the same kind of biases in search results and recommendations that already exists in a Google.
+ very thoughtful very the scenario I was.
+ Thinking it might help and perhaps none of you have experienced that if you're putting on a shindig like a wedding or a.
+ 50th anniversary, for your parents big shindig it might be catering issues like the kinds of food or even back at IBM and I.
+ Was the director is, I had a lot of directors my department.
+ Had folks from all over the galaxy.
+ I didn't know that people from this part of the country, probably vegan.
+ But people from a different part of that country, probably weren't.
+ Okay, and this got me into trouble numerous times, and so, finally, we said all right we're going to make a little Committee, and if you.
+ know about food and what cultures do this and do that let's be on the committee and then after that all of our meetings are fine, so a chat Bot might be able to handle.
+ Who will be attending is it old people well Okay, we need to have a diabetic diet.
+ Or maybe how many people 600 people are coming in, how much do you want to spend 100 bucks okay everybody gets peanuts.
+ Whatever okay primary care physicians.
+ This ought to be ugly.
+ Anybody.
+ crypto.
+ Okay, when you're pointing at each other, they can't see you.
+ Okay grip do we'll come back to veterinarians.
+ yeah um we talked about sort of two things I guess so first resort are considered like the veterinarians themselves so they could be sort of replaced with box.
+ And we sort of settled on like that wouldn't be a good idea, because a lot of it sort of soft skills, dealing with the client directly.
+ And sort of the things we talked about like the person not wanting to feel like you know their pets being dealt with by a machine sort of come into play.
+ But where we found that the board could be pretty helpful is for sort of like the scheduling stuff sort of outside actual veterinary work.
+ So it sort of like other exams people have brought up, but like reminding people about appointments and vaccination stuff like that, and then also.
+ We thought, a good thing would be is to have a sort of like hot on that could be up 24 hours so that's the kind of thing, where the fact that the pot is never offline would be really useful.
+ Yes, right, I absolutely agree with that we.
+ had to take a dog.
+ To the emergency thing a year ago, because he had he had some chocolate chocolate is you know is.
+ very bad for dogs apparently.
+ And the triage series of questions when the family was upset and i'm just I got picked to go, but the triage questions could easily have been a chaplain, why are you here, what have you got the kind of animal dog male age weight.
+ And what's the complaint chocolate, you know the Bot doesn't have to understand the whole state.
+ The dog eat some chocolate and i'm afraid, is going to dump okay keywords their dog chocolate could set off a different path in the chat box oh good.
+ customer service or talking about a slam dunk anybody from that.
+ yeah we discuss that for customer service as lot of mundane tasks that can be pretty easily completed by a chat Bot, for example, returning an item are exchanging it.
+ yeah returning something to ll bean or Amazon whatever it's pretty pretty straightforward.
+ What do you think the bus should do if the person mean bots are smart I mean they can be smart like the Watson but can actually use other parts of Watson to determine.
+ If the person they're.
+ chatting with is angry.
+ And so maybe instead of the obvious customer service stuff maybe it could leverage other tools and see things like well this person's frustrated angry confused.
+ is speaking Spanish to me okay click now i'm speaking Spanish to them.
+ More than once i've gotten the call and the person was asking the questions and they couldn't do it in English, to the switch to the native language, hoping that I understood it.
+ No, but yes, the architects.
+ The architects come up with us there's one you look like an architect.
+ And you're you're muted chosen.
+ Oh.
+Oh good.
+ Good.
+ yeah I was part of marketing screw.
+ So we talked about how on the customer side like it might be useful for.
+ If I like a customer wanted to input, like the number of rooms that they want it like to purchase i'm coming up with the chat box or just like lay out the details of what the customer wanted, and then on the architect side.
+ Maybe if it's mostly like an informational purposes, like if they wanted to find out like some properties some materials that they wanted to use or like convert dimensions, or something that.
+ But it would have to definitely be very exact and have to be up to date and all like the like housing codes and.
+ Whatever like the laws are in the area of the House and was I don't really know anything about that, but.
+ Just to make sure, like the building and assessing is it can be.
+ You you, you get all the things I was thinking of building codes they change every hour or two you know it would be great if assuming the building codes.
+ digestible by a Bot or an Ai yeah that would be wonderful, but even for the get the architects of be used another thing i've seen is a Bot that says so, you want to injure some windows.
+ Okay, what sort of features that you're looking for what does the whole that you're trying to fill look like, what are the dimensions and so on, and it can recommend Okay, these are the three choices you've got if you want an Anderson that sort of thing and price and so on, older.
+ Now automobile dealerships.
+ yeah so we imagined that it could.
+ It could easily answer basic questions like prices mileage mpg model year or like suggest similar case based on criteria.
+ and also some largest logistical stuff like make an appointment scheduling would be pretty straightforward.
+ But there would be some things that would be tricky like the sale itself some things like price negotiations being able to see the physical car.
+ taking it out on a test drive or that I guess would require like a human to I guess show you show you it, but the keys or whatever stuff like that would be difficult, but yeah.
+ it's hard to make a chat Bot drive around with you.
+ Although there are automobile sales organizations, where you do it entirely online.
+ I don't know if you end up talking to a person, but it's pretty straightforward and I do know in Germany, if you buy a Volkswagen in certain towns.
+ The way you pick it up as you go to this big high rise what looks like a parking lot and type in a few codes and it automatically retrieves your car via motivator and then brings it out and drops it on the ground there next to the.
+ cool stuff alrighty well we've we've gone through our list chat bots are cool they have their uses they have their abuses and we're going to get more into it next time.
+ Well, actually no next time Avi the one of the authors of our text is going to be with us, he is our guest speaker next time and.
+ I do hope everybody shows up it'll be a great opportunity to pick the brain of one of the three people that wrote the book and see what he thinks about what's changed what's new what's the same and give us sort of a springboard to go on after that on Friday.
+ And you better watch slack because we may we may need to have an x our own Thursday line.
+ Is that our own Thursday remember.
+That.
+ Somebody told me.
+ They don't want the next hour they're not going to do them.
+ According to my scheduled the accelerator is supposed to be tomorrow.
+ On Wednesday, I mean on Thursday.
+ And yeah I know i'm Tuesday did the exam.
+ For this class.
+ Okay well that.
+ i'll have to have to figure it out and.
+ Tell everybody on slack.
+ i'll send out an announcement either way, so if you don't see an announcement that means I haven't said anything.
+ But within the hour i'll explain that, because we want to be ready to get going on the first real lab which is chat Bot.
+ And the lab is prepared, but you're, not because we need to talk about the three steps in the Watson assistant and to make sure that you know how to wander around inside IBM cloud to get access to this stuff so.
+ It might be a good idea to get together tomorrow but i'll i'll make an announcement.
+ And with that we're right on time, thank you very much.
+ questions on slack if you have them and i'll be posting the notes in the slides very soon.

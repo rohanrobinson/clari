@@ -1,0 +1,508 @@
+ and good morning.
+ rainy day in Hanover.
+ So I wanted to start off today.
+ With a sort of a news flash i'd forgotten this was happening.
+ Excuse me.
+ A few years ago.
+ It became clear that one of the places we might consider autonomous.
+ vehicles is the ocean.
+ And does began a research project.
+ At the add IBM.
+ And this Friday not not this Friday, but the following Friday.
+ And i'll clarify that, just to be sure there's going to be a webinar on YouTube.
+ talking with the lead researcher.
+ rosie licorice.
+ In the UK, because the research Center in the UK.
+ And, well, I just wanted to go over this just a little bit because i'm i've already seen some inside presentations and it's really quite astonishing.
+ So let's have a quick look.
+ here.
+ The season awesomely powerful thing, there are vast areas of the ocean that we know literally nothing about we know more about the surface of the moon, then certain parts of our planet.
+ Is that ignorance that should scare us because the ocean controls the entire climate on our planet, this project is not about the last 400 years it's about the next 400 it's about the future.
+ Mayflower top of the ship is inspired by the fourth anniversary of the Mayflower crossing from planet to planet.
+ On that we're talking a whole nother story there's no humans on board so we've got a ship that's going to make decisions on its own.
+ It doesn't have anybody within a control room pressing buttons or anything like that I did 33 and a half years in the navy i've never seen anything like that in my life there's no guarantee of success for any number of reasons.
+ it's the beginning of something new.
+ And we thought of every possible situation they could encounter.
+ Like the Mayflower really allow us to collect as much data as possible, we can discover what does the future hold for this type of research, the single biggest challenges the ocean and tell no ship has ever been built that can survive, whatever the ocean.
+ leveraging technology autonomy machine learning and Ai is going to open up the door.
+ hey sorry about the I tried to stop it in time.
+ So.
+ Six Ai powered cameras to tell it what to look at what matters.
+ It says 30 sensors there's more than.
+ Just all kinds of instrumentation.
+ And it's going to take off for the zone.
+ Certainly cool looking.
+ But the idea is well, can you.
+ Can you reduce the amount of space that you need to manage humans on there, but fewer humans at risk.
+ and
+ Get shipping faster, I mean I doubt this.
+ would get stuck in the Suez Canal but let's let's certainly hope not.
+ But you never know.
+ So anyway, the Ai stuff we're talking about is real and.
+ Oh okay.
+ and real applications are happening all the time.
+ so strong that.
+ If you want to join the webinar.
+ It will be next I think it's next Friday.
+ At 1pm edt.
+ And, of course, since it's on YouTube it'll be recorded, if you have class or.
+ plans at that time.
+ alright.
+ So today.
+ we're going to talk about another tool.
+ And why is it such a big deal.
+ Why are people so excited about.
+ You can argue that discovery was really.
+ The first of the cognitive computing tools that we're talking about the youngest.
+ Because driven by the amount of data.
+ that's out there, not just jeopardy, but.
+ billions and billions and terabytes and all those other metric terms huge amounts of data.
+ Some we don't even know we have.
+ And most we don't know what it could tell us.
+ And so, even a year ago forbes was saying.
+ 1.7 megabytes of data created every second.
+ For each person on the planet.
+ Now, maybe, maybe Tracy doesn't have access to that data, maybe I don't have access to mind, but that's just an example of how these numbers are just through the roof well, there is no roof, the roof is obliterated amount of data that's out there is truly astronomical.
+ and companies, the companies you'll be working with.
+ They have this data they want to do something with it, and no they're not all evil looking to.
+ An S, some are trying to aim heads.
+ But it's business insights strategy it's competitive analysis.
+ All kinds of cool things that you can worry about and as questions and maybe get some answers.
+ A lot of the data is in weird forums.
+ most commonly natural language, we talked about that last time.
+ Understanding natural language is.
+ tough enough for us.
+ coming up with a magical mystery machine that can understand a document, whether it's for legal or medical or social.
+ use.
+ is a pretty tall order.
+ Some things you can understand from basic language like sentiment positive or negative feeling or the angry.
+ You can identify once you know the language you can identify the entities, the things that matter and the things the entities are doing the intentions.
+ automatically.
+ And we all want to use this all the time, in fact, we already on.
+ If you ever read a review on Amazon.
+ Of course.
+ who wrote that.
+ Oh.
+ A confirmed purchaser.
+ Well, not always.
+ there's already worries concerns about as writing reviews and I suspect that they are.
+ might still be a little expensive, but you know.
+ These things are changing the price is going down.
+ So, for example.
+ I.
+ ingested a bunch of.
+ documents.
+ In a.
+ into the discovery service.
+ we'll talk about that let's see if that got it in there.
+Yes, there we go.
+ back a screen and i'll share the screen okay.
+ Okay.
+ Now, without getting into.
+ How I got here.
+ let's have a look at this screen, this is what you get when you start the discovery service you you create the resource and.
+ started.
+ Okay, so.
+ Earlier today.
+ I fed it 709 documents.
+ All of which were.
+ airbnb reviews real reviews.
+ they're not recent to from a couple years ago, but a lot of short text with similar focus okay so 709 documents and none of them failed.
+ Failure might be it's an unreadable document like you gave a PowerPoint.
+ It could be something like it's not an English or the language you've selected.
+ And it could also be things like it's while it can understand PDF and html and a few others, if you give it a lot tech it's just not gonna work.
+ Okay, so there's a few language like things that can handle.
+ And, with no training whatsoever, other than the basic that comes with bill down to this discovery.
+ it's identified fields that matter.
+ So it discovered these things I didn't tell it.
+ Here is the text here is the listing ID here's the host I didn't tell it that we gathered that from the documents.
+ And it was able to announce analyze it and it came up with a fairly positive most of the time review.
+ selected entities are different names these happened to be I believe some of the owners.
+ Of the airbnb is that were rented.
+ And so on let's see what else categories.
+ A lot of the queries or comments queries comments were about nearby arts and entertainment.
+ lot of them were looking for places in Austin and downtown or not downtown and so on.
+ And once you ingest these documents literally you just back up the truck in put them in there, and if your documents are reasonably reasonably well formatted well structured and not, shall we say.
+ Heavy on.
+ Tasks specific lingo or language like it's not a medical journal.
+ Then it works out pretty well.
+ Okay, so let's take a couple of queries here some that it's just for fun just suggest.
+ entities of type person, which have negative sentiment, most of these queries are.
+ search for search for these kinds of records and then filter them okay so reduce it and then filter so.
+ The language, the the query is either this awful query language, and you know it is what it is.
+ Or you can build it visually.
+ like this, but let's go back to the.
+ query language but lost it okay so let's go back again.
+ Just run them and come back later and make our own okay.
+ Okay, so to read that it's.
+ The text that's been enriched meaning annotated.
+ Entities Okay, so this is.
+ Austin is in the text and it's used as a as a location, not as a person's name.
+ Okay, and.
+ Right it's a person sentiment score is less than six minus 65 and bringing the text okay so run the query.
+ And I believe it's over here.
+ That a little lacking, in my opinion, major issue, the location not situated well.
+ laundry room chairs of all the kitchen.
+ So that sounds good, but given the heat of the sun spots now we're not well situated, and so on, so no where did it say.
+ This place stinks don't go here or anything like that.
+ Based on the understanding of the way English works and common use.
+ discovery is able to discover many of these little aspects now of course for you and I, sending back in text is good if you're doing this, the code because back in json.
+ Which is ugly and scary but it's very efficient and very clear how to how to read it.
+ Okay, so there's the different passages, and so on.
+Okay.
+ Now, if we came back.
+ He said build it in visual mode, you can come in and build a query this way so select a field oh I don't know.
+ See entities were to do go.
+ whoops we're nothing and.
+ So you just go through and select your field my sorry it's slow today.
+ So elements text.
+ So type is.
+ person whoops not ideal.
+ person.
+ OK, the next it translates it into the goofy magic that.
+ Watson really wants.
+ And then we come down here and so.
+ i'll put what the top values now let's see.
+ Minimum.
+ And we'll go from score.
+ sentiment yeah the worst sentence just for fun just because there's only one.
+ Okay, only a few.
+ Okay, so.
+ sentiment was negative vibe park close to whatever we look at this one yeah so.
+ A couple of documents came back not very good okay.
+ So you're probably thinking this is incredibly awkward two years what a pain in the neck, most people don't use it from this screen.
+ They use it programmatically.
+ And there's lots of examples out in developer works developer.com where you have all these examples.
+ This one and many others and we'll see some more later as we go.
+ So anywhere that you have a bunch of data.
+ And you're not sure what it might be able to tell you.
+ Know discovery is not going to guarantee it's not guaranteed to go into that data come back and say look here.
+ or there but.
+ It also might tell you something between well.
+ The major entities in this document our customer.
+ product and complaint.
+ Okay that's that's interesting and then you can refine your queries and do much more deeper analysis Okay, but the I thought it was pretty interesting that I gave it a 709 documents and.
+ They all haven't been rather positive but nevermind nevermind it's okay let's see persons have build your own query do you want to do another one.
+ Now let's talk about some okay so we'll come back to this.
+ In a bit.
+ So the whole idea of discovery.
+ helps you build these.
+ These collections of documents that have been thoroughly read.
+ and
+ Underlying unstructured data underlying ideas.
+ may very well appear.
+ Well, you can use your data, you can use public data.
+ Many times you're taking data from two different sources.
+ Combining i'm trying to see does does the Union of those two pieces of data tell you even more.
+ So imagine good sales and customer demographics, you could certainly find out what's selling where that kind of thing now you're probably thinking well Charles that's just data science data science is certainly a big part of this.
+ But understanding the language.
+ Is sort of a prerequisite before the data science tools can work.
+ Okay.
+ So yeah we need some some some code to help us do this.
+ and
+oops.
+ Six steps that it goes through, and again don't worry about putting these on the exam i'm not going to do that this is this is related to discovery.
+ So it has to ingest the document.
+ Okay That was our first big challenge.
+ All of this unstructured data is out there it's either newsprint it's video it's PowerPoint and keynote.
+ spreadsheets.
+ In some cases even handwriting.
+ So clearly with that'd be able to get get this stuff in there that's what you have.
+ different languages.
+ it's one thing to focus on say French and get that down really well but as soon as one of your documents includes a non French phrase you're you're in trouble.
+ Not everybody writes left to right some right right to left.
+ Some use symbols.
+ They don't use letters like that, so you have to be able to handle all of that stuff and try to combine them, in other words distill the language.
+ To where you can understand the document, no matter what it's written.
+ And once you've distilled it into some sort of common.
+ pseudo code or pseudo language you can then start looking at things and figuring out stuff like doing and richmond's where you say identify the entities identify.
+ The mood identify.
+ accents and languages stuff like that.
+ But normalization let's I sort of already talked about that.
+ When you're reading a newspaper article from Shay say going to pick on here.
+ New York post.
+ Okay it's going to have a very different take than, say, the Washington Post.
+ Or the Denver post.
+ So how do you.
+ How do you normalize and i'm not talking about the liberal conservative slant or the wackos lead and talking about word use.
+ So the art post I used to read it for fun there's a little more Lucy Lucy about their language but they might be talking about the same thing all three newspapers print in English.
+ In the same stories going to read differently so we got to be able to kind of normalize it all together once you've enriched by going through and marking things, as this is an entity, this is a mood, this is a location, this is.
+ officer of the government, whatever.
+ Then you can index.
+ This Joseph.
+ You would be surprised at how similar many of the articles are and that's because they all steal from each other.
+ Oh yeah.
+ And the best part is you can tell when the story changes from Article the article in a way it's very predictable right they'll they'll change the words in one way, and then the other one will call the first one and change it a little bit and after like the second one.
+yep.
+ Now, and while discovery is not necessarily used for for the purpose i'm about to mention, you can certainly use.
+ Ai ml techniques to try to ascertain authorship.
+ style and stuff how people use use their words and so on, have you thought that wasn't anonymous post to read it well, maybe not if I have enough data I can probably find it.
+ index it so you can then search and explore what can I do that kind of thing and that's where it really gets interesting for you, you give the complicated system, all these documents, and all this time to.
+ munch it up find out what is the real meat of these documents and then, once you index them all, then you can make connections that you didn't know about before.
+ But again, we always go to the medical.
+ example where something was used to treat one disease and it had a side effect of something it turns out that that something is a bad.
+ symptom of a different diseases.
+ To make those connections when we've got millions of pharmaceuticals out there and even more treatments and also think about.
+ Old World treatments.
+ Jen sing or.
+ I have new tool of dog or whatever it is.
+ Just understanding how these things work and putting them all in one place we couldn't do this before.
+ Before we had cognitive systems that can read normalize enrich and then index This information was not available.
+ it's it's truly becoming quite quite an innovative way to look at things.
+Okay.
+ just for fun, this is how the insides of discovery look like.
+ i'm in this one's actually old you can take in a broader collection of documents now.
+ It converts them clean them up if it can.
+ If you give it a snapchat.
+ conversation they might have trouble.
+ sleeping can throw it off until it's read enough and, perhaps, with your help.
+ Finally, able to understand them, and whether it's lying or just particular job speak again I go always go back to the cybersecurity thing.
+ Watson doesn't know what an IP addresses out of the box.
+ It knows address because that's a fairly common thing.
+ It doesn't know.
+ Encryption key.
+ Certainly doesn't know ssh or all the other acronyms that we use in security.
+ So as i'll show you later, we have to.
+ get to sit down with the kindergarten here and tell it IP address is a thing.
+ thats related to communications.
+ and so on.
+So that's us.
+ searching all your product reviews.
+ yeah all kinds of ideas, you can look at this.
+ So just just a few terms and again i'm not going to ask you to definitions i'm not that kind of teacher but.
+ We have a couple you might hear the word corpus or collection.
+ it's all the data that you've thrown into the thing.
+ The enrichment things like into these categories that group things together if based on the language in the text you've given it they're always together.
+ So might say I don't know.
+ sales tax and delivery charge If those are all used in the same together like if it's an automobile dealership.
+ Then they might it might collect them into a category of charges or costs.
+ concepts of these can be vague like positive or negative.
+ They can also be things like future or.
+ Medical or.
+ unhealthy that sort of thing.
+ keywords obvious sentiment again that's just sort of the mood of the statements.
+Okay.
+ A lot of times and this comes up a lot in medicine.
+ You don't want a discovery system, whether it's IBM or whoever you don't want one of these cognitive systems to come back and say, the answer is 42.
+ You wanted to.
+ How did you come up with it, but if you're if you.
+ Get the doctor.
+ And she comes in and says all right you've got.
+ toenail from this.
+ first thing came to mind.
+ you're gonna say wow i'm having I get that, how do you know what do I do about it, so you immediately there's 20 questions if the doctor just came in so toenail fungus and left.
+ Thank you very little that's not that's not helping me.
+ So if the system comes back and just says, the answer is 42 you want to know how did you come up with that.
+ In the medical situation it matters a lot, because this is potentially life and death pain and suffering.
+ You want to make sure that you've got the right answer the book talks about an example where you have this question should you just take some rest or the anti blood clot medication.
+ So you want to want the system to come back and deliver a passage, that is, explaining or, at least where it got that idea.
+ Okay you've got toenail fungus you should use low trimming okay why in the passage might be something low Truman is recommended in cases of acute.
+ toenail fungus Okay, or it could even be acute cases of fungal infections.
+ And discovery in other cognitive systems will connect those two a fungal infection and toenail fungus.
+ I really should have picked a better answer better example here.
+ Are the same thing are related and then it exposes the passage like I said, if it just tells you know driven you know you need to know why.
+ You also need to know why because it might not be the correct evaluation.
+ If it tells you you've got the toenail problem, it could also be because you dropped 30 pounds Sander on your toe the other day.
+ And so you might want to offer additional information that is not in the medical record from the er.
+ That says oh looks like it took a.
+ hit from some sort of London.
+ So that's additional information, just because you get a pass it back doesn't mean it's the whole answer.
+ Based on what it has the system returned, so you may have to provide more.
+ i've had situations where a customer would back up the truck and load up their system with all this information that they think is going to tell them great things that always told him the same thing.
+ it's like the answer was always 42 not that simple.
+ And then they have got to come back and look at what did I give it.
+ Whether it's image training or document training.
+ If you don't give it realistic documents it's not going to come up with unrealistic answers.
+ So if you were coming up at the political expert.
+ And all you gave it was liberal or conservative or pick your flavor documents it's going to be that way.
+ And this is just beginning to explore the bias challenge will be having.
+ Well, of course, we have our discussion Monday, we have a guest speaker let's see he's from IBM armin he's he's crazy Armenian.
+ So he introduces himself, sometimes it is going to talk about some of the tools beyond discovery that help us avoid.
+ bias and identify training problems.
+ And since i'm talking about coming attractions next Wednesday, we have the guest speaker.
+ phaedra boy Doris, who is the one of the movers inside IBM for identifying and eliminating bias and she will be discussing all the ways.
+ It happens and what we might be able to do about it she's not going to talk about the product he is, and that leads me also to remind you that the exam the quiz is not Monday it's next Friday, because we had to shuffle okay anyway.
+ Thought The other thing you want to be able to do as natural language queries and so on, every time you get a discovery product you're given a.
+ Complete what is it Watson discovery news let's let's go look at that just for fun.
+ So just like you had your dialogues in assistant, when you crank up a new discovery you get this Watson discovery news.
+ This is maintained by IBM constantly updated, I think.
+ Daily at least.
+ not sure it says continuously okay.
+ You can say six different languages.
+ and so on, so this is a big honkin discovery system and it continually pulls down this information it's always identifying the active concepts and so on.
+ People different things going on you.
+ it's a sentiment of articles.
+ I don't care about Elon musk let's see how about company acquisitions related to me, I know it sounds like fun.
+ OK, so the pants going to buy somebody.
+ And who does Ai all right, and of course Microsoft is buying nuance and that's a very interested when most people don't think of nuance is Ai but how else can it do.
+ voice voice to text, of course, it does.
+ So interesting Okay, so you get that win built in.
+ When I first encountered discovery, the first thing I typed in to this pre trained.
+ Watson discovery.
+ was in question about hacking.
+ doesn't know anything about hack.
+ It turns out, it didn't know much.
+ For sure until we trained it a little bit so.
+ yeah okay i'll get to that alright.
+ So let's go back finished some terms The other thing that I wanted to touch on was what are these enrichment.
+ So entities, just like in your conversation companies organizations cities mountains.
+ sentiment positive negative keywords and so on.
+ It tries to classify into a hierarchy of categories up to five levels deep just because.
+ that's what's built in.
+ And it tries to find subject action.
+ actor actor.
+ actor victim Union whatever you want to call it as interesting relationships and it tries to identify emotions and then usually does okay.
+ Okay, so it's our terms.
+ Alright, so discovery news airbnb.
+ And so on okay so let's let's kind of go into a.
+ example.
+ When you.
+ have documents that are specific to a domain.
+ For example, to.
+ Two years ago.
+ For the final project one team of three people took on the orc the three noted stands for.
+ Class catalog the thing for all the classes are.
+ And they decided to.
+ Feed that into discovery.
+ and see what they could find.
+ And so that's a domain specific.
+ kind of writing and they had to teach discovery what words matter so of course always means the class doesn't mean the direction of a bump.
+ And so you have to annotate all these a bunch of doctrines and feed them into discovery, so that it can start to learn what you're talking about.
+ Is if it doesn't know that these two things are an entity it can't discover a relationship between them and report that so it has to know that this is a relationship that's possible.
+ So in this example.
+ One of the examples we used to DEMO have a bunch of.
+ automobile accident for insurance act insurance records detailing information about an auto accident.
+ Okay, so we had to.
+ go through an analytics and i'll show you how we did that using Watson knowledge to do.
+ That certified advanced to awake compliant airbag system whoops the back airbag system is a part of the car.
+ The model year was something important, it has to be able to extract that notice it doesn't say in a model year 2005 for know it has to learn that, before you define a vehicle name its manufacturing usually if there's a year number, something that looked like a year, you know.
+ Probably not be here.
+ Then it's a modular.
+ Ford escape slt four by four and manufacturer model to vehicle crash okay so that's the kind of incident that's important for the insurance and the date and time.
+ So you have to go through and teach Watson teach the content ID system, the language of your domain.
+ Now this.
+ is real, this is from project I did.
+ Well, the patent was just issued so it's about five years ago.
+ We had the challenge of cybersecurity i've touched on this before.
+ We had to sit down and talk with the experts.
+ The people who helped customers all the time of IBM and others sit down with Microsoft sit down with Cisco and talk about.
+ What do you look for what's important.
+ Where do you read the first off where, what do you read, and so a lot of them first thing they do is they check to see if there's any new security advisories from from search or the government.
+ Any advisories from Microsoft IBM HP usual folks.
+ They check the news.
+ And then they read specific websites like dark reading and some of the hacker about blogs, and so on it's a lot of reading.
+ And they have to do it every day, sometimes multiple times in a day.
+ So clearly these folks.
+ And prerequisite to being successful the speed reading right.
+ But it doesn't scale you can't do.
+ And there are still millions of open job literal millions of open jobs for cybersecurity folk but they're all going to have the same problem there's too much information coming too fast and too many different formats.
+ So what we did.
+ Is we connected all these documents and we started feeding them in that we wanted to feed them to discover, and the first thing you have to do those you have to teach Watson like I said to teach it the language.
+ So on the right here.
+ That little strip of color.
+ Are the entities that we decided to use.
+ So the first one adversary resources, something the adversary uses the campaign is a term used in antivirus worlds, where they talk about.
+ The not PETRA campaign there's not a particular incident it's a collection of incidence okay.
+ ransomware particular wensum ransomware attack, for example.
+ um the exploit target is that a particular vulnerability is that a particular system like Stuxnet it was a particular model of a seaman's.
+ programmed logic controller used in industrial situations, but GP geopolitical entity okay if if a nation state is involved if it's.
+ A government if it's if it's a government entity, like the CIA that sort of thing, so we go through incident and intended effect resources threat actor who's doing.
+ threat related action ttp that's techniques tools and procedures.
+ Things processes that are used.
+ to accomplish the goal.
+ Then you get a bunch of standard documents.
+ In the Watson knowledge to your hopes you do this.
+ And you go through hundreds of documents that's why it takes a village to do this.
+ New highlight the word you essentially say okay first stage malware that is.
+ ttp.
+ Is execute okay let's get one more interesting URLs those are resources.
+ websites infected that's the impact.
+ Or the incident and, as you can see we're a little.
+ unclear whether it's.
+ This is an impact or.
+ The actual incident infection.
+ And because I wanted to point that out, because if our if I do this.
+ I might annotate it this way.
+ Including down here dire, which was a campaign malware which was used as the tool for that campaign.
+ But I will annotate this one way.
+ Then the same documents have to go through.
+ Tracy and Tyler.
+ And they will enter.
+ And then the tool gives you a way to come back and combine these annotations and resolve any discrepancies.
+ And it's a very slow process.
+ Sorry, but that's what it takes to get this into this.
+ Your brain and your understanding, you know into something the system commutes.
+ Right so.
+ You do that if we if you start off with like we did I believe it was.
+ It was 15 1500 documents like that.
+ And you divide them into three different groups, we have the initial group that you give everybody 30 documents and they may or may not overlap DVD overlap some everybody annotates like crazy, it is two years.
+ But you have it Watson does know anyway it doesn't know otherwise unless you tell it that dire there's not a funny spelling of dare it's a campaign what's a campaign, the campaign is related to a threat actor of threat actor, is trying to exploit a target using a ttp.
+ All of this graph that you're defining, you can see way over on the left, the first thing you do is dimensions, the next thing is the relations and then things like co reference.
+ If I tell you.
+ The dog ate the cat.
+ It was sick.
+ What am I talking about.
+ Was the cat ill was the dog ill, what was the whole process second.
+ Hello.
+ We have to work that out to.
+ It will identify or it needs to be able to identify relationships.
+ We have to do that in some cases it's not clear.
+ What that relationship might be, so we will go in and annotated if there's a Co reference which is typically the pronoun problem.
+ But natural language has, we have to fix that we have to basically highlight the pronoun and draw a line back to the entity that it refers to.
+ Okay, so that's what you have to go through.
+More.
+ So it's it's a very slow process.
+ But if you do it well.
+ And you resolve disagreements effectively.
+ You can end up with a pretty scary result impressive for so.
+ There have been scary results customers have discovered things they really didn't want to know.
+ Like insider trading.
+ We weren't looking for that.
+ The customer certainly wasn't looking for that.
+ But once the discovery system was told how money has made and what's interesting, so I came back and said Oh, by the way.
+ A little bit of something odd going on.
+ So, and that really it's it's scary for that customer, but it really does underscore what these natural language processing discovery style systems can do they can help you find the answers that you two questions you have.
+ It could give you answers to questions you didn't know you have.
+ And it I don't know it's it's pretty impressive stuff.
+ it's worth the trip okay.
+ So today's gonna be a little light as far as content.
+ We can go back and play with the different.
+ What I would like to do those let's let me show you very quickly, and then you can play with them, if you want.
+ So.
+ out on github.
+ As you can see, this is the Watson discovery ui.
+ and
+ You can actually run it from your own machine.
+ That goes through, and tells you how to do it, as some of you have discovered there are dozens or many dozens of these tutorials.
+ code rip rip repositories just examples galore out there, that you can use.
+ To push towards a particular project, so there was that one.
+ discovery.
+ that's what I was doing.
+ And, of course.
+ They also needed beer, I have another thing little peer.
+ Oh yeah.
+ So the Watson discovery service if you just crank it up let's see what we have.
+ what's the news for specific topics ah, I was afraid of that I haven't run into its last night.
+ That, I have to restart everything not interesting Okay, so if you go to the Watson discovery service and you click on the news service who you can be faced with this thing.
+ Is that it, oh no, no, no i'm sorry.
+ that's what I wanted to show localhost 3000.
+ right if I start my terminal.
+ Yes, yes, yes.
+ When they say run it locally what they usually talking about is running node js.
+ And it works pretty well and see new share.
+ Okay, so what's on the server ui.
+ And you get the usual collection of.
+ stuff no doctor, yes, so if I say.
+ All right, i'll just double.
+ NP.
+ And you get a whole lot of noise.
+ And i'm not a very good node js person so there's probably ways to fix that but I never have.
+ Okay.
+ I just have to go login correct nevermind not interesting if we go back and look at the project, the dart the discovery ui.
+Okay.
+ This particular one walks you through it.
+ all the way down to.
+ blowing in some documents and then running the node js and at some point, you have to copy and paste some Code into the right place.
+ Just follow the instructions which pretty well the discovery URL in API key you're familiar with that there's actually another thing all the.
+ Environment ID and collection ID they're over here into this API and they're usually pretty boring.
+ Just copy and paste into your document alright, so today, you could have a little bit early and you can use the time to make sure you're up to date on the reading and are there any questions.

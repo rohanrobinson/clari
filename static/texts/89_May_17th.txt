@@ -1,0 +1,1076 @@
+ Well done. 
+ A question I have \'96 
+ the businesses that start 
+ losing traffic, 
+ do you have any plan 
+ for letting them know? 
+ Or is this really just 
+ a point just for me. 
+ 
+ That is something we had thought  about.
+ There is definitely opportunity 
+, in sort of a longer-term setting, 
+ I think in the same way that you  can provide better and more detailed 
+insight for consumers, you could  probably also provide
+ more important insights 
+ to businesses 
+ about what they can improve more  specific leave.
+ That could also be sort of 
+ another service 
+ that you could sell on both sides  as well.
+ If you are providing more detailed  data than other (unknown term) would 
+
+ One of the things that I would  suggest
+ is that when you do sentiment  analysis,
+ a lot of times there are also tools  in order to be able to
+ take like the top keywords, 
+ the ones that are most associated  with positive emotions or negative 
+emotions, and you might be able to  take those and figure out
+ like what do people most complain  about about the business or what is 
+the business doing best.  And you could probably put that 
+together in some sort of format and  also sell it to the businesses. Say 
+you are doing well at this and this,  and badly at this and this, if you 
+ 
+
+ I wanted to talk about the  potential of having (unknown term) 
+reviews.  I know you're you're using yelp, and 
+they have died to get rid of fake  reviews but under the assumption 
+that there will be some in your  training model, is there anything 
+you're thinking about to get rid of  them? There could be some type of 
+sentiment that is too extreme, may  be getting rid of it, or is that 
+ I think 
+that is an issue that we can look  at. I think maybe in the context of 
+sort of the prototype, that might be  something that we might not get a 
+chance to take a look at.  But I think we have to look into the 
+viability and sort of focus on  getting the (unknown term) 
+demonstrated with technology prior  to that. That is deftly something we 
+ Alright, cool. Thank you 
+very much, team two.  Let's move on.
+ Team three is here somewhere! 
+ 
+ Hi, we are team three. 
+ You can go to the next slide,  please.
+ I am sure most of us remember 
+ kind of what happened in February 
+ when the stock market was  essentially rocked
+ by regular people essentially 
+ communicating outside rabbit 
+ read it. 
+ To blot the stock market. 
+ And while it is true well 
+ apps like Robin Hood have increase  the accessibility, there is still a 
+large knowledge gap 
+ and access in a billable  information, so that is the problem 
+
+ Our solution is an app 
+ that offers recommendations on  people looking to invest.
+ We make sure to make another  knowledgebase
+ and to communicate risks associated  with their stock
+, and to tell them the probabilities  of getting a high return.
+ The basic user flow would be that a  user tells us a stock that they are 
+interested in and we will provide  them with recent views and general 
+
+ The overall question 
+ that we are having our machines  solve
+ is the risk of a given stock-based 
+ on an individual's situation. 
+ So the prediction is really 
+ the metrics about risk 
+ in the stock in question, 
+ along with the individual's  financial information.
+ The judgement is how we are going  to evaluate different
+ errors, and first of all, 
+ if the user generally has more  knowledge about their investments
+ then that is going to be access. 
+ So if we give them information that  is going to be very relevant to them.
+ We know a lot of stock apps like  Robin Hood are very
+ game if I'd so we want to make sure  that the stocks are
+ presented in a more reasonable way,  so there is no hype around it.
+ We are going to recommend to invest  or not invest
+ in we were thinking of doing like  different categories
+ and to categorize the stock for a  person, like risky
+, very risky, not risky.  Those types of categories.
+ For data that we will need to train, 
+ we will have financial data on  different stocks
+ and information about how  portfolios have performed.
+ And also information about what  types of stocks
+ different age groups should be  investing in.
+ Silver outcome, 
+ it is really feedback from the user. 
+ How often does the user take the  advice of the stock but
+ in in terms of improving the  algorithm,
+ we will be able to update a base on  the user feedback,
+ in terms of how the user takes the  advice
+ and also just to update it as the  economy changes. And how different 
+stock can perform over time. 
+ 
+ Stockpot is designed 
+ to offer the best of both worlds 
+, 
+ so it is highly transparent 
+. 
+ As we talked about, daytrading apps 
+ with literally no fees are very  popular
+ but it is often (unknown term),  leading to risky traits
+ and users. 
+ Users in total control of their per  folio
+ but without adequate understanding  to know exactly what they are 
+getting into. 
+ (unknown term) also exist 
+ but do not allow the same type of  portfolio customization
+ as these trading apps. 
+ So our own goal here 
+ is to allow the user to build their  own poem for Leo,
+ selecting individual shares 
+ for other investment opportunities 
+, while being aware of the risk that  each stock carries.
+ 
+ Meets users at their knowledge  base, what does that mean?
+ 
+ We were thinking that for our  knowledge base,
+ we are going to assume not very  much knowledge.
+ And also we are going to have the  user put in general information
+ about their current financial  state, like how open they are,
+ what their goals are, and then  provide them with sources
+
+ You could even be as bold as if it  is an old person like me,
+ then you might say that you are  interested probably in low risk. And 
+if you are young college graduate,  you might be interested in a little 
+more risk.  Since you have time to recover. So 
+that's how you assess user skill  levels, you ask him.
+ them? 
+ Restaurant parents, what you mean  by that?
+ 
+ Is not necessarily that we are risk  transparent,
+ we are making whatever platform  people are using
+ our risk transparent. 
+ Eventually if you actually built as, 
+ you could parent with an app like  Robin Hood
+ to help assess risk. 
+ But in this case at least, 
+ the idea is that the user 
+ is easily able to trade 
+ and we are trying to make it as  easy as possible to understand the 
+risk of those trades using our plat  form. Electric
+ 
+ Anybody else? 
+ It's very good to 
+ differentiate yourself from other 
+ (unknown term) traders. 
+ OK, 
+ team Florida somewhere on the  stream.
+ 
+ This is ago really exciting idea,  you guys are really onto something.
+ Would you say it is  barely unique?
+ Definitely. 
+ There is a need for (unknown term)  to have this for sure.
+ And even in the institutional  investor and trader space,
+ despite all of the industry's  efforts
+ kind of filtering information  earlier, there something in your 
+slides that suggests that it is  still a big unmet need.
+ So there is a lot of room for your  idea to grow from just the 
+
+ Team four. 
+ 
+ Our idea is quoted eight 
+ and first of all, I will just do a  little overview of what we are 
+trying to do here.  It is essentially movie 
+identification and recommendation  application.
+ It is essentially shazam for movies, 
+ where a user 
+ could use a web interface or a  smart farm
+phone 
+ and they have a movie that they  just cannot remember the name of,
+ we would produce the movie for them  as well as provide recommendations
+ based on a sentimental analysis  about the input they give us
+ as well as 
+ the corpus of movies that we  analyse.
+ First of all, 
+ just talking through prediction. 
+ What we are really doing and 
+ is taking in this quote 
+ and predicting a movie name 
+, based on natural language  understanding of the Watson system.
+ And in addition, he thought it  would be a fun addition to this tool
+ and hopefully we get to this scope  for our project is to do a sentiment 
+analysis of not just positive and  negative, but different emotions 
+attributed with that quote.  As well as for quotes within our 
+database to predict some other  movies that you might enjoy.
+ And quickly, kind of thinking about  the competitive landscape here,
+ through our research, there really  is not a tool that does this.
+ In terms of the speech to text  capabilities
+ as well as using sentiment analysis  as a robustness check.
+ There are a couple of websites 
+ where you can type in a quote online 
+ but we think this would be a much  more accessible and fun way
+ for people to interact with their  movies.
+ And essentially have this kind of  simple but useful tool
+ at the tip of their fingers. 
+ 
+ In terms of judgement, 
+ so we are basically considering 
+ the trade-off between in correctly  identifying a movie
+ or not being able to predict one at  all due to low confidence
+ level.  We found that it is better to
+ not label a movie incorrectly, as  opposed to
+ just saying that you were not able  to predict it.
+ For action, really the two things  we are providing
+ a movie with its corresponding  information.
+ So we plan to display information  such as Cas, runtime,
+ IMDb page, 
+ so they have context about what the  movie is.
+ The second thing is based off the  sentiment analysis,
+ we plan to recommend three 
+ up to five similar movies based on  the tone that we analysed
+ from a given clipper audio input. 
+ 
+ To measure the outcome we plan to  use the accuracy rate,
+ so we can measure false positives  and negatives
+ and figure out somehow how to  proceed.
+ We also might incorporate 
+ a way to gauge the user  satisfaction levels
+ after we provide a recommendation. 
+ Could you go to the next side? 
+ In any input that we will be using  is
+ Cornell's movie dialogues corpus, 
+ which contains about 22,000 movie  quotes
+ from a little over 
+ 600 different... 
+ 
+ From the training, 
+ we use (unknown term) 
+ so there is that 
+ course and also the movie name. 
+ We use the data set to train the  model
+ and after that, 
+ we use the user input to test it 
+ and we collect the feedback. 
+ How the users are set if I 
+ with our model 
+. 
+ And we try to predict 
+ which movies are (unknown term) and  try to identify it,
+ according to the users quote. 
+ Based on that, we also think about  how it would be beneficial for the 
+business.  In times of business,
+ there should be better accuracy and  better prediction, so we
+ need to fix those issues 
+ (unknown term). 
+ And make any change in the work  flow if necessary.
+ We want to make the businessmen  beneficial for that purpose.
+ Thank you. 
+ 
+ It is a great idea, no doubt. 
+ In the corpus is a wonderful choice. 
+ You are going to get all of this  free labour,
+ all of this free information. 
+ You have to find a way to sell it. 
+ No one is going to take you to  court over invading their privacy
+ but the idea is that hey, these  movies get a lot of attention.
+ So you need to think more about  that.\\
+ The first question I had was 
+ so if I typed in do, or do not,  there is no try,
+ you would come back with the owner. 
+ (unknown term) and the movie. 
+ How does sentiment on mood driving  movie recommendation?
+ So if I say Star Wars 
+ return of the Jedi, 
+? 
+ 
+ I think this is more 
+ kind of a feature that we are  trying to add.
+ The real crux of what we are adding  is the identification.
+ This was just an additional feature  which we kind of conceived of
+ to further differentiate ourselves  from competitors, in terms of 
+offering a more robust product to  the user base.
+ But I think our idea there was to  mess around and to see if it was 
+possible to include this and if not  in terms of recommendations, at 
+least in terms of having additional  variable with spoken input
+ in which we can gauge the tone of  the user. So
+ instead of typing in text, we have  additional data point there to 
+compare attacks.  But it is a great point.
+ I'm not sure if it would assess an  entire movie script but...
+ It is a data point that  you almost get for free.
+ Alright, sounds like fun.  Thank you.
+ We will go from team for 
+ two team five. 
+ 
+ So the question that motivated our  team
+ is thinking about 
+ how can we better serve students 
+ who might be from international or  foreign backwards
+ in this virtual learning  environment.
+ Our thought is to build a solution  that makes learning to recorded 
+lectures not accessible for students  who might intuitively think
+ in a non-English language.  So our objective is to clarify
+ learning for them, so he calls  ourselves
+ (unknown term). 
+ The idea is to take lecture  recordings and transcripts, such as 
+those provided by Panopto, and  process them into summary notes
+ in a student's native language.  I know that I sometimes take notes
+ in my groupmates as well 
+ in the language that we grew up with 
+ and being able to automate that  would make things better.
+ So our prediction is basically to  solve this uncertainty.
+ In the student's native language, 
+ what were the important points said  in class?
+ And the payoff 
+ that we have to think about the  trade-offs on
+ our students learn better from  notes in their native language,
+ but if we get it wrong 
+ with our production or our  translation,
+ then the student would not benefit 
+ from improved efficiency of  learning.
+ Thankfully, they can kind of recover 
+ because this is not their only way  to get information.
+ So it isn't like a medical diagnosis 
+ where the downside is really bad  but at the same time,
+ we do not want to be wrong.  We do not want to convert a +2 A-
+ in someone's equation, in a  conceptual sense. The idea is to 
+present a translated summary to the  user to enhance their learning
+ and the outcome is really based on  customer satisfaction,
+ regarding the summarization's and  translations that we provide to them.
+ And then for the training 
+ we will be using lecture transcripts 
+ that we get from 
+ (unknown term) in the class we are  in. Luckily in our group,
+ we do have several group members  who English is not their first 
+language so they can be the guinea  pigs for testing the output
+ to see if it is helpful. 
+ Once we get the summarized points, 
+ we go ahead and add vernacular 
+ or vocabulary that may be  specialized to the subject,
+ to help improve transition quality. 
+ And then run it through Watson's  translator.
+ For our feedback, 
+ we are having 
+ user 
+ feed feedback back into our model 
+ with just a simple positive or  negative, so we can refine the 
+models translation for how we are  summarizing. The workflow that we 
+really envisioned as we are not  taking about this to be some super 
+target back part of virtual learning  but definitely
+ an augmentation to our current  setup.
+ So not only do we really want this  to be a product
+ that makes it easier for people who  might not be a native English 
+speaker, so interact with the  lecture notes in his Pacific way,
+ but also for people who might be  differently abled in my not be able 
+to hear. 
+ Or people who can physically take  notes, this would be a different 
+resource for them.  Making the
+ Syrians more successful for  everyone.
+ That's it for us, 
+ anyone have any questions for us? 
+ 
+ Have you checked whether Watson can  translate the languages you are 
+interested in?  Yes, OK, good.
+ 
+ We need to check that. 
+ 
+ Great name, great project. 
+ While, very useful. 
+ Team six is... 
+ I see it somewhere on here. 
+ 
+ We are the accent recognition group. 
+ Our project or goal 
+ is going to be to recognize accents 
+ in the English language 
+ using Watson. 
+ 
+ The idea behind this is basically 
+ given an unknown speaker 
+ that we have the voice recording of, 
+ can we determine any information  about the speaker
+ like maybe there likely gender or  place of origin,
+ even within the United States 
+ could we determine the difference  between a Boston or New York accent.
+ We will combine speech recognition  tool and some speech
+ (unknown term). 
+ 
+ Our use cases 
+, we have a few of them. 
+ We are going to be gathering accent  data
+ and one of the possible 
+ use cases could be together it on  local communities in the United 
+States.  These accents probably would not be
+ information on American accents,  but would probably be information on
+ worldwide accents. 
+ Maybe forest future census data or  something.
+ Another use case could be 
+ if you do not have a video 
+ of a crime or something, 
+ but you have an audio recording for  some reason,
+ you could match a voice with the  general idea of someone's origin
+ or what they might look like 
+ based off of some sort of bias that  we may have
+ about someone's accent. 
+ Or gender, as we said before, 
+ and that could be used in future  crime investigation.
+ 
+ Our business plan. 
+ Basically we have a bit of a who,  what, when, where, why.
+ Ideally we would be presenting this 
+ to the US government, 
+ and some sort of contract or  something.
+ And obviously we are ready talked  about this,
+ accent recognition and English  accents, specifically.
+ Because we are in the United States 
+. 
+ When 
+ is we could do it in a census year 
+ or if there is a crime  investigation and need.
+ And why is this important? 
+ Obviously data collection 
+ is something that anyone could  benefit from
+ and there is a lot of data these  days
+ that we may not know are useful 
+ about people find them useful in  the future.
+ And it is always important to keep  track of these
+ pieces of data. 
+ And how are we going to do this? 
+ We are going to use Watson speech  recognition
+ and probably a custom machine  learning model
+ for some sort of categorization  task.
+ 
+ I am just owing to give a brief  overview, since we already talked 
+but a lot of these boxes.  But given the voice, we want to 
+predict the accent, to be the  geographical origin. In order to 
+give the user more data about the  speaker just generally, what ever 
+they are trying to determine about  the audio recording of the person 
+speaking. 
+ Depending on the use case, there  may be no issues with the judgement
+ but we can imagine in misjudgment  in the case of a crime,
+ it could also bring a lot of  issues. But you kind of mitigate that
+ we want to have an F1 score of  higher than .7. We are always trying 
+to beat that but that is the  baseline we want to get to adverse. 
+We found a data set online where we  have a lot of different audio 
+recordings online that have accents,  not just a people who were born 
+outside of the United States and  have an exit speaking English but 
+also regional dialects across the  United States. Like a California or 
+a Boston accent so we do have that  database. And to test how that works,
+ have a lot of friends on campus who  have accent speaking English, so we 
+will get the recordings to see how  well the model works. If our AI's 
+miss classifying certain accents in  particular, I have a California 
+accent so I am very obvious when I  speak, we are going to focus on the 
+areas that it's making mistakes on  to improve it. How does it impact 
+our overall workflow?  This is really the marriage of 
+machine learning and human  intelligence, so it is not going to 
+replace humans in a crime  investigation sense, it is just 
+going to augment the human  intelligence and give the user a 
+little bit more data then maybe they  could classify on their own. And 
+ Very interesting. In 
+today's world, gender might be a  little tricky.
+ I mean it is difficult to define,... 
+ 
+ That's why we say gender, not sex, 
+ because sex is someone's 
+ biological 
+... 
+ 
+ This one is cool 
+ and I can see its use, 
+ especially in law enforcement and  so on.
+ It is also borderline creepy 
+ (Laughs) 
+ Because it could be used to drive  bias.
+ I can imagine that we have all had  experiences
+ where we call a helpdesk 
+ and we get someone with an accent 
+ that we are not used to,. 
+ There is nothing wrong with it,  we're just not used to it.
+ And you just hang up and try again,  hoping to get some many different
+ with a different accent.  And I think this happens worldwide.
+ Folks in India don't like to hear  an American accent.
+ A British accent might be A-OK and  so on.
+ Wow, 
+ never seen one like this either. 
+ I'm very curious as to 
+ what your training data is going to  look like.
+ Thank you, team six. 
+ Team seven! 
+ Not sure how to pronounce that. 
+ 
+ Our project is called AI got you 
+ and our team is me, (Name), 
+ (Name), and Stuart. 
+ And the problem that we wanted to  talk about
+ was that there are a bunch of  resources on campus
+ that students may not have heard  of. There are common resources like
+ security, housing, 
+ but there are also things like 
+ (unknown term) 
+ which is to help you write your  essays for your classes
+.  And I had not heard of this until my 
+sophomore year 
+ and there is probably tons of  campus resources that I still have 
+not heard of and no one wants to  send lengthy emails
+ asking around about resources. 
+ Or even send an email to the one  person. At least,
+ I would much rather ask a chat bot  to ask you
+ any questions I might have. 
+ 
+ We want to create a chat bot 
+ that can direct students to the  appropriate services that they need 
+to succeed.  That chat bot would predict what is 
+the best resource to connect  students to, depending on the 
+situation they describe.  In terms of our judgement, one of 
+the biggest clarifiers that we have  is if it is in any sort of emergency 
+system, that they should be calling  911 and not addressing our chat bot. 
+If you have a false positive where  we direct them to a resource they 
+don't need, at the very least, at  least they are aware of the new 
+resource or they can be directed to  the right location. We want to avoid 
+a false negative the most because we  do not want students to assume there 
+is not a resource available to them,  when in reality there is. So the AI 
+will choose from available services,  or exam, if students are talking 
+about how they are having trouble  keeping up with reading and classes, 
+I can instruct them to a  speed-reading course in Derby. In 
+our outcome, we can evaluate with  (unknown term), seeing if offices 
+are reporting that people are being  directed to them from the chat bot. 
+And in training, we could ask the  jargon racket they could give us 
+scenarios in which they want  students to be directed to them. And 
+the input would be a student giving  their discretion of what help they 
+need and feedback and also again,  come from the offices on campus or 
+students report that they were able  to find a service for our chat bot. 
+RAI will impact workload by  directing more traffic to them but 
+not necessarily providing the  resources ourselves, we are just 
+telling the students were to get  them. So if these offices find their 
+having more students directed to  them, they will need to hire more 
+ The way that this is 
+normally done right now is people  have to go to orientation, that is 
+kinda problematic because most of  the time, most of you don't remember 
+what happened in orientation.  It is also difficult to go to 
+orientation because it is difficult  to stay awake. Alternatively, people 
+send emails to professors but we  have already talked about how 
+inconvenient that is in some people  have email anxiety. Sometimes Chat 
+bots stay awake all the time,.  You can reach out to peers or 
+classmates and while that may be  almost always available and pretty 
+easy to access, often times peers  will give you inaccurate 
+information.  So we want the chat bot to give you 
+accurate information.  So we think our chat bot is able to 
+meet these four metrics that we  think is important to give 
+
+ Our primary target for this is just  convenience. We envision with this
+ that students will not have to send  awkward emails
+ or go through all their emails 
+ to find brief messages about  resources on campus.
+ So just like we could ask Siri what  is the weather,
+ you can ask our app where you go to  pay taxes, or basic questions.
+ And with this, 
+ we envision a pretty easy growth  model.
+ It can be generalized to a lot of  schools
+ and universities across the world. 
+ You could either market to  institutions,
+ where you can customize it  specifically for that school.
+ And then they operate as a general  tool to all the students
+ or students can sign up  individually.
+ And then it is input based off of  that.
+ Based off of their specific  resources.
+ Beautiful! 
+ And you call it 
+ hey (unknown term), 
+. 
+ Any questions, folks? 
+ Who would use this? 
+ I would, 
+ (Laughs) 
+ And your point about 
+ orientation 
+ is well-made. 
+ While we all had to go to it, 
+ it is one of those forget at the  door kinds of things unfortunately.
+ Team seven, I like it.  Very good.
+ And team eight is here. 
+ 
+ We are pitching our idea 
+ which is the higher bought. 
+ It stems from a problem that almost  all college students have had
+ which is that many job obligations,  when you drop off your application, 
+it turns into a black hole and you  never hear from them again.
+ The root cause of that problem is  that large employers often get 
+thousands or tens of thousands of  applications for position. Our 
+solution to this is a I bought that  could cut down on the path -- time 
+required to process the applications  and also constrained the process for 
+buyer bias.  We could parse resumes for metadata,
+ actually interviewing the candidate  via chat bot interface,
+ as well as evaluating referrals  using Watson sentiment analysis.
+ All of this could produce a score  for the applicant
+ as well as a summary of what their  positive and negative 
+characteristics are, they could then  be passed to a human operator. 
+ As business, the main  competitors are going to be job 
+marketplaces such as indeed, that do  kind of screening on appointment 
+data.  But the unique value that we are 
+going to be able to offer is the  integration of the AI.
+ Basically, it is going to allow for  more robust evaluation of candidates
+, considering more information in  less time.
+ The main clients are going to be  companies with relatively large 
+numbers of applications.  Likely
+ a set fee with usage of the system,  rather than a per application charge 
+because that is exactly the sort of  thing that these company's wood when 
+you wanting to save on. 
+ This is in winter the radiologist  Assistant where it is providing 
+information to someone who is making  the decision but it is not 
+exercising the judgement, so we take  this information into account and 
+then use that to make a decision.  That's it for this slide.
+ **Audio lost** 
+ 
+ ...  Success by the relevant
+... 
+ **Audio lost** 
+ 
+ That is a particularly nice one 
+ because so many people 
+ with IBM, Google, and I never hear  anything.
+ With nothing else, the quick  response from a chat bot
+ to provide information on the  submission would be good.
+ In the interest of time, I just  have a couple of quick comments.
+ Yes, you could even scan social  media.
+ Most employers do that. 
+ And as you pointed out, 
+ you have to watch out for bias  creeping in.
+ Not just because 
+ you are looking at old employees  are existing employees,
+ but things like poor grammar., 
+ proper language use, 
+ things like that. 
+ And you will want to make sure that  your cognitive system can tell you
+ that it is recommend something 
+ based off of 
+ one thing, 
+ versus HBCUs is historically black  colleges
+ with (unknown term) 
+. 
+ The goal is to hire the best people  and make your you have a diverse
+ hiring tool. 
+ Companies deal with this a lot, 
+ it is a very complicated scoring  system.
+ It's not just for the job, it is  also for diversity and avoiding bias.
+ Every year 
+ I think we can do something cooler 
+ but we always do. 
+ OK, team nine. 
+ 
+ Hi everyone. 
+ Our idea is called pickup it, 
+ we are using Watson to explore 
+ the area of (unknown term). 
+ In our show, 
+ our idea is to make an application  they can choose
+ the best photo 
+ collection and by using Watson  machine learning,
+ we will train 
+ based on simple aesthetic decisions 
+ and good photography practice and  principles.
+ And we hope 
+ that could help users 
+ to make photo selection 
+ efficiently and effectively. 
+ 
+ The basic task for (unknown term)  is to take a collection of photos,
+ and identify, based on a few simple  principles of photography, which 
+ones are particularly good or bad.  So that protection would be that 
+given a photo, given a score whether  it is good or bad. Judgement wise,
+ to sex or failure is whether he  picked a good photo for you
+ but the false negative, when it  fails to identify which photos are
+... 
+ A lot of things take a photo good  other than just
+ contrast 
+ and being in focus, 
+ there are creative elements 
+ so this just helps with making sure  it is not blurry
+ in the contrast is set. 
+ So this could highlight either the  best photo or bad photos in the 
+collection.  Outcome wise, because it is all
+ baseline (unknown term), it is hard  to tell what is a good photo
+ so we would be hoping to evaluate  based on these criteria.
+ Training wise, we are hoping to use  supervised training where the model 
+will be given photos and once we  establish a set of rules that we 
+want to train it by, photos that  follow those rules very well and 
+once I do not.  We are hoping to find open Vos 
+source photos and once from  ourselves.
+ And feedback would be to update  based on user satisfaction so 
+basically, does it feel good for the  user?did they go back and find a 
+bunch of photos for the system to  identify or does the system keep 
+spitting out photos that it says are  good but to actual humans, are bad.
+ On the base level, we are hoping it  will save time for photographers and 
+baselevel social media users.  But if it ends up working really 
+well, we can see this integrating  with other services. So right now, 
+most iPhones have a burst photo  option and usually most of those are 
+bad.  But over a period time,
+ taking a really good picture and on  the opposite end, if you are taking 
+really bad pictures than you could  see it being integrated with 
+People's cloud storage and helping  people manage their storage without 
+
+ We kind of talks about what the app  does but I will talk about the 
+business side of things.  So the customer is just like an 
+average, amateur photographer or  social media using individual.
+ And the benefit of the app is that  it
+ reduces stress in taking a picture,  it can be personalized
+ based on (unknown term) on the  selected photos,
+ and also it will have transparent  selection criteria.
+ So the user will know that their  photo is getting picked
+ because it uses the rule of thirds  really well
+ or the composition is good, or the  contrast.
+ So this is valuable because systems  like this aren't really typically
+ available to individuals. 
+ There are companies like 
+ (unknown term) Hudson 
+ that have these huge machine  learning systems and subscriptions
+ can cost in the $4000 a month range, 
+ for companies to use, 
+ but tools like this 
+ don't really exist right 
+ for individuals so that is our  niche.
+ We can measure success based on the  volume of use,
+ like how many photos are  reprocessing.
+ The user could measure success  based on success of their photos
+ selected on social media 
+ or by watching the machine learn  about their preferences over time.
+ Referrals could happen through  word-of-mouth,
+ through discount or incentivize  referrals,
+. 
+ So like we will process 100 more  photos for free
+ if someone signs up using this  link, kind of thing.
+ 
+ So, how are we using Watson to  create these apps?
+ The main service we are going to be  using his Watson ML, the visual 
+recognition service.  And how we are going to judge of the 
+photo is good or not is a  combination of classifiers that we 
+are going to make.  So for instance, do we see a picture 
+of a redeye refection or does the  image quality look good, does it 
+follow the rule of threes?  The input will be from the camera or 
+from your photo library, if given  consent, and we are hoping to create 
+an aesthetic score which is  basically a combination of the 
+classifiers detected on your photos.  So either out of a score of five or 
+100, we are going to tell you how  good the photo is for general 
+purpose.  And hopefully give you suggestions 
+for whether you can use a durum  photo or what you can do to make it 
+better.  That is our proposal and I would 
+ Very cool. I believe we 
+spoke before about visual  recognition being no more
+
+ The services enfolded into Watson  ML, you can just added in the ML 
+service.  So it is all operational, as before. 
+ Good, good, good. 
+ Looking forward to that. 
+ Very nice, niche placement in the  business there.
+ Some sort of personalization 
+ because good today might not want  blurry,
+ but goods 
+ guys sport tomorrow might want  blurry
+. 
+ Alright, we gotta run here. 
+ That was team nine and now we have  team 10.
+ Go ahead. 
+ 
+ We are group 10 
+ and we are creating a dashboard 
+ that can be used for 
+ by equity and fixed-income traders  on the market to view daily market 
+sentiment, and live headlines so  they can make informed decisions on 
+the fly.  Why is it better than the 
+alternative?  Traders need the fastest information 
+possible and current alternatives 
+ that any use can be complex and  time-consuming, so we decided to 
+make a simpler solution. 
+ It will help you will because it  scans market news by industry and 
+displays S-CORP based on current  sentiment on that market
+ for that industry.  It will also display live headlines
+ for events, so it will be  constantly scanning news.
+ It will be letting traders know  what is happening on the fly. It 
+will scan hundreds of articles that  would be very time consuming for 
+traders to read on their own, so we  are having a I do this for them so 
+they can focus more on their job and  less on what is happening in the 
+news.  Traders about the equity and fixed 
+income markets.  will use it. It could be like a free 
+premium subtractions service, there  could be free basic usage and then 
+you could subscribe and have some  premium features.
+ For those who some scribe, we would  also receive money from there.
+ 
+ The product timeline we are planning 
+ -- or the ideal formulated 
+ and also building a product, 
+ and we will have data testing 
+ in July 2021. 
+ In August 2021, 
+ we are going to launch the product. 
+ So the delivery method 
+ for this product will be the  (unknown term)
+ as well as 
+ a real-time stock prices, 
+ so that the traders or users can  compare
+ the market sentiment 
+ with the stock price. 
+ The success metric for us 
+ is measured by daily active users 
+ and monthly active users. 
+ The paying customers versus  nonpaying customers, and also the 
+customer sharing.  How long the customer is going to 
+stay with us in our services.  Some of the known difficulties
+, it really depends on the accuracy  and how good the news article is.
+ Because some of the market articles  are generated
+ -- automatically generated 
+ and provide very few values 
+ and we need to filter those out. 
+ The data source, 
+ we are going to use the (unknown  term) API
+ for the stock market price 
+ and we are also going to use the  IBM discovery corpus
+ to analyse the sentiments. 
+ 
+ I'm going to provide a very quick  recap
+ on basically our project. 
+ We are 
+ tracking one of the same types of  markets as (unknown term),
+ which is that with Robin Hood and a  bunch of new apps,
+ we see an influx of not  sophisticated traders.
+ They do not have access to pricing  information services and of course,
+ they have to make lots of decisions  without lots of training.
+ So we are trying to provide a  product that will be able to help 
+these people make better choices.  And as we saw especially with game 
+stop or does coin in the crypto  space recently, a lot of the market 
+swings these days are based off  of-media attention.
+ Our product will be able to  encapsulate some of those changes.
+ Our prediction is industry by  industry headlines and sentiments 
+course.  And we will be able to
+ generate these on different  timelines
+ to be able to give this information  to the user.
+ We hope to also have a history of  sentiment scores,
+ so you will be able to trace like  what days crypto
+ was for example really hot in the  news and what days it wasn't.
+ And we will also be able to  incorporate stock prices using the
+ Yahoo API to be able to compare and  see how the sentiments actually 
+affect the market.  And we believe that this is an 
+unexplored market,.  This interest in Robin Hood
+ and non-sophisticated traders is  really new
+ and we believe we are tackling a  new slice of the market.
+ Call. 
+ There are a lot of 
+ new people out there 
+ who are disappearing on buses  weekly as they appear sometimes.
+ That was team 10, thank you very  much.
+ I'm really interested in (unknown  term),
+ it reminds me of chemistry. 
+ Go ahead. 
+ 
+ Hello. 
+ Our team's goal 
+ is to essentially make it easier 
+ to perform calculation 
+ in both an academic setting 
+ and a professional setting. 
+, 
+ with regard to 
+ chemistry and physical operations. 
+ Because often times the issue that  you run into,
+ is that you know all of the  variables
+ and you know exactly what it is you  want to solve for
+ but it takes valuable time and  effort to actually execute all of it
+, when it is really just a very  common sequence of steps
+ that humans don't really need to be  able to do.
+ Questions that we have here, such  as how many moles of carbon dioxide
+ does it take to output four moles  of glucose in photosynthesis?
+ I'm sure pretty much everyone here  has heard of this reaction,
+ but if you go to (unknown term)  which is supposed to be the 
+authority on this, it just does not  understand. So our goal is to be 
+able to deal with these kinds of  situations.
+ We are trying to predict the  correct calculation
+ and formulas to apply 
+ producing results where possible. 
+ Specifically, 
+ we are trying to look 
+ for areas with multiple different  important inputs
+, like the one strata before 
+ where you have 
+ several different compounds and  variables that you want to assign 
+them to. 
+ Certain systems are not able to  handle that degree of complexity
+
+ Basically, 
+ there are not too many consequences 
+ or the gain isn't too huge if we  are right.
+ They save a little bit of time 
+ if they give a consistent  unreliable answer
+ that if we are wrong, there is a  significant cost.
+ They might accidentally mix the  wrong to ingredients and producing 
+noxious gas or something.  You do not want to cause those sort 
+of issues.  So we do have to be careful about 
+false positives and false negatives.  Further, next our outcome
+ will be measured basically by  looking at user interaction with a 
+bot.  Seeing if they kept going down the 
+rate area and if they got a solution, 
+ or did they choose that this was no. 
+ For input, we will be using  annotated inputs provided by Watson
+ so we will be able to identify  numbers
+ as well as the units that are  applied to them if we do things 
+carefully.  Using that information, we will then 
+be able to do \'96 either through Watson 
+ \'96 set up these equations that we  were talking about and hopefully get 
+to a place where we are able to  produce chemical results.
+ In training, we will need a  significant number of these sample 
+queries that are asking the same  questions that (Name) covered.
+ If we are able to have those along  with the variables that are 
+important, their units and the  expect of results, we think that we 
+should be able to work towards a  good working model. And then finally 
+feedback will look like when  multiple options are presented,
+ we will try to bias towards the  most commonly selected answers in 
+the past.  Say we were not able to figure out 
+the exact equation that you are  looking for but we had several ideas,
+ whichever idea people had chosen in  the past was commonly, we will bias 
+towards that.  That is just one example of feedback.
+ The impact of our program 
+ is to make the job 
+ faster and easier for people. 
+ But people still need to know 
+ how to 
+ input the correct queries. 
+ On the business side, 
+ our pick 
+ program could potentially down 
+ size the company. 
+ And our programs, 
+ so best case 
+ our programs will be about 
+ (unknown term) use or how to 
+ correct their inputs on the spot. 
+ Very cool. 
+ Collecting the input may be a  challenge
+ but very nice 
+ and a very new idea, I like that. 
+ Wish I had had a long time ago. 
+ Alright, last but not least \'96 
+ group 12. 
+ 
+ Hi everyone. 
+ What we came up with 
+ was currently in America and across  the world,
+ mental illness is a large issue. 
+ A lot of places, people do not have  resources for mental illness
+ but also a big issue is even if 
+ spaces where they do have the  resources of therapy,
+ it is really hard to tell when  someone is struggling.
+ This is a challenge that I have  been working on at Dartmouth for a 
+couple of years now and it is one  thing that I thought of \'96 what is 
+one thing that someone needs to be  able to tell that you're going 
+through something?  What if we had a bot that is 
+continuously messaging the men  messages you are sending our social 
+media and can figure out when you're  feeling down or having nude swings 
+-- mood swings.  It could intervene at these key 
+moments to make your reflector  provide some resources that can help 
+you and this is proactive, which  means nothing from the user. So the 
+yes symbol, we hook up a bot that  hooks up to your social media and 
+kind of continuously reads and  monitors your social messages. And 
+whenever it feels like you're going  through a downward spiral, you are 
+getting angry or emotional, HSN zero  message to ask you to reflect on why
+. 
+ We will quickly render the AI canvas 
+. 
+ 
+ For production, 
+ our app is looking to predict two  things in particular.
+ First of all 
+ if we want to predict when a user  is in a negative state of mind
+ and is in need of intervention and  assistance, and the other thing we 
+want to predict 
+ is to get the user reinforcements  if they are showing improvements.
+
+ When it comes to judgements, we  note that our primary goal is to 
+provide help to users. 
+ It is a secondary goal of ours to  reinforce a semblance of happiness 
+to have users but given our primary  goal, it is our aim to minimize 
+false positives and her predictions.  That is to minimize the number of 
+users that are unhappy but are  perceived or understood to be happy 
+by our app, so that we make sure to  have all unhappy users.
+ That you actions that are  Apple take
+ his first to ping and nudge the mute 
+ user in a secondary function would  be to generate a weekly report
+ to summarize the sentiments that  the user experience.
+ In terms of outcome, we can use the  F1 storm in terms of metrics
+ to measure the AI models  performance.
+ We can also have an optional survey  to gain feedback from the user
+ were guarding their spirits of  using the app.
+ Regarding training, 
+ to train Watson 
+ we hope to use a supervised approach 
+ where we harness in 
+ pre-existing 
+ large, training data set containing  example post.
+ Ideally, we would use a corpus of  Twitter posts
+ in each post would have a  predefined label
+ of sentiment. 
+ Watson to an extent comes with 
+ some 
+ pretraining for natural language  tasks
+ and especially we were to use 
+ Watson ML you service, 
+. 
+ To test Watson, 
+ we would look at a bunch of unseen  Twitter posts
+, unseen so that the AI cannot make 
+ cheats on how the user is feeling. 
+ Regarding input, 
+ we will handle the users 
+ data from a Twitter 
+ and present the user from  encouraging messengers
+ for communication purposes, 
+ and make sure that there is some  variation in the messages
+ to the user. 
+ We would not want to bore them with  the same messages
+ As for feedback,
+ we would depend on feedback  provided by users
+ to optional surveys. 
+ Things like what frequency of  encouragements and reinforcements
+ are more useful to them, 
+. 
+ At a later stage, be able to  consider input from experts like 
+professional psychotherapists and so  forth regarding user surveys and app 
+user instructions that were approved  for sharing by users to further 
+
+ What we are really hoping to do 
+ is it catching issues 
+ before they snowball, we want to  use Watson MOU
+ and a powerful thing is sentiment  analysis.
+ We would not just say that we know  you are a feeling Saturday,
+ we would say that you were talking  to (Name) about an upcoming promotion
+ and you seem to be angry about  that, maybe you want to reflect and 
+wonder why it is making you angry.  The point is to continue
+ helping them without ever lifting a  finger to figure them out. Our plan 
+comes down to, our rough draft is  going to be a (unknown term)
+ but our eventual business model is  an app on your phone
+ which you hook up to all of your  social media which I continuously 
+mutters.  The first question that comes up is 
+privacy, we realize how crazy it  sounds. When it comes to this model,
+ we put monetization prices  side-by-side. The model we want to 
+use as a subscription model where  the user is asked to be recorded and 
+we say they are not selling their  data to anyone. We do realize with 
+these types of apps, we want to give  a longer data -- demo
+ so I can help them get in.  Then they can purchase add-ons or 
+additional social media features.  We would love it if the users share 
+their data with us but again we  don't want to be a pricey first app 
+and it will often be data sharing,  the data will be used to improve the 
+ This can make such 
+an impact.  This is really cool. Did you say you 
+ Yes and no.
+ For the actual sentiment analysis,  you don't need to train data from 
+(unknown term). 
+ You can look at positive and  negative Twitter posts,
+ a lot of the problems is just  narrowing down the (unknown term).
+ And it is not a conversation bought 
+, like Replika? 
+ And privacy first, thank you. 
+ The only other comment was 
+ user feedback, asking a user 
+ if they were depressed last week,  you may not get a good answer 
+(Laughs) I don't know. 
+ **Audio lost** 
+ 
+ What a crop of fun, this is great  guys and gals.
+ And dogs and cats, if you have them. 
+ Thank you very much. 
+ Great attendance and great projects, 
+ I am looking forward to it. 
+ This should be a blast. 
+ Sorry we are running late. 
+ Wednesday, we have our last guest  speaker for the year
+ and on Friday, 
+ we have our last chapter review for  the year.
