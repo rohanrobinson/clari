@@ -159,9 +159,19 @@ def nike():
         model_id = 'en-' + selected_language
         
         translation = language_translator.translate(text=summarized_text, model_id=model_id).get_result()
-        answer = translation['translations'][0]['translation'].encode('utf-8')
 
-        return answer 
+        answer = translation['translations'][0]['translation']  
+
+        answer_list = answer.splitlines()
+
+        print(answer_list)
+
+        ans_fin = ""
+        for sent in answer_list:
+            ans_fin =  ans_fin + sent +  "\n"
+        
+        return render_template('answer.html', summary=ans_fin)
+
     return render_template("index.html")
 
 if __name__ == "__main__":
