@@ -157,20 +157,19 @@ def nike():
 
         answer = ""
         model_id = 'en-' + selected_language
-        
-        translation = language_translator.translate(text=summarized_text, model_id=model_id).get_result()
 
-        answer = translation['translations'][0]['translation']  
+        summarized_text_list = nltk.tokenize.sent_tokenize(summarized_text)
 
-        answer_list = answer.splitlines()
+        print(len(summarized_text_list))
+        count = 0
+        for sum_sent in summarized_text_list:
+            translation = language_translator.translate(text=sum_sent, model_id=model_id).get_result()
+            answer += translation['translations'][0]['translation'] + "\n"
+            answer += "\n"
+            count += 1
+            print(count)
 
-        print(answer_list)
-
-        ans_fin = ""
-        for sent in answer_list:
-            ans_fin =  ans_fin + sent +  "\n"
-        
-        return render_template('answer.html', summary=ans_fin)
+        return render_template('answer.html', summary=answer)
 
     return render_template("index.html")
 
