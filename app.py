@@ -24,8 +24,10 @@ import requests
 import nltk
 
 
+"""
+https://developer.ibm.com/technologies/data-science/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
 
-
+"""
 
 
 app = Flask(__name__)
@@ -128,9 +130,16 @@ def nike():
     if request.method == "POST":
     
 
+    # check if is pasted lecture or selected input
+        is_pasted = request.form.get("selected-input")
     
     # getting textarea info with name = lecture-text in HTML form
-        lecture_text = request.form.get("lecture-text")
+        if is_pasted == "select":
+            chosen_lecture = request.form.get("selected-lecture")
+            lecture_file = "texts/" + chosen_lecture + ".txt"
+            lecture_text = load_text(lecture_file)
+        else:
+            lecture_text = request.form.get("lecture-text")
     
         summarized_text = get_summary(lecture_text, 0.3)
     
