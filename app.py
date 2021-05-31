@@ -24,8 +24,10 @@ import requests
 import nltk
 
 
+"""
+https://developer.ibm.com/technologies/data-science/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
 
-
+"""
 
 
 app = Flask(__name__)
@@ -113,9 +115,6 @@ def POS_tagging(text):
     return POSofText
 
 
-
-
-
 @app.route("/")
 def hello():
     return render_template('index.html')
@@ -128,9 +127,16 @@ def nike():
     if request.method == "POST":
     
 
+    # check if is pasted lecture or selected input
+        is_pasted = request.form.get("selected-input")
     
     # getting textarea info with name = lecture-text in HTML form
-        lecture_text = request.form.get("lecture-text")
+        if is_pasted == "select":
+            chosen_lecture = request.form.get("selected-lecture")
+            lecture_file = "texts/" + chosen_lecture + ".txt"
+            lecture_text = load_text(lecture_file)
+        else:
+            lecture_text = request.form.get("lecture-text")
     
         summarized_text = get_summary(lecture_text, 0.3)
     
@@ -151,11 +157,20 @@ def nike():
 
         answer = ""
         model_id = 'en-' + selected_language
-        
-        translation = language_translator.translate(text=summarized_text, model_id=model_id).get_result()
-        answer = translation['translations'][0]['translation'].encode('utf-8')
 
-        return answer 
+        summarized_text_list = nltk.tokenize.sent_tokenize(summarized_text)
+
+        print(len(summarized_text_list))
+        count = 0
+        for sum_sent in summarized_text_list:
+            translation = language_translator.translate(text=sum_sent, model_id=model_id).get_result()
+            answer += translation['translations'][0]['translation'] + "\n"
+            answer += "\n"
+            count += 1
+            print(count)
+
+        return render_template('answer.html', summary=answer)
+
     return render_template("index.html")
 
 if __name__ == "__main__":

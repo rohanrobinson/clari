@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Flask Tutorial - About</title>
+<title>Clari</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
 </head>
 
@@ -12,18 +12,29 @@
                 <div>
                   <div>
                     <h1>Clari</h1>
-                    <h2 class="u-align-left u-text u-text-1">Everyone should<br>be able to learn.<br>No matter where they're from.</h2>
-                    <h3>Upload your lectures here</h3>
+                    <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Clari Logo">
+                    <h2>Helping Everyone Learn, No Matter Where They're From</h2>
                     
                     <form action="{{ url_for('nike')}}" method="post">
-                        <label for="firstname">English Lecture Text:</label>
-                        <textarea type="text" id="lecture-text" name="lecture-text" placeholder="english only"></textarea>
-                      
-                        <!-- <label for="lastname">Last Name:</label> -->
+                      <select id="selected-input" name="selected-input">
+                        <option value="" disabled selected>Choose Input Type</option>
+                        <option value="cp">Copy & Paste</option>
+                        <option value="select">Select Lecture</option>
+                      </select>
 
+                      <select id="selected-lecture" name="selected-lecture">
+                        <option value="" disabled selected>Choose Lecture For Lecture Input</option>
+                        <option value="l1">Lecture 1</option>
+                        <!-- Arish please put the other lectures here with values that are the same as the file name-->
+                      </select>
+
+                      
+                      <!--span class="textarea" role="textbox" id="lecture-text" name="lecture-text" contenteditable></span-->
+                      <textarea type="text" id="lecture-text" name="lecture-text" placeholder="Paste English Lecture Text Here for Paste Input"></textarea>
+                        <!-- <label for="lastname">Last Name:</label> -->
+                       
                         <select id="selected-language" name="selected-language">
-                            <option value="zh">Chinese</option>
-                            <option value="hi">Hindi</option>
+                            <option value="" disabled selected>Select Language</option>
                             <option value = "ar">Arabic</option>
                             <option value = "eu">Basque</option>
                             <option value = "bn">Bengali</option>
@@ -79,7 +90,7 @@
                             <option value = "cy">Welsh</option>
                         </select>
                         <!-- <input type="text" id="lastname" name="lname" placeholder="lastname"> -->
-                        <button type="submit">Translate!</button>
+                        <button type="submit">Translate</button>
                     </form>
 
                   </div>
