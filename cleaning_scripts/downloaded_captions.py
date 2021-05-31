@@ -10,11 +10,8 @@ def generate_caption(input_path, class_name):
             if line.startswith( 'Soroush Vosoughi' ):
                 lecture.append(line[18:].strip())
         
-    output_folder = "cleaned_captions/"+class_name
+    output_folder = "static/texts"
     file_name = input_path.split('/')[-1][:-4]
-
-    if not os.path.isdir(output_folder):
-        os.mkdir(output_folder)
 
     output_path = output_folder+"/"+file_name+".txt"
         
