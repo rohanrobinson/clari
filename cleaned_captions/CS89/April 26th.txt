@@ -1,0 +1,1188 @@
+ OK, 
+ we are delighted to have 
+ a guest speaker 
+ that I have had every time 
+ I have taught this course. 
+ Armin (Name) 
+, I never say his name right, 
+ I just mumbled. 
+ He taught me everything  I know
+ and more. 
+ That I have forgotten. 
+ He is a (unknown  term) developer
+ at 
+ (Name) University 
+ and as such, 
+ he learns all of  the cool stuff
+ and then he gets to go  around and teach people about 
+it and show them how it  can change their jobs,
+ their education, 
+ all kinds of interesting  applications.
+ Data science, cognitive  security,
+ blockchain AI, 
+ the guy has many  plates in the air.
+ He has been with IBM 
+ or I don't know, 
+ 
+ Going on 20, sir. 
+ 
+ I can't do the math. 
+ ToastMaster, 
+ the guy has everything  going on here.
+ He hangs out down  in Massachusetts
+ and works on 
+ Watson in an enclave, 
+ he is also an adjunct Prof  at (unknown term) Tech in 
+So today he is going to talk  to us about a new thing
+ in the Watson family called  auto AI and I don't need to 
+say anything else.  
+Sharing is on, and Armen,  it's all yours. 
+  Dr Palmer, thank you.
+ I am so happy 
+ I am seeing actual videos on, 
+ I can't tell you how much 
+ that means, thank you. 
+ (Laughs) 
+ Let me tell you I how I am  thinking of going about this \'96
+ we are going to fly in an  airplane, I'm going to need a 
+cocaptain.  
+That means that one of you  will be sharing their screen
+ and to gather, we  will build a model
+, deploy that model, 
+ and is zero (unknown term), 
+ I think that is so cool  about some of these tools.
+ Democratizing AI  and data science.
+ So everyone 
+ can be an AI engineer 
+ or a data scientist. 
+ (Name), great to see you. 
+ I take it that all  of you, if not most,
+ humming in the background. 
+ Thumbs up on the screen  says yes you do,
+ awesome. 
+ (Name), 
+ nice to see you. 
+ Is it up to me to pick  someone to share their screen?
+ I will start off candidly, 
+ you share your screen and we  will do some magic together.
+ The rest of you, 
+ follow along if  you would like.
+ If not, 
+ you can watch and that  is pretty cool too.
+ 
+ Who wants to be the  trusty sidekick today?
+ 
+ I need a cocaptain. 
+ It is a very new API. 
+ 
+ We need someone who is able  to connect to IBM cloud
+ to share their scream,  anybody want to learn 
+firsthand? 
+ Come on, 
+ we need a victim. 
+ Sorry \'96 participant. 
+ I am going to pick one. 
+ Who looks like they might  enjoy a good talk?
+ That's the problem, there  are so many fun people out 
+(Name), do you want to  be the co-teacher today?
+ 
+ I can do it. 
+ 
+ Alright! 
+ You are on campus so you  probably have pretty good 
+conductivity, right?  
+ I am not on campus. 
+ It's been fine so far. 
+ 
+ Go for it, we have a winner. 
+ Thank you.  
+ 
+ Dear (Name), 
+ share your screen  if you will.
+ By the way, Charles, 
+ I sent out a (unknown term) 
+ via email and slack. 
+ Awesome, I like this. 
+ Nice. 
+ This is great. 
+ Let me see the five  services that you have
+ humming there in. 
+ There they are. 
+ Not those three, the... 
+ That's fine. 
+ Never the wrong thing. 
+ Let's see, 
+ you have speech to text, 
+ we are going to create 
+ the new one. 
+ This one actually is the  Bugatti (unknown term)
+, of all of the services. 
+ We are going to  get Watson studio.
+ Click create resource,  please.
+ And search for Watson studio. 
+ There it is. 
+ Everything is good 
+ and let's click create. 
+ If you see blue,  click at (Laughs)
+ Big Blue. 
+ Just put in something 
+ so you can click continue. 
+ Another continue. 
+ I think another blue box  is going to show up,
+ another blue box. 
+ How to click more, 
+ I think that is what they  are doing around here in that 
+They like to make  us click more,
+ while the whole board  is going to click less.
+ Exit out, yes. 
+ OK, welcome. 
+ So think of Watson studio 
+ as the very table that  you are sitting at.
+ All these other services, 
+ your phone, the keyboard, 
+ whatever you may have, 
+ can be housed by  Watson studio.
+ Think of it as an IDE, 
+ development and garment 
+, 
+ -- 
+ development environment. 
+ You can do more in here,  you can deploy or share,
+ you can add emails  of your cohorts.
+ To book them on  the same project.
+ So the very first thing we  want to do is to create a new 
+project, there is a bunch  of places you can do that. 
+That's perfect.  
+Empty project. 
+ It is trying to find  your database,
+ your cloud 
+ database. 
+ Give it a name, 
+ we will wait for that  to do it's thinking.
+ Now add, 
+ create. 
+ Refresh. 
+ And we are ready. 
+ Let's click create. 
+ Now, let's go to  the assets tab.
+ Now my dears, 
+ as a data scientist, 
+ as an AI engineer, 
+ you are going to have a lot  of these different bars.
+ Data assets, machine  learning, in fact,
+ if you click on  add to project,
+ another blue button up there, 
+ notice 
+ that these are all of the  different cool things
+ that we can add  as we go along.
+ Today we are featuring 
+ auto AI experiment. 
+ Give it some sort of a name. 
+ And click 
+ associate a machine learning 
+ service. 
+ We need a new 
+ one, new service. 
+ Type in machine learning, 
+ I see it right  there, actually.
+ It is in Dallas, 
+ Dallas is good, 
+ create. 
+ So we hooked it  to a database,
+ you need a database because  I'm going to give you a CSV 
+file. 
+ Get rid of that to  location things.
+ And now 
+, associate service. 
+ 
+ The CSV tile is  in the general tab
+ of our workspace. 
+ General channel. 
+ 
+ Let's take a look  at that CSV file.
+ There it is, 
+ I will go to Excel. 
+ Let's take a look at this, 
+ let's get familiar with  this before we read.
+ So my dears, 
+ this is from 
+ (unknown term) competitions. 
+ This data set was created 
+ in the 1980s 
+ in Germany. 
+ They use a lot for  various activities
+ and if I get an opportunity  to come back later on,
+ we use the model  that we created
+ out of AI to see how fair 
+ As if the data 
+ or is it the algorithm 
+ that is causing bias? 
+ So, 
+ this is about people  in Germany
+ who applied for a loan. 
+ That is how much they had  in their checking account,
+ the first guy had  somewhere from zero
+ to $200. 
+ The duration was 31 months,  credit history is a something,
+ make the columns a little  bit wider, (Name).
+ Credit history, loan purpose, 
+ there was the amount, do  they have a savings account,
+ how long they have  been employed,
+ male or female, and so forth. 
+ Now, 
+ if we go way over  to the right,
+ notice column U. 
+ That is supervised training. 
+ That is (unknown term). 
+ So when you get this CSV  file out of your database,
+ it doesn't have column U,  it has all of the others.
+ So what happens over  time since 1982,
+ somebody went in  after the fact
+ to say that the first  guy was no risk
+ so he could pay  his loan back.
+ The fifth person, 
+ was at risk of paying  their loan back.
+ So now, 
+ in 2021, 
+ people are applying for loans 
+ and we have a model. 
+ Based on this model, 
+ the folks at the bank 
+ or the credit unit 
+ can get a fair sense of 
+ given these features 
+, who might be at risk of  paying their loan back
+ and who might not. 
+ In another activity, 
+ we could do that  on another time
+ when we use open scale. 
+ Open scale comes back  and looks at this
+, after we build  our model here \'96
+ first we have to  build the model.
+ COVID has happened,  things have changed.
+ Right now, 
+ females are in a better  position to pay their loans
+ than males. 
+ So this (unknown term) here  might not be all that good.
+ Just because a person  is 18 to 25 years old
+ and has (unknown term)  in their bank account,
+ this model says  to reject them.
+ Unbeknownst to us, their  parents are millionaires.
+ So we have to take  this into account
+, as our model starts  to drift and wither.
+ But first we have  to build the model.
+ So this is 5000 rows long 
+, 
+ we are going to do 
+ an auto AI, 
+ we are going to  tell her to take
+ 45% of this and use it  as your training set.
+ Go ahead and look at the  entrance, build patterns.
+ Don't look at column U, 
+ say wow you would predict 
+ based on the other 4500 Rose 
+ that you are learning. 
+ Much like how we  learn for an exam.
+ Good enough, 
+ let's go back to  our Watson studio.
+ Close that out. 
+ You can click associate  service,
+ clearly it has  been associated,
+ we hope and trust. 
+ Let's go to what is known  as the hamburger icon
+ or, in the black bar,  you will see the icon.
+ And let's go to projects. 
+ Let's go into that project. 
+ Nice, auto AI, 
+ other experiment. 
+ Yes, let's like that, 
+ give it a name, 
+ the same one 
+ because this time it knows  and has a machine learning 
+Nice. 
+ I shouldn't say  nice to quickly
+ because 
+, 
+! 
+ I think I can say nice now. 
+ Alright, 
+ brows and go to your desktop 
+ and grab that file. 
+ This is going  to be very cool.
+ By the way Dr Palmer, 
+ how much time do I have? 
+ 
+ We officially finish at 
+ 1250, 
+ 50. 
+ 
+ Good enough. 
+ That's new \'96 
+ create a timeseries forecast. 
+ Oh man, 
+ I go downstairs  and then I come up
+ to my home office and  they have change the UI.
+ No, this is not going  to be a timeseries.
+ Now let's go to risk. 
+ Let's pause for a moment. 
+ Notice 
+ in the risk column, 
+ you have risk or no risk. 
+ Risk, even though  it is a string,
+ the system knows  it is binary.
+ One or zero, yes or no. 
+ From the drop-down, 
+ let's go pick 
+ instead of risk, 
+ just for the fun of it, 
+ let's pick... 
+ Loan amount. 
+ Notice it is a regression. 
+ Do you see that,  how a change?
+ It look at the  column and said
+ (unknown term), 
+ so you can divide 
+ and let's pick one 
+ for me 
+ that is a  multi-classification.
+ You kind of have to remember  the spreadsheet.
+ Like one, two, three, four 
+... 
+ Multiclass! 
+ How cool is that? 
+ If it wasn't for auto AI, 
+ and we were doing  this in Python,
+ you would have to press 
+ the space after the  dot in your code
+ and scroll to find 
+ and no, 
+ which prediction tab  you need to use.
+ This tool does  the job for you.
+ So we appreciate that. 
+ Alright, back to risk. 
+ Before we click  the blue button,
+ let's click the  black button \'96
+ experiment settings. 
+ 90% 
+ training 
+, 
+ 10% test. 
+ We can move that around 
+ but we will keep  it like that.
+ It says all columns, 
+ this is a cool place 
+ for you to maybe uncheck 
+, 
+ if this comes out  of a database
+ you will also see Social  Security number, telephone 
+number, email, 
+ we do not need those. 
+ If this was Europe, 
+ GDP art, California  has a good one too.
+ This gives us an 
+ opportunity to say that this  column is not a predictable 
+column, Social Security  number \'96
+ I don't need that. 
+ Birthday might be interesting 
+ but then you have  the age column.
+ In this case, everything is  cool, we need everything.
+ Go back to the table  of contents there,
+ and let's ask for  the predictions.
+ Binary classification,  let's scroll down.
+ You see those things \'96 
+ ROC (Reads), 
+ After we are done  with the slide,
+ I want to spend a few  minutes talking about those 
+things.  
+I think as a data scientist, 
+ one of the big things 
+ that we are 
+ is the relationship between 
+ two universes,  they are related.
+ The universe that talks  about accuracy, precision,
+ and the universe  that talks about
+ false-negative, 
+ these two are connected. 
+ I want to make that  connection how?
+ What formula gets  me from accuracy
+ to true positive 
+ measure. 
+ Let's scroll down. 
+ We have a brand-new item, 
+ gradient boost classifier, 
+ let's select that. 
+ Gradient boost classifier 
+ is really 
+, really (unknown term). 
+ It is a random classifier 
+, same as the one up there 
+, except it gives it 
+ a gradient dissent  algorithm to it,
+ much like a (unknown  term) neural network.
+ You have a branch that  is saying yes, yes,
+ you can't even break that. 
+ Yes or no, you  can break that.
+ The gradient boosting  classifier says
+ I am not done with that, 
+ because everything  is yes in that branch
+ and it doesn't  break up anymore,
+ I am going to beat on  it a little bit more
+ and use weights. 
+ That's what the gradient  does, it uses weights
+ to find out what  is the salience.
+ If I decrease it a little  bit, the importance,
+ or add a bit more, 
+ the weight goes 
+ like the synapse of  a neural network.
+ You are noticing 
+ there is one part, 
+ one, two, three, four, 
+ we can (unknown term) 
+ but I want to show your  way to save money.
+ To save credit unit hours. 
+ Because if you run out  of credit unit hours,
+ you cannot move forward. 
+ You have to wait until  the month changes
+ and then every thing  goes back to zero.
+ Or you can work  on a new email
+ with your new cloud  certification, and so on.
+ Not to worry. 
+ Just about with the 20  credit hours given to machine 
+learning, that is the one  that really eats up a lot
+ because it is a feature, 
+ you won't really hit  that in a months time.
+ You would have to do  this like nine times,
+ so you are cool. 
+ We will select two, 
+ let me look at the time  on the predictions
+ in the table of contents. 
+ Right under predictions, 
+ it says 
+ (unknown term). 
+ The left panel, 
+ go to there. 
+ 
+ Sorry, I'm a little lost  on where we are going.
+ 
+ We are exploring data  source prediction
+ run time. 
+ We export the data source, 
+ we ask for prediction, 
+ now it is time for runtime. 
+ I just wanted to show you 
+ feature engineering, 
+. 
+ Feature engineering is  a fancy way of saying
+ when I take those two  columns in the spreadsheet
+, add or multiply or  make a new column,
+ or the sign tangent  are cosigned,
+ so that is what future  engineering means.
+ Take two columns, 
+ do something with the  two or three columns,
+ create a new column 
+ and that will be my  other (unknown term).
+ Not just risk or no risk, 
+ so the machine  does that for us.
+ Just to make sure 
+ that our model 
+ is as good as it can be. 
+ It doesn't just 
+ confine itself to 19  columns, so that is all it 
+ There is nothing wrong with  having 29 columns, the 
+machine creates them. 
+ If someone says to you  feature engineering,
+ that is a fancy way of  saying to add a new column by 
+adding or subtracting 
+ numbers in existing columns. 
+ Now, save settings. 
+ Now we are ready. 
+ Run excitement. 
+ This will take a few minutes. 
+ 
+ While we are waiting, 
+ would you say that the  great appeal of auto AI
+ is that you basically  throw data added
+ and it digs around  and tries to find
+ ways to derive the  target column?
+ I mean it's just combining  those columns,
+ hooking around, 
+ we have no idea 
+ which any number of columns 
+ leads to the best prediction. 
+ 
+ The particular thing  that you said
+ is a subset 
+ of the thing it  is trying to do.
+ It's like a little  task or feat.
+ The big job of this 
+ is creating a model. 
+ Doing that feature  engineering
+ is a janitorial work 
+ that we usually don't even 
+ -- 
+ we leave it to be in  the background sort of.
+ By the way, (Name), 
+ click on swap of view. 
+ See where the branch 
+ is like two branches going  up in the right panel,
+ swap view is above it. 
+ These are the (unknown term). 
+ Remember how we selected  number two,
+ there was number one to four, 
+ that is the two. 
+ It goes upstairs, 
+ and then another (unknown  term) goes downstairs.
+ If we had three, there  would be 1/3 branch.
+ For, there would  be 1/4 branch.
+ Right now, 
+ it is going through  its mathematics.
+ It did the split from the  beginning, it read the data 
+set, 90%, 10%, 
+ preprocessing. 
+ Preprocessing is cool \'96 
+ it says hey, that  is a string,
+ that is a Boolean. 
+, 
+ that is intruders. 
+ -- Integers. 
+ I'm going to start a model 
+ with gradient  boost classifier
+ and right off the bat, 
+ (unknown term) one  becomes a winner. 
+It is .8.  
+Not good enough. 
+ Maybe try to do some hyper  parameter optimization.
+ Hyper parameter optimization  is a fancy way of saying
+ adding weight to the various 
+ slots, 
+ finding out the saliency 
+ of which one is -- 
+ is it age, is it  checking account,
+ is that loan duration? 
+ One of these 
+ has a big impact 
+ on whether I should give  this person alone or not.
+ And it does feature  engineering,
+ which feature engineering,  we will talk a little bit 
+more.  
+It is creating  the other column
+ so it is very much of  a minute, in her detail.
+ P2 is not a winner, let's  give P3 a chance.
+ We are just going to have to  wait until it does its math.
+ P3 has done better! 
+ That hyper feature  engineering,
+ let's give it one  more chance to see
+ how P4 does. 
+ What I'm going to do 
+ is we want weight 
+ for this whole thing 
+, in the downstairs part  to get filled up.
+ We have work to do. 
+ If P4 becomes a winner, 
+ we take it. 
+ If not, 
+ at the top you see a circle 
+ with a square in it, 
+ we will stop the experiment. 
+ if you for a few minutes. 
+ P4 didn't make  it, good enough.
+ Let's stop the experiment. 
+ This is how you  can save money.
+ or credit unit hours. 
+ I will show you where you  can keep an eye on that.
+ So we will wait, 
+ scroll down. 
+ Pipeline generator  was stopped.
+ Click on the winning  pipeline.
+ Accuracy 
+ .784, 
+ is that the winning  pipeline Qu\'e9bec
+ yes, I think it is. 
+ Go in there again. 
+ The cross validation is 802,  so this is the right one.
+ Now, do you see that curve? 
+ If that curve 
+ was close to the  diagonal line,
+ that would be a 50-50 gas. 
+ We don't need auto AI, 
+ to give me a 50-50 gas. 
+ Now the blueline babbles up 
+ and hugs the very top, 
+ and hugs the very x-axis, 
+ almost. 
+ That is what makes  it closer to
+ 99.9%. 
+ Never 100%. 
+ If you got 100%, 
+ accuracy 1.0, 
+ there was something wrong  in one of the columns.
+ You have to go  remove a column
+ that is missing our data up. 
+ This looks OK, 
+ we will come back and  address these receivable 
+operating curve, 
+ ROC (unknown term). 
+ Now, you are in  model evaluation.
+ Let's take a look at  the confusion matrix.
+ (Name), 
+ can you bring up a  calculator right here
+ back? 
+ From your machine. 
+ Nice, let's add 92+75 
++33 
++299 
+ - 
+ how many rows were  in the spread sheet?
+ 5000. 
+ What is 90% of 5000? 
+ 4500, 
+. 
+ So this is done 
+ on the 10%. 
+ So the machine said 
+, the computer looks  at the auto AI
+ and it says 
+ \'96 no risk. 
+ It says 
+ that out of those 500 rows, 
+ 92 of them 
+ are said 
+ that they are no risk 
+ and when I looked  at the answer,
+ I was right. 
+ I missed that on the 75. 
+ I said that the  75 were no risk
+ but when I looked at  the (unknown term),
+ they were risky.  
+And they have COVID 
+ but then you actually 
+ didn't, the test was wrong. 
+ The risk, the other one says 
+ all of those 500 rose 
+s 
+ - 
+ I got almost 
+ 399 of them right.  
+I was trained on 4500 
+ and without looking  at the answer,
+ I predicted that 300 of  them were indeed risky
+ and it looks like they were. 
+ I got 33 of them wrong. 
+ It is very key to know this. 
+ This is tough, 
+ this is like saying  33 of them
+ -- 
+ for example, if you did not  have COVID but you actually 
+did.  
+What's the next one? 
+ Precision recall curve. 
+ Next one, model information. 
+ Now these are the  number of features,
+ 23 features, 
+ that it wrestled with 
+ in the columns 
+ and the rows were 499 rows. 
+ It used the gradient  boost classifier.
+ OK, thank you. 
+ What is the other one \'96 
+ feature transformations? 
+ Some loan durations so, 
+ that's what it did \'96 
+ it took the loan duration  and the age and it made a 
+summary. 
+ The other went to the loan  duration, the loan amount, 
+so...  
+This is how it is building  those extra columns
+ that it thinks 
+ might shed a better light 
+ over which one  of those columns
+, was at age or loan duration, 
+ was it many other  people on the loan,
+ what is it that  made me decide
+ it is a risk or a no risk. 
+ So little bit of  help over there.
+ What about feature  importance?
+ One of those new features 
+ had importance 
+ but if we go up, 
+ to current residence, 
+ owns property, 
+ others are on loan, 
+ these are predictions of 
+ how it might be risky. 
+ If you have been in your  apartment for two months,
+ the machine says that you  are going to default on this 
+loan. 
+ If you don't own property  and are renting,
+ the machine says 
+ that if the guy owns pho- 
+-- five houses, 
+ he is fine. 
+ Come to know that the guy  who owns five houses and have 
+a Lamborghini is so in debt.  
+(Laughs) Others on the loan, 
+ when you have other  people on alone,
+ the odds of not  paying it back
+ kind of goes up. 
+ And it decreases 
+ as the importance falters. 
+ You see where it says 
+ save as? 
+ Let's do this. 
+ We are going to do  this in two ways.
+ You can save it as a model, 
+ you can save it  as a notebook.
+ Let me look at the  time to see...
+ We are going to save  it as a model.
+ Let's go to model 
+ and create, 
+ so this gets a  little bit clicky
+ in here, 
+ we have to click a  lot but stay with me.
+ To deploy this model 
+ for the future generations, 
+ first we have to 
+ create a space. 
+ A container. 
+ Viewing project, nice! 
+ That's what I mean by spice. 
+ Promote to space, sure. 
+ New space, 
+ it a name. 
+ Any name. 
+ good enough, 
+ create. 
+ We create a deployment 
+ because in that space, 
+ you can have a bunch  of different models.
+ It is like a big bucket, 
+ you can then pick your models 
+ from the big bucket. 
+ When this comes to fruition, 
+ I want to take a moment  to talk about
+ the confusion metrics 
+ and its relationship with 
+ true positive and  false positive
+, etc. 
+ 
+ What is a deployment  space connect
+ 
+ It is merely a container. 
+ Now you can click 
+ premier. 
+ -- Promote. 
+ Otherwise, you have to but  each of your models in a 
+different room. 
+ If I had a big room, I could  put a whole lot of furniture 
+in there.  
+You do not need eight rooms  because you have eight 
+chairs, you can put all of  your eight chairs in one room.
+ (Multiple speakers) 
+ 
+ Scroll down a little, 
+ let me see what  else there is.
+ Let's go in that estimator. 
+ Go to activities. 
+ No, no, close that out. 
+ Go to the hamburger icon 
+ in the black bar. 
+ Let's look at space,  do you see deployments?
+ There are probably  not any deployments.
+ View all spaces. 
+ Go back to overview, 
+ something is good? 
+ Finish run. 
+ That's good \'96 
+ let's go there. 
+ Let's look at deployments. 
+ Back to space. 
+ Maybe essays wasn't created. 
+ Don't use the back arrow, 
+ in the browser, 
+ use that. 
+ View all spaces,  let's do that.
+ That's funny, 
+ when you hover over that \'96 
+ not the link, but hover  over the white space.
+ I am trying to find a  picture of a spaceship
+ that looks like a deployment. 
+ What is that three dots? 
+ OK, 
+ active demo space. 
+ -- 
+ Back to demo space. 
+ Assets. 
+ In the breadcrumbs 
+, 
+ see in the top it says  deployment/demo space,
+ let's go to deployments. 
+ That is how we go back. 
+ Let's delete this. 
+ Click on the three dots 
+ there, 
+ we will make a new one. 
+ Very successful in deleting. 
+ Different name. 
+ Nice. 
+ 
+ I still think Watson should  play the 'Jeopardy!' song
+ when it is thinking. 
+ 
+ Remember they were watching  this earlier,
+ the box was going woozy? 
+ I don't know if  that is anything,
+ right now it is  actually stable.
+ 
+ It was nervous before. 
+ 
+ Yeah (Laughs) 
+ I wonder, 
+ I wonder my dears, 
+ should we have selected 
+ a storage service down there? 
+ We will see. 
+ 
+ I think we definitely need  to have a part to hear.
+ I will work with  you after class.
+  Do a new space.
+ Go back to deployments 
+ in the breadcrumbs. 
+ If you hover over it, 
+ what happens if we do 
+ new deployments space again? 
+ The blue box. 
+ Give it another crazy name. 
+ Select storage service, 
+ you have got it, 
+ select machine learning. 
+ Maybe that is what  we are missing,
+ so you have (Reads). 
+ Storage is selected, OK, 
+ there might be hope for us. 
+ Go to create now. 
+ We did not have the machine  learning selected,
+ so I have semi-high hopes. 
+ OK, close that. 
+ Give it a different name. 
+ 
+ c 
+. 
+ Everything is set, let's  do create again.
+ I doubt that was the issue. 
+ Let's go back to deployments. 
+ OK, 
+ if you hover over  those lines,
+ that is weird, 
+ I am not seeing the picture 
+ of the rocketship 
+ that usually appears  right there.
+ Go to the third  times a charm.
+ Let's do this \'96 
+ hamburger icon, 
+ new demo project, 
+ scroll down, 
+ open up that model 
+ way in the bottom. 
+ Come on, 
+ we did everything just right. 
+ OK, 
+ one more try. 
+ Go back to the  hamburger icon,
+ go to projects, 
+ new demo project, 
+ and let's call down. 
+ This time, click the  auto AI experiment.
+ Yes. 
+ Select the winning pipeline, 
+ right there, 
+ where it says save as. 
+ Click save as, 
+ let's do notebook. 
+ If you see the pop up appear 
+ in the top right corner, 
+ OK, 
+ viewing project. 
+ One could considerably  deploy and notebook,
+ click the pencil icon. 
+, 
+ so it is activated. 
+ You can set this as  a (unknown term) file,
+ there is a save as up there, 
+ and pass it to friends. 
+ And they can then use it 
+ as their model 
+ to deploy against. 
+ Take a look later on 
+ to see what was up 
+ with that auto deployment. 
+ Charles, 
+ you are saying we have  three minutes left?
+ 
+ Yes. 
+ (Laughs) 
+ 
+ Click not trusted, 
+ because we need to make  this not trusted,
+ remember to always do this. 
+ So now 
+ this is what happened  in auto AI
+ while we were clicking away. 
+ If we scroll down, 
+ the Col refreshed, 
+ a lot of good stuff 
+. 
+ What did it do? 
+ It installed a data frame, 
+ yeah. 
+ X 
+ it generated all 
+ of this code for us. 
+ 
+ You see somewhere it says  .01, you can change that in 
+here.  
+ 
+ If you are a Python person, 
+ it might be easier 
+ with this once you play  around with the numbers
+, parameters I guess. 
+ 
+ I will find out what it is  that was giving us an issue
+ with the deployment  of the model.
+ But I think I lost on the  opportunity of talking about
+ true positive 
+ or the confusion matrix 
+, I had a very cool  story for you.
+ I don't get is going to fit. 
+ Let me try. 
+ If people have to drop, 
+ it will be in the recording,  so go ahead.
+  Awesome, awesome.
+ Let me bring up my sharing. 
+ Thank you very much. 
+ Where is the clap reactions? 
+ (Laughs) 
+ I am going to share  my screen here.
+ I am going to tell  you about the story
+... 
+ Thank you zoom 
+ for always helping out 
+ work with my 
+... 
+ Alright, 
+ I guess if you have to leave  in the middle of my story,
+ then by all means go. 
+ This is the confusion matrix. 
+ Over here we have  true positive.
+ Over here we have  false positive.
+ Over here we have 
+ false negative. 
+ And true negative. 
+ The story is as follows, 
+ not too far from over here, 
+ there is a place called 
+ Blue Hills. 
+ It is a decent hell, 
+ it is evergreens, 
+ and in the wintertime, 
+ the trees look blue. 
+ They make all of the organic  food on a farm there
+ and in that farm,  there is a boy
+ who was extreme Lee board. 
+ He has been board for years. 
+ One night 
+ he opened up the window, 
+ and when he looks out 
+ he sees a wolf. 
+ walking towards  the chicken hand.
+ He opens the window at 3 AM, 
+ screams out the window 
+ at the wall. 
+lf 
+. 
+ All of the villagers wake up 
+ and they run outside  and shoot the wolf.
+ Let's insert text. 
+ In this case, 
+ the wolf is positive 
+ class. 
+ And 
+ no wolf is negative. 
+ class. 
+ That story that I told you, 
+ where would it fit in this? 
+ You're absolutely right, 
+ that is a true positive. 
+ So, both present. 
+ Boy cries wolf. 
+ The test showed COVID 
+ and indeed, you had it. 
+ That's fine. 
+ The next day,  the boy wakes up
+, 
+ looks out the window 
+ and there is no wolf. 
+ He opens the window 
+ and screams 
+ out for the wolf, 
+ so all of the villagers  wake up
+ and run outside 
+ and there is no wolf. 
+ They are really  mad at the boy,
+ he is in the doghouse,  or is it the wolf house? 
+(Laughs) Where does  that go for? 
+No wolf but he said  that there is.
+ 
+ False positive. 
+ 
+ Nicely done, 
+ thank you Joseph. 
+ No wolf, 
+ boy cries well. 
+ -- Wolf. 
+ Another night, 
+ he wakes up and  opens the window
+, 
+ there is actually no 
+ wolf out there. 
+ But still, he opens  up the window at 3 AM
+ and he yells out that  there is no wolf,
+ the villagers still wake up 
+ and they are like  fine, go to sleep.
+ Where does that go? 
+ 
+ True negative. 
+ 
+ Nice, nice, Tracy. 
+ So no wolf, 
+ cries no will. 
+ Tell me what should  I put in here?
+ I didn't catch that. 
+ 
+ Cries wolf 
+ but there is a wolf. 
+ 
+ No wolf, 
+ that would be the  one upstairs.
+ False negative, right? 
+ The wolf is coming, 
+ it is threatening  the chicken house,
+ opens the window 
+ and says 
+ that 
+ the villagers through  the boy in the doghouse
+ so let the wealth  eat the chicken.
+ In the morning,  there is carnage.
+ So wolf present, 
+ he says nothing. 
+ How is this connected 
+ to 
+ (unknown term) precision? 
+ Back to my drawings in here. 
+ So this is a dot board. 
+ -- Dartboard. 
+ and we are playing darts. 
+ This is the first thing, 
+ I go into the (unknown term), 
+ I don't even remember  what that is like,
+ I first thank 
+ that I got this, 
+ even though I am really  not a doctor here.
+ Bam, bam, bam. 
+ That, ladies and gentlemen, 
+ is precise 
+ but it is not accurate. 
+ My buddy comes up and says  no, let me try this.
+ This is where his  darts are landing.
+ So that is accurate 
+ and precise. 
+ After a few beers 
+ when the ugly lights come on, 
+ bam, bam. 
+ That's (unknown  term) (Laughs)
+ The ugly lights come on. 
+ So how do we connect  these, you may ask.
+ I will use a different  colour maybe.
+ So this is really the trick 
+ behind, 
+ if you want to find  out accuracy.
+ Sometimes accuracy is not 
+ such a big deal, 
+ it is recalls that I want. 
+ If on Netflix, I am trying  to find science-fiction movies
+ and I do not know which one  is going to do it for me,
+ I am not looking for  accurate or precise movies,
+ just give me a list and  I will go pick one.
+ Recall becomes really  important but if this is a 
+cancer or a tomb or, 
+ I need 99.8% accuracy  if it is benign or make
+7F malignant. 
+ Recalling here is not  going to do anything
+ so accuracy becomes  important over there.
+ This is a funky one. 
+ The way you would do it  is to take to positive,
+ +2 negative, 
+ and divide by all of them. 
+ All of them. 
+ That is accuracy. 
+ What is precision? 
+ How do you cockily precision? 
+ You take the true positive 
+ and divide it by 
+ true positive 
+ plus false positive,  these two.
+ And of course, 
+ recall is the whole thing. 
+ When we were looking at 
+ receivable operating curve 
+ that the machine was doing, 
+ it was calculating  these metrics
+ using the simple formula. 
+ These two are benign. 
+ I told you you had COVID 
+ and you did have  COVID, got it.
+ I told you you didn't have  COVID and you didn't have 
+COVID, audit.  
+But these are problematic. 
+ This is not good. 
+ But, the story behind  what auto AI does,
+ the predictions that it makes 
+ in the funky graph  that it shows,
+ and how the world  of confusion matrix
+ commits to the world 
+ of accuracy recall 
+ and precision. 
+ 
+ Very cool. 
+ This is a very subtle thing 
+, differences between  the two things.
+ I often get them confused. 
+ Any questions or  comments on that?
+ Alright, 
+ we are a few minutes over. 
+ (Name), did you  have a question?
+ No, OK. 
+ We are a little bit over. 
+ We will go ahead  and close out now,
+ tank you very much Mr Armen. 
+ I will see about arranging 
+ a second part to this 
+, so we can go from the model 
+ and go into the 
+ open scale. 
+ Go into open scale 
+ and show the bias discussion 
+ because that is where  we are headed next.
+ Armen and I are both buddies  with our guest speaker on 
+Wednesday, she is amazing.  
+She is a force. 
+ With that, 
+ ask again everybody. 
+ We will meet again  on Wednesday,
+ I will be releasing the  study guide for Friday's quiz.
+ Momentarily. 
+ An arm and, once again, 
+ despite Bluemix 
+ and cloud 
+ and everybody working  against us, you win.
+ That's why all of our  assignments are submitted in 
+video (Laughs) Anyway, thank  you very much folks.

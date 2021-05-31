@@ -1,0 +1,1090 @@
+ 
+ Welcome to class (Laughs) 
+ I have been having a good time  talking to myself here.
+ So far 
+ we have been talking about 
+ building systems to actually solve  a problem.
+ Is it accurate, trustworthy, 
+ -- 
+ that is something else. 
+ We want them to be explainable, 
+ they need to tell us why 
+ did you do that and so on. 
+ We want them to have no bias. 
+ That is, 
+ to do the same kind of action 
+ regardless of the person or persons 
+ receiving the service. 
+ And there is all kinds of bias, we  have talked about that.
+ (Name) could talk for days and days 
+ about the different kinds of bias. 
+ There is even emergent bias, 
+ bias that no one had ever thought  of.
+ And over time, as things change, 
+ the bias appears. 
+ It was bias all along but we did  not think it was biased until now.
+ One of the things I want to say  right off the bat here
+ and the slides are in the wrong  order,
+ but this is not a 
+ FUD discussion, fear, uncertainty  and doubt.
+ That is not my goal. 
+ It is awareness. 
+ we have been talking about 
+ maybe some of you but certainly not  me
+ want to go out in the world 
+ and write low-level ML code. 
+ That is not my goal. 
+ But AI is happening, it is out  there, it is in businesses everywhere
+ and that is why we are spending  time looking at this one family of 
+tools so that when you get out  there, you can make some intelligent 
+discussions.  Intelligent suggestions.
+ It is amazing how many people never  even thought about bias.
+ So let's get started. 
+ What is it going to take to trust  AI?
+ If you think about AI being used  for evil,
+ it is already happened. 
+ Stuart Russell, who we will talk  about today,
+ said wouldn't it be cool if AI 
+ was used 
+ for evil. 
+ And the guy laughed 
+ and said it was already done 
+ in 2016. 
+ A blackmail bought, 
+ so not only was it a bot in the  security sense
+ but use reinforcement machine  learning
+ to figure out exactly where to go  next and what to write down.
+ So what is it going to take to  trust AI?
+ I guess the first thing I will  offer his accuracy,
+ we wanted to be basically correct. 
+ What else do we wanted to do? 
+ Come on, it's early. 
+ Reliability would be good, yes. 
+ Given these two choices 
+ what should you do, 
+ and it tells you this one, 
+ but if you ask at the same thing  tomorrow
+ under the same conditions, 
+ you wanted to tell you this one  again.
+ So it is reliable and it is  repeatable.
+ We wanted to be almost like 
+ electricity in the wall. 
+ You plug in the plug, it works. 
+ We wanted to be a utility. 
+ We wanted to be safe, 
+ security that is. 
+ We will talk more about that in a  bit.
+ And what does security mean within  AI?
+ Reliable, 
+ because if it is driving your car 
+ and it is reliable 
+ that it will not run you into a  tree.
+ But then there are things like 
+ firmware updates on the fly, 
+. 
+ They could say that we cannot  update the firmware in your car
+ unless it is parked, 
+ that is possible, but if it is  something really urgent
+ then should they allow that?  Should it be safe
+ -- would it be safe to allow updates 
+ to live AI systems? 
+ I don't know. 
+ We will have to face these things. 
+ Security, safety, 
+ same kind of stuff. 
+ Another thing we will talk about  today is value
+ and we have seen examples that 
+ in the term, think of the chess  playing AI.
+ This cognitive system that studied  all of the Grand Master games
+ and came to the conclusion that  sacrificing an important piece early 
+in the game would lead to victory. 
+ That wasn't quite the case. 
+ If you are a Grand Master 
+ and you are really good 
+ and you have a reason to do that  sacrifice,
+ that can lead you to victory. 
+ And also transparency, 
+ we want to know what the AI is  doing.
+ Why did you tell me this, 
+ why do you want me to do this. 
+ So Stuart tells us 
+, 
+ like any other technology 
+, and I'm paraphrasing, 
+ you need to be a little careful 
+ to make sure that our awareness 
+ of use of the tool, 
+ accidental use of the tool, 
+ being able to divert the tool, 
+ no matter what it is \'96 
+ hammers, cars, airplanes, 
+ nukes, AI, 
+ \'96 
+ we want to make sure it goes in the  right direction,
+ regards of the economic pressures 
+ to do cooler and cooler stuff. 
+ None of you are probably old enough  to remember something
+ called the.com. 
+ explosion. 
+ That is when everybody realized  that the internet was cool.
+ And startups and everybody went  bananas.
+ The least likely idea 
+ and hoping to make a big 
+ and they forgot one thing almost  across the board,
+ which was 
+ that it is important to be first 
+ but it is also important 
+ to actually work. 
+ And that is when security kind of  fell into a hole.
+ because it was more important to  get the functionality out
+ then to get the safety out.  So we need to learn from that 
+experience because the.com turn into  the dot bomb
+ went a lot of things that happened,  including people realized
+ that this was stupid and why would  they buy it.
+ So we have to be careful 
+ because we want to advance and we  want to make sure it goes in the 
+right direction.  Like I said, it's not FUD,
+ but under what conditions? 
+ should we be able to interfere with  the cognitive system?
+ Just like the software running your  vehicles,
+ there are many millions of lines of  code in many modern car
+s, 
+ do you really think they got it all 
+ perfectly correct?  That is a lot of code.
+ 40 billion lines was a version of  Windows
+ generations ago. 
+ I think it was XP. 
+ Again, probably predates you. 
+ 40 million lines of code. 
+ I bet Tracy could write 10,000  lines of code
+ and get it right, after a little  work.
+ And then well and could write  another 10,000,
+ and Spencer could write another  10,000, etc.
+ We could all get together and each  of us would write 10,000,
+ and if we had enough friends and  family then we could get to 40 
+million.  Even if Tracy and William and myself 
+all wrote perfect code, 10,000 lines  of code, what happens when you put
+ 10,000 lines of code together was  someone else is 10,000 lines?
+ Some of the parts may have a whole,  there may be a problem.
+ This stampede towards AI, we have  to be careful.
+ We are playing with things 
+ that they can always ask Lane to us. 
+ You can't always 
+ hook up a debugger to Watson 
+, it is not there. 
+ You have to be very careful. 
+ You have to have some controls. 
+ If you depend on 
+ AI system to manage all of your  flight,
+ and cues and everything 
+ for 
+ some airline, 
+ and AI comes up and crashes 
+ then just like any other  application if it crashes,
+ it is bad. 
+ In the book mentioned the crash of  the Saber system a few years ago.
+ Not only did airline companies stop 
+ (unknown term), they stopped flying. 
+ Because it was so tightly enmeshed  that we have to be aware of it.
+ One of the things that I've talked  about a little bit and
+ Katerina has thought about quite a  bit,
+ and Juliet (Name), another senior  thesis
+ a year ago, 
+ his weapons. 
+ Transference. 
+ As we are trying to transfer skills 
+ to cognitive systems, and that's  fine,
+. 
+ In the early days of AI we had  expert systems
+ where, Spencer knows more about 
+ machining high-performance auto  parts
+ then anybody else in the galaxy, so  let's build a Spencer
+ and every time he tells us 
+ a nugget of wisdom we give them a  cookie.
+ The goal is for Spencer to become  really large.
+ The problem is that as far as  Spencer is,
+ he probably can't put into words 
+ has got intuition of how to do  something.
+ Something's come ashore. 
+ But there is a lot of wisdom 
+, experience, intuition 
+ that goes into every one of our  decisions.
+ Early in this term 
+ we talked about that is fun 
+ but wouldn't it be nice to just be  able to answer questions,
+ not just the ones we have asked  before.
+ So to transference, 
+ if you can train AI to do 
+ a particular skill 
+ then it could be widely distributed, 
+ multiplied by the hardware and  software around the galaxy,
+ and everyone could be Spencer. 
+ That's great. 
+ We would have way more  high-performance vehicles,
+ everybody would have zero to 60 and  1.2 seconds.
+ And chiropractors would have a  great time
+ because of all of the neck problems  people would have.
+ That's great for high-performance  auto parts, what about snipers?
+ One of my sons is really 
+ into shooting sports. 
+ He was talking with various people  in the business
+ and one of the people he talked with 
+ was an ex-military sniper. 
+ The person said 
+ that it's cool 
+ but it is disturbing and lots of  emotional things
+ but said that it is also  extraordinarily boring.
+ because you finally get yourself  hidden in the bushes
+ and then you stay there and do not  move.
+ For anything. 
+ And what better assignment 
+ then make it 
+ AI 
+, they do not get bored. 
+ See any problems with that? 
+ If you take those sniper skills 
+ and you transfer them to AI, 
+ it could be distributed widely 
+ and anybody could become a 
+, oh great, that's just what we need, 
+ so we have to be very careful. 
+ Cognitive systems 
+ are already in 
+ government and military  organizations around the world,
+ it is not just the US. 
+ Reducing human error, 
+ that's a great idea for AI. 
+ But replacing 
+ those full-blown with the cognitive  system
+ might not be any better. 
+ because who taught the cognitive  system?
+ We did! 
+ They can make errors a lot faster 
+ than we can, so we have to watch  these things.
+ Testing AI is going to be tricky. 
+ It's not's was to be a lecture, in  us was to be a chat (Laughs)
+ -- It is supposed to be a chat. 
+ Most folks don't set out 
+ to build a system to do harm. 
+ They try to solve a problem, make  some money for themselves, hacker 
+points or whatever.  And the outcome of their event might 
+be exactly what they desired.  You could use the same tool
+ for other outcomes 
+ and go back to the hammer, you can  use it for good or evil.
+ And the outcomes have costs that  are measured by society
+ but that is a problem, how do you  know
+ which society's morals -- 
+ what cultural morality are you  going to
+ input into your system? 
+ Yours? 
+ Most likely. 
+ Someone in another country or  culture?
+ That's hard. 
+ Another drive for diversity in AI 
+. 
+ You're not going to get it right if  you don't read a book
+ on some of the culture, you need  someone from the culture.
+ If you want a system to work  properly.
+ Should we have the government put  out some rules here?
+ Regardless of your position on guns, 
+ most governments have some rules  about that.
+ Most governments have Occupational  Safety and Health Administration
+ equivalents to make sure that if  you go to work,
+ at 
+ pick whatever company, 
+ that they won't stack products 
+ three stories high 
+ and expect you to climate 
+ on a wooden ladder. 
+ There are rules and guides to try  to protect people
+ from silliness. 
+ Maybe we do something like that for  AI.
+ As the speaker last week said, 
+ Sherry from DOE, 
+ the government wants to do  something,
+ they want to do something right  away.
+ Didn't Biden just released a huge  executive order
+ with tons of stuff in it 
+ to improve security and reliability 
+ in the face of supply chain attacks 
+ and all of the other crisis stuff  that is going on.
+ If you read it, it says a lot of  stuff
+ and it is very well thought out. 
+ A lot of things are going to have  to change
+ and I'm not saying that's bad, I'm  just saying that it's
+...  We have a chance to get it right 
+sooner with AI, let's hope we get  there.
+ There are risks 
+ even of 
+, I guess 
+ a risk of omission. 
+ If you tell a toddler 
+ that dog food is bad, 
+ they will ask why? 
+ It's bad. 
+ And then say you give it to the dog. 
+ The dog that they love. 
+ They freak out. 
+ They don't understand 
+ that if it's bad 
+ then why are you giving it to the  dog?
+ That's crazy. 
+ You have to worry about the  interpretation,
+ these externalities, 
+ the other a fact that you're going  to have, not just on cultures but 
+ages as well.  My dad had an iPad
+ and he tried 
+ and I think he would've been better  off using it as a cutting board,
+ he's a digital immigrant. 
+ All of you are digital natives. 
+ So we are going to have that  problem.
+ My dad keeps asking me why we are  one of the few countries who don't 
+use the metric system.  I don't have a good answer for that 
+(Laughs) Other than, stubborn?  But we are going to have AI systems 
+here, what about the countries who  we trade with if they don't? Will 
+that put them at a disadvantage? 
+ Is that fair? 
+ As I said in the last chapter of  the book,
+ some companies or individuals can  wield
+ more power than others in the AI  world,
+ they probably will. 
+ Same with another example with a  toddler,
+ if you tell a robot to move a box  from one side of the room to the 
+other.  That's great. But if you do it in 
+real life, and there are Legos in  the way,
+ and you don't tell the AI running  the robot to play in its path 
+accordingly then you get falling  robots.
+ Any thoughts or comments so far? 
+ Can government get it right? 
+ You don't have to pick the US  government.
+ Any government. 
+ 
+ Do you think that government  intervention
+ is the most viable option 
+ when it comes to regulate AI? 
+ 
+ That's a loaded question, that's a  good one.
+ I think the cybersecurity effort 
+ that Pres Biden just started 
+ is a very good example. 
+ The industry didn't do it, 
+ or they didn't do it well 
+ and now government is stepping in. 
+ You've all heard that joke 
+ about 
+ I'm from the government and I'm  here to help (Laughs)
+ Sometimes it is not so much help. 
+ But I think certain minimal  guidelines
+, think of it even as an  underwriters laboratory kind of thing
+ whereas the Executive Order points  out that you need to have some sort 
+of sniff test to make sure that code  isn't stupidly insecure.
+ Maybe we need something like that,  maybe we need guidelines which are 
+emerging from national standards, on  AI development but maybe we need 
+more.  Not so much regulations, to answer 
+your question, as a standards or  guidelines.
+ That helps a lot 
+ because then the government can  point at those
+ and say that they only buy stuff 
+ that adheres to whatever 
+ standard. 
+ 
+ As a follow-up question, 
+ do you think we should have  international standards
+ instead of just national? 
+ So the UN create some sort of  committee to
+ moderate these standards and how do  people follow them
+
+ That's a tough one to, we have  tried that was cybersecurity for 
+years.  The you
+ \'96 my EU announcer guidelines that  they are trying to push
+ but you had on the key point \'96 how  do you enforce it?
+ If you want cheap 
+ and quick AI, you can buy it from  country X.
+ They will play the game, same with  guns or anything else.
+ If they don't play by the rules,  you can have some way to catch up.
+ Tariffs or price breaks. 
+ I am a believer in price breaks as  opposed to tariffs
+ because the bad guys are always  going to be there, so.
+ It's got to be international 
+ because what does our economy know? 
+ One country 
+ goes off-line for a while 
+ and you don't have any more chips, 
+ or you don't have any more tires 
+ or whatever. 
+ (unknown term) and the UN, 
+ need to get involved. 
+ The problem with standards as it  takes a long time to get it right.
+ A lot of things are going to happen  between now and then.
+ Thank you, good question. 
+ So I touched earlier on value  alignment.
+ How do you capture societies 
+ overall morality 
+ or traditions, culture, 
+ preferences? 
+ Things like slang, 
+. 
+ I am from Louisiana and like I said  before,
+ the folks of French heritage down  there
+ speak English words 
+ in strange ways. 
+ How do you deal with that? 
+ Some of you are probably dealing  with that right now
+ if you have an Assistant as part of  your project.
+ Training is a challenge. 
+ Some examples, tipping. 
+ Customary in the US and the EU 
+ but it is an insult in Japan. 
+ OK, 
+ so if you have a 
+ bot that is paying your bills 
+ or handling packages received at  the door,
+ it depends on where you are. 
+ Whether you should tip. 
+ When I was in Japan, I noticed on  the subway that everyone was reading
+ and I was so impressed 
+ but I could not see the front of  any book.
+ They all had book covers.  That's part of the culture.
+ There is no reason for you to know  what I'm reading.
+ You're right (Laughs) You're  absolutely right.
+ I didn't occur to me. 
+ I had one of my employees  transferred to Israel,
+ different cultural there 
+ but because he was in the US for so  many years that by the time he got 
+to Israel, the salary was inflated.  That was a problem
+ because that culture, where he was, 
+ not Israel but where he was, 
+ everybody shared their information 
+ including on salary. 
+ So can we build 
+ standards for the systems? 
+ As internet guru 
+ and overall extremely smart guy 
+ Carl (Name) put it, 
+ do we need a building code for  building code?
+ Yeah, probably do. 
+ (unknown term) bias, pretty hard. 
+ Pre-existing bias, 
+ cultural or racial, pick your  favour.
+ There is also technical bias. 
+ So if the VA, veterans of  ministration,
+ was insisting that you manage  everything online
+ then you got a technical bias  against those who cannot spell 
+computer. 
+ Most veterans are not hard-core  computer people
+ so if you have to do that, you have  a problem.
+ And of course, the emergent bias I  mentioned earlier.
+ Transparency is important 
+ and it is not just for things like 
+ -- 
+ not just so you know how to  decision was made
+ with respect to you, you might want  to know how a decision
+ -- system is using you to make a  decision.
+ Why are those ads popping up? 
+ But if the payoff is good enough  for you,
+ then you will use it.  Loyalty cards,
+ Amazon credit card, 
+ apple credit card. 
+ You get a nickel every time you  spend $1000
+ or something like that, sure! 
+ If the payoff is there, you will  use it
+ and you will give your data to the  system.
+ So enough preaching. 
+ Let's look at something from an  excellent book.
+ We are talking about Al getting  better and better
+ and of course, the bogeyman in the  room
+ is advanced AI 
+, 
+ artificial general intelligence,  AGI.
+ Max 
+ (Name) at MIT 
+ summed it up I thought really well  in this book.
+ He talks about three stages of life  \'96
+ the first stage of course 
+ can only use the half prior 
+ and software it is given. 
+ So low-level life. 
+ Hardware and software appeared 
+ and whatever it does, that's what  they can do.
+ And then we come along 
+ and for the most part, 
+ all we can do is update our  software.
+ Because we can learn stuff. 
+ and we can unlearn stuff, it is not  a one-way street.
+ For the most part though 
+ other than repairs here and there, 
+ we can't really upgrade our  hardware.
+ And that leads to life 3.0 
+ where not only can you 
+ update your hardware and your  software
+ but you can actually make it better. 
+ Improvement. 
+t. 
+ So this is the big bogeyman in the  room, this is the big scare,
+ AGI.  And depending on who you ask,
+ you will get a different feel for  how soon it is coming.
+ The digital utopians, 
+ you can probably guess what they  think,
+ they think it is going to happen in  20 or 30 years.
+ Not that long.  And it is going to be benevolent.
+ It is going to be lovely. 
+ They are going to help us, 
+ they will do exactly what we want,  not to worry
+. 
+ Larry page, cofounder at Google, 
+ said that digital life 
+ is the natural and desirable next  step
+ in the cosmic evolution. 
+ And if we let digital minds be free 
+ rather than constraining or  enslaving them,
+ the outcome is almost certain to be  good.
+ Larry page, cofounder of Google. 
+ That is one of the three camps. 
+ Another camp 
+ he noted is called (unknown term)  sceptics.
+ They say that 
+ AGI is so hard 
+, 
+ in fact, 
+ for many years, 
+ AI interment itself 
+ was jokingly described as 
+ whatever we don't know how to do. 
+ And it is always going to be 20  years in the future.
+ The techno sceptics are saying that  it is 100 years
+ or more in the future, stop it.  Just chill.
+ Use the tool, don't be stupid, that  kind of thing.
+ One of the biggest names in machine  learning, Andrew (Name),
+ says worrying about AI's evils and  super intelligence today is like 
+working about overpopulation on Mars. 
+ We haven't even landed there yet. 
+ So we've got the utopians, the  techno-sceptics,
+ and now there is the 
+ beneficial AI bunch. 
+ And AI safety bunch. 
+ So Elon musk, Stephen Hawking, 
+ Alan Turing, even. 
+ The argument is that human level AGI 
+ possible this entry 
+ but a good outcome is not  guaranteed.
+ The questions need to be answered 
+ as it is possible because it is  going to take a while to solve them,
+ that is why we have these courses.  So you will get the bug and then go 
+out there and fix it. 
+ So it is very likely that AI is  going to succeed, unconstrained 
+success, as we were saying at the  beginning of class today can lead in 
+the myriad of directions.  What are you going to do? If you are 
+wronged by AI system, what recourse  do you have?
+ Are the courts ready to support you? 
+ Can AI be sued? 
+ I don't know 
+ and what can we do now to get away? 
+ Think about nuclear fusion. 
+ Wouldn't it be great if we could  figure out how to do that?
+ Great idea 
+ but containing it is the problem. 
+ We can do it 
+ but it makes a lot of noise and  destruction,
+ but how do you control it? 
+ We are getting to the point where  we can do AI
+ but controlling it is tricky. 
+ There is a chat question, I think? 
+ 
+ Everybody keeps saying it's 30  years away
+ but they have been saying it for a  very, very long time.
+ Exactly an Avon saying the same  thing about AI as well.
+
+ I'm not quite a next were not  (Laughs)
+ In the camp of AI's going to be  super been a little
+ -- beneficial to people, 
+ is there any study or evidence 
+ that they can point you to say 
+ that this is why we believe that? 
+ Because that seems like kind of a  na\'efve
+ way to think about it, 
+ to just assume that they are going  to be benevolent.
+ 
+ The crowd is the beneficial AI  movement/
+AI safety, 
+ they are saying that the other two  groups
+ are partially right. 
+ It will be beneficial and it will  be great, but we have to be careful.
+ If we make those successes, 
+ we have to watch our backs 
+ to make sure we are doing it with  safety in mind,
+.  As opposed to the.com where everybody
+ wanted that 
+ quickly, let's try to do it right. 
+ Do humans have a good record doing  it right the first time?
+ Sometimes.  (Laughs)
+ Does not help, Spencer? 
+ 
+ I guess more in terms of the first  camp you described
+ or Larry page from Google, 
+ what did they point that 
+ that they used to justify their  reasoning
+ for benevolence? 
+ 
+ All I can say 
+ is that Larry looks at Google and  says it change the world, it's a 
+great thing.  What is the downside of Google?
+ I think that is what they are  looking at, it's big innovation like 
+that.  It so far
+ has not done anything horrible, at  least in their minds.
+ Take Mark's book goes into their  believes a little bit more
+ but I am not one of those, 
+. 
+ I'm in the last group, trust but  verify.
+ I want to careful. 
+ It's all about getting ready for  the future.
+ Melanie's description of  intelligence
+ is either binary or a continuum, 
+ or multidimensional. 
+ My autistic son is 
+ really good at math, 
+ and incredibly good at dates. 
+ Can tell me what 
+ -- 
+ some pair of dates, he can tell me  the difference in years, it is 
+amazing.  Emotional intelligence? Not so much.
+ That is just the nature of his  condition.
+ Imagine Wall Street 
+, 
+ it is already one with a lot of AI  help.
+ What is going to happen?  Is it going to get interesting
+ or are we going to have to put  speed brakes on like we do now
+ that the electronic trading? 
+ Think a couple of issues back in  her presentations,
+ what about fake news? 
+ GPL three is doing really well, 
+ writing articles that are convincing 
+ as though they came from a person. 
+ Interesting. 
+ And this guy, Nick Bostrom, 
+ he is the one that kind of started  off
+ the hysteria about AGI with this  book.
+ Which, it is fascinating 
+ but it does get a little shrill  here and there,
+ but overall he sums it up with this  quote here \'96 "There is no reason to 
+expect a generic AI to be motivated  by love or hate or pride or other 
+such..." His concern is that they  will become single-minded,.
+ He is the one who coined 
+ the paperclip AI problem. 
+ Where in AI is rewarded for created  more and more paperclips.
+ Go back in the night and try that  when you have some time after class, 
+after the term, and it is addicting  to sit there and try to maximize 
+productivity and get your paperclip  count up. It depends on how you 
+design the system. 
+ So should we build a global 
+ AI control system 
+, a net nanny 
+ for a eyes? 
+I 
+s? 
+ To try to monitor and delay all of  the stuff?
+ We've talked about jobs, 
+. 
+ As the AI's appearance start  helping,
+ remember the project from two years  ago
+ where they try to use Watson to sort 
+ recyclables. 
+ Are we going to be able to reabsorb  those folks into the industry,
+ I don't know. 
+ Is that a new question, Spencer,? 
+ OK, 
+ alright. 
+ White-collar, blue-collar, new  colour.
+s 
+r 
+s. 
+ Jealousies, I know how to use the  system better so I can trade on Wall 
+Street, it's going to be  interesting. And if the tech is 
+doing a good job and it is  cost-effective then humans will lose 
+interest in not want to do that job  anymore. Prison guards, security 
+guards, sure.  It is physically dangerous but no 
+one wants to do it, 
+ intellectually challenging, that  sounds like a formula for a 
+cognitive system. 
+ What about gaming, running a casino? 
+ Why not? 
+ Pretty straightforward, the games  all have rules, very simple.
+ We already use AI a lot in face  recognition
+ because of fellow that started a  company
+ who didn't even try to a high school 
+ started a company to compare  information about different gamblers.
+ To be able to tell when one person  had been banned from casino A
+ and then they showed up to casino B  and used an alias
+ or different address, or whatever, 
+ and by using information publicly  available,
+ he was able to show that it was the  same people.
+ And as a result, the casino could  bar the right person
+ across the board.  Huge advance.
+ Big savings for the casinos. 
+ Like they need help 
+ but anyway. 
+ He used an early version of 
+ AI system, basically machine  learning,
+ to solve a real problem. 
+ So that's great. 
+ Could you use it and other societal  challenges, I don't know.
+ Double dipping on social services, 
+ you shouldn't be getting a vaccine  yet
+ or you have already had one, 
+ I haven't heard of anybody trying  to get more than two
+ but anyway.  Interesting.
+ And speaking of AI control, 
+ should they have rights? 
+ I started out lecture last week 
+ where the question on Friday 
+ with AI being denied 
+ (unknown term) rights in the UK. 
+ Is that appropriate? 
+ Should it have rights? 
+ Should we 
+ confer legal personhood 
+ on a computer system? 
+ Putting it in control of  Corporations
+, 
+ lawsuits, 
+ should you be able to sue a  Corporation
+ because there I I did evil things? 
+ People are already doing it. 
+ Basically zipping through the  application and trying to identify
+ any reason that you might think the  applicant
+ is of a particular 
+ ethnic group, sure, you can do that. 
+ It is not fair but they are doing  it.
+ Should it become a citizen? 
+ Way, this is way in the future 
+ let's hope. 
+ If we had 
+ AI 
+ that could own IP, 
+ then it could accrue well. 
+ -- Wealth. 
+ Assuming that the AI at some point  ceases to be,
+ where does your wealth go? 
+ It's really sticky! 
+ It's a real problem. 
+ In fact 
+ and I am not advertising I am just  saying,
+ it is such a problem that some New  York attorneys
+ named Mark (Name), the ultimate 
+ New York City geek 
+, 
+ and I are starting a podcast on AI  and the law.
+ I think it is going to be called 
+ mind to the gap, I'm not sure.  That's coming
+ because lawyers are already asking  questions,
+ what the heck do I do? 
+ The company said we have this IP,  we created a,
+ actually, 
+. 
+ It has to be figured out. 
+ We have to decide. 
+ And then finally, 
+ we have already talked about using  cognitive systems
+ in dangerous situations 
+ or life critical situations. 
+ We already use machine learning  systems
+ to aid surgical procedures 
+. 
+ We use them to help diagnose 
+ ailments, sure. 
+ We don't ask them to do the  diagnosis,
+ we ask them for what are some  possibilities
+ or where should I look, 
+ because they are usually a few  options.
+ So that is all the good stuff. 
+ One other dangerous jobs 
+ might a cognitive system be asked 
+ to take over? 
+ That's what Katarina and Juliet  wrote about,
+ autonomous weapons. 
+ This is way past auto sniper, 
+. 
+ If you watch that little video, 
+ it was produced by folks from the  third group
+ that is 
+ AI is going to be great but we have  to be careful.
+ It really makes the point. 
+ (unknown term) is what it's called,  I washed it once and it disturbs me.
+ I have kids and it disturbs me. 
+ But it could happen, why not? 
+ In the movie American sniper, 
+ could AI decide 
+ whether or not to take out the kid 
+ to whom a suspicious backpack which  is handed?
+ I don't want to build that system. 
+ Juliet's position 
+ was pointing out 
+ that pilots 
+ operating drones 
+ don't really have any skin in the  game.
+ They are sitting in Colorado Springs 
+ dropping bombs somewhere else. 
+ And that it doesn't bother them. 
+ Turns out that's not true. 
+ It really does bother them. 
+ In fact, it may bother them even  more
+ because they don't have any skin in  the game.
+ So that is the next step is OK, 
+ they are having trouble dealing  with it so fine,
+ but a cognitive system there. 
+ Is that the right thing to do? 
+ As some of the higher-ups in the  military
+, 
+ they always want a human in the  loop.
+ decide what to do 
+ and say another AI? 
+ And then execute, go ahead. 
+ Whether it is a launch of a missile 
+ or a sniper shot. 
+ It becomes important to make quick  decisions.
+ As the military likes to say, 
+ "Decisions at the speed of light" 
+ because that is what complete is  turning into.
+ You can't put a human in that loop. 
+ Otherwise it is not the speed of  light
+ so we will be facing this, 
+ you will be facing this. 
+ And I don't know the answer. 
+ All term 
+ I have been saying \'96 
+ understand, don't memorize. 
+ Understand the concerns here. 
+ Yes, 
+ know how to do it, cool. 
+ Know how to do it right. 
+ But also know how it could be done  wrong,
+ that is just as important. 
+ We want to make sure we don't end  up like this.
+ A scene from wall \'96 E 
+ and I could use that chair, I think. 
+ It kind of floats around in food  appears,
+ I don't have to hold the screen. 
+ 
+ I think that weight wise, we are  definitely getting there.
+ Yeah, 
+ I was picking up food from somewhere 
+... 
+ I won't name the restaurant but I  was sitting there watching the 
+people coming in and it was like an 
+ all-you-can-eat as long as it does  not way more than you do.
+ There were some sturdy people  coming in there.
+ Well, maybe that is our answer  (Laughs)
+ But I don't want to go there. 
+ I would rather us to a better job. 
+ Here is another thought. 
+ Build a chain of increasingly  incapable
+ AGI's. 
+ This is really what the third group  is pushing for.
+ Don't legislate against it, plan  for it.
+ Each AGI, each version of this thing 
+, 
+ is monitoring the behaviour of the  one above it
+ and controlled by the one below it. 
+ This is very much 
+ like a high-level security model. 
+ And if at any time, 
+ something runs goofy, 
+ the one below can monitor it 
+ and do something about it 
+ and if the one that is running amok 
+ is a problem 
+ than the one below it controls it. 
+ So this is a great idea, 
+ this is way past the three laws of  robotics
+ from the amazing Dr 
+ (Name). 
+ Time will tell. 
+ Any questions? 
+ Deep stuff, I know. 
+ But it's where we are. 
+ 
+ I just wanted to ask, 
+ are you in the camp that believes 
+ that AI will never truly believe 
+ -- be sent in? 
+ There are a lot of people 
+ who are afraid of Asante into AI, 
+ to think we are going to get to  that point?
+ 
+ Yet is of divine sentiment 
+ last night 
+ I'm in the third group myself, 
+ where we say it is probably going  to happen and it will be beneficial
+ but we have to be careful. 
+ Geopolitical challenges to legal  issues,
+ I think we are rapidly approaching  some early tests.
+ As the book pointed out, 
+ one of the largest 
+ if not the largest 
+ job 
+ in the US is truckdriver. 
+ And while you see here 
+ more about autonomous vehicles for  personal use,
+ what about the trucks? 
+ It's a much simpler environment, 
+ other than the last mile 
+ where you have to back into the  loading dock
+ or something.  But why not?
+ Most of that job 
+ is long-haul boredom, 
+ so sure, why not. 
+ 
+ I mean there are laws 
+ and if the truck drivers 
+ pay enough for their 
+ congressmen can make a law 
+ to say that trucks are required to  have a human on board
+
+ Yeah and that has been done before. 
+ It is not clear that that is going  to stick.
+ Because one country will have that  rule
+ and another won't 
+ and then we will be at a 
+ Or production advantage. 
+ 
+ But as long as we have unions 
+ that contribute to politician  funds...
+ It will be a war of money, right. 
+ Either the unions are going to win 
+ or over is going to be able to pay  out the politicians
+ because that is what they did in  California. They had a large 
+campaign in order to make sure that  the drivers of their vehicles
+ were (unknown term) so it is going  to be a lot of regulation at the end.
+ Sure, I absolute  understand that. We will see what 
+happens.  It is going to be different in 
+different parts of the world. 
+ And speaking of the law, 
+ we are already using 
+ developing AI systems 
+ to understand the law. 
+ To read it. 
+ If you have ever 
+ downloaded a house bill or a Senate  bill
+ and tried to read it, 
+ good luck with that. 
+ It's almost as though 
+ they don't want you to really  understand it.
+ Some of you may think that is  indeed the case
+ but judges have the job of  interpreting the law in this country,
+ so maybe they could use a little  help. Who knows.
+ Any other comments? 
+ Charles? 
+ 
+ I have a bit of a question. 
+ At the beginning of class, we kind  of talked about the history
+ Followed by phases of dormancy 
+ where the big cognitive system 
+ pays out. 
+ One of those phases of excitement, 
+ so do you think that this time 
+ will be the push that actually  happens
+ and we will reach some sort of  artificial general intelligence,
+ without the long period where  everyone thinks it is not possible
+ or do you see something that might  slow down progress?
+ Very good question. 
+ I think AGI is possible at some  point, I don't know when.
+ I think it is more on the outside. 
+ What is going to change, I think, 
+ is as we develop say autonomic 
+ vehicles, 
+ the law is going to have to be 
+ evolving quickly. 
+ We are not really sure that is  going to go.
+ To Joseph's point, should we  legislate these things into the 
+closet so that they can't advance  quickly?
+ That's not going to work, people  will find a way.
+ I think the next step along the way  is that we are getting enough 
+advancements now that now we are  going to have to do something to 
+maintain control.  Not to prevent AGI Masters, that's 
+not what I mean.  To make sure that this advance does 
+not start hurting people.  Or impacting wealth
+ of everybody. 
+ I'm definitely in the eye think it  is going to happen point of view.
+ Are we going to see how before you  all retire? I'm not so sure about 
+that. 
+ 
+ I trend that I've noticed is trying  to bring
+ ethics into computing 
+ and not just this course, 
+ I have another 
+ computer science course where we  have ethics assignments
+. 
+ And sort of what I don't understand 
+ is why 
+ and it is not so much that I don't  think ethics are important
+ but for one of the classes we had  to read article
+ about how people who train the  models are underpaid. And I don't 
+know if you know this but the iPhone  you are using to watch this on,
+ that was built by underpaid workers  in India. In the cotton in your shirt
+ is made by slave labour in other  countries. So the question is
+ why do people suddenly care about  ethics? We need ethics in computing,
+ we need ethics in a lot of places!  And so far we have not gotten it yet.
+ Why is there better hope for  computing? Is it just because
+ it is so important that people will  care more, where is this going?
+ Are we going to be more successful?! 
+ 
+ You always asked good questions, 
+. 
+ because these things are  programmable,
+ folks may think we have a better  chance at doing it right.
+ At least ethically. 
+ But I think the other thing that is  coming though
+ is it took a long time to get to  the point
+ where it is more efficient and  cheaper to grow cotton in the US
+ and ship it to another country  where it is made into a sharpirt
+ and then shift back.  To develop all the technologies 
+involved there is preceded not  nearly as fast
+ as the stuff that computers is  proceeding.
+ So I think it is a matter of 
+ this stuff is happening now, this  is fast.
+ And we are not ready. 
+ Legislators, consumers, 
+ sure there are a few of us 
+ who will buy the new refrigerator  with the LCD built into it
+ or make a picture of ourselves 
+ so it looks like we are on the  inside trying to get out,
+ that's already been done, 
+ but it is what we are going to be  living.
+ It is already happening, 
+ whether it is 
+ autonomous vehicles or weapons,  let's hope not,
+ or autonomous decisions 
+ on whether or not you're getting  into graduate school X, Y or Z.
+ Any other comments? 
+ Not too depressing. 
+ OK, so. 
+ Just like last time. 
+ Understand, don't memorize. 
+ It is open book 
+, the quays, 
+ so there is no point to memorize. 
+ It's horrible to grade 
+ but it is thinking, 
+ it is put two and two together 
+ and show me how you get for, kind  of thing.
+ So very similar to the midterm. 
+ No surprises there. 
+ projects, 
+ Friday is project day. 
+ I will open up the rooms, you can  ask me questions
+ and meet with your team, or you can  work separately.
+ It doesn't matter to me. 
+ Just keep in mind that starting  Tuesday,
+ we will start having presentations. 
+ We really ought to try to be done 
+ or at least ready to talk 
+ with something to show for it. 
+ And with that, I will remind you  that I've office hours on Thursday.
+ I believe (Name) has office hours  tomorrow, it is on the website.
+ If you have questions or comments,  off we go.
+ Lab two is essentially graded, 
+ I have to review them 
+ and then I will post them. 
+ Any other questions? 
+ OK, happy Monday! 
+ I won't see you on Wednesday 
+ because it is a quiz day 

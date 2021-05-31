@@ -1,0 +1,598 @@
+ Today we started talking about assistance that is.
+ The IBM the Watson tool to provide assistance to customers users friends neighbors whatever.
+ It used to be called conversation.
+ And that's really.
+ really what it's like.
+ And unfortunately like dilbert a lot of us.
+ We do conversation we do it we execute it we perform it.
+ When you start thinking about it it's.
+ it's not as easy as you might think.
+ And, especially if you want it to be.
+ friendly productive and that sort of thing.
+ So let's talk about a little bit about conversations and then we're going to leap off into how to use the agenda the assistant tool.
+ So when you meet someone on the street what's, the first thing you do when you don't shake hands or do the French you know kiss thing only the cheek certainly not now, you know wave or you say hey jack me Tyler are you doing what's up.
+ um.
+ I was astonished at how.
+ A checkout clerk at a at a.
+ quickie mark I just popped up and he said so dude.
+ You will parse parse oh okay fine i'm good Thank you um it varies depending on cultures, languages, of course.
+ guys might greet guys a little differently than girls would meet girls, or vice versa, or mixing or any of the combinations of genders out there.
+ everybody's got a way of greeting family members.
+Have a way of greeting.
+ in business and in you know public situations there's a little more structure there's a greeting some sort of though Why am I saying hello to you haven't seen you for a while what's up that's where.
+ You exchange, whatever the information is how much is that doggie in the window.
+ $300, never mind i'll get a cat for free, you know that's the conversation Okay, the exchange to maybe some question and answer, there may be a whole lot of information provided in one direction or the other, imagine what goes on at the dmv.
+ When you actually do get to the front of the line it's.
+ Below you're very kind you don't want to be thrown to the end of the line the context you know what that is you're doing the driver's license application or renewal.
+ The exchanges you give them the paperwork some maybe questions and answers, perhaps you don't have all the paperwork and so on, when you're done, thank you very little, and you say goodbye and gone.
+ Now if i'm having a chat with Tracy just because her pictures oh.
+ Oh.
+ She asked me a question and I go.
+ She knows what that means.
+ A cognitive system.
+ One is probably not looking at me and to all it hears is.
+ A dropping off two tone.
+ So grunts no response a stair.
+ Those are problems, but as humans, we know what to do.
+ Why don't we just run away or try a different language.
+ and so on.
+ no response at all well okay you wait a certain amount of time, then you start to get nervous right context changes.
+ I call this the.
+ ooh a squirrel problem you're talking to someone and all of a sudden, something else happens, or they remember something and in the context completely changes.
+ But oh how about those patriots.
+ Okay, great fine wonderful.
+ I don't follow that but anyway back to the topic that's a digression these digressions happen normal conversation, just like that they happen in business conversation or online.
+ Things You may think that the customer wants to know all there is to know about coded and what's important for them, but occasionally they'll ask a question like well.
+ Well i've got a cold tell me how I get how to get rid of a cold and okay that's not what i'm here for some sort of Nice complimentary or neutral answer and you move on misunderstandings corrections slang.
+ One of my sons speaks.
+ At the speed of light, you know he just he just I don't know how he does it, and no one understands it.
+ And we keep asking Okay, could you slow down and say that again, or when i'm in Germany, the first thing I learned in my German class was how to say in German speak to me slowly.
+ Okay, so you might have to have some interaction there to verify you're in the right place to verify that you can understand into maybe give them advice on how to do you.
+ Okay, how about some questions as anybody, other than than the telephone, have you encountered any machine based conversations online anywhere, have you ever gotten into a discussion with a with a box, so to speak.
+ The body you guys don't get out much.
+ Does does it have to be with like human language or can it be using like text.
+ Whatever yeah I was usually would be text yeah.
+ yeah I was doing like the jury and I had a problem and I called their their service hotline and they had like 1000 people in line so they told me like use the online like Ai and then you know I just asked a question so it's very useless as usual.
+ As usual.
+ See that's part of the challenge we have in the world episode of machine assistance assistance is all of the bad ones that are out there, so we're going to learn this this today and again on Wednesday, the rest of it, how to build one that's going to be a little less offensive.
+ Well, while i'm here, I might as well.
+ play off of that and share it in less than one minute.
+ Video, which is what we don't want to do this is from the movie.
+If I can make it work.
+ Okay, you don't really need any context.
+ Before we started, just like to kosta violation or penal code to 219 today 3048 yes that's exactly what I want to talk to the Assembly there's been a misunderstanding to get extension of girl by further a wife, no, no, no, I can explain what happened was made a joke, and you know i'm talking.
+ elevation and heartbreak intended, would you like to know.
+ What i'd like to use the personality matrix that just a 20% chance of progression to open 100 grand theft auto assault, with a deadly weapon resisting arrest, would you like to talk to those really no I am Okay, thank you, are you being sarcastic and abusers negative.
+ A professor in the screen is frozen.
+ Oh there's you're freezing my video again.
+ Okay.
+ Could you hear it, at least.
+ up so we did yeah Oh, why not sharing these screens, this is like option that says optimized for video clip that help sometimes I wonder if he's tried that one.
+ hey well where would that let's see if I can find that I.
+ think you.
+ got it okay I got it that's okay let's do it again let's try to do real quick.
+ just want to see if it works, because you guys are really helping me out here with us history.
+ There they use Vivaldi.
+Okay.
+ Would you like I believe it's in my in my class notes that we pull that up let's see would you want to speak to him, yes.
+ Open like go.
+ share that.
+ We started, just like your.
+ violation or penal code to 219 today is Dr Gordon veterans exactly I wanted to talk to me see I believe there's been a misunderstanding that we get extension of girl by further why no, no, no, I can explain what happened, it was made a joke, and you know talking.
+ elevation and heartbreak detective would you like to know.
+ What i'd like to do personality matrix that just a 20% chance of progression to open a preponderance grand theft auto assault, with a deadly weapon resisting arrest, would you like to talk about healing no I am Okay, thank you, are you being sarcastic and abusers negative.
+ Right okay so was that better yes.
+ Okay, let me know offline or whatever.
+ that's not what we want.
+ But that's what we've been getting.
+ When.
+ When it first came a year ago, if you can remember that far back.
+ Everyone had questions hundreds and hundreds of questions who's going to answer those questions.
+ So that was a very.
+ helpful use of the Watson, the system.
+ bunch of boats got together.
+ And said look.
+ If we could just it's kind of like the theory behind piazza or slide if we could just gather these questions.
+ And a bunch of good answers for them wrap them in something that's not particularly foster at least a little bit friendly.
+ And maybe all the people who have much harder questions don't answer the really technical questions, maybe they would have more time to answer and address those questions if we can get rid of these symptoms.
+ And Sure enough, the system was created, it it wasn't thorough it wasn't.
+ A million questions built into it, it was maybe the top 200.
+ questions that will either lead to a quick answer no you can't catch it from a dog to other things like well here's the answer and for more information click here, and it will take you up to the CDC.
+ And you could access it, as you will be able to do from your phone anywhere, you have a browser and so on didn't quite get it to work on the launch but.
+ Maybe they'll commit.
+ It reached a lot of people, it could be translated was just great idea and whether it's Watson Google or Microsoft doesn't matter, the whole idea of getting information out there from a lot of the source in a form that is.
+ consumable.
+ is to reduce the impact to folks who will be better used to answer harder questions so if you're calling it help desk and even bad password problem.
+ Please reset my password.
+ I don't know something like 40% of the calls to the help desk are usually related to your password you could automate that think of the time, you could say.
+ And that's what we're working we're working on.
+ customer service mobile Apps hey siri where's the dairy Queen, you know stuff like that.
+ messaging systems, of course, Internet of Things, there may be situations where a dialogue voice.
+ And voice to text and text back to voice might be the only interface, you have.
+ Okay, so you say to your watchers or to your headphone you click click Google assistant.
+ asking your question and keep going it's great ideas in store guidance that's another one someone suggested last term.
+ You show up at home depot you're looking for somebody wearing the orange smoke and they tend to hide when we get there, well, you need help open your APP Maybe you can click on something and talk to an APP bought or bought.
+ bought APP that would help you find things in the store Okay, of course, then there's the retailer point of view.
+ They don't want to to easily find what you're looking for, because the odds are if you're looking for a particular thing, and if you have to wander you'll buy something else but that's another that's economics.
+ Libraries something that nobody uses much anymore, except to go hide.
+ Again, a great place for an automated.
+ Help or help desk.
+ Okay.
+ Finally, robots like we just thought.
+ If they're.
+ visible those visions of what they look like is kind of intimidating.
+ or just weird and creepy like the one we saw.
+ If their conversations better.
+ It will improve acceptance, it will improve use and so on, if it's a pain in the neck, people are going to run with it.
+ And we don't want that.
+ Okay, so any any comments or questions so far.
+ For we blast on here.
+Okay close that.
+ Okay, so let's.
+ Start dissecting the conversation a little bit.
+ we'll use the terms that Watson uses just because.
+ Well it'll help us understand what Watson is doing.
+ And how we have to explain it so let's take a look here at a typical application.
+ Doing banking.
+Okay.
+ You should see a slide now yes okay.
+ So the person is at a computer and is thinking oh great the rent is due.
+ So they need to enter into a discussion with some system to pay their bill right OK, so the intent in this case it's a person with long hair so boy girl, otherwise this person.
+ In 10s or wants to.
+ Do a bill payment.
+ Okay, so that is the person's intent.
+ They intend to make a payment they intend to get a price for the car they want, they tend to explore real estate options in the Bay area that's what they want to do what time is it it's they want to know something or they want to do something that's their intent.
+ it's the purpose it's why they're here.
+ Look business locations, you know lots of things.
+ The more you prepare for this, the different ways that they can ask this question, the more likely your assistant will be perceived as decent nice so.
+ Well we'll talk about let's get the terms of the way okay so we've decided intent is what why they're here, why are they bothering you okay.
+ entities are the things that are involved.
+ So in this case the entities.
+ are well the person the bill, and maybe the bank.
+ They are related to her intention to pay a bill.
+ Okay, so intense and what you want to do intent entities, or what you want to do it with or two, as the case may be.
+ And you accomplish this through a dial.
+ Just the conversation flows back and forth between.
+ The user and the assistant.
+ Okay, and you could argue that maybe the dialogue is the most important part.
+ I like to think it's all three are kind of important if you can't identify with their what they want, you can exactly continuing.
+ You need to know what they want to work on or with or ask about, because otherwise you just have to guess in the dialogue if it doesn't follow the conversation gets lost in falls off into the land of squirrels and.
+ Nobody knows what you're saying okay.
+ So we have intense entities and dialogue.
+ you'll find when we get into it a little bit.
+ That.
+ The the cloud will store your work, if you want to share your work or back it up, whatever everything is stored in json json format that's javascript object.
+ notation and guess we'll go with that.
+ Anyway, it's all stored like that so it's not like a binary thing that you can get in or out will right now we're going to go through how to do it.
+ Through the assistant interface, but once you get the idea if you have a whole bunch of say example questions to say good morning you could throw them into a json file and upload that perhaps make your life.
+ The json is the language forum with representation from most of the lots of stuff.
+ Okay.
+ that's things we're going to build.
+ end up looking like this here's the one from coven.
+ And this one's pretty straightforward.
+ it's not.
+ It really is just questions, how do I know if I have it.
+ Here are the symptoms.
+ And in this particular case it doesn't just list the symptoms, they decided to go and ask one, at a time, do you have a fever.
+ Do you have a headache do you have been lost to face, do you have a call Okay, and after a certain number of yeses it comes back and says, you know you really ought to go to get checked.
+ If you say no to all these things and just say sorry, you must have something else you don't have this Okay, but it was a very simple, straightforward no real transaction.
+ Not much of an entity, other than the speaker.
+ Of the one i'm going to run through right now is a standard demonstration bought but that helps the credit card things now here.
+ it's more like the image we had a picture of the person with the laptop.
+ They connect to their bank say hey are you doing the bank said i'm here to help look credit card would you like to pay.
+ In order to go so let's let's jump over and take a look at that, if I can find it.
+ Leave up there, somewhere, because that's the not we'll just click on that'll work.
+ Getting my own technique okay so let's change to a different share.
+ And we'll go to.
+ OK.
+ So now, you see the bank bought right.
+ it's not the display and we're not the PowerPoint.
+ Alright, so let's let's work out use, you can use buttons you can use tax all kinds of things so i'm going to click on 5893 that's the card, I want to mess with Okay, oh no that's that's what we have video teaching refresh the page, or what.
+ Okay, and there's list we go.
+ Okay, so it can you know I logged in earlier today.
+ Okay, so it says recognize that I clicked on card 5893 great it goes and looks up at some back end the database backend database for the balance let's do, and you can say things like okay well when would you like to pay I could just click on today.
+ Or the due date because the designer at this bar thought that those would be the most common responses of choices, but with a little bit of clicking when you're building it, you could say something like I don't know kirsty.
+ OK cupid recognizes.
+ Thursday is a day, and it was looking for a date and it made the connection.
+ Now to do this and Python.
+ will be a real pain that.
+ We have to parse all this stuff do they take and so on the assistant to help you do this right away.
+ And we want to just pay the whole thing let's see if I say go for 30.
+ Okay off you go, yes, now I could say yes yep uh huh all those things was trying up.
+ And it should there you go Okay, so this thing is pretty pretty pretty handy because it recognizes slang yep yes, you bet you go for it right on and so on.
+ They cheated a little bit by putting up the buttons with your accounts, but then again how many of us know.
+ Their full account number, you could type it in as needed Okay, so it kind of helps.
+ Now, this one spree it's available, you can go out there and you can play with it, but let's think about what are the entities here what sorry, what are the intense on the Paleo okay pretty straightforward all of the the entities are things like credit card bill.
+ payment.
+ date.
+ Okay, one thing.
+ And there's really not that much.
+ You don't need them.
+ Now, at some point, if you say if you're having trouble with this do you want to speak to a human or do you want.
+ The question that sort of thing you can go for it now what happens when you try.
+ Strange things.
+ You need some sort of fault.
+ But essentially it's like a.
+ pachinko mission, you know you put the ball in the top and it goes down it flows down through the dialogue looking for something that seems appropriate for that input and the current state of the dialogue.
+ And if it doesn't know what it what you said just kind of pulls out the bottom into something that you set up with any number of these kinds of messages and.
+ odds are if they hit this message once they're probably going to hit it again because i'm familiar with the system, so you can have alternate messages that are.
+ rotated through so that it doesn't that does not compute doesn't come out every time.
+ Okay.
+ So that's that's our goal, what kind of an interface is our goal now this interface is driven.
+ By a little bit of code, the actual assistant itself, which is all you have to worry about unless you feel like doing some code.
+ You can execute in the on the web page where you're building the thing yourself okay.
+ Any questions or comments or.
+ Oh golly so forth.
+Okay.
+ Alright, so let's.
+ do that so let's leap into the cloud.
+ Share different screen.
+ And there it is and every time i'm.
+ Just okay so.
+ Everybody should have done lab zero by now.
+ Now, no credit for zero, but if you don't do lab zero you can't do.
+ Anything else.
+ The bottom line with lab zero is to get an IBM cloud ID so you can go play with the Watson toys.
+ do some more things at Microsoft and maybe not a Google.
+ Google you don't actually know they're watching.
+ Okay, so you type in your ID you just it's very simple cloud IBM cloud ID COM and you type in your ID and then you type in your password, of course, and I have to go over here and authenticate with my little password manager and put in the correct.
+password and.
+ Okay um.
+ Well i'm not sharing the right i'm sharing the right screen.
+yeah.
+ Okay, so.
+ Mine may look a little different than yours, because i've been playing before but let's i'll try to make it come up in the dashboard.
+ Okay, so.
+ This is what it generally looks like across the board, the.
+noise.
+Right.
+ Lots of little helps here and there, there are tutorials everywhere there's just tons of them for not only Watson stuff but data science things blockchain.
+ Red hat stuff just go NUTS you've got the ID you can play with it for a while and the main thing is, if you ever seen anything that says, if you want to try something it's got to have the light and light.
+ Account type because you have the light account, which is free for academic years.
+ or for even companies to explore and if it if it ever asked you for a credit card stop don't do it.
+ that's not what you're supposed to worry about should be no credit card inbox so Okay, so you can get started with machine learning and moms in studio we'll talk about that explore the tutorials.
+ speech to text very quick and it's a web APP 15 minutes and you're going to load up the folks to you cool okay for the assistant, we want to.
+ Go find them so let's you would come over here to where it says, create resource know all the different Watson tools or resources let's click on resource and gives you a magical mystery list of everything there is OK, you can just go wandering.
+ If you want there's there's a lot more than that, but this is just the featured ones, you can search the catalog and ask our system.
+ And there's a one notice at the bottom of that little window, it says light free that's what you want, so click on that.
+ And it brings you to something that looks like this.
+ Eventually.
+ Okay.
+ um again this is mostly noise, because you don't really care about paying for it.
+ it's going to create one of these things, for instance, of the system.
+ Okay, you want to know more about there if you click on docs to text you the documentation getting started with the thing it wouldn't hurt you to go through this and as long as you want okay moving right along normally you would go right over here and click create i've already got.
+ i've already created in the system that's why it's telling me, you have instance already for your light account okay so since i've already got one.
+ i'll just stop here if I didn't have one this button way down here at the bottom that's great out that says, create will be there you click on it go.
+ So i'll just whenever you find something like that, or you want to just go back to start, you can click on the hamburger that's what we lovingly refer to that picture in the upper left hand corner.
+ and go to your resource list and that's everything you've done.
+ Okay, most of them will be services and, as you can see i've got quite a few here, and the one that I want to click on as the assistant.
+ Now, your assistant will be allocated for you in the cloud, it will be given a unique name mine is Watson assistant dash F E, the name doesn't mean anything except it's unique okay.
+ and of the goals of introducing click it right.
+Okay.
+ Okay, you will it's a cloud based stuff so occasionally you're going to see a pause.
+ It shouldn't be too bad the quick note, if you are not in the US.
+ At the bottom of that page you could pick a different location to confirm generally these come from the Dallas Texas location last time I taught last spring I had a student in Korea and he have much better luck connecting to the Korean.
+ Data Center okay.
+ So a few things you might notice here once we started the US once we open the system get a page all this noise if you're ever asked for the API key that's this thing here.
+ This line it's a really long ugly.
+ numbers and characters that represents.
+ Your account your your accounts version of the system so sometimes if you're connecting services like you're connecting the assistant to discoveries of the we'll talk about later, you might need to have those two services swap API keys, so that they can who am I talking to.
+ Because right now, even as we speak there's probably.
+ Several thousand seven maybe 100,000 different Watson assistance running in the IBM cloud, and you want to make sure you're talking to the right one okay.
+ And sometimes you'll also be asked for the URL that is unique, for your watson's cool.
+ Okay, another chance to try the tutorial we're not going to do that we're just going to go because we're all students and we know we're doing so you click launcher system now yours will probably only have this bottom line, my first assistant.
+ And it creates that one for you just as an example.
+ As you can see i've been whoops sorry i've been fooling around here i've got a couple more going, including barista Bot, which is part of the lab one.
+ We don't like to assign labs until i've done, you know that didn't hurt too bad anyway.
+ first thing you want to do is creating the system Okay, so it creates a new one got to pick a name.
+ I don't know.
+ bookstore.
+Okay.
+ let's call it the bookstore alright, so now you're faced with.
+ More options well these this is easy.
+ Actions is something that's it's in beta we don't use that the bottom when you got to pay for we're just doing a dialogue full feature conversation build okay.
+ A particular.
+ Implementation is called a skill.
+ Just terms Okay, so at a skill i've already got a few all looked already hit the wall I got too many okay so let's go.
+ delete one here let's yeah yeah you hit the Max someone can go in here and try to delete that one.
+ Well, in the interest of time i'll just keep there's you know there's there's.
+ Remove skill, no more school okay.
+ But be very careful when you delete things because by golly they're gone.
+ they're not kidding so at a skill.
+ Oh come on oh it's not deleted yet okay now, it took a while.
+ Alright, so let's make sure it's gone.
+ dark still there.
+ Okay we'll just use it, so you if you pick a skill that already exists, you clicked on it and brings you back to this screen and off you go if you don't already have us go.
+ You just click on this there you go.
+ it's now we're faced with this big blank screen.
+ i'll delete this intent, so that we can start off claim like it would be with you.
+ can do it OK, so now, if you had a brand new conversation assistant income limitation it starts off like this well it's an intense you gotta have a reason to be here right so let's create an intense suppose we're creating a.
+ What web page for our bookstore okay so let's.
+ create the first intent now intense have a name they have no blanks in between all they are you can use up or lowercase but it tends to just ignore the case doesn't matter.
+ Just for reference, they all start with the pound sign, but you don't have to type it so where is in store.
+ Okay, or store location I just put spaces in here so store location.
+ sort of a general intent and you can describe it and you're like.
+ Okay um The next thing you do is we type in a bunch of examples now there's all kinds of ways, people can say where's your store, where is the store.
+ don't.
+ sleep.
+On.
+ let's see what else can we do here.
+ Where is the store already said that let's see.
+ let's read, are you on.
+ How do you find your score.
+ Also things like I need book.
+ You notice that's not a question.
+ doesn't matter.
+ If they just somebody some caveman just walked up to you, and just said, look.
+ that's Okay, you should be able to understand that if I walked up to Spencer and said look he would probably send me the Baker.
+ or to the hospital.
+ But my intent is good okay all right, so why are we giving all these examples it's not like you're French class in high school where, if you don't exactly follow the conversation who can talk to anyone.
+ that's not it.
+ These are training, these are example natural language statements or questions or whatever they are.
+ That the assistant is going to use as training to be prepared to capture.
+ The intent of the users piping okay.
+ So let's see can, I think that anymore.
+ it's got store location.
+ yeah I need directions.
+ and
+ How do I get to your door yeah.
+ And, as it turns out, you don't even need to put the question mark and I do just because it helps me keep things straight, but it doesn't matter it's the words that are really important okay so that's that's pretty good if the if the intent is store location.
+ This, this is a pretty good start, so we can click on the little blue arrow in the upper left hand corner and go back so now you'll see we have store underscore location for the pound sign in front of it that's our first intent.
+ They probably want to know where you are, and if you're open about that store hours.
+ Okay, no biggie.
+ When are you open.
+ and try not to type out because it doesn't spell checker.
+ Okay.
+ When do you open and.
+ Close.
+ Open close.
+ Any other ways.
+ What time.
+ What are your hours.
+ yeah okay.
+ Are you open weekends.
+ The other weird ones, we can think of.
+ Okay.
+ that's pretty good so.
+ I have a quick question.
+ Yes, ma'am.
+ Should you introduce common typos or will it and learn that, on its own.
+ very good question.
+ it's.
+ it's typos aren't so helpful unless it's things like.
+ They neglect to put an apostrophe.
+ In don't you know I wouldn't worry about that too much it's really the slang is more of a problem.
+ If somebody types in hey man, I need a boat okay we're going to get that.
+ If I was in Louisiana back home, they would say where y'all at.
+ Even though you're not in the south would probably understand.
+ That but.
+ Where where you're.
+ Okay we'll just add them so misspellings or not so, not so much important because Watson already knows a lot of this common misspellings and to these in a row you delete one that's sort of the.
+ it's the sliding it's the the content it's a little more of a good good challenge but very good question.
+ Okay.
+ Right so we've got a.
+ Another good engine, we have to really good intense.
+ Okay, now we have our too intense with several examples beach for lab 01 you, you have to create intense, for your chosen assignment and you need several options there because you want to train the system pretty well so that actually do stuff okay.
+ um we're going to move to entities, but there's another thing to look at here for common stuff.
+ So let's see we're only intense page content catalog yep there it is.
+ Now there's lots of things that are pretty much.
+ Common across many, many.
+ assistant dialogue or assistant applications things like customer care.
+ or general conversations or in our case let's see where's readings.
+ yeah I think that's a general Okay, so if you click on that this is this comes with Watson this is part of the system.
+ It already has a bunch of these conversation topics that come up nearly every time.
+ Are you a robot are you a human are bought in mind more examples general greetings and this is great, because you don't have to sit down and think every possible way.
+ You should say hello to somebody as a boss, or how they say goodbye 34 plus 337 different ways to say goodbye, some of which are not printable.
+ In kind of properly disclose how do I use you what do I do help me, and you know that's a general negative feedback you're annoying.
+ Okay, so you can go to content catalog.
+ and pick one of these things are several of them.
+ To.
+ make it easier for you like bill payment that's another good one customer care what the customers care about and here's the coven 19 questions.
+ 23 intense their whole bunch so we'll just grab general because that's.
+ We don't want to spend a whole lot of time on that, so I just added 10 intense.
+ To our model so let's go back and back again more intense.
+ Now we got a bunch of them Okay, so we didn't have to come up with ours or down at the bottom.
+ But we didn't have to deal with all the others so okay.
+ So now we know what the possible intense all.
+ Right let's go make some entities.
+ Okay, so these are the things that you want to talk about.
+ Okay, in our case where's the store so things like address not being.
+ store.
+ Book kind of thing so let's see.
+ So maybe we should put street let's let's go create something.
+ Okay, these start with the at sign so intense start with pound at signs are the first character and introduce so it was great.
+ Okay.
+ This is a little bit different because these things, instead of just being a concept or an intention these actually have values.
+ So.
+ If we are ever find the user asking about street that's probably our location, so we can start putting things in here.
+ Well, as answers on screen.
+ OK, so the value might be elm street.
+ And let's see.
+ You can type synonyms so on road.
+ street abbreviated.
+ And maybe just film good maybe there's only one in your turn.
+ Okay, so fourth.
+ street okay we've got an answer.
+ Now let's see.
+ Another street might be our maple street store.
+ OK so again, we have our synonyms maple.
+ maple.
+ And we'll go with that.
+ What is recommended so.
+ yeah Okay, so it can it takes a shot at some alternative synonyms are maple street, but, as you can see i'm it ain't going to help.
+ Because there are synonyms for maple and it's, not even a synonym it's other trees Okay, so if you really want to confuse the user at all these but that's not so let's hide the recommendations.
+ Okay, and add that okay so we've got down the street and maple street and the capitalization doesn't really matter.
+ there's also some system built in into these that we can look for let's.
+ interview.
+ Okay yeah one of the things that you might have to deal with his phone numbers phone numbers in the US or three digits followed by three digits ball before.
+ But there may be parentheses, there may be hyphens there may be spaces, a slash.
+ At some point, you can actually enter patterns, instead of synonyms to describe something you might be trying to match so just just sort of a it's there you might want to find the future so okay.
+ And of course I believe there are.
+ You know what to look for it, there are some built in.
+ Things as well let's see content catalog.
+ Back to that and see if it adds no these are just intense okay.
+ So we've got street.
+ Okay.
+ let's see there's built click the system entities oh there there, yes okay right so time and date Well he one of the things we care about is the your hours so maybe time would be a good thing.
+ Okay, so let's turn that on.
+ and none of the other stuff is.
+ necessarily useful, but maybe maybe numbers if we ever get into sweeteners and stuff like that.
+ These things are predefined, just like the intense and you can change them, but they are useless.
+ All right.
+ Well let's see what happens.
+ We go back to intense just one.
+ And you'll notice way up here on the top there's a little button says try it.
+ at any point, you can kick this off.
+ hello, how can we help you do that.
+ We didn't like that.
+ That came from the general greetings standard things.
+ So.
+ I.
+ want to buy in book.
+ Where is.
+store.
+ Okay, so we're not quite there yet.
+ If it was working.
+ It would give us a lot more information.
+ So if you click over the little eyeball there.
+ It matched store location okay that's good hundred percent and appear but also managed store location, but only.
+ With 33% confidence.
+Okay.
+ alright.
+ So let's very quickly come back over here since we're not we didn't get very far.
+ let's look at the dialogue because right now, this is what happened, this is what they execute.
+ Welcome dialog me anything else welcome as hey how you doing.
+ Anything else is, I have no idea what you said that.
+ So let's look at the welcome is not very exciting forget anything else and you'll notice here is all the different things that you can say when we get to this node in the dialogue.
+ You could even say that the variations of the response that you were given a set of sequential.
+ So you can every time you hit that again, it gives a different message can work.
+Okay.
+ Alright, so let's see dialogues, we did that let's add one.
+ and probably move it up a little bit just just.
+Come.
+Right.
+ alright.
+ So we added a note.
+ And let's see that one i've got my little recipe over here so welcome stuff is already done let's see.
+ We could even change that to say.
+ Hello.
+ I am the bookstore.
+ Without uppercase.
+ Okay.
+ One of the, and this is a subtlety.
+ Lots of studies.
+ have made it clear that people appreciate knowing who they're talking to.
+ And that they.
+ Really don't appreciate it when they have to come to that solution with that intuition on their own.
+ setup.
+ you've probably heard the statement the customer's always right.
+ anytime you hit that bottom anything else.
+ be very kind you don't say what a dummy thing to say.
+ you're like i'm learning i'm just a but give me a chance try again.
+ Again it's it's all about, not so much being subservient but it's about being respect.
+ So hello, this is the bookstore and here we go so let's see you could add a folder I don't need that.
+ Okay, so let's see no conditions that if the user.
+ If the assistant recognizes we enter into condition.
+ And intent.
+ Of store location so let's call this.
+Ask.
+ Okay, so we've been asked about the location, you can respond with.
+ let's see.
+ They leave them connect to a human agent on.
+ Our store.
+And you can.
+Something like that.
+ And you can enter variations, but we're not.
+ so clear that there's all kinds of settings and customizations like slots and we'll talk more about this next week, this is really focusing.
+ entities and intense this week.
+ Okay, so they're asking about location, there you go so let's try it and see what happens okay so let's clear our screen here.
+ Where are you.
+ What did I do wrong, no, no.
+ Okay, if the assistant recognizes store location.
+ Okay let's go back to intense store location.
+ Okay, so let's it's probably one that we we have in there in the works, because I must have done something dumb effect.
+ where he was store.
+ Very good okay.
+ Well that's interesting Where are you was not close enough to any of these examples for Watson conversation what's an assistant to sort of.
+ derive that matching Where are you wasn't good enough, but where is your store that's one of the things.
+ We tied down let's try another one, where is your store.
+ And it also works, even though we didn't say we never ever used the word bookstore.
+It was.
+ So let's let's try some slang I want to look.
+ Okay.
+ So.
+ Never did we put the word wanna.
+ In there, but the natural language training that we gave it with these seven examples was enough to make the connection.
+Okay.
+ Right so we'll talk a lot more about the dialogue next week, I mean Wednesday.
+ Dialogue is probably the more complicated part.
+ Because you're describing the flow of conversation.
+ In dialogue, you can have loops and.
+ multiple levels of questions when you're trying to get a bunch of answers to fill out say a pizza order so we go back and look at.
+ Now here's a very simple.
+ there's only one intent.
+ Tell me about.
+ And entities design of the object of interest so gosh what could be useful for something as simple Okay, so this is a bunch of example questions.
+ and actually what i've got is an interface to Wikipedia.
+ And this is just so easy it's amazing how easy it is.
+ So i'm going to ask a question.
+ The entity is the thing i'm asking about.
+ The dialogue is really dumb.
+ If the assistant recognizes tell me about and I actually provided with an object of interest, but just said, what is the match.
+ But if I say.
+ Tell me about the international space station.
+ i've got to tell me about match and i've got the object of interest and off we go this uses a web hook which connects to an API to Wikipedia.
+ Why not just try Okay, so what, how can I help you well, I said space station tell me about the S s.
+Okay.
+ Here we go so that.
+ conversation very something one node literal one intent one entity was enough to get a question to go ask Wikipedia.
+ And one of the things you like, we like to do here is use the backend stuff an API to talk to the weather channel and API to talk to Wikipedia or Twitter, or whatever you got they all have api's.
+ And, most of them are pretty simple but to them for Wikipedia.
+ You can send back you can get back text pictures obviously on, and you know there's a little bit detailed down here but there's a very good example, this is one of the tutorials and.
+ How to do a web hook, which is a connection to a web APP or an API.
+ And it gets back to the text and image and, just in case you might have typed something funny it tells you what it's what it's defining I tried one earlier what our sons spots.
+ And earlier and said okay i'm defining sunsets.
+ Okay, not not what a man.
+ Watch or some spots.
+ Okay, if I tried it earlier.
+ About see what are some spots like that well, not with Nicholas angels, but that working Okay, because what I talked to get a typos son dash equal spots, but it's still work that's amazing.
+ Okay i'm defining sun Okay, it just doesn't want to do sunspots if I want to do sunspots I gotta go work a little harder.
+ And if you asked about something Wikipedia doesn't know about.
+ What is ramped.
+ It say yeah that didn't turn up in the API came back dry or it came back to so many duplicates.
+ alrighty.
+ These things can get rather busy and give you a brief look at my barista Bot.
+ Okay, that sort of thing the dialogue, the entities that a few the dialogue starts to get large and you can have nested things we'll talk a lot next time Wednesday is all about dialogues and how you use.
+ This kind of funny looking format to describe very human like.
+ interactions okay so questions today about all this stuff I know it was a lot, but if you if you're on the cloud if you have trouble, let me know, but if you get on the cloud.
+ And questions.
+ Something else and.
+ Go to the.
+ To the catalog get the assistant going launch it there's a tutorial there you could go through the tutorial it's a little different than what I do.
+ So it will be actually might be useful and then start thinking about well okay i'm going to do the.
+ bought someone.
+ Perhaps version of the assignment and let's see I want to do.
+ da Vinci.
+ talking to the press, after he released Mona Lisa.
+ sounds passively.
+ You could do that or restart is a little more straightforward whether it's at starbucks or calf.
+ You have all those crazy options.
+and
+ It should be interesting, you should be able to do either one of the labs without code without adding Python rust or whatever you're into.
+ But it might be really interesting if you do, but totally up to you.
+ One thing in the lab that I said was very well want to make very clear do the assistant first.
+ Once you have that.
+ Then it's pretty easy to add text to speech or speech to text or both.
+ At the end, so do the Watson do the assistant first that's the majority of points.
+ And if you add the speech to text or text to speech the cool thing, there is, it gives you experienced tying services together.
+ And it's just way more golden you call up your parents and say hey look like.
+ Okay, you can actually talk to it over the phone.
+ Very cool alrighty questions comments.
+ Can we run this from the browser do we have to download it you.
+ Know everything's in the cloud.
+ know.
+ yeah, the only thing you might ever need to load on your computer is curl just to make life easier and if you decide to do code, you might want you'd be running the Python when your machine like I just I didn't want it wasn't written in Python but that.
+ Wikipedia bought thing I didn't have any code here just simply that URL and get back the answer.
+ Sometimes you might need a URL and sorry, you might need coding locally.
+ To do some some really cool stuff but no it's all in the cloud for now.
+ Okay.

@@ -1,0 +1,1236 @@
+ I am delighted that 
+, 
+ I'm sure I got that wrong, 
+ had some time to share with  us
+ to talk about AI ethics 
+ and fairness 
+, 
+ I don't have to say much. 
+ (Name) 
+ is a force within IBM on  this topic
+ and we are very lucky 
+ that she is with us. 
+ Last year, 
+ I asked the students to  assess all of the talks
+ and no pressure (Name), her  talk was
+ by far number one. 
+ So I think some majors got  changed as a result. (Laughs)
+ No pressure! 
+ 
+ Enough noise for me, 
+ (Name), 
+ let me turn on sharing 
+ and it will be all yours. 
+ We are here until 
+50 PM. 
+ Eastern daylight Time. 
+ But as we found with the  last gas,
+ -- guest, 
+ we ran over 
+ and those were who  interested hung around.
+ So with that, go for it. 
+ 
+ Thank you so much for  inviting me to come and 
+present to your class today,  I really appreciate it.
+ Especially on this topic, 
+ it certainly is a topic that  is very near and dear to my 
+heart.  So I am going to use my hands 
+a lot because when I am  really enthusiastic about 
+something, I like to speak  with my hands. It is 
+definitely a part of my  nature. So the real purpose 
+of the stock -- this talk 
+ is really meant to inspire  you more than anything else.
+ Yes, I am going to be  talking about
+ some rather scary things 
+ but know that especially  near the end of my talk,
+ I am going to AB explaining  what we
+ \'96 and this is the broader we  \'96 can do in order to
+ mitigate these risks. 
+ An address is in such a way 
+ where we can be utilizing 
+ this kind of technology 
+ really to build a more  equitable society
+ And also, 
+ to solve a lot of the bigger  challenges
+ that we have a facing us. 
+ So know that what I am going  to be to scrubbing to you
+ is absolutely fixable 
+ and no, I don't want you  leaving feeling pessimistic 
+about a dystopian future.  Because I am truly an optimist
+ in many ways. 
+ So I'm going to start off by  talking a little bit about
+ how I got here because it is  kind of a strange journey.
+ My sister and I were lucky  to grow up
+ in a family of technophiles. 
+ Both of my parents 
+ immigrated to this country 
+ in order to pursue degrees  in engineering.
+ They met at the University of 
+ (unknown term) in Gainesville 
+ while they were getting  their degrees.
+ And my sister and I 
+ were always encouraged to  play around with computers, 
+we put them together, we tore  them apart,
+ and of course we played on  them.
+ But we didn't just stop  there,
+ we played games and our  friends and our cousins 
+played games, 
+ but we really wanted to  design games for people that 
+we love.  Mind you, this was back in 
+the day you couldn't even  find a book that explained 
+how to design a game.  (Laughs) This totally dates 
+me a bit but we really  muddled through and when we 
+were ready, both of us, to go  to college,
+ there were no such things as  game development degrees.
+ So I ended up developing 
+ a degree in 
+ computer science.  I did that sometime
+ and then decided to venture  into the realm of 
+entrepreneurship.  Initially first,
+ developing a custom software 
+ application development  company
+ but then shortly thereafter, 
+ my sister and I ventured  into the gaming industry.
+ Video games, in particular. 
+ So we did a lot of  consulting to game studios 
+and publishers I'm a 
+ wee targeted women and  started the first fellowship 
+program for women 
+ to pursue degrees in  videogame design and 
+development.  At the time,
+ we were very passionate  about digital tech inclusion.
+ We saw that we were really  interested in this
+ but we would open up most  gaming magazines or look at 
+the websites, and they were  definitely not targeting us.
+ We felt there was an  opportunity there.
+ And then after some time  working on
+ women gamers.com, 
+ there was a big shift in the  game industry and I decided 
+to go to back to my alma mater 
+ to pursue an MBA,. 
+ I wanted to work on the idea  of pursuing
+ venture capital funding to  start my own studio.
+ Whilst I was there, 
+ I threw myself into 
+ case competitions.  This is when a company will 
+come to a business school  with a real live challenge
+ and the students have  overnight
+ to form teams and pitch  ideas.
+ In fact, I competed on  several occasions with 
+students from Dartmouth so I  have been to your campus.
+ Anyway, I was on my 61 
+th one 
+ in the competition 
+ was between (unknown term)  and Duke University, I was at 
+UNC.  And IBM had a challenge
+ where they said they had  business process management 
+software and they were  looking for innovative ways
+ of expanding it to  non-technical people
+ and I had no idea what the  heck
+ business process management  was
+ but they handed us a stack  of paper about this big.
+ As I was reading it, I was  thinking that this is a 
+strategy game. 
+ You can have a competing  model, you can collaborate 
+around the model like a  multiplayer real-time 
+strategy game, so I pitch the  idea to my teammates
+ and I told him that we need  to pick a strategy game.
+ I ended up arguing with this  one guy on my team because he 
+said that games were for kids  and by the way,
+ IBM is too conservative of a  company
+ to buy off on this idea. 
+ I told him that the average  age of the gamer today is 34 
+years old.  43% of PC gamers and (unknown 
+term) present of (unknown  term) gamers are women.
+ It is more close to even now. 
+ But I said that games can be  incredibly adept at 
+explaining complex systems.  He picks up his stuff and he 
+abandons the team and the  rest of us end up pitching 
+the strategy game the next  morning and unbeknownst to 
+me, the VP of strategy was  one of the judges. She pulled 
+me aside and said she was  finding the game right now 
+and can I make it in three  months. That was kind of my 
+segue into the world of IBM.  Initially designing these 
+things called serious games,  to help ex-lanes of the 
+complex systems that we were  selling but then truly using 
+this kind of medium to help  organizations solve problems. 
+I did a lot of interesting  work for the defence 
+department around things like  disaster (unknown term), 
+using real data and  processes. I have always been 
+very invested in my volunteer  work because again,
+ my heartstrings 
+ are really with digital tech  inclusion.
+ I have always done a lot of  work for (unknown term).
+ At about this time, 
+ I had really started to get  interested in artificial 
+ The ability to integrate  real data and real processes
+ powered by AI 
+ into some of these very  sophisticated
+ gaming engines. 
+ We started to do some really  cool things
+ with some disadvantaged 
+ high schools in particular 
+ around the country that  again,
+ were just so inspiring. 
+ The work that I've done in  education,
+ that is for another talk, 
+ so at some point Dr Palmer, 
+ bring me back to talk about 
+ (unknown term) education 
+ and games and play at an  education.
+ At about this time 
+ in 2018, 
+ something happened 
+ that just made me so angry. 
+ It was so horrible for me, 
+ it just give me such pause 
+ and what I was doing. 
+ that I decided I wanted to  learn everything I possibly 
+could 
+ about the space of data and  ethics
+ and AI and ethics, in  particular.
+ And that is the event, 
+ the knowledge of Cambridge  analytic (unknown term).
+ And really knowing how to  use people's data in order to 
+manipulate (unknown term).  Again,
+ at this part in my journey, 
+ I had really been invented 
+ in the good. 
+ AI for good, AI for complex  problem-solving,
+ or to nurture more 
+ optimized environments for  education as an example.
+ So that was the good 
+ and then here is a really  salient example of bad.
+ Of misuse and manipulation. 
+ And as I've been pursuing 
+ my studies in my research, 
+ I really became very aware  of the ugly,
+ meaning even with  organizations that may indeed
+ have the very best of  intentions,
+ due to things like 
+ hidden bias 
+ or outright bias within  their data sets,
+ they can and do 
+ cause individual and  societal harm.
+ So that is where the rest of  my talk is dedicated towards.
+ It is not necessarily the bad 
+ like (unknown term)  analytical where there is 
+direct misuse but just some  really salient examples
+ of a risk, 
+ use cases that are highly  risky.
+ In the latter part of my talk 
+ will be about what can  organizations
+, and even what can you do. 
+ So today, whether you know  it or not,
+ AI is making some 
+ very impactful decisions 
+ about you 
+ that could potentially  change the course of your 
+life.  Whether you get into the 
+school that you apply for,  whether you get the job,
+ almost every single domain,  AI is being used to make 
+major decisions. 
+ And again, the intent of  organizations may indeed be 
+honourable but some of the  big concerns that I have
+ that keep me up at night are  that either A \'96
+ individuals they have no idea 
+ that NAI is making a decision 
+ that could directly impact  them.
+ Or B \'96 
+ if they do know, 
+ somehow they assume 
+ that because it is not a  fallible human
+, 
+ that the decision that is  being made about the AI
+ is going to be morally or  ethically (unknown term)
+ and they just don't need to  worry about it.
+ And that is what really,  really bugs me.
+ I think it is because it is  a lack of understanding and a 
+lack of knowledge.  Because again, it is humans, 
+fallible humans, who  determine which data sets 
+they are using in order to  train that model.
+ And that bias gets calcified. 
+ I am going to give you some  examples from the United 
+States.  So here in the US,
+ African-Americans have been  routinely prescribed viewer 
+pain meds than white Americans 
+ for a long time. 
+ The silver lining is that  African-Americans for the 
+most part have been able to  avoid the opioid epidemic
+ but if you think about it, 
+ if this is the kind of data 
+ that is being used to help 
+ inform NAI model that is  then going to augment
+ what decisions a physician  makes,
+ that same bias gets  calcified systemically.
+ Again, precision Medicaid 
+ -- medicine 
+ is really hot right now. 
+ There are all types of  conferences and investments 
+being put into medicine which  does exactly this kind of 
+work. 
+ Meaning I am going to use AI  to learn as much as I can 
+about an individual, so that  I can prescribe
+ a very custom drug regimen,  or a custom regime for you.
+ A second example. 
+ And again, this is from an  organization that had the 
+very best intentions.  So Amazon procured AI
+ that was meant to help them 
+ render their workforce 
+ truly more diverse and  inclusive
+. 
+ That's why they procured the  AI.
+ The way that they trained at  the AI
+ was they trained it with 
+ historical data 
+ of their star performers. 
+ So those personnel at Amazon 
+ that just routinely 
+ hit the mark, or above the  mark.
+ They took their backgrounds,  their CVs, their portfolios,
+ and used that criteria to  train the model.
+ And they said don't worry, 
+ they are stripping race out  of the data
+ and gender out of the data. 
+ Because they figured that  this way,
+ they don't have to worry  about their model
+ being biased. 
+ But what ended up happening 
+ again, 
+ when they trained the model 
+ with historical data 
+ of their star performers, 
+ historically 
+ their star performers 
+ were white 
+ and male 
+ and from high socioeconomic  backgrounds
+. 
+ Meaning they graduated from  Ivy League schools, typically.
+ So even though race and  gender were stripped out of 
+the data to train the model,  if in your resume
+ you happen to put that you  are a Girl Scout
+ troop leader, 
+ because the star performers 
+ historically had not had  that in their CV
+ or portfolio, 
+ the model ended up 
+ scoring 
+ that person lower 
+. 
+ Are you following me? 
+ So even though gender and  race
+ were stripped out of the  model,
+ it doesn't matter. 
+ They hidden bias is baked  into the rest of the data
+ and that is what they  learned and what was 
+demonstrated.  They ended up taking that
+ off the menu. 
+ There is another exhibit  that you have likely heard 
+about.  There was an application that 
+had been powered by AI that  was being used by judges
+ within the court system that  were determining
+ what the level of 
+ recidivism rate was. 
+ And of course similarly, 
+ this model was trained 
+ with very biased 
+ historical data sets. 
+ (unknown term) ended up  doing it expose
+ saying that you can't use  this AI
+ in the way that it has been  baked with this data
+ because it couldn't possibly  be fair.
+ Our courts have not been fair 
+ to different races in  particular
+ since the beginning! 
+ So how is it that you can  use historical data
+ to help inform this model? 
+ And again, 
+ that too was yanked from the  shelves.
+ Here's another example of  something
+ that may be more surprising. 
+ So the city of Boston 
+ created an app for the  mobile phone
+ where if you had this app on  your phone,
+ and if you drove over a  pothole in the city of Boston,
+ having this app installed on  your phone
+ would send the geolocation  data of the pothole
+ back to the city centre 
+ so that they could send the  repair crew to fix it.
+ So you might ask yourself \'96 
+ there is no gender here,  there is no race data,
+ what are the issues here? 
+ In this case, 
+ the inequity is around 
+ who was likely to have a  smart phone
+ that had that app on their, 
+ and of course, it was the  affluent.
+ So guess whose potholes in  whose neighbourhoods got fix 
+first?  I guess who's didn't?
+ Again, 
+ this is another example where 
+ if the creators 
+ or the designers of such an  app
+ had had a framework, 
+ I design thinking framework  in particular,
+ to think about secondary 
+ and tertiary effects 
+. 
+ In particular, whether  unintended consequences of 
+this kind of an app 
+ that they could have then  designed for or protected 
+against, it could have gone a  long way.
+ So I will be talking about  that more coming soon.
+ What I want you to remember 
+ is AI can be used to  manipulate
+ how we see the world. 
+ I really want us to stick  with you.
+ That yes, it is making  decisions to directly affect 
+your life.  Yes, it can be used to solve 
+major problems and is. 
+ But also it can be used to  manipulate how we see the 
+world and an excellent  example of this is the 
+YouTube algorithms and social  media algorithms, in 
+particular.  When thinking about
+ how to categorize 
+ different kinds of 
+ individual societal  harms, 
+ the future privacy forum 
+ has done some excellent work  in this regard
+ and you can kind of see 
+ how they have categorized it. 
+ From illegal to unfair, 
+ loss of opportunity, 
+ economic loss, 
+ loss of liberty, etc. 
+ So it is more than just 
+ that you didn't get the job  that you applied for,
+ or the school that you  wanted to get into,
+ this goes across the  spectrum.
+ So we have to be 
+ really hyper aware of this. 
+ As a collective society  moving forward.
+ And when thinking about bias, 
+ bias is inherent in all of  our data.
+ There is over 100 different  forms of cognitive bias
+ and it is interesting, 
+ I love this illustration 
+ because it demonstrates 
+ how our biases 
+ even came to be. 
+ For many things, 
+ often for good reason 
+ like we need to ask fast 
+ so what should we remember! 
+ Too much information, not  enough meeting! This is where 
+all of the different types of  bias have really proliferated 
+in human society.  The key is, how do we be 
+hyperaware of this and how do  we ensure that we are not 
+causing individual or  collective harm via these 
+biases, especially  systemically.
+ So now thinking about 
+ what does it take to trust  the decision being made
+ by a machine, being made by  AI?
+ Some questions to ask. 
+ Is it fair? 
+ Is it fair towards me,  towards my gender,
+ towards my race, 
+ towards my age, 
+ because I am narrow diverse, 
+ is it fair towards me? 
+ Is it X plane about? 
+ Will you be able to  determine what data sets were 
+actually used, doesn't have  data lineage in Providence
+ to explain how it was trained 
+ and why it made the decision  that I did.
+ Is it possible 
+ that someone may have  trained it
+ in a certain way 
+ to trick it into making one  decision over another?
+ Robustness, did anyone  tamper with it
+ and is it accountable? 
+ What level of transparency  might it have?
+ So given that, 
+ given those four things that  one needs to ask oneself,
+ we have come up with five  pillars of trust.
+ When thinking about what can  organizations do
+ in order to mitigate those  kinds of risks
+ come across what I just  shared with you.,
+ you might be time to do thank 
+ that this is a technological  problem.
+ It's not, 
+ it is a socio-technological  problem
+ and because it is a  socio-technological problem,
+ it can't be solved 
+ by tooling NAIA engineering  alone.
+ There has to be an emphasis 
+ that is being placed on 
+ culture, 
+ and people, 
+ how people are taught. 
+ As well as governance. 
+ We have been helping clients  with this holistic approach,
+ to teach them how they can  better mitigate
+ these kinds of risks.  And I went to start with 
+culture because this may very  well be the most important 
+ One of the questions to ask  yourself is,
+ let's say you are in an  organization
+ and you want to glow 
+ -- grow the organization in  such a way where they care,
+ every bit as much about  being a responsible steward
+ of artificial intelligence  as I am.
+ And I don't want my peers 
+ to think about this 
+ like it is some sort of 
+ extraneous hurdle 
+ that they have to overcome. 
+ I want them to tackle this 
+ with fervour and gusto 
+ and wear it as a badge of  honour, if you will.
+ So here are some things that  we are noticing
+ within IBM as we are trying  to do this
+ that I wanted to share with  you.
+ One is connecting ground  swells because there are so 
+many different people from  different walks of life in 
+different parts of the  business that are every bit 
+as passionate about this as I  am. But because of where they 
+are sitting in their  expertise, they are forming a 
+level of subject matter  expertise in a groundswell, 
+around things like, 
+ here is what we found our  best practices in terms of 
+ Or design thinking around  responsible AI.
+ And you start to connect  these ground swells together,
+ so they are not desperate  teams
+ but they are coming together  in a space.
+ Because this is still very  much
+ a very new space 
+ where we are all sharing  experience,
+ we are all sharing  information with each other.
+ And then as you are doing  this flatten hierarchy
+ and the shared space 
+ where you are connecting the  ground swells,
+ start to curate some of the  training.
+ around some of the things  I'm going to show you.
+ Around design thinking,  forensic tooling,
+ covenants, etc. 
+ Start to teach the kinds of  basic things
+ that I'm going to be  presenting to you
+ by trying to do it to every  civil person within the 
+organization because in truth, 
+ what I am showing you today 
+ is not just for people who  self categorize as coders.
+ This is for everybody. 
+ It is for my neighbour down  the street
+ who is gardening in her  backyard right now,
+ she needs to understand  because again,
+ decisions are being made  that directly affect her
+ and she needs to understand  enough
+ to demand transparency and a  slain ability.
+ A force united 
+ in a force protected, 
+ we all have each other's  backs.
+ As we are learning things, 
+ we are all sharing this  information with each other
+ and really having each  other's back.
+ And this is probably the  most important one,
+ working across uncommon  stakeholders.
+ There are people that we 
+ need to bring to the table 
+ who have never sat at our  table before.
+ Meaning that we need 
+, as we are working with our  data scientists
+ to determine like how do we  protect against unintended 
+harm, 
+ we need to drag our chief  diversity and inclusion 
+officer, our chief legal  officer, to the table.
+ We need to collectively be  speaking to each other across 
+the silos so that the data  scientists
+ curating these models 
+ are not in their white ivory  tower, untouchable.
+ Uncommon stake holders need  to come together.
+ I call this the iceberg  chart.
+ The conversations that are  happening
+ in various organizations 
+ about this 
+ is all what is above the  line.
+ We are concerned about  litigation,
+ that article, what if they  found that out about us
+ and someone determined that  our
+ AI model that was being used  for recruiting
+ was also unfair?  We are worried about social 
+bias 
+ in our tabular and  non-tabular data, we are 
+concerned about litigation. 
+ What they are not connecting  that concern to
+ is everything that is below  the waterline.
+ There is a direct correlation 
+ between the lack of diversity 
+ within an organization 
+ and everything that I am  describing to you,
+ with respect to responsible  AI.
+ The risks associated 
+ with having unfair AI, 
+ AI that is not explainable  and not transparent.
+ We have problems attracting  and retaining
+ women and minorities to your  ranks,
+ you don't have a history of  resource groups,
+ women are not being paid the  same as men,
+?  Likely,
+ you are going to have the  same challenges in your AI 
+models.  That they won't be 
+represented, that they won't  be fair.
+ So that is why we hammer  home culture
+ really, really, really hard. 
+ Because again, this is a  socio-technological challenge.
+ And studies and studies and  studies
+ have shown 
+ that the wisdom of crowds 
+ is a mathematically proven 
+. 
+ The more diversity, the more  inclusivity,
+ that you have on these teams, 
+ the more likely you are  going to get your model right.
+ And that is what is key. 
+ Ensuring that you have that  level of diversity.
+ Another note about culture \'96 
+ this is an exercise, 
+ that is called pack ethics  by design.
+ I wanted to show you this  because it is really powerful.
+ Imagine well before 
+ any bit of code is written 
+ that you are getting your  stakeholders around the table
+ with the idea for your  application,
+ for your AI model, 
+ and you are walking through  the layers of (unknown term).
+ Here is the primary effect  for this hotel app that can 
+be used 
+ as a Virtual Assistant  within the hotel room,
+ here is the primary  intention of it.
+ It is going to offer helpful  recommendations to gas, etc.
+ But here is the secondary  affects,
+ meaning that if these are  intended and known
+ but potentially secondary. 
+ You can help corporate keep  track of trends,
+ capture more of the  travelling market, etc.
+ The tertiary affects are  unintended
+ and possibly 
+ known. 
+ This is where you start to  brainstorm as a collective
+ to think through, 
+ who have I not considered  here?
+ What are potential outcomes 
+ that may cause 
+ either individual or  societal harm?
+ And it is this entire  framework,
+ it lasts four hours long, 
+ I am actually to be trying  this out
+ and doing a mini taste 
+ where I do this with groups  in a one hour stand
+ just to give them a taste.  But this is a four hour stand
+ where again, you bring in  the cheap diversity
+ and inclusion officer 
+ or the head of the program  and product,
+ but collectively, you are  fleshing out
+ who hasn't been considered  here,?
+ What are potential  unintended outcomes
+ and how can you design to  mitigate
+ against that kind of harm? 
+ So that kind of design  thinking
+ is gold. 
+ How come we are not teaching  this
+ in higher education  institutions,
+ even in high school and  middle school,
+ if not elementary? 
+ Why are we teaching this? 
+ This is also a resource 
+ that is freely available to  you if you Google it, every 
+day ethics for AI.  This is a playbook
+ that walks design and  engineering teams through
+ creating a hotel rooms 
+ Virtual Assistant. 
+ It seems innocuous, 
+ it is an Alexa in your hotel  room where you can ask 
+questions like what do you  need to do around here to get 
+a room upgrade, right.  But it walks you through the 
+thinking that needs to happen  to make sure you are not 
+proliferating any kind of  potential unintended harm.
+ So this too is really a  useful exercise.
+ So I talked about culture, 
+ the next level is tooling. 
+, 
+ we have donated 
+ tools, I call them forensic  tools,
+ that can help organizations 
+ determine the level of bias 
+ and explain ability,  robustness,
+ within their data sets 
+ and actually call for  mitigation approaches.
+ So for example, 
+ with fairness, 
+ this is a tool that we  donated to the Linux 
+foundation called AI fairness  360.
+ In essence, 
+ you are configuring the tool, 
+ uploading a data set, 
+ and it is giving you an  output
+ to tell you what is the  statistical
+ parity difference, 
+ the protected attribute is  raised,
+ you are going across the  data set to say what level of 
+bias might there be and what  do you need to do
+ to this data set in order to  ensure it is warfare?
+ -- More fair? 
+ Similarly with explain  ability,
+ what are the kinds of things 
+ that you need to do to a  data set
+ in order to prove 
+ data lineage and providence 
+ for different stakeholders? 
+ In this case, 
+ if you are a financial  institution
+ that is using AI model to  determine the percentage 
+interest rate on 70s loan,  you would want to
+ explain how the model got to  that result.
+ to a data scientist, to a  loan officer
+ and to the bank customer. 
+ And be able to explain this  role
+ of information that is  relevant to them.
+ With respect to governance, 
+ again, 
+ the way that I am describing  governance
+ is 
+ what are you going to  promise your organization?
+ Not only to the market, 
+ with respect to your AI model 
+ being fair and robust, 
+ but what are you going to  promise to your own employees?
+ Does it meet standards? 
+ Does it meet international  standards
+ because there are current  standards
+ being put in place. 
+ You can see via the European  Union, GDP are as an example.
+ But there is more regulation  coming to this space.
+ So the idea of governance  and having your models be 
+accountable is absolutely  critical.
+ These fact sheets, 
+ which are also publicly  available,
+ gives an outline 
+ or a framework 
+ for different organizations  to follow.
+ Other things to consider  with respect to governance 
+includes - 
+ do you have 
+ AI ethics board? 
+ Do you have a governing body? 
+ And then, who is on the  board?
+ Are there women? 
+ Are there minorities? 
+ Is there a rotating  leadership model?
+ Do you have the ability 
+ to provide whistleblower  protections
+ if someone were to go and say 
+ that they have a concern  over a model over here,
+ and also worried about their  job being at stake
+ because they are bringing a  concern to the ethics board,
+ how are you going to form a  governance
+ such that people feel engaged 
+, 
+ they feel nurtured, they  feel protected,
+ and really want to do the  right thing.
+ The world economic forum  came out with a toolkit for 
+organizations to help them  structure
+ what 
+ AI ethics board to look like. 
+ Where I think this is all  moving to,
+ with respect to culture and  forensic tooling and 
+governance, 
+ is this idea of the good  housekeeping seal of approval.
+ Meaning 
+ that I don't think my  neighbour who was guarding 
+over there in her yard is  going to look to a fact sheet
+ and see what is the parity  standard for law, blah, blah 
+etc.  Is this bank that I'm going 
+to actually being fair  towards me by looking at 
+their factory? 
+ I think there needs to be  international standards with 
+that kind of good  housekeeping seal of approval 
+on it and that is what we are  moving to. I firmly believe 
+this.  And in fact, you can see ESG's
+ the 
+ economy, 
+ the environment and  government,
+ also be Corporation, 
+ I don't know you're familiar  with this but
+ a grouping of Corporations 
+ that have been audited and  assessed
+ for being both socially as  well as environmentally 
+responsible. 
+ If you are in the mall and  you walk by enough (unknown 
+term), you will see a sign  that says B Corporation.
+ I fully envision the day 
+ when you can only get a B 
+ Corporation stamp 
+ or some other such stamp, 
+ if you're 
+ AI model has passed 
+ and been 
+ audited to be socially  responsible.
+ We created this cool tool, 
+ I highly recommend checking  it out,
+ it only takes minutes to  complete.
+ But in essence, 
+ it assesses the maturity  level
+ of organizations with  respect to being
+ a responsible steward of AI. 
+ Because often times, 
+ we will come across clients  who will say that of course 
+they are responsible and  ethical because they take a 
+lot of care and time in  curating their data set.
+ And then you start to ask a  few questions, like do you 
+have an AI ethics board, what  percentage of women and 
+minorities make up your group  of data scientists?
+ You just ask certain  questions
+ and then they realize that 
+ they thought they were much  further along
+ in their journey 
+ than they actually are. 
+ And that is why reinforcing  this
+ is a social technological  problem
+ that really needs a holistic  approach
+ is absolutely key. 
+ So you may be asking  yourself,
+ I am a student at Dartmouth. 
+ I am not in a position of  power
+ to make any massive change  from where I am sitting
+, you have convinced me 
+ (Name) that I should care  about this,
+ but what can I do? 
+ There is something you can  do.
+ The first thing you can do 
+ is demand trustworthy AI. 
+ Now that you know about  these things,
+ you know to demand 
+ transparency and explain  ability.
+ You know this 
+ and then teach others. 
+ Again, 
+ it kills me 
+ that there are so few classes 
+ like the one you're taking  right now
+, do you realize that? 
+ There are so few students  today
+ who are taking the kind of  class
+ and getting the kind of  education you are,
+ with respect to data 
+, AI and ethics. 
+ I think we are doing a  massive disservice to society
+ by marketing this 
+ in such a way 
+ Affecting our public policy, 
+ why are we not teaching this  to
+ high school students and  middle school students?
+ To med school students. 
+ In all truth, 
+ irrespective of what you  want to be when you grow up
+ or what career you want to  pursue,
+ having the fundamental  understanding
+ of what artificial  understanding
+ -- intelligence can do 
+ in the kinds of things I've  described to you with respect 
+to the key ration of data so  that they can truly represent
+ all different classes of  people.
+ This is vitally important,  no matter where you go.
+ If you want to be the next  fashion designer
+ for your generation, 
+ you need to understand the  fundamentals of AII
+ because it is going to  directly affect your industry.
+ So this is something you can  champion for.
+ You can go back to where you  graduated from,
+ your high school, and give a  talk about this.
+ Or call of your local  representative
+ and tell them that we need  to have curriculum
+ that includes this kind of  knowledge.
+ I will give you a fun way to  consider presenting this
+ to younger students. 
+ I am on a bunch of advisory  boards
+ and one of them is for a  children's
+ science museum. 
+ I was invited to present at  a kids coding event
+ so again, I had this in my  mind
+ that I want to introduce us  to young kids.
+ So I cocreated 
+ a Harry Potter sorting hat  with a local high school.
+ A group of ice will students  in one of their makers space 
+labs.  And just like from the book,
+ if you said something about  yourself,
+ the microphone would pick up  what you are saying
+, it would have a natural  language processor, it would 
+go and check the data care  ration
+ to determine which Hogwarts  has your end.
+ So if you said you are  really, really brave
+ in the sound and the voice  from the movie,
+ the hat would move and say  Gryffindor.
+! 
+ Totally cool. 
+ I knew I was going to get up  on stage and I knew that my 
+kids were going to be there  so I thought that this is it! 
+I am going to read the hat  such that if I guessed what 
+any of my kids would say, I  rigged to the hat so it would 
+immediately put them into  slithering. So I got up on 
+stage, my 15-year-old  daughter gets up and puts the 
+hat on and says something  unique about her cells, and 
+then the hat says (unknown  term)! She crosses her arms 
+and glares at me and she  knows that I rigged the hat. 
+I told this to her "never  trust NAI"!
+ What data did you use, 
+ to determine I was in  (unknown term),
+ I have been corrected a hot 
+ I have been corrected 100  times do not use (unknown 
+term) as a bad example.  (Laughs) But pop-culture is a 
+beautiful way to be able to  teach some of these concepts
+ to people, just a beautiful  way.
+ I don't know how many of you  are fans of black mirror on 
+Netflix, it used to be a BBC  show.
+ I am a big fan, there are  some truly terrifying 
+episodes in there.  I actually do another talk 
+about black mirror, but  pop-culture is a great way of 
+teaching some of these kinds  of concepts.
+ Some other things that IBM  is doing,
+ we have partnered with 
+ (unknown term) to create a  whole curriculum
+ for K-12 teachers stop 
+ how to teach this, 
+ what are the fundamental  principles,
+ even somethings like 
+ recipes to follow, 
+. 
+ We also have curated a set  of curriculum
+ within open P tech 
+ which is another program 
+ that we are doing where, 
+ P tech is like six years of  high school
+ except by the end you get an  Associates degree
+ and we have opened up that  curriculum.
+ But again, I want you to  think about
+ what needs to happen next in  education?
+ Because as I said, 
+ this is for everybody to  know.
+ And also know that 
+ we cannot turn back the  clock.
+ We can't say that AI is too  scary and that's it.
+ Because AI, 
+ is a very, very powerful tool 
+ that is being used to do a  lot of good
+ and I know I haven't talked  about much of the good here
+, I only have an hour, but it  does a lot of good.
+ In fact, some of the biggest  aspirations that we have as 
+humans, - 
+ the kinds of problems we  want to tackle with climate 
+change, we want to be able to  travel to new frontiers,
+ potentially other planets  and expand our space program, 
+- we can't solve these kinds  of problems
+ without the use of this kind  of technology.
+ What we need to do though, 
+ is host a much smarter  conversation
+ about the use of this  technology.
+ We need to educate more and  more people,
+ not just the privileged few, 
+ those who classify as coders  and data scientists.
+ This needs to be public  knowledge
+ and there needs to be  governance around this,
+ as well as a culture. 
+ within our organizations 
+ that really embrace  diversity and inclusion
+ in some of the thinking  around us.
+ OK, 
+ I am going to breathe. 
+ (Laughs) 
+ And see if there are any  questions that you might have.
+ 
+ I just have a question, 
+ is there any way to get 
+ sort of like the original  article
+ on the Boston example? 
+ I am asking because I have  lived in Boston
+ and it sounded like a cool  example to use.
+ If you could steer me in the  direction to find out.
+ Yes, I will send a link, 
+ it is through the Harvard  business review.
+ If you Google that 
+ then you should be able to  find it.
+ If not, 
+ I will send it to your  teacher too.
+ But also know 
+ for any of you in this class, 
+ please reach out to me 
+ on LinkedIn 
+ because I am serious about  what is at the top of the 
+screen.  Want to join forces? Reach 
+out to me. 
+ I find that in order to  effect the kind of positive 
+change that I am proposing  here
+ no one can do this alone. 
+ We really do need to join  forces, no matter where you 
+end up.  If there is anything that I 
+can do to help you on your  journey,
+ if I have inspired you  enough to want to take this 
+on, don't feel like you have  to do this alone.
+ The key is to form networks  of people who are like-minded 
+in order to share what has  worked and what has not 
+worked.  So if there is anything I can 
+do for you moving forward,  please don't hesitate to 
+ That was super 
+interesting, thank you.  Any examples that you gave 
+earlier in the talk about how  bias can give (unknown term) 
+data with Amazon or pain  medications,
+ what are some solutions to  fix those data sets
+ because I feel like 
+ if a person was to go in 
+ and kind of figure out how  to make them more fair,
+ there could be other biases  that are introduced in.
+ So I was just wondering how  you would deal with building 
+
+ Culture, forensics tooling,  and governance.
+ So the design thinking  exercise that I showed you,
+ starting there and thinking  OK,
+ what are potential secondary  and tertiary effects, 
+unintended effects and water  potential outcomes
+ that could drive individual  or societal harm?
+ First having an awareness of  that
+ and then designing to  mitigate the risks
+ associated with that. 
+ Bring uncommon stakeholders  to the table, that is the 
+culture piece.  The feedback loops like 
+opening it up, diversity and  inclusive
+ groups of data scientist, 
+ bringing the 
+ head of legal, 
+ first you have to get the  people who care
+ around you. 
+ Then you can start to do  things like
+ the use of the tooling 
+ to mine for things like 
+ bias within the data sets to  flag,
+ to help give recommendations  on what you need to do with 
+the data to make it more  fair. Even the approach to 
+make it more fair and then  start to publish the 
+governance, so you are not  only assessing the data at 
+that point in time but as you  are training the data,
+ that it continually gets  assessed and monitored.
+ That you are keeping track  of what is happening with 
+that data over time. 
+ That's why I'm saying, it is  the holistic, holistic, 
+holistic, it is not a  quickfix answer. It's got to 
+be a holistic approach that  takes a lot of different
+ types of stakeholders at the  table.
+ 
+ Tracy? 
+ 
+ Thank you so much for the  talk, that was awesome.
+ I was wondering, 
+ do you have any concerns  about
+ as we increase regulation 
+ on development of AI, 
+ there will be groups of  people who
+ maybe want to use AI for  more malicious reasons
+ and will be following those  same regulations,.
+ It could lead to people who  want to use AI for good not 
+
+ I think that's a fair  question.
+ I think as our legislators 
+ become more aware 
+ of the technology, 
+ I have more hope that  legislation will be put in 
+place to protect people. 
+ I will tell you a quick  story about
+ legislator awareness because 
+ perhaps you heard, 
+ the testimony when Mark  Zuckerberg came to Congress.
+ And you listen to some of  the questions that the 
+legislators were asking him.  Which to many,
+ really rendered 
+ it transparent how little  they understood
+ about the technology and  about social media in general.
+ There used to be an office  of technology
+ assessment 
+ that was completely  nonpartisan.
+ A group of technologists 
+ who in essence 
+ were doing a civic tour of  duty
+ for Congress, 
+ making recommendations about  investments in technology.
+ This was a thing. 
+ What happened 
+ was that when Ronald Reagan  was president,
+ and there was this big push 
+ to invest in the Star Wars  program, the missile defence 
+program in outer space, the  technologists
+ in the OTA 
+ told Congress 
+ that this is a terrible  investment.
+ Do not do this. 
+ And some of the more  powerful groups in Congress 
+at that time, the majority,  said we don't like that answer
+ and they defunded them.  They removed their funding.
+ So I happen to love the idea 
+ of technologists 
+ doing a civic tour of duty 
+, not just on a national basis 
+ to help inform 
+ legislators in Congress, 
+ but imagine also at a state  level.
+ Imagine even at a county  level,
+ goodness knows. 
+ With the COVID pandemic, 
+ how much of our counties 
+ have struggled with  technology?
+ Especially for things like 
+ how do we get all of these  kids
+ in historically  disadvantaged communities
+ access to the internet 
+ so that they can do remote  schooling,
+/?? 
+ Imagine if we had had these  volunteer armies of 
+technologists doing the civic  tours of duty
+ at a very local, regional,  and national level.
+ We need to bring that back  to life
+ and I know that there is a  call to action
+ to revitalize that kind of  program
+ but that is the kind of thing 
+ that I really hope to see. 
+ It is something that we  could all be championing for,
+ even at a local basis for. 
+ 
+ Just some comments on the  last few questions.
+ We shouldn't be surprised, I  think the stat is that 
+Congress has 6% of members  who have a stem degree,.
+ I actually got told us by an  interviewer to a school,
+ he told me that we are  basically failing in terms of 
+
+ How horrible is that? 
+ What are we doing!  (Laughs)
+ 
+ I mean, I am a little bit  concerned with AI ethics
+ because it almost seems like  this is a new thing.
+ But no, it has been an issue  for a very long time.
+ If you have an iPhone, you  might or you might not know
+ is that Apple forbids its  producers
+ from selling parts.  So when you want to prepare 
+your iPhone, it is very  difficult.
+ The idea is that Apple wants  you to come back to them to 
+repair it so they can tell  you that it will be $1000 or 
+you buy a new one.  You do work in the game 
+industry so you must know  that (unknown term) these 
+days are usually working with  micro-transaction and 
+(unknown term).  It is not because companies 
+have determined that that is  the best way to reach 
+customers but rather to reach  customers pockets. They want 
+to make as much money as  possible. So I would like a 
+nice ethics board to discuss  monetization in games.
+ I would like a nice ethics  board to describe repair 
+ability at Apple's  headquarters. And you know, 
+it would be nice if people  actually took these companies 
+to account.  But if we can't even do it on 
+repairing iPhones, what  chance do we have with AI? 
+ I would say that we  are back to the education 
+issue.  If people are ill-informed. --
+ I don't think it is because  the students can't learn this,
+ I think it is just not being  marketed to them. It is not 
+even being presented in such  a way that they feel they 
+should care, this is  information that is for them. 
+I think we need to start  there. Like I said, even the 
+design thinking exercises,  there is no reason we can't 
+be teaching that in middle  school or high school.
+ Just getting kids in the  habit of thinking what are 
+tertiary effects, what are  unintended comments, so how 
+do we get them to think in  this way?
+ I see such an opportunity  for us to grow and that is 
+why I do talks like this one,  to inspire you! (Laughs)
+ Because there is so much to  be done.
+ 
+ We were able to do it for  things like privacy
+ and enlarging with security  will stop
+ when I first moved to  Dartmouth 12 years ago,
+ I gave a talk at the middle  school to parents
+ who are concerned about  technology in their kids lives
+ and they had no idea why it  was a concern and so on.
+ Now, my kids are in high  school
+ and they say no, nobody does  that kind of
+- 
+ inviting privacy invasion 
+ kinds of activities. 
+ Their colleagues are all a  little more aware of.
+ Any more questions? 
+ I think we'll need to take a  break now,
+ that was just fantastic, as  always!
+ I am always amazed at how  brave you are
+ and committed you are 
+ to saying 
+ reach out to me and let's  join forces.
+ I wish more of our guest  speakers and more 
+technologists would do that.  So again,
+ folks please note the email  there
+ and it is (Reads) 
+ On LinkedIn. 
+ Is that Lincoln? 
+ 
+ It's Twitter, 
+ I am the only (Name) 
+ on LinkedIn. 
+ (Laughs) 
+ Is a long name! 
+ 
+ Thanks again folks were  attending today,
+ thank you (Name). 
+ I have already sent you the 
+ predictive machines book 
+
+ Thank you so much, I really  appreciate this opportunity.
+ 
+ Just a couple of detail  notes \'96
+ the exam on Friday 
+ is take-home, open book, 
+ whatever you want. 
+ You will have 24 hours to do  it
+ and 75 minutes 
+, unless you have special  accommodations.
+ Finally, 
+ Monday we have a guest  speaker from IBM Haifa
+ talking about the debater  system
+ using Watson 
+ and a full-scale debate. 
+ Please, please, please 
+ read the article from nature  that was published earlier 
+this year in preparation for  that talk.
+ He is assuming that you will  have read it
+ and if you don't read it, 
+ then you are going to be  lost after about five minutes.
+ So please, out of respect  for our visitor,
+ give that to read.  With that,
+ stay tuned for the 
+ quays coming out on Friday  morning
+. 
+ You don't have to take it  during class time
+ and there is, by the way, 
+ no class on Friday. 
+ You can take the time to  take the exam or study,
+ catch some rays.  With that,
+ if there aren't any  questions,
+? 
+ 
+ I am going to be working for  the Chinese government
+ so I think I have a very  different opinion on all of 
+ Every 
+culture has an opinion 
+ but I don't often agree with  Vladimir Putin
+, but I think he is right. 
+ The country and culture 
+ that advances the most NAI 
+ will be the next 
+ tech leader, for sure. 
+ As mentioned in the book, 
+ one of the advantages that  our Chinese colleagues have
+ is that they have more data. 
+ They have more people and  more data.
+ And data makes better AI. 
+ All part of the problem,  part of the challenge.

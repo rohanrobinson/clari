@@ -1,0 +1,1140 @@
+ Introduction by chat message.  Sherry is a very good buddy of mine
+ for many years at the NSA and  before that she was at the White 
+House in two or three other places.  All spiting the news that cyber 
+security is a big deal.  Currently she has
+ Senior advisor for 
+ (unknown term) at the US Department  of energy.
+ Why are we having her talk to us? 
+ Because as a I gets more and more  powerful,
+ it becomes a tool 
+ for good and for bad. 
+ And she is going to share with us  some comments
+ on adversarial machine learning 
+ and how the future 
+ they be different. 
+ With that, I will let her drive, 
+ assuming that sharing is on. 
+ 
+ While I am 
+ setting my slides up, 
+ hopefully that work... 
+ There we go! 
+ You know, 
+ I have seen this happen... 
+ There aren't any notes. 
+ It is all in my head. 
+ So we will just go. 
+ I seen this happen before, this is  why I usually let my staff drive.
+ Hey, great to see all of you  virtually
+ think you for coming today. 
+ As Dr Palmer alluded, 
+ we are going to talk about the  downsides
+ of AI. 
+ Obviously all technology can be  used for good or evil, so we will 
+talk about that today.  Just a little bit about my background
+ as Dr Palmer alluded to, I have had  quite a number of cyber security 
+roles within the US government. 
+ Within both civilian agencies and  the intelligence community.
+ I've had a fairly lengthy career 
+ of doing what used to be called  information assurance
+ and is now cyber security, 
+ and globally security networks 
+ both securing our federal  enterprise,
+ securing 
+ classified networks. 
+ Critical infrastructure and cyber  security both from the White House,
+ I have worked for the Dir of  National intelligence.
+ Most recently I worked for the NSA, 
+ working on public-private  partnership,
+ obviously cyber is a team sport 
+ and most of the critical  infrastructure
+ in the US 
+ owned and operated by the private  sector
+, the figure something 
+ -- everyone likes to use is 85% 
+ of all infrastructure, 
+ that includes infrastructure in the  energy sector
+ which has been honestly for the  past week,
+ we do not own all of those  pipelines because those are owned by 
+the private sector. 
+ Our ability to require minimum  cybersecurity standards
+ or other cyber actions like data  breach notification
+ are fairly immature and limited at  this point.
+ So we really have to partner with  the private sector
+ to make sure that the  infrastructure upon which we all 
+depend is secure.  So I have worked in that space quite 
+a bit over the last many years.  And now for the last year,
+ I've been working at the Department  of energy. It is a critical lifeline 
+sector and a lot 
+ of concern -- it is always great to  be in the headlines,
+ it is always exciting when your  issue is the thing of the day or the 
+week.  But it certainly is a lot going on 
+and more to come.  Cyber is also not a point in time 
+activity, it will be unfolding for a  long time as we really look at
+ how adversaries got into what they  are doing. The opportunities for
+ cyber adversaries to do things with  AI and machine learning
+ are also quite unlimited, as well.  We are going to talk a little bit 
+about that today, just to make sure  that you are thinking about the 
+downsides of thinking through really  important things of what we like to 
+call security by design.  When you design all of these AI 
+ how do you think about security 
+ as you are designing those? 
+ Because it is really important to  make that consideration
+ in what you do. 
+ First, also current events, 
+ I know the National intelligence  Council
+ just published their latest global  trends report in March.
+ And for the first time it  highlighted concerns regarding
+ artificial intelligence.  So this
+ publication is published by the  intelligence community every four 
+years and the purpose of this report 
+ is for the intelligence community  to take a look at
+ over the next several years of what  are the key
+ global trends, the key factors in  the world
+ that policymakers need to take into  consideration
+ as they consider national security  policy.
+ So things like climate change  impact on national security,
+ but also very much technology. 
+ It has been at the forefront of  this report for many iterations now.
+ And this year, for the 2040 report, 
+ it is the first year that had a  real highlight
+ on concerns related to AI.  As you see here
+ and we will talk a little bit more  about in some of the coming slides,
+ there is this coming breakpoint for  where AI will depart
+ from human ability to determine 
+ whether something is 
+ artificially generated 
+ or not. 
+ So that is a concern 
+ that policymakers in the national  security community
+ really need to think about 
+ as increasingly 
+ this technology is introduced in  the world.
+ Also for most of these, 
+ I have given you the links at the  bottom
+ for additional reading 
+ if this is of interest to you. 
+ So AI is very much a hot topic 
+ and continuing topic of interest. 
+ So what I'm going to talk about  today
+ is AI as it relates to 
+ cyber supply risk chain management. 
+ Supply chain risk management is a  particular area of focus for me
+ for some time and this is an area  where
+ we see a lot of emerging concerns  with AI.
+ And again, 
+ supply chain vulnerabilities 
+ are a huge, huge part of the news. 
+ Even just in the new administration, 
+ which is only far a five month old  now,
+ we have had several new executive  orders were impleaded to supply 
+chain risk management.  One that was just put it last week 
+which talks about requiring supply  chain risk management for software
+ that is being purchased by the  federal government.
+ Something called software bill of  materials
+ and the recognition that 
+ these digital assets 
+, both software and firmware 
+ and emerging we 
+ ly 
+'s data, 
+ the security of all of these  virtual assets is a bit
+ increasing national security  importance in critical focus for
+ the US government. 
+ So the policy 
+ report for increasing our ability  to secure these assets
+ continues even to this day. 
+ Also of course 
+ with the supply chain, 
+ we have seen the continuing march  of cyber incidents,
+ solar winds which everyone is  familiar with.
+ Even just since December, there  been half a dozen supply chain 
+related major compromises announced 
+ so this is a pretty important area  of focus
+ for everybody, 
+ but certainly for the federal  government.
+ And supply chain contains a lot of  risk
+ For technology, 
+ this is a globally sourced area 
+ with both the hardware 
+, software, firmware 
+ is all in a fragment to global  supply chain
+ and lots of different 
+ folks that are touching that supply  chain,
+ whether it is code being developed  in other places
+ or from open-source libraries, 
+ increasingly as we look at data as  an important element of that supply 
+chain, understanding where your data  is and who is touching it.
+ These are really emerging areas 
+ of security, of risk concern, 
+ that we are starting to focus on  more and more.
+ So again, 
+ if supply chain risk management and  information technology is your thing,
+ here is a report to read. 
+ There are other reports on that  page,
+ I happened to be a co-author on  this report that the DHS but it last 
+year.  But this is definitely an emerging 
+area of policy. 
+ When we talk about supply chain  risk to software,
+ sort of the traditional focus 
+ is looking at secure design  environments,
+ libraries of code 
+ that are being reused, 
+ who is doing the development and  testing and deployment,
+ these are sort of the traditional  things
+ or elements of risk 
+ that we tend to look at 
+ and try to understand and manage  the risk of.
+ All still very high points of  concern
+ but when you think about 
+ machine learning, 
+ you have some different areas of  concern.
+ You are introducing 
+ with AI machine learning, 
+ you are introducing concepts 
+ in the risk model of 
+ \'96 where is your model being  developed
+ and where are your data residing 
+ and who has access to your data? 
+ Who is testing and training the  model?
+ How is the classification in the  model
+, 
+ how do the mechanics of that  actually work?
+ So it is just layering on  additional places
+ within the software 
+ lifecycle development process, 
+ additional areas of risk. 
+ Because you have additional steps  in that process
+ that are again, introducing 
+ additional points of risk 
+ for AIM L. 
+ I will go through the different  points of risk.
+ The first one of course, is evasion. 
+ This is using 
+ or manipulating artificial decision  boundaries to force errors.
+ This particular sequence 
+ of images is from a classic study,  I have cited it at the bottom,
+ from a gentleman from Google 
+ who was able to artfully perturb 
+ his images 
+ used in his training set 
+ to create a false classification. 
+ So he was able to introduce 
+ tainted images 
+ to generate a misclassification, 
+. 
+ In this case, 
+ it was classifying a panda 
+ as something not a panda, 
+ a (unknown term). 
+ So it demonstrated that this could  be
+ deliberately and specifically done 
+ to throw off classification. 
+ This is no classic study 
+ but it is only six years old, 
+ it is considered a classic study  though
+ and how to conduct evasion. 
+ So feel free 
+ to read for more, as you're  interested.
+ Also 
+ the next point of risk 
+ in the AI related supply chain 
+ is model inversion. 
+ So I be easily used 
+ to interpret 
+ or to determine what the model is  to infer,
+ what the model is being used -- 
+ for what decisions boundaries are  as a means to evade them.
+ Understanding how the decision  boundaries
+ are being set up. 
+ AI 
+ has very well honed techniques 
+ that have been developed 
+, certainly 
+ demonstrated academically, 
+ and we have seen some of it being  used in the wild
+ to use AI to figure out what those  decision boundaries are.
+ as a very effective means of  evading them.
+ This is I think the highest point  of concern
+, from what I have seen happening in  government circles,
+ is data poisoning. 
+ Obviously, you need lots of data to  train your AI.
+ Assembling that data 
+ can be rather onerous 
+ and certainly resource intensive, 
+ and there have been a number of  academic demonstrations
+ that show that specific examples 
+ can be introduced into your data set 
+ to influence how the results come  out.
+ So how we collect the data that are  used for training,
+ obviously the more data the better, 
+ how that is collected and who holds  it.
+ Who has access to it, 
+ who can introduce information into  those data sets,
+ these are all very new areas 
+ of process. 
+ It is not well understood how the  data
+ moves, who collects it, who touches  a.
+ The point is \'96 
+ because it is not a highly  controlled process or environment at 
+this point because of the newness of  this,
+ we assess it is fairly easy to  introduce
+ that information 
+ into training data sets. 
+ It is easy to pollute information  into training
+ in a way that can mindfully 
+, specifically generate backdoors  into systems.
+ Again, it can be 
+ used to create 
+ that evasion, evading  classification,
+ changing a classifier result, 
+ or other kinds of 
+ hard to detect 
+ mistakes or errors 
+ into the output. 
+ So again, a classic example that  was done by some academics
+ on a system they called bad net. 
+ It basically introduced 
+ -- demonstrated that through the  introduction
+ of bad data in the training set, 
+ in this case 
+ it was a gentleman in Sweden who  had the hypothesis
+ that if you put a sticker on a stop  sign,
+ which is in the picture here but it  is hard to see,
+ that you could include the  perturbed image as part of the 
+training set. 
+ And eventually it would impact the  system's ability to recognize stop 
+signs as a classifier. 
+ So it demonstrated 
+ -- their exercise demonstrated that  early introduction
+ into the initial training data sets 
+ of a deliberately perturbed image 
+ carried through subsequent training  activities
+ within the AI. 
+ And even in conditions 
+ where they had final training 
+, fine-tuning with localized data  sets
+ which happens towards the end of  training, did not end up mitigating 
+those errors that were introduced  early on. So they persisted 
+ This is really important 
+ to show that it does not take a  significant amount
+ of poison to data to carry through 
+ different layers of training 
+ and create a persistent bad results. 
+ This is really a 
+n 
+ important finding because the  amount of data needed is large,
+ it is really hard to tell if your  data set has been poisoned.
+ Because of the volume of data  required,
+ you see a significant amount of  reuse,
+ learning transfer, shortcuts are  common
+ to speed up 
+ or make more efficient the process. 
+ Again, it is taking errors that  could be reduced in an early stage 
+and proliferating them.  In this particular study
+ that these gentlemen in Sweden  conducted,
+ there introduction of poisoned data 
+ was not perceptible 
+ from some of the statistical checks 
+ that you might use here. 
+ Their accuracy dropped 
+ only very, very little 
+. 
+ A way that you might detect that  something malicious has been 
+introduced wasn't showing up in some  of their statistical checks.
+ The concern here 
+ is that it is really hard 
+ through normal checking 
+ to determine that something bad has  happened.
+ Obviously in this particular example 
+ where you introduce a perturbed  stop sign
+ to generate a result 
+ that shows the stop sign 
+ classified as a speed limit sign, 
+ obviously in a world where we are  trying to see the increasing 
+introduction of autonomous vehicles 
+, 
+ this has obvious, concerning  real-world implications.
+ A lot of issues to consider in  thinking about
+ designing AI 
+ and in particular data sets. 
+ Machine learning of course 
+ requires a huge amount of data 
+. 
+ Moving large data sets is really  impractical
+ and it is not secure. 
+ Obviously the industry trend 
+ is towards doing as much computing  at the edge as possible
+. 
+ Also curating, normalizing, 
+ data sets 
+ to make them 
+ useful in machine learning requires  a significant amount of resources.
+ It is a fairly specialized function 
+ and these factors create the  business case
+ for commercializing 
+ these kinds of tasks 
+ and functions. 
+ It creates the commercial  opportunity for that specialization.
+ As we are seeing proliferation  these days
+ of machine learning as a service. 
+ and that comes in different forms. 
+ Obviously data as a service, 
+ again it is hard to assemble and  carry good data sets
+ so it is great to use that as a  commercial offering
+ for others. 
+ You can train your AI on someone  else's data.
+ You can have somebody train your AI  for you,
+ so that would be training and data  as a service.
+ And also you can find folks 
+ that will both build AI models,  train it,
+ and then sell the entire package 
+ as a service. 
+ In this example here from Amazon is  one
+, the marketing materials that say 
+ you can have all of the benefits of  AI
+ with our pre-trained 
+ AI services, 
+ you don't have to understand AI to  get the benefits
+ of machine learning NAI, 
+ that is a little bit disturbing. 
+ when you start to think about what  is under the hood.
+ And because there have been  significant academic demonstrations
+ on how to generate that result 
+ for all of the data contained  therein.
+ So this notion that you can just  put something
+ into the place in your network 
+ without understanding how it works 
+ is a little bit concerning. 
+ And not to pick on AWS, 
+ there are many commercial offerings  in this area.
+ Google has a cloud machine learning  service,
+ (unknown term) does batch training  for AI,
+ and there are an increasing number  of virtual machines configured
+ to support AI ML training 
+ that are available 
+ for use, increasingly cheap hourly  rates.
+ So the infrastructure is present to  commercialize
+ these kinds of activities as a  service
+ and as soon as you outsource 
+ these kinds of functions, 
+ you are in fact onboarding a lot of  risk
+ in your enterprise. 
+ Because you just do not know 
+ who is impacting these things. 
+ This creates a lot of issues to  consider from a security perspective.
+ Of course AI and ML 
+ are increasingly complex, 
+ hard to see what is going on 
+ under the hood. 
+ Fewer and fewer people 
+ really are trained in understanding 
+, 
+ even if you have access 
+ -- 
+ exquisite knowledge 
+ of where your AI is being trained, 
+ what data set is being trained on, 
+ there just aren't that many people  who understand
+ how this works and how it could go  wrong
+ to be able to even detect 
+ or determine 
+ that something is in fact going  wrong.
+ So that is a concern. 
+ As I said in the previous examples, 
+ researchers easily showed 
+ that the normal checks 
+ that they might put into a system 
+ do not necessarily reveal that  there is a problem.
+ That there is only a small impact  into perceived
+ And of course, 
+ and this is the concern that the  intelligence community
+ just highlighted in the global  trends report a couple of slides 
+back, which is that we are rapidly  reaping --
+ reaching the point of human  perception
+, where human perception can no  longer
+ understand that something is going  wrong.
+ We can no longer eyeball the output 
+ to determine that something  malicious has been introduced
+ into this highly complex system. 
+ So this raises a lot of security  issues for the intelligence community
+ and everybody else. 
+ We know it is axiomatic in a  security community
+ that users always, always train  security for convenience.
+ As I said, 
+ in this particular commercial  example
+ with machine learning, 
+ it is very common to reuse 
+ both libraries, data sets, 
+ transfer of learning, 
+ those are all points of convenience 
+ and efficiency 
+ and those will always 
+ rule the day in the absence 
+ of mindful attention to security  and privacy concerns.
+ And of course, 
+ the convenience of reuse 
+, of reusing some it's pre-chained  AI,
+ someone's pre-curated data set, 
+ that reduces your visibility of  what is actually going on in your 
+system and introduces risk. 
+ It is a risk that needs to be  managed.
+ When considering how data move 
+ internationally, 
+ and emerging technology in general 
+, a major factor that is always  going to be governance gaps.
+ Technology moves a whole lot faster 
+ than policy and regulations. 
+ That is not just in the US  government, it is globally, everyone 
+is struggling with this. 
+ Because data is so important for AI  ML,
+ the rules on who controls data 
+ and who can access it or touch it 
+ - 
+ if you are outsourcing your AI  training,
+ what are the data retention rules? 
+ There are no rules currently 
+ for how long a commercial provider 
+ of training services, 
+ if you provide a data set to a  commercial provider
+ to do fine-tuning training 
+ for AI, 
+ there are no common rules in  operation
+ for how long they retain that data. 
+ You are lucky if it is in your  contract.
+ We don't see a lot 
+ of contracts that contain specific  rules
+ for data handling, data access, 
+ data management 
+ in these kinds of situations. 
+ And there are a lot of financial  incentives
+ to retain data 
+ that if your company was in the  service of providing
+ AI as a service, a lot of financial 
+ incentives to retain the data that  is provided by customers.
+ So the commercial incentives are  there
+ to retain that data. 
+ And also the absence of government  means there are no penalties
+ for noncompliance, for leakage, 
+ how do you tell if your data 
+ has been deleted?  Again,
+ it is still not something that is  entering into a lot of contract 
+language as a matter of course. 
+ And there are no governmentwide  rules
+ for controlling access to this  information.
+ So this is an area of concern 
+ again, 
+ because it is so easy to poison  data sets
+ or to create 
+ and backdoor 
+. 
+ So the lack of governance is 
+ is a huge concern. 
+ A lot of the models that require  cashing your data
+, as are other privacy issues in  data that you're providing
+ to somebody to train your AI for  you?
+ Physical location 
+ of data is a huge discussion among 
+ governance,. 
+ Europe has GDP are, 
+, 
+ requiring sensitive information  about
+ EU citizens to be locally  maintained within the jurisdiction 
+of the EU so they can regulate and  control it.
+ But that creates a lot of challenges 
+ for the global computing  environment,
+ which really features a lot of  dynamic movement of data
+. 
+ Data flows to where storage is  cheapest,
+ or compute power has the lowest  provider cost,
+.  Static maintenance of data
+ is not necessarily 
+ where the industry is going. 
+ So the ability of individual  governments
+ to regulate or control access 
+ to data 
+ is somewhat limited at this point. 
+ Certainly still an evolving policy  area.
+ Again, 
+ who is handling or who has access  to your data?
+ Who might have the access to create 
+ the opportunity to poison data, 
+ to generate desired 
+ illusions results? 
+ That is a huge issue. 
+ Some countries have 
+ openly published laws that are  quite broad in this area,
+ like China and Russia,. 
+ The government has accessed  everything located in their territory
+ and can legally compel data centres 
+ and technology businesses to  provide access to servers and data.
+ So the ability to handle access 
+ or potentially do something  malicious to data sets
+ is significant and quite a number  of countries
+ that not only have laxity of laws 
+ but then laws that compel 
+ government access 
+ to everything and anything. 
+ So there is just a huge amount of  risk and concern
+ in this area because of the lack of  governance.
+ And this whole concern 
+ is really a lot of what is behind 
+ many 
+ policy actions on the part of the  US government.
+ Technologists perceive this risk 
+ and the fact that 
+ it is difficult to control with this 
+ because policies and laws 
+ do not keep pace with the speed of  technological change,
+ so this is definitely a live area. 
+ Lots of new policy in this area,. 
+ As I said, 
+ we are starting to see more and more 
+ policy statements 
+, even out of the new administration. 
+ Not related to the movement of data  specifically, certainly the focus on
+ software 
+ and understanding software, 
+ understanding firmware and what is  in
+ those elements that are globally  sourced
+ is a front and centre concern right  now.
+ Those of us who are interested in  this area
+ are pushing for that concern to be  expanded
+ to data sets, 
+ because it is such an emergency 
+ -- emerging commodity that is  fuelling all of our information 
+technology and will feel even more  of it in the future.
+ In our world of self driving cars,  there is a huge area of risk
+ that we need to begin to manage  more proactively.
+ So what to do about that? 
+ Well, security by design 
+ is the obvious answer 
+ that as all of these great  capabilities that are discovered,
+ just some amazing things that are  possible
+ with the application of AI and ML, 
+. 
+ Considering how to design those  things securely.
+ How do you introduce at a design  stage
+ the necessary checks 
+ that can determine if a data set  has been poisoned?
+ It is not impossible 
+ but it needs to be mindfully  designed into a system
+. 
+ at the concept stage. 
+ So how can we discover through  research
+ what those best practices are, 
+ how can we introduce them more  broadly
+ into the community to ensure 
+ that everyone that is creating 
+ these new and innovative things 
+ is thinking about security in doing  so.
+ I will put in a shameless plug for  some of the work we are doing at the 
+Department of energy.  This is particularly aimed at 
+engineers, we are working on  consequence driven cyber engineering.
+ Which really looks at 
+ getting to those who are building  systems
+ and having them think \'96 
+ how could you break your system?  And taking about how you could break 
+your system, then understanding  that, how can you design your system 
+more securely? 
+ So how can you again, make sure  that you're putting in those checks
+ at an early development stage. 
+ And then one of the things that  certainly came out of the 
+intelligence community and is  gaining increasing popularity is 
+something called red teaming. 
+ If you are the bad guy, how would  you attack us?
+ How would you use your knowledge of  the technical
+ system that you are building,  whether it is attacking a 
+vulnerability at the data set level,  at the training level,
+ at the model building level? 
+ These are all levels at which 
+ from an adversarial perspective 
+ you could impact the end result 
+ of your system. 
+ So if you think like the bad guy, 
+ how can a bad guy affect this? 
+ And then understanding that, 
+ inking through that as a problem, 
+ how can you change your design 
+ or what you are doing 
+ to prevent 
+ those kinds of bad things from  happening?
+ So it is a mindset, it is a  training approach.
+ Ultimately, 
+ that is what we are looking at 
+ as the strategic, long-term solution 
+ to really getting after these  issues.
+ Next we will talk about a specific  kind
+ of AI that we are concerned about,  generative adversarial networks.
+ This has been a huge area of  concern from the intelligence 
+community for the last many years.  The good news is
+ that we are not seeing as much use  of it as initially feared
+ but I think it is only a matter of  time
+ before adversarial use of GA ends  comes were popular.
+ GA ends Ns 
+ are where you take to AI's and  basically put them together.
+ It is a generator and a  discriminator,
+ that each entity is learning from  the other
+ as they try to attack one another. 
+ They are learning where there  attack fell short
+ and getting better in each  iteration.
+ So doing that at scale with AI 
+ obviously produces some 
+ really fine results. 
+ In this case that I will cite, 
+ that we are 
+ concerned about is increasingly 
+ realistically fake photos and  videos.
+ This really came onto the radar 
+ of the national security community 
+ back in 2018. 
+ I think a lot of folks saw the deep  fake video
+ of Pres Obama 
+ that was created as a comedic  gesture
+ but it created a lot of concern 
+. 
+ That if this can be generated 
+ using artificial intelligence, 
+ what other kinds of 
+ bad guy use cases are there out  there?
+ And you can easily think about how 
+ in the area of instant viral social  media,
+ even having a fake video 
+ if it looks 
+ even the least bit realistic, 
+ it is transmitted globally very  rapidly.
+ And it is very hard to walk back  from that,
+ to debunk anything that is put out  in the global space.
+ So how do we deal with this? 
+ And it has of course obvious  negative effects.
+ If you can create a very realistic  spoof of any world leader
+ or any business leader 
+ saying something untoward, you can  move markets
+, 
+ if you have a company CEO 
+ saying something bad and it is put  out on social media, that can easily 
+destroy stock value.  So there are a lot of obvious bad 
+implication's from fake videos. 
+ So the concern in the government  has been
+ \'96 how do we get after this? 
+ As I said, 
+ once it is out and viral, 
+ it is really hard 
+ to say no, no, no that is not real. 
+ The damage in many cases is already  done
+ so what can we do 
+ to deal with a problem like this? 
+ Can we work with manufacturers of  bit
+ video clip into 
+ create authentic stamps, 
+ can we work with media outlets to  make sure they are doing checks
+ of any kind of information 
+ that they are receiving, 
+ that maybe 
+ media outlets can create an  authenticity stamp
+ for some of their output, 
+ so you know that it came from CNN 
+ and it is not fake. 
+ So we are still exploring quite a  number of techniques
+ in dealing with this particular  problem.
+ Detection is still slower than we  would like,
+ even instantaneous detection 
+ is not going to mitigate viral  spread.
+ Because 
+ generative adversarial networks are  getting better and better,
+ detection is getting harder and  harder.
+ Certainly, we are getting past the  point of humans
+ being able to visually detect 
+ fakes. 
+ So we are looking at 
+ what we can do about this 
+. 
+ We have quite a number of research  projects
+ in the defence and intelligence  community looking at this issue.
+ Interestingly, 
+ we were exciting this to be a big  factor
+ in the 2020 election cycle, 
+ concerned about potential 
+ wrong viral videos. 
+ And there were a few, 
+ think there was an infamous one 
+ that showed Nancy Pelosi 
+ purportedly slurring her speech 
+ but it wasn't something really  using GAN
+s. 
+ So I didn't create quite the splash  in the 2020 election cycle
+ that the US government was  concerned about
+ but still a concern out there, 
+ especially since using GAN S 
+s 
+ ability for them 
+ individual human to determine 
+ when something is not quite right 
+ is pretty much 
+ were getting past that. 
+ Dartmouth has several projects on  this
+ to try and improve detection 
+ and see that we can get to near  real-time detection on that.
+ But that is only part of the problem 
+ so this is a challenge that I think  we will be spending
+ a fair amount of time on in the  future, just because of the ability 
+to impact in a negative way. 
+ Let me stop there 
+ and see if there are any questions 
+ on any or all of that 
+ and if not, I will talk a little  bit more about the department of 
+energy. 
+ 
+ Joseph, go for it. 
+ 
+ US companies 
+ want to make as much profit as  possible
+ and that also means purchasing the  cheapest thing.
+ So in order of importance, 
+ they will purchase compromised  trips from China
+ and then they will run their  software through solar winds,
+ and then they will hire 
+ the person to do a cyber security 
+ for maybe Twitter when they got  hacked because he is going to be out 
+
+ Or they will outsource it to cheap  labour in Eastern Europe that is 
+ Yes, a nice 
+Ukrainian team could take care of  it. So then the question is \'96
+ is there any way we can prevent  this or is this just going to be the 
+ I think the continuing 
+strategic priority is to highlight  this as a concern.
+ This is always going to be a source  of tension because the economics are 
+so compelling and of course, you  enumerated several of them.
+ For businesses especially but also  for the government. We do not have 
+infinite budgets here, we have folks  in Congress that are always wanting 
+to make us do more with less.  So all of us have economic pressures 
+to find the cheapest and most  efficient solution possible
+ and security is just a secondary  concern all the time.
+ So how do we really get after that  bind the mental problem? There are 
+no easy answers. 
+ In 2018, 
+ a very recent law was passed 
+ requiring that security be a coequal 
+ factor in considering US government  procurement.
+ It used to be just cost 
+ and time 
+ and product quality 
+ by creating security as a coequal  factor
+ was a recent move. 
+ But that doesn't really influence 
+ how business does work 
+ so there has been a lot of 
+ movement towards trying to create  standards,
+ minimum standards,. 
+ The Department of Defense has moved  out a lot in this area,
+ it is something called cyber  capabilities security model.
+ Try to create minimum standards for  everything that the DoD is buying.
+ When commercial technology, back in  the day,
+ the Department of Defense used to  be the number one buyer
+ of technology out there.  and could really drive the market.
+ With the advent of consumer  technology, it is just not the case.
+ The US government does not have the  ability
+ to move markets with its purchasing  power in this way.
+ So we can try to regulate, 
+ we can try to influence and set an  example.
+ Part of the hope is 
+ that through what we purchase, 
+ whether it is hardware or software 
+, 
+ that if we require 
+ for example 
+ Microsoft to create more security  in Windows 10,
+ Microsoft is not going to create  two versions of Windows 10.
+ It is going to be one version that  they sell to everybody.
+ So if we can through federal  procurement abilities
+ require major technology providers  to sell secure products to us, 
+ then it goes like that for  everybody else.
+ But these are questions and the  economics are always going to be 
+there as a pressure.  So education and understanding of 
+the pitfalls 
+, security by design is part of it. 
+ It is a hard problem. 
+ 
+ Thank you for coming and talking  with us today, it was extreme 
+interesting.  I was wondering if you could talk
+ a little bit about autonomous  weapons systems.
+ Sorry, I wrote a thesis about this  so it is all I'm talking about these 
+days.  And like
+ whether or not the US 
+ is planning on integrating it, I  know the military is already 
+integrating a lot of AI into its  workforce and current missions,
+
+ Huge.  And these are not new problems.
+ We've had lots of sci-fi over the  decades
+ where if you turn the machines on  and just let them go,
+ that things will happen. 
+ And policymakers in the Department  of defence understand that.
+ There is a very mindful 
+ introduction of new technologies. 
+ Of course, 
+ there is always the pressure to  want to do your mission
+ better or more efficiently 
+ and technology can certainly help  with that.
+ There are certainly downsides,  negative externalities, to that as 
+well.  I think what you see over the years
+ is kind of a push \'96 pull cycle of  hey, look at this great new thing
+ so let's try it out and then you  start to experience some of the 
+negative effects.  There is a pullback. I think because 
+the pace of technological innovation  is just so fast,
+ you are going to see these kinds of  innovations
+ introduced before all of the  downsides have been
+ thoroughly thought through. 
+ We are just going to be stuck in  that cycle
+ so I think the introduction 
+ of drones and autonomous vehicles, 
+ not a new issue. 
+ Doctrine in this area is still  emerging and isn't settled,
+ that it gets better through  experience.
+ So I don't think that there is 
+ a point in time where 
+ there is a final answer on this. 
+ And of course, 
+ there is always 
+ new innovative uses of technology 
+ like bad innovative uses that can  happen.
+ So most of the time when new  innovation is introduced,
+ everyone is looking at the upside 
+ of how this is going to make our  mission better and be more efficient.
+ They are not front and centre with  what the downsides are
+ so I think that tension continues. 
+ 
+ Yeah, and part of that tension 
+ is who is going to do it first? 
+ And if someone else does it 
+ then, we have to hurry! 
+ Any more questions? 
+ I have some if you do not. 
+ You mentioned earlier on 
+ we already talked about days of 
+ -- data poisoning, 
+ we try really hard to protect  systems with intrusion direction
+ all kinds of other things. 
+ How good of a job do you think we  are doing in protecting the 
+integrity of our systems?  And by that I mean if a data item is 
+change, whether it is training AI or  a database, would we notice?
+ 
+ I think the sad answer is not good. 
+ If you think about the classic,  three-pronged
+ item for cyber security., 
+ availability 
+ was kind of first out of the gate. 
+ Or sorry, 
+ confidentiality and protecting  systems
+ has kind of been first out of the  gate.
+ Availability, 
+ make sure everything is on 24/7 
+ but the integrity peace 
+ has been a lagging 
+ area of focus. 
+ And as you say, 
+ it is not simply 
+ a matter of who is poisoning our  data sets
+ but who is changing data 
+ in situ and would you know? 
+ Would you know if the bad guys got  in
+ and did not steal your data, 
+ did not locking in a ransom where  kind of way,
+ but just changed a few key 
+ elements of data 
+ that would have downstream impacts  on systems.
+ I don't think we have had enough  focus
+ on that. 
+ Unfortunately, the focus tends to  be fairly reactive.
+ Once the bad guys start innovating  with doing bad things against 
+integrity, then we start reacting  with more.
+ I am not aware 
+, I am just thinking through 
+ that there are lots of places in  the US government where we are doing
+ lots of research 
+ and I am mentally spending through  what I know that (unknown term) is 
+working on... 
+ And I am not aware of a large  research project
+ that is focused on data integrity. 
+ I know we did a push on this 
+ a couple of years ago at OD and I 
+ and it didn't really proliferate  out.
+ This is an area ripe 
+ for bad guy innovation,  unfortunately.
+ 
+ And of course on the push for 5G, 
+ moved to the cloud to the edge. 
+ Nothing in between the edge 
+ and well, OK, 
+ Kyle, your turn. 
+ 
+ My question was sort of similar, 
+ I was wondering when you were  talking about
+ how adversaries 
+ might influence training data 
+ and I guess I was wondering 
+ if that is more of a theoretical,  hypothetical thing.
+ It seems like you had either have  to have
+ some insider access or something  like solar winds,
+ where you can achieve that 
+ through some other mechanism. 
+ It is pretty difficult to detect 
+ when it happens 
+ but are you aware of a typical  mechanism for that
+ and are there any systems 
+ that could somehow automatically 
+ detect 
+ anything in trading data? 
+ 
+ I am aware of research efforts to  try and improve that kind of
+ connection. 
+ In terms of are we seeing this used  in the wild,
+ which I think was the first part of  your question.
+ The answer is no, not yet. 
+ But again, 
+ why the focus is on the supply  chain security
+ is because we are not building all  of that stuff here.
+ Other countries tend to be 
+ more forward in terms of innovating 
+ and everyone is buying from other  countries
+,. 
+ Not to put a finger on this or that 
+ but people who are not necessarily  trustworthy
+ in China or Eastern Europe and  other places,
+ or subjects where the influence of  adversarial
+ or in governments, 
+ we are getting the stuff from all  over the place.
+ We know from academic research that  malicious things can be done
+ and that they are difficult, if not  impossible, to detect.
+ It could easily occur 
+ because all of this is happening  offshore.
+ 
+ I was wondering about 
+ when you talked about how  individuals
+ will trade convenience for security  most of the time.
+ Do you think that is something that  the government could step in
+ and kind of vague legislation  about, kind of like wearing a 
+seatbelt? 
+ 
+ We don't necessarily want to live  in a big brother place,
+ we value individual decisions and  freedoms.
+ It is really 
+, the only answer is training and  awareness.
+ There is really not that much 
+ that we can do. 
+ We could try to influence products 
+ to make them more secure. 
+ Like the developing of commercial  products
+ to ensure that 
+ in our connected world, 
+ that those new devices 
+ have some security built in. 
+ In fact, 
+ the executive order that just  dropped last week
+ talks about creating 
+ a commercial product designation 
+ indicating that the software is  secure in that product.
+ I really not sure how we are going  to do that because there are so many 
+products.  Being able to influence all of them 
+is hard but as more and more devices 
+ compute power in the hands of  consumers,
+ the strategic point of focus for us 
+ is on the manufacturers of those  devices.
+ Seatbelts, the challenge was  seatbelts
+ and I don't know if you are old  enough to remember that there was a 
+point in time I think in the 90s  where the government tried to 
+mandate seatbelts that would  automatically come across and I just 
+did not work out.  You still have to pull the seatbelt 
+on as the consumer now, there is no  way to get around that. And that 
+analog carries into the technology  world. Even as we build devices that 
+are more secure and you are seeing  may be more proliferation of 
+mandated multi to factor  authentication, maybe Dartmouth has 
+that.  If you want to log into your 
+account, you have to have a code on  your cell phone
+ or something that creates that  multifactor authentication.
+ So some of those security choices 
+ are being gradually removed from you 
+ but they're always going to be ways  to evade that.
+ Everybody wants convenience, it is  compelling.
+ Everybody wants to log into a new  website with my Facebook account, 
+with my Google login, sure! 
+ I want that convenience, I wanted  to remember my password too.
+ There is no way to influence those  individuals
+ decisions really.! 
+ 
+ Any more questions? 
+ You don't have any opportunities  like this but if you have one, stand 
+up. 
+ My question is that we have always  heard that there are
+ a million job openings or  opportunities for cybersecurity 
+people, and this is not a  cybersecurity course,
+ it sure sounds like a combination  of the two
+ would be a fantastic package. 
+ For someone looking for  opportunities,
+ both in the government and outside. 
+
+ Absolutely. 
+ As a cybersecurity person, 
+ my tagline is always that  cybersecurity is for everybody.
+... 
+ Everything is influenced by  technology.
+ I used to have a tagline that said 
+ about well, maybe not if you're  getting a Master of fine arts
+ but you know, NFT is now a thing." 
+ So even the art world is now  influenced by technology
+ and so you cannot go wrong 
+ taking a basic cybersecurity course, 
+ no matter what your major is. 
+ Because no matter what it is that  you are doing,
+ you're going to have to secure it. 
+ In the job market and security 
+ is enormous. 
+ It is enormous and growing 
+ because it is everything gets more  connected
+ and more integrated, 
+ it has to be secured. 
+ There is quite a number of us who  are old enough
+ to have gone through college 
+ before there were cybersecurity  majors
+ have definitely had to adapt 
+ that learning. 
+ And quite a number of people 
+, I know many who took one 
+ class in college and now that is  the focus of what they do
+ because that is where the demand is  in the employment market.
+ So you cannot go wrong by having a  foundational understanding of this.
+ And again from a mitigation  standpoint,
+ one of the ways that we can be more  secure
+ in the entire ecosystem is to  understand security
+ to get to that security by design  principle.
+ So even if your goal in life 
+ is to just be -- build really cool  things,
+ understanding how security impacts  that
+ is really important 
+ to being able to design those things 
+ in a way that is going to be  structurally, foundational he strong.
+ Superb. 
+ We are out of time 
+ so thank you, thank you, thank you. 
+ Always riveting and enlightening,  and always terrifying.
+ We appreciate that 
+ and as we finish up our term, 
+ we will be talking a little bit more 
+ about this kind of topic - 
+ adversarial AI and autonomous  weapons,
+ maybe (Name) would just give that  talk for me.
+ we appreciate your time 
+. 
+ 
+ While, DOE has a wonderful network  of national laboratories.
+ I think it is the greatest research  capability in the US government
+ just because there are so many of  them.
+ Lots of great opportunities for  those who are technologically 
+inclined.  Look at the national labs.
+ One of our star grads 
+, I think two years ago, 
+ went to (unknown term). 
+ She is a spooky.  (Laughs)
+ Alright folks, 
+ thank you very much. 
+ We will have class again on Friday 
+ to discuss the last two chapters 

@@ -1,0 +1,546 @@
+ And the goal here is.
+ Well, to talk about it.
+ There are no bad ideas.
+ This really is sort of a brainstorming kind of thing opinions are fine, as long as the respectful of each other that sort of thing.
+ And there is no lecture.
+ The main thing is let's try to digest these first two chapters, and you know granted, they were pretty pretty straightforward pretty easy.
+ It gets much more interesting as we go, but we can make this interesting as well.
+ Are there any administrative questions before we get started.
+ slack is working, I think.
+ it's very quiet.
+ Okay, maybe I should send a test announcement.
+ last person to respond get something.
+ I mean I don't think that's necessarily a bad idea.
+ i'm in class, so I actually get that message.
+ beforehand so that's why I think it's a good idea.
+ even better.
+ motivation to do.
+ Alright, so everybody read the.
+ read the book let's let's.
+ i'm going to use something called a mind map.
+ i've been using these since I was in high school, yes, back in the stone tablets right.
+ And it's a way of organizing your thoughts every article I write every paper every class starts in the mind and it's essentially a pretty outline.
+ it's visual it's very easy to update, if you do these live, you can draw pictures all kinds of cool things i'm not going to draw pictures today so, but it can give a sort of a way to capture what we talked about.
+ So let's let's jump into it any initial comments on on the chapter in general or the 3D and, in general, was it was it stuff you already knew.
+ Were there any surprises.
+ You would go.
+ I mean I.
+ I was me know I liked the fact that it talked about prediction, I think that that's it's true that, like we haven't really like developed.
+ Like machines thinking for themselves with prediction has, I mean absolutely exploded.
+ Right like you know I am searching for you know, a class ring on you know one website and suddenly you know i'm doing my.
+ My homework I look up you know where to dictionary.com and, like the sides of ads for the stuff I was just searching for on like a different computer different web browser right so predictions going on, like all the time, it seems around us these days.
+ yep okay.
+ Well, good.
+ I, for me it was like stuff that I was kind of familiar with before, but I thought it was super interesting how they talked about data kind of like it was a currency and linked it all into the economics and like business side of it.
+ yep currency and economics and driving business and so on okay.
+ It will Pope as best as I do okay well i'm good to hear from God.
+ yeah so I thought the economic framing of the issue was really interesting.
+ Because I mean obviously as computer scientists were very focused on the technology we think like Oh, a new technology comes out something that could change the world it's going to but that's not.
+ necessarily the case until there is the bandwidth for it and that's when it becomes cheapest the book says yeah.
+ i'm cheap will means will use more of it, Charles Jen do you have anything to add.
+there.
+ yeah kind of like what everyone else said I thought it was the economic aspect that was really interesting I think a lot of books about Ai will sort of really focus on like the.
+ sort of like moral quandary that can arise and I thought it was interesting maybe just my own bias against economics, but like, of course, in the first two.
+ chapters I didn't really mention anything about being worried about that they were just more about like predicting, how will this affect your business.
+ Yes.
+ very bright and stuff but you know the moral quandary is are there and we'll get there as well, oh yeah I believe Daniels what's up.
+ yeah I mean definitely the idea of cheapness and it kind of going off Trolls talking about the economic aspects, like kind of you know more efficient things tend to be cheaper, I guess, and I guess Ai can really drive down a lot of costs and.
+ You know, we could really you know advanced definitely in that way.
+ Right yeah.
+ And that's one of the reasons is one of our.
+ sort of what we call them.
+ invitation questions.
+ Well, why is it doing some, but what does he mean she makes sense or cheap means will use it more.
+ Like search like the light bulbs everything that he talked about kind of clicked with me go ahead with the name I don't know how to save.
+ The day um.
+ I guess the thing that came up, to my mind was the light analogy.
+ And the author was mentioning how as predicts and get better we will start to use them more but thing that.
+ I was thinking about is how can we ultimately rely on these predictions seem to make complex decisions, I mean.
+ At the end of day, these machines rely on data and we're I don't think every mission is gonna have all the data in the world that's possible so i'm curious to.
+ see what people think that if these machines can one day ultimately replace this isn't making to Sir massive extent, especially for complex scenarios.
+ So, will they replace complex decision making.
+ very good point where there's tons of data, but can we get it in there any thoughts on that before we go on.
+ No, is it going, are they going to make a difference, or they're going to make these decisions.
+ Just just just talk I.
+ already have started, I think, in a criminal justice court system and other places where they selling things on these prediction models to help inform decisions and not make them all together.
+ But I think there's always going to be the risk of and they mentioned this briefly a lot of the data being having in green human bias, or like subtly.
+ Having you know different.
+ unintended maybe biases skews within it's a thing, and never use 100% and I think it should always be used in.
+ to augment human decision in conjunction so have a better decision overall.
+ yeah in fact.
+ One of the biggest the previous CEO of IBM said, Ai stands for.
+ augmented intelligence okay by William did we do yet, but we did.
+ your hands oh yeah I raise my hand again but.
+ This is before me.
+ All right, Daniel go ahead, well, she disappeared.
+ Okay don't you then.
+ I like two points kind of one thing was just like I think the example that struck me the most was thinking about how Amazon like entire business model might change as a result of.
+ Like improvements in Ai prediction technology and like thinking about I think it was just like the scale of thinking about how it honestly might make more sense for them to like send you stuff before you even know that you want it.
+ And like eliminating the whole idea of shopping as even a concept was sort of like revolutionary in just thinking about like.
+ How humans have interacted with each other and like traded for so long and how like.
+ An improvement of I don't even know like what kind of percentage, or like threshold would need to be passed for that to be possible, but how that could like totally revolutionize like.
+ One of the elements that I think has always been kind of like a fabric of human society was really interesting.
+ yeah I really liked those comments.
+ The reducing of human interaction.
+That.
+ we're sort of living that now or.
+ Does it have any of you ever been to a shopping mall.
+ Okay, not many of you, I mean yeah Okay, maybe when you were little those things are disappearing.
+ And with it is disappearing, one of the main ways that teenagers.
+ Social office okay now granted i'm i'm up here in the hamster in the woods, we don't have the mall things that they are losing popularity and what effect does that have on our society and how people interact or the interacting with the street.
+ And I know that eliminating the concept of shopping that's a great okay who's next here.
+ So actually on on done as find about the Amazon business model changing.
+ It sounded really only doing that um there's a reason why for a lot about ox you can get like one day shipping all that, for our shipping.
+ It because they look at an aggregate demand of areas right now and predict that these products will get more and more in certain areas we send them to warehouses Neil those areas already so too small, you really have already made that change.
+ In their business model which is pretty wild.
+ And one other thing I want to mention was, I think, Daniel or someone also mentioned about the data needed declining we make these advancements a Ai technology.
+ I think right now we're in that inflection point where we finally have is a technology, as well as the scale of data which we can dream a deck on.
+ So i'm actually interested what happens in the next five years, because we finally have that skill of data, where we can really train these models on massive massive massive massive data sets.
+ And we can gather those data sets because I mean I will open my room, I know that you're calling everyone I say, and I mean that's how we're going to move forward, even though that's like a massive violation of Pepsi.
+ The alexa is always.
+listening.
+ Okay, but Joseph has contributed yeah go ahead job.
+ I mean.
+ I guess a few quick things first of all Amazon.
+ Whatever it is always.
+ Go ahead.
+ Other Joseph just the two of them.
+ Because there's the Joseph Joseph.
+ Oh i'll let the other ones beat them.
+ Okay, Joseph him why don't you.
+ Go for.
+ Sure, so adding on to it don't ya nabi said they're almost already testing that through their four star stores that Amazon has.
+ Because if you looked at every item that had a four star review and Amazon you'd probably have a warehouse the size of the mall that that stores located so almost to see what items are selling well as a way to see to test is their ship then some model working in the first place.
+ yeah I wasn't aware of that.
+ Four stars was going to look for that, because what are you doing you're going to base it on recommendations that's data.
+ From an interesting source.
+ who's writing that data is it thousands of people.
+ being paid to write reviews.
+ or no, I believe, David is next.
+ Ah hi, I just wanted to say that I was really surprised by how long like how this technology was really being used, because in that in the book, it says.
+ Like Amazon really acquired a patent for like the preemptive.
+ Yes.
+ In 2013 so it's just curious to see what like what the you know achieved by now already i'm sure there's a lot of like you know.
+ Things that they've already discovered that they're probably not sharing with the general population.
+ And then additionally in this book I just felt we're trying to predict what this prediction machines are going to do, and can we just use the same prediction machines to predict what they're competing can query them to see what What were they had and.
+ What their strong suit because it seems that capability is very wide.
+ Excellent point the Meta prediction right Scott.
+ yeah I thought that the focus just kind of on a separate note than that but I thought to the focus on like limiting factors, and this was nice, in the sense that.
+ Like obviously just, broadly speaking, like the limiting limiting factor of time travels that we don't have time travel right, but like.
+ it's what I think is curious about Ai is that we are at a point where the limiting factor is no longer the.
+ The algorithms of self like the pure technology it's become data, which I think we can see.
+ ways to reduce, we can see ways to increase our amount of data pretty clearly so it's like more of an obvious step, like, for instance.
+ I know that people also knowledge as limiting factors and like gas or electric cars were like gas like fundamentally has weight so like it's hard to actually reduce weight.
+ Electricity doesn't have weight now batteries have weight, but batteries don't have a pre determined way like you can know you can always technic like we can see ways in which we can technologically.
+ decrease the weight of batteries more than we can decrease the weight of gas so that's like an interesting now the point being like I think the Ai.
+ limiting factors seems like such a easier one to solve and lot of problems, having their limiting factors so that's like a a beneficial or an optimistic point towards how I kind of an inflection point that just going to go up.
+ You know, let me.
+ I lived through the first Ai winter where everybody was all excited all aflutter is even do my dissertation on it, and then it just kind of went.
+ Because it was all about something called expert systems, and it was a cool idea basically get an expert in the room, and every time he or she tells you.
+ Some of their wisdom, you give them a cookie right, so we just sit there and try to drain them, the problem was.
+ One but they don't always know why they believe or answer questions the way they do is just they used before, so I don't know and to.
+ They may tell you all that they know and you codify it, but we run into the too many eps challenge that the book talks about were just like learning a foreign language you studied French in high school you go to Paris and really let go.
+ and find you can find the train, but if you say it wrong you're asking where's the war, if they don't follow the conversation you've memorized you out a lot and so expert systems kind of fell into the dumpy okay good points Scott.
+ Spencer.
+ Sorry, I was muted yeah kind of going back to that be sort of inflection point.
+ I think in some.
+ Sectors we're past that inflection point, like, for example, social media, you know Facebook has been changing human behavior for at least the past decade in terms of how we interact with devices and phones.
+ You know, through just analyzing how we use them, and you know how do we get people to spend even more time on these websites.
+ All the time collecting data, so they can.
+ Do interesting things with it.
+ Always improving the experience right.
+ There yeah.
+ I reached.
+ i'm going to try to say that.
+ yeah it's Irish Thank you so this is just going back to a final, as mentioned a couple of minutes ago, but just to play the devil's advocate for a minute.
+ So Alex and Google home actually don't listen to everything that we say firstly there's this something or to point out, because I see this because i'm in a class in the fall a couple of students actually did a study on both of these devices in the CS 189 class on which is called splice.
+ And another thing which I feel is important to also remember is that, like despite the mammoth amount of data that's actually available at times we tend to forget that.
+ It may not be so easy to actually make sense of it all like, for example, even if you have all of these terabytes of data, do you actually have distributed machine learning algorithms that can make sense of it.
+ Is it actually really important for some out of date, like location data to be important to some tasks like making sense of it.
+ may be far more complicated than we think it is, and it is easy to get carried away with these discussions, when we feel like order become this eventually while we may not even halfway be that no.
+ yeah it goes to the.
+ To the discussion.
+ Is is is Big Brother a around the corner.
+ we'll talk about that towards the end of the term, we have a guest speaker it's one of my favorite topics as well okay well, did you have another comment or is your hands just stuck there oh there goes Scott.
+Did you yeah.
+ So I did have another comment.
+ Okay, good.
+ yeah one of the things.
+ Someone had previously previously mentioned perhaps like a bias against economics and I think one of the reasons for that, and I think I probably have a bit of that too.
+ Is that economics tends to focus very much on efficiency without regard to like what that efficiencies in service up.
+ So the fact that this book mentioned that like what you know what can this do could this create more inequality and actually.
+ address that question and said we're going to talk about this, I think it's very important because you know people in charge of this like Jeff bezos have more money than God.
+ And that's only going to get worse if the technology gets better, so I think that you know, giving a nod to that sort of issue, I think, is essential because, otherwise, not only are you like.
+ Not only are you.
+ it's it's an incomplete analysis sort of kind of say you're you're missing a necessary dimension of the of the top topic.
+ yeah the indirect social effect on what what one of the things I talked about in the security class regarding social media was Do you realize.
+ This is mostly to fight for those now Do you realize all the stuff that you put out there is not going away.
+ There was a lady who happened to be a lady just run off from a really cool job and she's 30 something and the Internet.
+ Trolls I don't call them found some inappropriate comments she made when she was 17.
+ And she was asked to leave wow I said a lot of things, when I was 17 i'm not grounded, thank God, I didn't have the social social media to take care of them okay so wow look at this look at all this, this is.
+ This is fantastic and it.
+ will all benefit us yeah somebody oh yes Okay, yes, go so yeah.
+ yeah, so I would like to add something like well reading the chapter, I found that, for example, we have prediction machine that can predict, we can use it like.
+ In different applications like health care or predicting whether or something like that, but it fails to predict like.
+ Human JASMINE whenever it comes the question of human judgment, like him, and taking decision or thinking between two options which one is selecting or who Johnny gives priority, it is on.
+ detecting the affecting that.
+ yeah yeah and that's a point that is thoroughly covered later in the book.
+ These systems are coming up in predicting those kinds of things, but at the end of the day when presented with a selection of possible treatments or particular kinds of skin cancer.
+ they're not really up to the task of choosing which one might have the best effect, why do you think that is what does it missing.
+ about more data.
+ There was a case where a lady more having to be a woman and we had this particular cancer and she wanted to treatment and unfortunately she young children, and she was afraid of her hair fell out the kids would freak out a little good.
+ So they the doctor has worked with a cognitive system and came back with the treatment that they never would have even considered.
+ But the cognitive system had read all these drugs have read all these papers about you know women of a certain age, with a particular kind of cancer that particular place in hair loss.
+ And they came up with a they didn't take the number one recommended treatment because it would cause hair loss that number two one was 87% effective and head of hair loss.
+ know what oncologist would actually read about that.
+ Maybe if you're lucky you get good but it's keep up and that's an example of a piece of data that a standard prediction, we should not have who knows who thought when you're fighting cancer with hair loss was going to be a problem.
+ There you go so very good point they don't always have all the data, because we do.
+ And it's a way back to the expert system, I certainly hope.
+ Okay let's let's see what else we got here.
+ This is great stuff we're all going to benefit from this.
+ As one of the kickoff questions I thought it was as Ai changed the way we learn, I mean yeah you could ask alexa answers to your homework but hasn't how's it changed the way you learn is anybody having experienced with either the one that they know of.
+ And to that made a difference positive or negative.
+ because everybody been Facebook.
+know.
+ This isn't this isn't exactly like strictly learning, but I think like a eyes, with regards to social media has changed how people like learn about like.
+ Like current events, and like a lot of like political news gets kind of transmitted through those networks now so it's not like exactly like learning in a traditional academic sense, but I think like in terms of how people like get information about what's going on, like in the world.
+ You could say, like a is definitely played a role kind of in that.
+ yeah yeah and, of course.
+ The whole issue of someone.
+ I don't want to say fake news but inaccurate reporting or different perspectives, because we all have access to all of the news stories in the world, now we all have access to all this data.
+ Is anybody curating it and aiming it at me because i'm into astronomy or like to work at Dartmouth.
+ To be.
+ Yes, yes, regional.
+ visual.
+ yeah original um.
+ yeah that you're you're totally fine I think another good example again non terms of like strict like academic learning, but you know kind of her hobbies and stuff is like content moderating platforms like YouTube.
+ So, for example, like, I feel like I personally like, especially in a quarantine have gotten to like multiple new hobbies just because, like a video is recommended to me and.
+ it's not like there's a clear path, based on my previous history, at least, that I could like mentally drop like why that'd be recommended to me so it's kind of like.
+ it's almost like some people's like lifestyle choices and the things they choose to engage themselves in can be partially or like you know almost wholly influenced by.
+ You know what kind of content is curated for them, you know both on social media platforms and other platforms, such as you do yeah.
+ yeah i'm certainly.
+ A beneficiary of that with the new telescope and some some challenges, just as I sign up for one.
+ forum, then poof here's a recommendation for another one okay over there, I feel like the dog of the squirrel runs.
+ Yes, treehouse.
+ yeah it's a trace them I think i'm pretty obvious example here is language learning so like any like a do a lingo or any similar language learning platform is.
+ Really really relying on advanced nlp behind the scenes to even understand what you're saying and also i'm sure they're implementing ml to actually progress you through lessons and towards like mastery of the language.
+ Right right I learned German way or.
+ Religion and i've always wondered if.
+ There was subliminal training issues there.
+ choice of words was the vocabulary, in fact I learned it ran into that in Spanish, the cause, I started trying to learn, Spanish and.
+ I was learning Castilian Spanish, which is the fancy Spain Spanish.
+ And the person I was talking to you is from Argentina and, in addition to some word sounding differently, he thought I was trying to sound like a highly educated person, because I was using.
+ The Castilian customer.
+ kind of like village in German in northern Germany it's very strict Germany yourself it's not so much a little different so yeah depending on where these things come from and what what their angle is yes, just do a link i'll give you advertisements as well.
+ Okay, I don't know i'll have to try.
+ Charles john how are you.
+ yeah sort of related to Tracy said, I think, language translation translation to is something that predictions really good for, and I think, in particular, I thought of it because.
+ The example that they use sort of in the book of you know, driving self driving cars basically trying to predict a human would do.
+ Like these language translators try to predict what a human translator would do, which is why machine learning like really good to I guess make them better and more efficient.
+ Yes.
+Yes.
+ I know what you mean I was giving a talk in Japan, it was being simultaneously translated.
+ And mean if you've never had a classroom before you probably already realized I like to say funny things occasionally just stir it up and I did that in Japan, and I was wondering what was going to happen to this live translation.
+ doesn't.
+ mean just like one or two seconds after the sort of punch line poem actually.
+ The audience right now I don't know what they translated that to I don't know if puns work in Japan, but something did now did they say.
+ he's trying to make a joke left to be polite or did they actually were they actually even translate I don't know you don't mean in some jokes don't work into the languages and so.
+ yeah like self driving cars.
+ I want to capture that.
+ they're interpreting yeah they were.
+ Trying to.
+ predict Kelly how a person would translate it.
+ got it.
+ because sometimes.
+ You may get the syntax of the language right, but you don't get the idiom.
+ Like i'm losing out here's one Goodman New Orleans a lot of French folks there are at least French derived books, when you put away the groceries you save the groceries.
+ When you go to the grocery store to buy groceries you're going to make groceries if you know French you understand why they say that.
+ But, most people moving towards mean you're gonna make sure it's the it's what you're what you do in your down here okay enough of that Tyler what you go.
+ Oh, my so I was mostly talking, on a point on I guess learning about current events, I guess.
+ i'd like to see how Ai could recommend you information that you'd want to know and also include information that you wouldn't want to know so like it prevent you from forming ECHO chambers, I guess, expanding your worldview.
+ Yes, might not have thought of knowing or wondering about that this brings me to.
+ One I was explaining to my kids.
+ When I was growing up, if I ask a question that asked my dad a question.
+ If we were in the House, most of the time, since none of us had an iPhone he would just pointed the encyclopedias and say go look it up, even if you knew the answer now, there were two points there learn how to look up stuff on your own, but also what you just invite side knowledge.
+ When you look at a dictionary, or you look at an encyclopedia even if it's look appealing.
+ You see things on either side of that word or you see related topics and learning is multiply.
+ you're not just learning how to spell translation you're learning what it means that it can also mean translation in the physical sense but moving something from one side to the other okay that's that's really great morning are we losing that.
+ Maybe the Ai as he is going to focus and tells you really ought to know this too good idea kyle.
+ yeah so kind of like more learning and an occupational sense to use the Amazon example again there's also the potential for example for like if you're a technician working on machines there's lots of sort of informal training that occurs on the job that can be helped by.
+ machine learning and Ai models that understand.
+ Why ways the machines break for in a very sort of specific example ways the machines break and sort of signals that proceed.
+ breakdowns were like in a logistics environment where things break.
+ Pretty regularly like sometimes more than once in our.
+ training people to understand that on sort of a qualitative level what is what are things to look for which is sort of a classic problem with machine learning models that has to be solved, which is that.
+ The the relationship between the inputs and the outputs which would be a recommendation can be opaque sometimes so understanding sort of mechanism there and providing that to sort of people on the job is another potential benefit.
+ do well if you've ever apprenticed it's sort of the expert system problem again I apprenticed in the Body Shop once and after a bumper fell on me about three times.
+ He finally came over and said, you know.
+ that's bad for your health here's how you do it so.
+ Okay Spencer, yes.
+ yeah kind of just going back to like the BAT question about like how it helps with like learning and, unlike an academic setting.
+ there's a professor at Georgia tech who actually implemented a teaching assistant using Ai.
+ And that kind of just goes to show that you may not actually know if you're interacting with a human or a Bot.
+ And the Professor found that most students couldn't tell the difference.
+ yeah now, how do you feel about if you're talking to a Bot, you want to know.
+ me personally, as long as they answer my question right I don't think it's a big deal for me.
+ Okay well that's that's something we'll talk about next week actually when we start learning how to build these.
+ Assistance or these chat bots or whatever you call them.
+ and
+ A lot of studies have gone into these things, and the general result of the you know the cycle people don't mean the crazy people on the psychological cycle psychologist psychologist is that people want to know they're talking to a mission.
+ And i'm not sure if I can remember why I have to go look that up in general it it matters to some people, I don't care i'm like you need to know what color is a giraffe is just just tell me, you know.
+ But that's that's a very interesting one, and the Georgia tech today was fascinated with the sport, of course, like CS 50.
+ which you can imagine there's quite a few questions in there also quite a few repeat questions for turn to turn i've been teaching see us 50 words since 1986 so yeah i've heard all the questions I.
+ Just can't remember the ratio.
+ So this is more of Ai than it is machine learning, but one of the cases where I think it would definitely help is like logistics.
+ And like logistics at scale so, for example, like airplane networks, which have been pretty much the same for a long time, but now let's say with Kobe, for example, where Brazil is it essentially screwed were also happens to be.
+ One of the main places where American Airlines park their planes new to lesser rent.
+ In the whole South American continent, so now with go, it does that change do we have to come up with new optimization problems to establish a new network altogether.
+ And a second like application is just like gambling so, for example, the the Ai that Google came up with to play the game go, I think, a few years ago.
+ Actually, when I was playing the world champion made a wrong move at the start, and everyone basically just got shit scared about what the Ai has just done.
+ And it eventually won and they found out that the move it play and right at the start, opened up a new possibility of strategies that no one had ever figured out before that.
+ So the fact that Ai could open just a new field of study in a game which was essentially completely studied appointed as experts is also something that's really interesting and how it opens up avenues of thinking of you didn't even know avenues of thinking you wanted to explore.
+ That excellent Yes, that was I remember that go getting every people in the room, who said yeah he's a crap.
+ No.
+ You don't understand grasshopper.
+ Okay back to the user.
+ So I guess two things So the first thing is that um I think there is a difference between having like a human, on the other end and Ai.
+ And I think the important here is authority right like if you're answering like commonly asked question you're probably not going to get.
+ Like that as well, and I can do anything for you versus a human, they can probably like connect you to somebody who can make a decision on your behalf, or can like you know change something.
+ And I experienced this a lot, you know if I call about you know something wrong with the standardized test right if I get the system they're not going to help me pretty much in any way they can answer easy question.
+ But if it's a human and they can you know potentially agree schedule something or do something else, and then in terms of like another use for Ai like pretty connected to this classes as Watson health.
+ which it turns out that healthcare is a lot more difficult than people had expected.
+ And it's really, really hard and the data is sort of like that the biggest problem is data is really hard to get for health canada's you should be causing a lot of problems in terms of like applying Ai healthcare.
+ yeah Hippo is one problem.
+ Is the healthcare information Protection Act and as a result of that, when one of my boys turned 16 that was no longer allowed to see his records.
+ until he signed a piece of paper, but as a minor he's not allowed to sign such a piece of paper so until he was 18 but we couldn't see the records.
+ Go figure but you're right data is a huge problem, whose main can data from nebraska be yours to help people in Somalia, certainly, should it well, why not.
+ Well, there are some rules, there are some challenges and if you've trained a device using Member using data from the EU that's the European Union, where they have extremely restrictive privacy laws.
+ Can you use that Ai anywhere outside of it.
+ it's not going to expose you individual person's health problems, but the collective is that sufficiently anonymous de identified all.
+ These are things we have to deal with Rachel.
+ I think kind of related to the problems like Ai and healthcare is that, even if we did have unlimited data available to like make perfect predictions like I don't know if.
+ Patients at least like currently would trust that or the trust, maybe not trust, but want to interact only with machines kind of related back to interacting like knowing whether you're interacting with the.
+ machine or a person like at least like I just can't see like Ai completely replacing human physicians, even if the Ai is so much more is.
+ better at making predictions like diagnosis prognosis whenever like I just, at least in the current age I don't think that I think that it's a perfect like.
+ supplement to the position like they the the Ai comes up with the prediction and the physician delivers it.
+ In a way, that the patient can understand, but, and I think, eventually, like the machine might be able to do that as well, but I think currently like I don't I don't see patients like trusting this or wanting to interact as much of these machines, as compared to human position.
+ Right very well.
+ One area that's actively under assault by Ai is radiology and you know the few interactions i've had with radiological exams.
+ You don't ever ever actually see the person you don't actually meet the radiologist in most cases, just like you don't meet the person who analyzes your blood work, so those might might not be as subject to your point but still.
+ This was an automated procedure well gee did anybody check it.
+ I can just imagine your parents in mind thinking well I don't know I that's you know it's it's it's a machine they play jeopardy right good point.
+ You you.
+ Real that's a real.
+ original.
+ yeah I think i'm not a really interesting point that Rachel made I think kind of going off that it kind of goes with humans kind of irrationally caring about their perceptions of credibility if something.
+ And kind of our ability to like rationally compare two options, especially when options does not have the same kind of track record.
+ Is the same kind of thing where like you know end of the day is out there, like most humans are like more scared to like being a plan to like you know driving a car, you know, like object way it's you know more dangerous to hop on the road, it every day.
+ But, so I think.
+ You know, in terms of the question of like you know where we'll add take off where will not, I think, part of it is just an issue of longevity where credibility is established and is multiplied over time.
+ So I mean, in my opinion, if Ai is proven.
+ As a case study in the situation of augmentation and solidified and shown you know repeatedly that can have you can have success there that I think.
+ That it's acceptance in these kind of industries which rely more on reputation can be established over time, but like right now I don't see us be very realistic.
+ whoops.
+ didn't mean to step in that.
+ reputation.
+ Okay.
+ Thank you, rich region right right don't like to start.
+ I rose a visual.
+ original because it's.
+ yeah astronomy.
+ Like like oh.
+ yeah i'm going off virgil's point, I think that reputation also might start changing as like older generations move on and younger generations who've grown up with like alexa and those like social media, a lot of.
+ people's.
+ opinions about Ai, especially as it's more and more present in our lives might start to shift, and I think they'll be kind of interesting to see.
+ Or if there's like a opposition to it as people like learn how much it affects our lives.
+yeah.
+ that's true like that.
+ My dad never did quite figure out the iPhone.
+ One button, in the middle of the screen that would send me a text okay.
+ All right, thank you.
+ Daniel.
+ yeah i'm going back to a little bit about these points with the health care is, I know that one of the most commonly done.
+ surgeries laparoscopic surgery for like.
+ One of gallbladder disease, I think, is the most is one of the most common surgeries done on camp in the US, and that is increasingly being robot assisted with like and overseeing doctor, but with.
+ You know, Ai robotics assisted procedures going on and it's happening in hospitals, now I think more and more and.
+ People for a surgery that's very have a lot, a lot of data, a lot of experience that goes into it and a lot of kind of information and relatively low low risk I think it's become one of the first I kind of testing.
+ applications of Ai in healthcare, which is kind of cool to read about if anyone's interested.
+ or acceptable need to.
+ prevalence and success rate because.
+ prevalence low risk.
+ And successes.
+ Yes, very true, we had a project at IBM research, called the joint joint project where we're hip replacement surgery you really got to get it right it's a whole lot of geometry stuff and.
+ They use a rudimentary Ai and robot to get the angles, of the drilling and whatever you have to do, precise and that's that's been 20 years but yes, absolutely no more is the doctor saying which, like does it.
+ All that sort of thing David.
+ David you want.
+ To continue on the point about healthcare and I was so used to doing this coffee 19 period to predict the spread of.
+ The disease across the country so in terms of prediction it wasn't really like.
+ predicting or trying to figure out the medication was more like who's going to get sick next, and I think that's a powerful like way that it could continue to be used in the future in terms of you know, knowing when people going to get sick and where they're going to get sick yes.
+ Yes, yes and.
+ it's all about the data right.
+ 20 years ago, then really hard to get all the data, not for.
+ Privacy reasons is because it was written down in various bizarre places informants yeah unstructured data is kind of a big deal don't you.
+ yeah i'm just like on the healthcare kind of point I was going to say like one kind of unintended like consequence or question that sort of comes up when we think about how a I can be used with healthcare is in thinking about like what happens when something goes wrong.
+ Like I know a lot of like doctors or people in the medical profession, who like oftentimes get sued or hospital is getting sued for when things go wrong.
+ So, like one kind of interesting like question is what happens when like machines are making these decisions like informing these decisions.
+ or even like the ones that are actually like executing the surgeries like maybe there's less of a potential for mistakes or maybe like once like if there is a mistake, or like if someone gets injured like.
+ Who takes the blame for it like Is it the doctor or hospital that's using the technology, or is it like a person who made the technology or like how do those kinds of issues get resolved.
+ Yes, this is just a.
+ Massive amplification of the problem we've had as long as there's been software which is you know so and so company made a compiler well I didn't work well i'm going to sue them well, you came okay.
+ warranting software to do what you meant for it to do is is is almost non existent if you ever read the fine print of the end user license agreement that you'll usually see what they say look we don't guarantee the software to do anything.
+ be happy, but now it's it's grandma getting treated by an Ai for skincare now What matters, then what's a big deal.
+ And malpractice, the whole idea of of legal actions surrounding APIs and their us is a huge discussion in fact i'm working with two lawyers.
+ And another geek to start a podcast on a on the law and one of the first things to come up there is issues of insurance malpractice and intellectual property can have a patent.
+ On that later so let's see.
+ Tracy was there, but she went away okay well I believe Scott is next.
+ yeah just on rachel's point a little earlier, but the reputation and just general trust, like our ability to trust Ai I saw an interesting statistic that I think.
+ it's for self driving cars, at least in people won't really be able to trust them are like most people can't trust them until they're about 10 times.
+ safer than human so humans crash every half a million mile so it would have to be every 5 million miles, they would get an asphalt accident which.
+ is obviously at first seem silly because, of course, if they are just as good as humans, it should work, but I think it is an interesting question of.
+ Like when it when a self driving car crashes it's not that like what a human crashes, you have assumed that the human knows what they should have done, they just weren't focusing or they just like something.
+ They know they like fundamentally know how to not crash, but they just like weren't focusing work, whereas in self driving cars crash.
+ They are purely focusing all the time, so when they crash they really fundamentally don't know what to do in that situation which, like.
+ I can understand why it's a lot more comfortable for people to be in a car with someone who would crash 10 times more frequently than the self driving car say but.
+ At least understand that when they are actually focusing they fundamentally know how to drive, whereas the self driving car problem is definitely curious and.
+ It seems logical that it should just be as safe as a human, to be comfortable, but I do see how it's just the fact that always focusing can make a similar to human crash rate a lot less comforting.
+ yep and the.
+ Is it the manufacturer of the car the person who wrote the software for the car.
+ The human and applying the wheel.
+ All the other car.
+hackers.
+ Something else rowan.
+ hey.
+ I didn't know if someone mentioned this point, but I think a really mature if it's a good or bad application, but I think insurance is going to be a pretty interesting use case for Ai.
+ epsilon like so many domains right, it could be related to like healthcare, it could be related to like you know car insurance could be related to like.
+ Like credit and lending, and this is good in the sense that, like right like a are you get like more.
+ You get more information, so you can make more like targeted predictions about a specific like cohort or demographic or segmentation.
+ And this is good because, like you know, maybe if you're like healthy and you like run every day, you should have maybe lower health insurance.
+ But then this can be bad is like what if you're you know you're disabled you're in a wheelchair you're not able to like run or exercise every day, are you allowed to like.
+ Are you like supposed to be punished for something you can control by having a higher insurance premium and it's like crosses over into like you know, politics and things like that, but yeah I think like Ai and insurance is going to be cool.
+ Yet yeah it already is.
+ Yes, it's a it's a big use of prediction, and I mean that's that's how they make money but they predict a young person is going to live a lot longer so they don't have to worry as much okay um.
+ Well, and I think has his hand up again.
+ yeah I mean we've made a lot of discussion of whether or not we should just trust Ai on the face of it, but I think there's elements that we haven't considered.
+ One of the big things is that you know we're talking about Ai is that it's not subject to human error but because these things are created by humans, they are, and when they are even though it seems to be less common.
+ it's much more disastrous let's say we're talking about like self driving cars and now like you know 70% of the United States is all driving and self driving cars.
+ If he disasters release of the next update for the for the system comes out then hundreds and thousands of people could die in a day.
+ So I think it's very important to consider that the fail cases are much bigger and, additionally, the opportunities for bad actors, be the people who are in charge of the systems and don't have people's best interests.
+ interest at heart, or people who are not part of the system, but are manipulating them, such as hackers.
+ The opportunity for them to manipulate the systems and cause significant problems is significantly higher when Ai is in charge of the systems.
+ Yes, updates live updates to test the software is something that happens today.
+ Man I hope they tested.
+ That can certainly be a very interesting situation okay um.
+ let's see who Spencer Spencer with next yes.
+ yeah kind of just like continuing that whole fail failure scenarios.
+ And maybe not as.
+ Obviously catastrophic, but I think something that's a little more insidious would be like flawed data or bias data.
+ You know, having a negative impact because these you know these algorithms are just taking what they see, you know as input and that determines.
+ The decisions they make, and that could have real world impacts for people.
+ Okay.
+ explain that a little bit more want to make sure.
+ um so.
+ Like these algorithms they're human made and the data is collected by humans, so the data can have a bias inherent bias in it.
+ which could impact the predictions that these algorithms come up with.
+ All sorts of places can appear and sometimes you want them to that's the whole point the.
+ loan approval.
+ And I don't mean bias against a particular.
+ gym gender or social group that mean you're trying to make a business like insurance, this is a high risk.
+ organizational high risk of endeavor that they're going to do they're trying to do.
+ flow management in the Suez Canal that's a high risk, so you might be biased against the maritime law firms, you might be biased against.
+ Granting alone in a place but you've already got a bunch of other ones yeah the end the human, you know where this data comes from.
+ But we're going to have to ask our doctors and our banks and whatever okay you're basing this on what.
+ They have to be able to, or they should be able to explain them.
+ Another variation of the bias problem is many machine learning systems and deployed a eyes can't really explain.
+ How the decision is made.
+ it's all based on the data if you don't know what the data was.
+ it's really kind of hard to do is acquire there is a real.
+ Substantial subsidy Is it based on facts that are relevant very, very hard problem, thank you.
+ All right, we got their.
+ Regional.
+ Your hand up.
+ No okay.
+ Sorry, I think I looked it up accident.
+ Okay, and David do you have another comment.
+ monsey.
+ yeah I was gonna say that one thing I found interesting that I found an interesting application for Ai.
+ Was I recently read the I think the UAE and rhonda we're trying to create a full genome trying to find out the full genome, of the populations and to the open to use Ai to kind of do human to kind of understand the genome, the genomes of the population of their populations yeah.
+ and using that like.
+ predict crime to predict people who are likely to get sick.
+yeah.
+ you're predicting crime that's that's kind of on the very edge, but it, it certainly has the possibility to.
+ predict predicting crime.
+ But punishing people who have committed crime.
+ Ah okay so okay.
+ Yes indeed, governments are anxious to receive these things, speaking of governments, I had one that I that occurred to me, the other day, or I read it, I remember.
+ Well tesla's got software and right and it's going to be subject to all kinds of regulations well there's federal regulations or state.
+ there's city or township there's tribal there's all these levels of regulation, a wonder if we're going to face a situation where you drive a Ai enhanced car into a certain.
+ jurisdiction, if you have to allow them.
+ To apply certain towns specific updates.
+I.
+ Really wouldn't want that, but I can imagine the legislators saying this is how we find out who comes to our town, so we can tax them, so we can make sure they don't break the speed limit or if they're driving one of these benson's fancy cars, we should.
+ get a donation from.
+ The US.
+ yeah so I guess a few quick things in terms of the insurance part i've actually worked a lot with Ai insurance.
+ And one of the cool things that they do is it allows an insurance company to scale very large well having very, very few people.
+ So, for example, during the summer lemonade had its ipo went from like a billion to $6 billion.
+ And it's only like 50 people it's like 50 people in a $6 billion company and that's because they're able to get a to make many of the decisions, for example, they're able to use Ai try to figure out which which.
+ So, like let's say you rent your car and you fail insurance claim they use Ai to try to find the false claims.
+ Right, so you know you take a picture and they have an API that you know scans your picture, and you know, does the recognition software tries to figure out like what is the damage and stuff like that.
+ And then they you know match different types of patterns to figure out whether you know it's a it's a correct claim or it's a fraudulent claim.
+ And then they're able to use another API to file all the paperwork can do that, and which allows them to basically you know, do the whole entire process with you know, a team of 10 people, which is pretty amazing.
+ Yes, yes and do.
+ The identifying fraud is one of the standard examples we have.
+ One of the applications Watson loser.
+ And kind of like still keeping with the self driving cars topic something that's interesting is like, no matter how well the software works there's always going to be like some failure condition.
+ So, like engineers have to be so careful that there's nothing that can cause the failure condition like hackers could use a known like condition and might cause a lot of danger to these Ai systems so, even if the software is perfect there's still a huge security concern.
+ Do um.
+ there's been all over the news that people made very minor modifications to a stop sign.
+ Just a little stickers and things and some visual some Ai visual vision systems misinterpreted with the STOP sign is that maybe it's a speed limit sign or a rabbit.
+ So that if you know, as someone said the failure scenarios.
+ scale, just like the insurance company processing can scale as well Irish.
+ yeah I think just on the same topic and, like about cases why the Ai will be rejected, which have little to nothing to do with the Ai in itself and This just goes back to the jurisdiction point that you mentioned.
+ Like, for example, if you're driving a self driving car in a country that has an Anthony has a contested border, like, for example.
+ India and Pakistan continuously argue about certain areas in the not in the not part of the area, so will the Ai be blamed for showing a map that shows that part.
+ As part of India, as opposed to Pakistan or the other way around, when it has nothing to do with the Ai in itself, but it can be a strong reason to reject the I as a whole.
+ So, politics is, I think, a very, very important aspect in all of this, and not just like in this case as well, like if.
+ you're someone who has a very strong hand in like companies that.
+ produce cars that have literally nothing to do with self driving you don't want them to go out of business, if self driving car suddenly becomes a big.
+ So even one failure beat with hackers been in an accident or anything, for that matter, can have catastrophic implications for how we actually perceive it in the future.
+ Absolutely yeah I mean think about some people were afraid of.
+ The Prius.
+ V i've ever been trying to cross the street and weren't paying attention i'm sure none of you ever do that, looking at your phone in a Prius will sneak up on you, because you can't hear it.
+ Well we've adjusted to that short of making the Prius make carson's but are you going to do we have to put a big red sign on self driving cars and watch out, they are here.
+ Who knows, is this an area where accurate position prediction missions would be unwelcome and you were running down the self driving car path, but is there are there other areas that.
+ Accurate prediction missions, but just.
+ Probably not be accepted for very long time.
+ Anybody.
+ going.
+ Oh yeah I was gonna say that yeah I think I as a REACH said, the largest the biggest like the obstacle and like.
+ Adopting a shy learner self driving cars, and I think going to be like the public fear factor.
+ And like like we hear all the time that like oh this tesla crash or killed someone self driving tesla killed someone but we never hear that oh like this.
+ You know this dude who was drunk driving killed someone or like oh this person who's texting, which is actually way more dangerous than drunk or not more data and more prevalent than drunk driving actually.
+ texting driving we we just accept that as commonplace, so I think it's like.
+ This public the public education, maybe it's not as public education, I think, maybe you see like make self driving cars, like extremely sexy right, which is what tesla is trying to do.
+ Like their cars are very beautifully designed, so I think it was similar problem with a nuclear nuclear energy to write.
+ An amazing technology, but you know we first talked destructive capabilities first and like nuclear.
+ The bombing and then you know, and then you know the meltdowns in Fukushima and Three Mile Island.
+ But people look past that and didn't see that Oh, this could actually be used to you know retard climate change and there might be, you know downstream effects that have not hundred nuclear fast enough because of you know, continue to oil and gas production yep.
+ yep and we still want fusion one of these days.
+ Okay let's see well have you have.
+ A question or you or question though we're commented on.
+ I was just going to um I think Spencer mentioned something about biasing of data, this just brought to mind Microsoft, I think, at one point.
+ and created a chat Bot, and within the day they released it, it was just it was just inundated with the racist vitriol from the Internet.
+ And it was it was hurling slurs it was saying all sorts of terrible things um.
+ So I mean we also have to consider the fact that not everyone is going to take this seriously, some people are going to use it as a joke, and then.
+ I you know i'm assuming I guess i'm giving them the benefit of the doubt and assuming that people were doing that, as a joke could also be that just you know the Internet have way more racist than I think it is a, in which case the bias is going to be exaggerated.
+ mm hmm yeah I mean.
+ You have a competitor you just put up a website claiming to offer help with their products and then.
+ You do some interesting responses to your questions, get this all kinds of if you put on your hacker hat result this is way fertile ground here folks this.
+ Is this is why I love Fridays, not only is the beginning of the week, we get to have this discussion.
+ I will distill the the mind map a little bit and then posted out there.
+ Next to the reading this on on the same page with the reading, but I think you'll find just just a little commercial but mind maps.
+ I just think they're, the best thing ever before, just dumping it out of your head and getting it out there, especially in a big discussion like this, so again, thank you very much.
+ i'm 39 people stayed two minutes overtime that's amazing so very good and next week we start talking about Watson conversation manager or assistant.
+ Happily, known as chat bots but it's there's a lot more to it than just hi how are you i'm about what can they do there's there's a lot more to it to make it useful to make it something that companies would be willing to risk their brand on because if you put the IBM brand or the.
+ Amazon brand on the chat Bot it wrong like film just said, like it starts cursing at you are describing you and pleasant terms um that's called brand damage.
+ Nobody wants that Wall Street Journal or a CNN moment so we'll learn how to try to do the right anyway happy weekend stay well and i'll see you on Monday.
