@@ -50,26 +50,18 @@ form {
     border-bottom: 1px solid;
   }
 
-  .textarea {
-    display: block;
+  textarea {
     width: 100%;
-    overflow: hidden;
-    resize: both;
-    min-height: 40px;
-    line-height: 20px;
-    border: 1px solid #ccc;
+    padding: 5px 5px;
+    margin: 8px 0;
+    margin-top: 20px;
     margin-bottom: 20px;
+    display: inline-block;
+    min-height: 5em;
+	max-height: 50vh;
   }
 
-  .textarea[contenteditable]:empty::before {
-    content: "Paste English Lecture Text Here for Paste Input";
-    color: gray;
-    font-size: small;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    float: left;
-    margin-left: 10px;
-    margin-top: 5px;
-  }
+
 
   /* Style the submit button */
 button {

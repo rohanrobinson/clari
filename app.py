@@ -115,9 +115,6 @@ def POS_tagging(text):
     return POSofText
 
 
-
-
-
 @app.route("/")
 def hello():
     return render_template('index.html')
