@@ -55,7 +55,7 @@ def get_summary(text, pct):
 
 
 """
-We referred to the following tutorial for help with summarization preprocessing (lines 63-102). 
+We leveraged the following tutorial for help with summarization preprocessing (lines 63-102). 
 https://developer.ibm.com/technologies/data-science/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
 
 """
