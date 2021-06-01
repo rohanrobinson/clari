@@ -3,40 +3,20 @@ from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from gensim.summarization.summarizer import summarize
 from gensim.summarization import keywords
-# import ibm_boto3
-# from botocore.client import Config
 from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
 import string
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
 from gensim.models import CoherenceModel
-import pyLDAvis
-import pyLDAvis.gensim_models as gensimvis 
 import warnings
 warnings.filterwarnings("ignore")
 import urllib
 import re
-#from bs4 import BeautifulSoup
 import requests
 import nltk
 
-
-"""
-https://developer.ibm.com/technologies/data-science/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
-
-"""
-
-
 app = Flask(__name__)
-
-# The following code contains the credentials for a file in your IBM Cloud Object Storage.
-# You might want to remove those credentials before you share your notebook.
-
-
-
 
 
 # def get_file(filename):
@@ -72,6 +52,13 @@ def get_summary(text, pct):
 #         for string in summary:
 #             summary2 += string + " "   
     return text
+
+
+"""
+We referred to the following tutorial for help with summarization preprocessing (lines 63-102). 
+https://developer.ibm.com/technologies/data-science/patterns/text-summarization-topic-modelling-using-watson-studio-watson-nlu/
+
+"""
 
 def wordCount(arraySentences):
     count = 0
