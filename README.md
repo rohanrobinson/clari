@@ -1,6 +1,6 @@
 # Clari
 ## Helping Everyone Learn, No Matter Where They're From
-Clari provides a service for summarizing and translating class materials into a student's native language from English. Class materials can be preloaded into the service, or students can copy-paste any material of their choice into the summarization and translation engine.
+Clari provides a service for summarizing and translating class materials into a student's native language from English. The service provides a facility for preloading class materials and for students to copy-paste any material of their choice into Clari's summarization and translation engine. 
 
 
 # Installation Instructions
